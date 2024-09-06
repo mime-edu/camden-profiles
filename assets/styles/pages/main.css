@@ -241,15 +241,14 @@
 	z-index: 3;
 	display: flex;
 	flex-direction: column;
-	/* transform: translateY(100vh);
-	transition: transform 0.5s ease; */
+	transform: translateY(100vh);
 }
 
 .filter-overlay._active {
 	animation: slideUp 0.5s ease forwards;
 }
 
-.filter-overlay._hidden {
+.filter-overlay._closed {
 	animation: slideDown 0.5s ease forwards;
 }
 
