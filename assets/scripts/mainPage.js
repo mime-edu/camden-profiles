@@ -1,3 +1,4 @@
+// main page navigation button (change list to map)
 let navButton = document.querySelector(".navigation__button");
 if (navButton) {
 	let mapBlock = document.querySelector(".schools-info__map");
@@ -20,4 +21,36 @@ if (navButton) {
 			navButton.innerHTML = `<img src="./assets/imgs/list-icon.png" alt="" /><span>List</span>    `;
 		}
 	});
+}
+
+// close/open filter overlay
+let openFilterOverlayBtn = document.querySelector(".schools-filter__button");
+if (openFilterOverlayBtn) {
+	openFilterOverlayBtn.addEventListener("click", openFilterOverlay);
+}
+let filterOverlay = document.querySelector(".filter-overlay");
+if (filterOverlay) {
+	let closeButton = filterOverlay.querySelector(".filter-overlay__close");
+	if (closeButton) {
+		closeButton.addEventListener("click", closeFilterOverlay);
+	}
+}
+
+// close filter overlay
+function closeFilterOverlay() {
+	let filterOverlay = document.querySelector(".filter-overlay");
+	if (!filterOverlay) {
+		return;
+	}
+	filterOverlay.classList.add("_hidden");
+}
+// open filter overlay
+function openFilterOverlay() {
+	let filterOverlay = document.querySelector(".filter-overlay");
+	if (!filterOverlay) {
+		return;
+	}
+	if (filterOverlay.classList.contains("_hidden")) {
+		filterOverlay.classList.remove("_hidden");
+	}
 }
