@@ -1,3 +1,9 @@
+import { createTabList, createTab } from "./tabs.js";
+
+let mainPageTabItem = document.querySelector(".hero__tab");
+if (mainPageTabItem) {
+	createTab(mainPageTabItem);
+}
 // main page navigation button (change list to map)
 let navButton = document.querySelector(".navigation__button");
 if (navButton) {

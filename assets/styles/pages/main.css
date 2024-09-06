@@ -37,15 +37,19 @@
 	height: 100%;
 	object-fit: cover;
 }
-.tab__content {
+.hero__tab .tab__content {
 	padding: 0;
 	height: 0;
-	overflow: hidden;
+	opacity: 0;
+	visibility: visible;
+	/* overflow: hidden; */
+	transition: all 0.5s ease;
 }
 
 .hero__tab.active .tab__content {
 	padding-top: 10px;
 	height: auto;
+	opacity: 1;
 }
 .tab__text {
 	line-height: 110%;
