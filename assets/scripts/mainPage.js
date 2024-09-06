@@ -49,6 +49,7 @@ function closeFilterOverlay() {
 		return;
 	}
 	filterOverlay.classList.add("_hidden");
+	filterOverlay.classList.remove("_active");
 }
 // open filter overlay
 function openFilterOverlay() {
@@ -58,5 +59,6 @@ function openFilterOverlay() {
 	}
 	if (filterOverlay.classList.contains("_hidden")) {
 		filterOverlay.classList.remove("_hidden");
+		filterOverlay.classList.add("_active");
 	}
 }
