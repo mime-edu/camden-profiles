@@ -189,6 +189,13 @@
 	flex: 0 0 15px;
 	width: 15px;
 }
+
+/*  map  */
+.schools-info__map iframe {
+	width: 100%;
+	min-height: 480px;
+}
+
 /* -------------nav button-------------- */
 .navigation__button {
 	position: fixed;
