@@ -1,0 +1,54 @@
+.hero-title__block {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 8px;
+}
+
+.hero__title {
+	font-size: 30px;
+}
+
+.hero__address {
+	font-size: 14px;
+	margin-bottom: 8px;
+}
+.hero__description {
+	font-size: 16px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+.hero_share {
+	display: flex;
+	align-items: center;
+	color: #e50059;
+	cursor: pointer;
+}
+
+.hero_share span {
+	font-size: 14px;
+	margin-right: 3px;
+}
+
+.hero_share img {
+	width: 15px;
+	height: 15px;
+}
+.hero__information {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 10px;
+	margin-bottom: 20px;
+	max-width: 270px;
+}
+.hero__information .information__item p {
+	font-size: 14px;
+	font-weight: 400;
+}
+.hero__information .information__item span {
+	font-size: 14px;
+	font-weight: 700;
+	color: #ed6c26;
+}
