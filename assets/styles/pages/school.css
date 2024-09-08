@@ -38,30 +38,32 @@
 .hero__information {
 	display: flex;
 	align-items: center;
-	justify-content: space-between;
-	gap: 10px;
+	gap: 30px;
 	margin-bottom: 20px;
-	max-width: 270px;
+	max-width: 480px;
 }
 .hero__information .information__item p {
 	font-size: 14px;
 	font-weight: 400;
 }
 .hero__information .information__item span {
-	font-size: 14px;
+	font-size: 18px;
 	font-weight: 700;
 	color: #ed6c26;
 }
 
 /* about */
 .about__tabs {
+	margin-bottom: 20px;
 }
 
 .tabs-block__item {
-	/* display: flex; */
-	/* align-items: center; */
 	background-color: #e5e5e5;
 	border-radius: 10px;
+}
+
+.tabs-block__item:not(:last-child) {
+	margin-bottom: 10px;
 }
 
 .tab__top {
@@ -70,8 +72,9 @@
 	justify-content: space-between;
 	gap: 5px;
 	border-radius: 10px;
-	padding: 20px 20px;
+	padding: 20px;
 }
+
 .tab__top .tab__icon {
 	flex: 0 0 18px;
 	height: 30px;
@@ -79,6 +82,7 @@
 	align-items: center;
 	justify-content: center;
 }
+
 .tab__top .tab__title {
 	flex: 1 1 auto;
 	font-size: 18px;
@@ -93,6 +97,7 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	transition: transform 0.5s ease;
 }
 
 .tab__top .tab__close img {
@@ -100,19 +105,23 @@
 }
 
 .tab-content {
-	padding: 0;
-	height: 0;
+	max-height: 0;
 	opacity: 0;
-	visibility: visible;
-	overflow: hidden;
-	transition: all 0.7s ease;
+	visibility: hidden;
+	transition: max-height 0.7s ease, opacity 0.7s ease;
+	padding: 0 20px; /* Устанавливаем паддинги сразу */
 }
 
 .tabs-block__item.active .tab-content {
-	padding: 0px 20px 20px 20px;
-	height: auto;
-	transition: all 0.7s ease;
+	max-height: 500px; /* Устанавливаем максимальную высоту для раскрытия */
 	opacity: 1;
+	visibility: visible;
+	padding-bottom: 20px; /* Добавляем отступ при открытии */
+	transition: max-height 0.7s ease, opacity 0.7s ease;
+}
+
+.tabs-block__item.active .tab__close {
+	transform: rotateZ(-90deg);
 }
 
 .tab-content .tab-content__title {
@@ -124,4 +133,77 @@
 .tab-content .tab-content__text {
 	font-size: 16px;
 	font-weight: 400;
+}
+
+/*  navigation  */
+.navigation {
+	margin-bottom: 30px;
+}
+
+.navigation__title {
+	font-size: 20px;
+	font-weight: 700;
+	color: #ed4d8b;
+	margin-bottom: 20px;
+}
+.navigation__buttons {
+	margin-bottom: 15px;
+}
+.navigation__button {
+	display: flex;
+	align-items: center;
+	background-color: #ed4d8b;
+	padding: 20px 15px;
+	border-radius: 10px;
+	width: 100%;
+	cursor: pointer;
+}
+.navigation__button:not(:last-child) {
+	margin-bottom: 10px;
+}
+.navigation__button .button__icon {
+	flex: 0 0 25px;
+	height: 25px;
+	margin-right: 9px;
+}
+.navigation__button .button__text {
+	flex: 1 1 auto;
+	text-align: start;
+	color: #fff;
+	font-weight: 700;
+	font-size: 16px;
+}
+
+.navigation__button .button__arrow {
+	flex: 0 0 14px;
+	height: 14px;
+	margin-left: 9px;
+}
+.navigation__button .button__arrow img {
+	transform: rotateZ(-90deg);
+}
+
+.navigation__link {
+	display: flex;
+	align-items: center;
+	cursor: pointer;
+}
+.navigation__link img {
+	flex: 0 0 15px;
+	width: 15px;
+	height: 15px;
+	margin-right: 5px;
+}
+.navigation__link a {
+	text-decoration: underline;
+}
+
+.school-page__verification {
+	font-size: 12px;
+	font-weight: 700;
+}
+
+.verification p {
+	font-size: 12px;
+	font-weight: 700;
 }
