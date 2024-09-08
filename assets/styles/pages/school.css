@@ -52,3 +52,76 @@
 	font-weight: 700;
 	color: #ed6c26;
 }
+
+/* about */
+.about__tabs {
+}
+
+.tabs-block__item {
+	/* display: flex; */
+	/* align-items: center; */
+	background-color: #e5e5e5;
+	border-radius: 10px;
+}
+
+.tab__top {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 5px;
+	border-radius: 10px;
+	padding: 20px 20px;
+}
+.tab__top .tab__icon {
+	flex: 0 0 18px;
+	height: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.tab__top .tab__title {
+	flex: 1 1 auto;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.tab__top .tab__close {
+	flex: 0 0 30px;
+	height: 30px;
+	background-color: #000;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.tab__top .tab__close img {
+	width: 10px;
+}
+
+.tab-content {
+	padding: 0;
+	height: 0;
+	opacity: 0;
+	visibility: visible;
+	overflow: hidden;
+	transition: all 0.7s ease;
+}
+
+.tabs-block__item.active .tab-content {
+	padding: 0px 20px 20px 20px;
+	height: auto;
+	transition: all 0.7s ease;
+	opacity: 1;
+}
+
+.tab-content .tab-content__title {
+	font-weight: 700;
+	margin-bottom: 15px;
+	font-size: 16px;
+}
+
+.tab-content .tab-content__text {
+	font-size: 16px;
+	font-weight: 400;
+}
