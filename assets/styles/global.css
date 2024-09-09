@@ -122,6 +122,38 @@ main {
 		/* font-size: calc(0px + 0 * ((100vw - 320px) / (var(--container) - 320))); */
 	}
 }
+
+.link {
+	display: flex;
+	align-items: center;
+	color: #ed4d8b;
+}
+.link span {
+	margin-right: 3px;
+	font-weight: 600;
+}
+.link img {
+	flex: 0 0 15px;
+	width: 15px;
+}
+
+.info-tags__block {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+.info-tag {
+	background-color: #ed4d8b;
+	padding: 10px;
+	border-radius: 10px;
+	color: #fff;
+	padding: 10px 15px;
+	display: flex;
+	align-items: center;
+	max-width: max-content;
+}
+
 button {
 	background-color: inherit;
 	cursor: pointer;
@@ -149,6 +181,20 @@ button {
 	border-radius: 10px;
 }
 
+.go-back-button {
+	display: inline-flex;
+	align-items: center;
+	cursor: pointer;
+	font-size: 14px;
+	color: #ed4d8b;
+	margin-bottom: 30px;
+	font-weight: 600;
+}
+.go-back-button img {
+	margin-right: 2px;
+	width: 10px;
+	height: 10px;
+}
 .button:hover {
 	background-color: var(--textBlue);
 	color: #fff;

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+			rel="stylesheet" />
+		<link rel="stylesheet" href="../assets/styles/global.css" />
+		<link rel="stylesheet" href="../assets/styles/components/header.css" />
+		<link rel="stylesheet" href="../assets/styles/pages/schoolContext.css" />
+
+		<title>Comden</title>
+	</head>
+	<body class="schoolPage">
+		<header>
+			<div class="header__container">
+				<div class="header__content">
+					<div class="logo">
+						<a href="/index.html"><img src="../assets/imgs/logo.png" alt="logo" /></a>
+					</div>
+				</div>
+			</div>
+		</header>
+		<main>
+			<section class="hero">
+				<div class="hero__container">
+					<div class="hero__content">
+						<a href="" class="go-back-button"><img src="../assets/imgs/arrow-back.png" alt="" /><span>Back</span></a>
+						<h1 class="hero__title">School & Community Context</h1>
+						<div class="hero__navigation navigation-hero">
+							<div class="navigation-hero__button active">
+								<img src="../assets/imgs/location.svg" alt="" />
+								<span>Location</span>
+							</div>
+							<div class="navigation-hero__button">
+								<img src="../assets/imgs/corporate.svg" alt="" />
+								<span>Facilities</span>
+							</div>
+							<div class="navigation-hero__button">
+								<img src="../assets/imgs/event_list.svg" alt="" />
+								<span>Activities</span>
+							</div>
+							<div class="navigation-hero__button">
+								<img src="../assets/imgs/add_chart.svg" alt="" />
+								<span>Stats</span>
+							</div>
+							<div class="navigation-hero__button">
+								<img src="../assets/imgs/addmisions.svg" alt="" />
+								<span>Admissions</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="context">
+				<div class="context__container">
+					<div class="context__content">
+						<div class="location">
+							<div class="location__header">
+								<h2>Location</h2>
+								<a class="link" href="/school"
+									><span>View school details</span> <img src="../assets/imgs/arrow-outward.png" alt="arrow"
+								/></a>
+							</div>
+							<p class="location__address">Laystall St, Holborn, London EC1R 4PQ</p>
+							<div class="location__map">
+								<iframe
+									src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1243.0925765114478!2d-0.09896219758077963!3d51.45475690704054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604746be66215%3A0xec64c8e179cb9aee!2sHerne%20Hill%20School!5e0!3m2!1sru!2sua!4v1725605687032!5m2!1sru!2sua"
+									loading="lazy"
+									style="border: 0"
+									referrerpolicy="no-referrer-when-downgrade">
+								</iframe>
+							</div>
+
+							<label for="location-input">Travel times from you</label>
+							<div class="location-input__wrapper">
+								<input type="text" id="location-input" placeholder="SE1 0LH" />
+								<div class="location__input-button">Edit Postcode</div>
+							</div>
+
+							<div class="location__travel-time travel-time">
+								<div class="travel-time__item"><img src="../assets/imgs/car-icon.png" alt="" /><span>24 min</span></div>
+								<div class="travel-time__item">
+									<img src="../assets/imgs/public-transport-icon.png" alt="" /><span>24 min</span>
+								</div>
+								<div class="travel-time__item"><img src="../assets/imgs/walking-icon.png" alt="" /><span>24 min</span></div>
+								<div class="travel-time__item"><img src="../assets/imgs/bike-icon.png" alt="" /><span>24 min</span></div>
+							</div>
+						</div>
+						<div class="facilities">
+							<h2 class="facilities__title">What facilities do we have?</h2>
+							<div class="facilities__block facilities-block info-tags__block">
+								<div class="facilities-block__item info-tag">
+									<img src="../assets/imgs/science.png" alt="" /><span>Science lab</span>
+								</div>
+								<div class="facilities-block__item info-tag">
+									<img src="../assets/imgs/science.png" alt="" /><span>2 playgrounds</span>
+								</div>
+								<div class="facilities-block__item info-tag">
+									<img src="../assets/imgs/science.png" alt="" /><span>Tennis courts</span>
+								</div>
+								<div class="facilities-block__item info-tag">
+									<img src="../assets/imgs/science.png" alt="" /><span>Library</span>
+								</div>
+								<div class="facilities-block__item info-tag">
+									<img src="../assets/imgs/science.png" alt="" /><span>Computer lab</span>
+								</div>
+								<div class="facilities-block__item info-tag">
+									<img src="../assets/imgs/science.png" alt="" /><span>2 cafes</span>
+								</div>
+							</div>
+						</div>
+						<div class="activities">
+							<h2 class="activities__title">What facilities do we have?</h2>
+							<ul class="activities__list">
+								<li>Breakfast club</li>
+								<li>Family learning</li>
+								<li>Sports club</li>
+								<li>Public speaking</li>
+								<li>Duke of Edinburgh</li>
+								<li>Computer club</li>
+								<li>Yoga</li>
+							</ul>
+							<p class="activities__additional">Please <a href="">contact the school</a> for the full list</p>
+						</div>
+					</div>
+				</div>
+			</section>
+		</main>
+	</body>
+</html>

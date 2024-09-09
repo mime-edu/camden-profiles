@@ -76,7 +76,6 @@
 }
 .tab-question__text a {
 	text-decoration: underline;
-	color: var(--textBlue);
 }
 
 /* -------------schools list--------------- */
@@ -191,13 +190,6 @@
 	font-weight: 700;
 	display: flex;
 	align-items: center;
-}
-.school-item__footer a {
-	margin-right: 3px;
-}
-.school-item__footer img {
-	flex: 0 0 15px;
-	width: 15px;
 }
 
 /*  map  */
