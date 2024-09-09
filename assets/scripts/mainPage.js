@@ -61,3 +61,13 @@ function openFilterOverlay() {
 	filterOverlay.classList.remove("_closed");
 	filterOverlay.classList.add("_active");
 }
+
+// overlay age range
+let ageRangeInput = document.querySelector(".age-range-input");
+console.log(ageRangeInput);
+if (ageRangeInput) {
+	ageRangeInput.addEventListener("input", function () {
+		ageRangeInput = document.querySelector(".age-range-input");
+		document.querySelector(".age-range").querySelector(".minValue").innerText = ageRangeInput.value;
+	});
+}
