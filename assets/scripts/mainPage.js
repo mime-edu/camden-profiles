@@ -1,4 +1,4 @@
-import { createTab } from "./tabs.js";
+import { createTab } from "./modules/tabs.js";
 
 let mainPageTabItem = document.querySelector(".hero__tab");
 if (mainPageTabItem) {
