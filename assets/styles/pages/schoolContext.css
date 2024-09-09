@@ -91,6 +91,10 @@
 	border-radius: 15px;
 }
 
+.location__toggler-block {
+	margin-bottom: 20px;
+}
+
 label[for="location-input"] {
 	font-size: 18px;
 	font-weight: 600;
@@ -234,6 +238,10 @@ label[for="location-input"] {
 
 .statistics__title {
 	margin-bottom: 12px;
+}
+
+.statistics__togler-block {
+	margin-bottom: 20px;
 }
 
 .statistics-nav {

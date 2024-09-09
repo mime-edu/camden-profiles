@@ -28,7 +28,7 @@
 			<section class="hero">
 				<div class="hero__container">
 					<div class="hero__content">
-						<a href="" class="go-back-button"><img src="../assets/imgs/arrow-back.png" alt="" /><span>Back</span></a>
+						<a href="/school" class="go-back-button"><img src="../assets/imgs/arrow-back.png" alt="" /><span>Back</span></a>
 						<h1 class="hero__title">School & Community Context</h1>
 						<div class="hero__navigation navigation-hero">
 							<div class="navigation-hero__button active">
@@ -74,7 +74,13 @@
 									referrerpolicy="no-referrer-when-downgrade">
 								</iframe>
 							</div>
-
+							<div class="toggle-switch__block location__toggler-block">
+								<div class="toggle-switch">
+									<input type="checkbox" id="switch1" />
+									<label for="switch1" class="toggle-switch__slider"></label>
+								</div>
+								<p>Show Previous Year Catchment*</p>
+							</div>
 							<label for="location-input">Travel times from you</label>
 							<div class="location-input__wrapper">
 								<input type="text" id="location-input" placeholder="SE1 0LH" />
@@ -128,11 +134,19 @@
 						</div>
 						<div class="statistics">
 							<h2 class="context__title statistics__title">Key statistics about our school</h2>
-							<!-- toggler -->
+
+							<div class="toggle-switch__block statistics__togler-block">
+								<div class="toggle-switch statistics-comparisons-toggler">
+									<input type="checkbox" id="switch2" />
+									<label for="switch2" class="toggle-switch__slider"></label>
+								</div>
+								<p>Show Local Comparisons</p>
+							</div>
+
 							<div class="statistics__navogation statistics-nav">
 								<button class="statistics-nav__item active">Our pupils</button>
-								<button class="statistics-nav__item">Our pupils</button>
-								<button class="statistics-nav__item">Our pupils</button>
+								<button class="statistics-nav__item">Our workforce</button>
+								<button class="statistics-nav__item">Our finances</button>
 							</div>
 							<div class="statistics__block statistics-block">
 								<div class="statistics-block__sector stats-sector">
