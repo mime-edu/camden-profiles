@@ -22,6 +22,7 @@
 	align-items: center;
 	position: relative;
 	padding-bottom: 5px;
+	cursor: pointer;
 }
 .navigation-hero__button.active::before {
 	height: 2px;

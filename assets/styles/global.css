@@ -77,6 +77,10 @@ h1 {
 	line-height: 110%;
 	font-weight: 700;
 }
+h2 {
+	font-size: 20px;
+	font-weight: 700;
+}
 h4 {
 	font-size: 22px;
 	line-height: 110%;
@@ -152,6 +156,11 @@ main {
 	display: flex;
 	align-items: center;
 	max-width: max-content;
+}
+.info-tag img {
+	margin-right: 15px;
+	width: 16px;
+	height: 16px;
 }
 
 button {
