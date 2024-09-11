@@ -7,12 +7,13 @@
 .navigation-hero {
 	display: flex;
 	align-items: center;
-	justify-content: start;
+	justify-content: space-between;
 	margin: 0 auto;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	position: relative;
 	gap: 25px;
+	max-width: 480px;
 }
 
 .navigation-hero__button {
@@ -57,7 +58,10 @@
 
 /* about */
 .about-sector {
-	margin-bottom: 30px;
+	margin-bottom: 20px;
+}
+.about__toggler-block {
+	margin-bottom: 10px;
 }
 .about-sector .about__title {
 	margin-bottom: 10px;
@@ -69,11 +73,27 @@
 .about-sector .about__link {
 	color: #ed4d8b;
 	text-decoration: underline;
-	margin-bottom: 5px;
 	display: inline-block;
 }
+.about__chart:not(:last-child) {
+	margin-bottom: 20px;
+}
+.about__chart h3 {
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 116%;
+	color: #ed4d8b;
+	margin-bottom: 20px;
+}
+.about__chart p {
+	text-decoration: underline;
+	margin-bottom: 20px;
+}
 
-.about-sector .info-tags__block {
-	margin-top: 10px;
-	margin-bottom: 10px;
+.about__chart img {
+	max-width: 480px;
+	max-height: 250px;
+	object-fit: contain;
+	object-position: center;
+	display: block;
 }

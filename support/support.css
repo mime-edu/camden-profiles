@@ -7,12 +7,13 @@
 .navigation-hero {
 	display: flex;
 	align-items: center;
-	justify-content: start;
+	justify-content: space-between;
 	margin: 0 auto;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	position: relative;
 	gap: 25px;
+	max-width: 480px;
 }
 
 .navigation-hero__button {
@@ -60,22 +61,20 @@
 	margin-bottom: 30px;
 }
 .about-sector .about__title {
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
-.about-sector .about__sub-title {
-	margin-bottom: 20px;
+.about-sector .about__text {
+	margin-bottom: 10px;
+	display: inline-block;
 }
-
-.about-subjects__stages {
-	margin-bottom: 20px;
+.about-sector .about__link {
 	color: #ed4d8b;
-	font-weight: 700;
-	font-size: 18px;
-}
-.about-subjects ul:not(:last-child) {
-	margin-bottom: 30px;
+	text-decoration: underline;
+	margin-bottom: 5px;
+	display: inline-block;
 }
 
-.about-subjects ul li {
-	margin-bottom: 4px;
+.about-sector .info-tags__block {
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
