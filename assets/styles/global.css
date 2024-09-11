@@ -77,9 +77,11 @@ h1 {
 	line-height: 110%;
 	font-weight: 700;
 }
-h2 {
+h2,
+h2 * {
 	font-size: 20px;
 	font-weight: 700;
+	line-height: 140%;
 }
 h4 {
 	font-size: 22px;
@@ -90,6 +92,9 @@ p {
 	font-size: 16px;
 	line-height: 110%;
 	font-weight: 400;
+}
+.underlined {
+	text-decoration: underline;
 }
 
 img {
