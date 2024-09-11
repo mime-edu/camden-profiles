@@ -196,6 +196,7 @@ button {
 
 .button-no-bg {
 	text-decoration: underline;
+	color: #000000;
 }
 .button-with-bg {
 	background: #ed4d8b;
