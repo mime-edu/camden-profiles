@@ -77,6 +77,11 @@ h1 {
 	line-height: 110%;
 	font-weight: 700;
 }
+@media (max-width: 375px) {
+	h1 {
+		font-size: 26px;
+	}
+}
 h2,
 h2 * {
 	font-size: 20px;
@@ -223,7 +228,7 @@ button {
 	background-color: rgb(22, 119, 210);
 }
 
-/* slider  */
+/* slider button */
 
 .toggle-switch__block {
 	display: flex;
@@ -277,4 +282,70 @@ input:checked + .toggle-switch__slider {
 
 input:checked + .toggle-switch__slider:before {
 	transform: translateX(24px);
+}
+
+/* page navigation */
+
+.page-navigation {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	max-width: 480px;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	position: relative;
+	gap: 10px;
+}
+
+.page-navigation__button {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	position: relative;
+	padding-bottom: 5px;
+	cursor: pointer;
+}
+.page-navigation__button.active::before {
+	height: 2px;
+	border-radius: 2px;
+	width: 100%;
+	position: absolute;
+	content: "";
+	background-color: #ed4d8b;
+	bottom: 0;
+	left: 0;
+}
+.page-navigation__button.active svg path {
+	fill: #ed4d8b;
+}
+.page-navigation__button.active {
+	color: #ed4d8b;
+}
+
+.page-navigation__button svg {
+	width: 24px;
+	height: 24px;
+	margin-bottom: 5px;
+}
+.page-navigation__button img {
+	width: 24px;
+	height: 24px;
+	margin-bottom: 5px;
+}
+.page-navigation__button span {
+	font-size: 14px;
+	font-weight: 400;
+}
+@media (max-width: 375px) {
+	.page-navigation {
+		gap: 5px;
+	}
+	.page-navigation__button img {
+		width: 20px;
+		height: 20px;
+	}
+	.page-navigation__button span {
+		font-size: 12px;
+	}
 }
