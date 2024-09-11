@@ -4,8 +4,10 @@ export function createTab(tabItem) {
 	tabItem.addEventListener("click", function () {
 		if (tabItem.classList.contains("active")) {
 			tabItem.classList.remove("active");
+			tabItem.classList.add("closed");
 		} else {
 			tabItem.classList.add("active");
+			tabItem.classList.remove("closed");
 		}
 	});
 }

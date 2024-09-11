@@ -108,31 +108,53 @@
 .tabs-block__item {
 	background-color: #e5e5e5;
 	border-radius: 10px;
-	overflow: hidden; /* Добавляем overflow для плавного закрытия */
 }
 
 .tab-content {
-	max-height: 500px; /* Начальное значение, чтобы оно не сжималось слишком быстро */
+	max-height: 0; /* Початкове значення, щоб воно не стискалось занадто швидко */
 	opacity: 0;
 	visibility: hidden;
 	padding: 0 20px;
-	transition: max-height 0.7s ease, opacity 0.7s ease, padding-bottom 0.7s ease; /* Плавный переход для max-height и padding */
 }
-
+.tabs-block__item.active .tab__close {
+	transform: rotateZ(-90deg);
+}
 .tabs-block__item.active .tab-content {
-	max-height: 500px; /* Устанавливаем максимальную высоту для раскрытия */
-	opacity: 1;
-	visibility: visible;
-	padding-bottom: 20px;
-	transition: max-height 0.7s ease, opacity 0.7s ease, padding-bottom 0.7s ease; /* Плавный переход для закрытия */
+	animation: openTab 0.7s ease forwards;
 }
 
-.tabs-block__item:not(.active) .tab-content {
-	max-height: 0;
-	opacity: 0;
-	visibility: hidden;
-	padding-bottom: 0;
-	transition: max-height 0.5s ease, opacity 0.5s ease, padding-bottom 0.5s ease; /* Плавное закрытие */
+.tabs-block__item.closed .tab-content {
+	animation: closeTab 1s ease forwards;
+}
+
+@keyframes openTab {
+	0% {
+		max-height: 0;
+		opacity: 0;
+		padding-bottom: 0;
+	}
+	100% {
+		max-height: 500px;
+		opacity: 1;
+		padding-bottom: 20px;
+		visibility: visible;
+	}
+}
+
+@keyframes closeTab {
+	0% {
+		max-height: 500px;
+		opacity: 1;
+		padding-bottom: 20px;
+	}
+	50% {
+		max-height: 0;
+	}
+	100% {
+		opacity: 0;
+		padding-bottom: 0;
+		overflow: hidden;
+	}
 }
 
 .tab-content .tab-content__title {

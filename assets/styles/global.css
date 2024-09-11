@@ -151,6 +151,7 @@ main {
 	width: 15px;
 }
 
+/*  tags */
 .info-tags__block {
 	display: flex;
 	flex-wrap: wrap;
@@ -172,6 +173,8 @@ main {
 	width: 16px;
 	height: 16px;
 }
+
+/* buttons */
 
 button {
 	background-color: inherit;
@@ -213,19 +216,6 @@ button {
 	margin-right: 2px;
 	width: 10px;
 	height: 10px;
-}
-.button:hover {
-	background-color: var(--textBlue);
-	color: #fff;
-}
-
-.button-blue {
-	background-color: rgba(29, 146, 255, 1);
-	transition: all 0.3s ease;
-	color: #fff;
-}
-.button-blue:hover {
-	background-color: rgb(22, 119, 210);
 }
 
 /* slider button */
