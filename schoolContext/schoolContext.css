@@ -185,17 +185,17 @@ label[for="location-input"] {
 	margin-bottom: 30px;
 }
 
-.statistics-nav__item {
+.statistics-nav__button {
 	font-size: 18px;
 	font-weight: 700;
 	color: #ed4d8a94;
 	position: relative;
 	padding-bottom: 5px;
 }
-.statistics-nav__item.active {
+.statistics-nav__button.active {
 	color: #ed4d8b;
 }
-.statistics-nav__item.active::before {
+.statistics-nav__button.active::before {
 	content: "";
 	position: absolute;
 	bottom: 0;
@@ -230,6 +230,7 @@ label[for="location-input"] {
 	flex-wrap: wrap;
 	row-gap: 5px;
 	column-gap: 10px;
+	transition: all 0.5s ease;
 }
 .stats-sector__comparisons p {
 	display: flex;
