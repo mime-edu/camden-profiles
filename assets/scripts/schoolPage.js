@@ -21,7 +21,7 @@ const swiper = new Swiper(".tab-slider", {
 	grabCursor: true,
 
 	// Show 1 full slide and a part of the next slide
-	slidesPerView: 1.1, // This will show a part of the next slide
+	slidesPerView: 1.1, // Default for screens less than 460px
 	spaceBetween: 10, // Space between slides (in pixels)
 
 	// Enable keyboard navigation
@@ -38,4 +38,17 @@ const swiper = new Swiper(".tab-slider", {
 
 	// Speed of slide transition in milliseconds
 	speed: 600,
+
+	// Breakpoints to adjust slidesPerView based on screen width
+	breakpoints: {
+		// When the width is 460px or more, show 2 slides
+		560: {
+			slidesPerView: 2,
+			spaceBetween: 10,
+		},
+		1024: {
+			slidesPerView: 3,
+			spaceBetween: 10,
+		},
+	},
 });

@@ -194,6 +194,24 @@
 	overflow: hidden;
 	position: relative;
 }
+@media (min-width: 430px) {
+	.tab-slider__slide {
+		min-height: 280px;
+		max-width: 400px;
+	}
+}
+@media (min-width: 430px) {
+	.tab-slider__slide {
+		min-height: 310px;
+		max-width: 470px;
+	}
+}
+@media (min-width: 1024px) {
+	.tab-slider__slide {
+		min-height: 270px;
+		max-width: 470px;
+	}
+}
 .tab-slider__slide img {
 	position: absolute;
 	width: 100%;
