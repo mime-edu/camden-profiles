@@ -12,12 +12,13 @@
 		<link rel="stylesheet" href="../assets/styles/components/header.css" />
 		<link rel="stylesheet" href="../assets/styles/pages/school.css" />
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js" defer></script>
 		<script type="module" src="../assets/scripts/schoolPage.js" defer></script>
 
 		<title>School</title>
 	</head>
-	<body class="schoolPage">
+	<body id="schoolPage" class="schoolPage">
 		<header>
 			<div class="header__container">
 				<div class="header__content">
@@ -32,23 +33,23 @@
 				<div class="hero__container">
 					<div class="hero__content">
 						<div class="hero-title__block">
-							<h1 class="hero__title">Christopher Hatton</h1>
+							<h1 class="hero__title">{{school.schoolName}}</h1>
 							<div class="hero_share"><span>Share</span><img src="../assets/imgs/share.png" alt="" /></div>
 						</div>
-						<p class="hero__address">Laystall St, Holborn, London EC1R 4PQ</p>
-						<p class="hero__description">We want our pupils to become informed, articulate and empowered citizens.</p>
+						<p class="hero__address">{{school.address}} {{school.postCode}}</p>
+						<p class="hero__description">{{school.shortSlogan}}</p>
 						<div class="hero__information">
 							<div class="information__item">
 								<p>Age Range</p>
-								<span>3 - 11</span>
+								<span>{{school.ageRange}}</span>
 							</div>
 							<div class="information__item">
 								<p>School Type</p>
-								<span>Primary</span>
+								<span>{{school.type}}</span>
 							</div>
 							<div class="information__item">
 								<p>Sex</p>
-								<span>Mixed</span>
+								<span>{{school.gender}}</span>
 							</div>
 						</div>
 					</div>
@@ -69,15 +70,8 @@
 									</div>
 								</div>
 								<div class="tab__content tab-content">
-									<h5 class="tab-content__title">We want our pupils to become informed, articulate and empowered citizens.</h5>
-									<p class="tab-content__text">
-										Through our curriculum with its emphasis on the Environment and the Rights of the Child, our innovative
-										pedagogy and the rich opportunities we provide, children develop the knowledge, skills and attitudes to thrive
-										academically and personally. Affectionately known as 'Hattoneers,' our children embody high aspirations,
-										mutual respect, and a commitment to making a positive impact. We are a happy, creative and inclusive school
-										celebrating the rich diversity of our families. We are proud to be a beacon of excellence at the heart of our
-										community.
-									</p>
+									<h5 class="tab-content__title">{{school.descriptionTitle}}</h5>
+									<p class="tab-content__text">{{school.description}}</p>
 								</div>
 							</div>
 							<div class="tabs-block__item tab">

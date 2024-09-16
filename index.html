@@ -11,11 +11,11 @@
 		<link rel="stylesheet" href="./assets/styles/global.css" />
 		<link rel="stylesheet" href="./assets/styles/components/header.css" />
 		<link rel="stylesheet" href="./assets/styles/pages/main.css" />
+		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 		<script type="module" src="./assets/scripts/mainPage.js" defer></script>
-
 		<title>Camden</title>
 	</head>
-	<body class="mainPage">
+	<body id="mainPage" class="mainPage">
 		<header>
 			<div class="header__container">
 				<div class="header__content">
@@ -63,34 +63,35 @@
 							<div class="schools-filter__button"><img src="./assets/imgs/tune.png" alt="tune" /></div>
 						</div>
 						<div class="schools-info__list schools-list">
-							<div class="schools-list_item school-item">
+							<div v-for="school in schools" class="schools-list_item school-item">
 								<div class="school-item__header">
 									<img src="./assets/imgs/school-logo.png" alt="school-logo" />
-									<h4 class="school-item__name">Demo School</h4>
+									<h4 class="school-item__name">{{school.schoolName}}</h4>
 								</div>
-								<p class="school-itemy__description">We want our pupils to become informed, articulate and empowered citizens.</p>
+								<p class="school-itemy__description">{{school.shortSlogan}}</p>
 								<div class="school-item__info-row info-row">
 									<div class="info-row__item">
 										<p>Age Range</p>
-										<span>4-11</span>
+										<span>{{school.ageRange}}</span>
 									</div>
 									<div class="info-row__item">
 										<p>School Type</p>
-										<span>Roman Catholic</span>
+										<span>{{school.type}}</span>
 									</div>
 									<div class="info-row__item">
 										<p>Sex</p>
-										<span>Mixed</span>
+										<span>{{school.gender}}</span>
 									</div>
 								</div>
 
 								<div class="school-item__footer">
-									<a class="link" href="/Camden/school"
-										><span>View school details</span> <img src="./assets/imgs/arrow-outward.png" alt="arrow"
-									/></a>
+									<a class="link" :href="`/school?schoolId=${school.schoolId}`">
+										<span>View school details</span>
+										<img src="./assets/imgs/arrow-outward.png" alt="arrow" />
+									</a>
 								</div>
 							</div>
-							<div class="schools-list_item school-item">
+							<!-- <div class="schools-list_item school-item">
 								<div class="school-item__header">
 									<img src="./assets/imgs/school-logo.png" alt="school-logo" />
 									<h4 class="school-item__name">Demo School</h4>
@@ -170,7 +171,7 @@
 										><span>View school details</span><img src="./assets/imgs/arrow-outward.png" alt="arrow"
 									/></a>
 								</div>
-							</div>
+							</div> -->
 						</div>
 						<div class="schools-info__map _hidden">
 							<iframe
