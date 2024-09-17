@@ -21,7 +21,7 @@
 			<div class="header__container">
 				<div class="header__content">
 					<div class="logo">
-						<a href="/Camden/index.html"><img src="../assets/imgs/logo.png" alt="logo" /></a>
+						<a href="/index.html"><img src="../assets/imgs/logo.png" alt="logo" /></a>
 					</div>
 				</div>
 			</div>
@@ -30,9 +30,7 @@
 			<section class="hero">
 				<div class="hero__container">
 					<div class="hero__content">
-						<a href="/Camden/school" class="go-back-button"
-							><img src="../assets/imgs/arrow-back.png" alt="" /><span>Back</span></a
-						>
+						<a href="/school" class="go-back-button"><img src="../assets/imgs/arrow-back.png" alt="" /><span>Back</span></a>
 						<h1 class="hero__title">Pupil Support & Wellbeing</h1>
 						<div class="hero__navigation page-navigation">
 							<a href="#happiness-sector" class="page-navigation__button active">
@@ -76,20 +74,20 @@
 					<div class="about__content">
 						<div class="about-sector" id="happiness-sector">
 							<h2 class="about__title">How do we ensure your child is safe and happy?</h2>
-							<p class="about__text">{{school.aboutSchool.support.childSafetyAndHappiness}}</p>
+							<p class="about__text">{{school.support.childSafetyAndHappiness}}</p>
 							<a class="about__link" href="">View our annual safeguarding audit statement</a>
 							<a class="about__link" href="">View our pupil wellbeing policy</a>
 						</div>
 						<div class="about-sector" id="bullying-sector">
 							<h2 class="about__title">How do we address bullying?</h2>
-							<p class="about__text">{{school.aboutSchool.support.bullingProtection}}</p>
+							<p class="about__text">{{school.support.bullingProtection}}</p>
 							<a class="about__link" href="">View our behaviour policy</a>
 						</div>
 						<div class="about-sector" id="support-sector">
 							<h2 class="about__title">
 								How do we support children with <span class="underlined">Special educational needs & disabilities (SEND)?</span>
 							</h2>
-							<p class="about__text">{{school.aboutSchool.support.SENDPupilsSupport}}</p>
+							<p class="about__text">{{school.support.SENDPupilsSupport}}</p>
 							<p class="about__text underlined">Specific SEND needs included (>5 pupils)</p>
 							<div class="info-tags__block">
 								<div v-for="SEND in school.statistics.specificSEND" class="info-tag">
@@ -104,7 +102,7 @@
 						</div>
 						<div class="about-sector" id="attendance-sector">
 							<h2 class="about__title">How do we ensure good pupil attendance?</h2>
-							<p class="about__text">{{school.aboutSchool.support.attendanceManagement}}</p>
+							<p class="about__text">{{school.support.attendanceManagement}}</p>
 							<p class="about__text underlined">2022/23 Statistics</p>
 							<div class="info-tags__block">
 								<div class="info-tag"><span>{{school.statistics.absencePercent}}% Absence</span></div>

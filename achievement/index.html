@@ -11,14 +11,16 @@
 		<link rel="stylesheet" href="../assets/styles/global.css" />
 		<link rel="stylesheet" href="../assets/styles/components/header.css" />
 		<link rel="stylesheet" href="../assets/styles/pages/achievement.css" />
+		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+		<script type="module" src="../assets/scripts/achivementPage.js" defer></script>
 		<title>Achievement & Destinations</title>
 	</head>
-	<body class="Curriculum">
+	<body id="achievementPage" class="Achievement">
 		<header>
 			<div class="header__container">
 				<div class="header__content">
 					<div class="logo">
-						<a href="/Camden/index.html"><img src="../assets/imgs/logo.png" alt="logo" /></a>
+						<a href="/index.html"><img src="../assets/imgs/logo.png" alt="logo" /></a>
 					</div>
 				</div>
 			</div>
@@ -27,9 +29,7 @@
 			<section class="hero">
 				<div class="hero__container">
 					<div class="hero__content">
-						<a href="/Camden/school" class="go-back-button"
-							><img src="../assets/imgs/arrow-back.png" alt="" /><span>Back</span></a
-						>
+						<a href="/school" class="go-back-button"><img src="../assets/imgs/arrow-back.png" alt="" /><span>Back</span></a>
 						<h1 class="hero__title">Achievement & Destinations</h1>
 						<div class="hero__navigation page-navigation">
 							<a href="#performance-sector" class="page-navigation__button active">
@@ -82,40 +82,36 @@
 							<h2 class="about__title">How well do pupils perform at our school?</h2>
 							<div class="about__chart">
 								<h3>% Reaching expected standard at end of primary:</h3>
-								<img src="../assets/imgs/chart1.png" alt="" />
+								<img
+									:src="showComparisonsInfo ? school.achievement.chartPupilsPerfomChartLondon : school.achievement.chartPupilsPerfomChartCamden"
+									alt="" />
 							</div>
 							<div class="about__chart">
 								<h3>Progress from age 7 to age 11:</h3>
-								<img src="../assets/imgs/chart2.png" alt="" />
+								<img
+									:src="showComparisonsInfo ? school.achievement.chartPupilsProgressLondon : school.achievement.chartPupilsProgressCamden"
+									alt="" />
 							</div>
 						</div>
 						<div class="about-sector" id="success-sector">
 							<h2 class="about__title">How do we give your child the best chance of academic success?</h2>
-							<p>
-								Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut
-								gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet
-								quis non.
-							</p>
+							<p>{{school.achievement.academicChildSuccess}}</p>
 						</div>
 						<div class="about-sector" id="destinations-sector">
 							<h2 class="about__title">Where do pupils go after they leave our school?</h2>
 							<div class="about__chart">
 								<p>After Key Stage 4</p>
-								<img src="../assets/imgs/chart3.png" alt="" />
+								<img :src="school.achievement.chartPuplsGoAferS4Camden" alt="" />
 							</div>
 							<div class="about__chart">
-								<p>After Key Stage 4</p>
-								<img src="../assets/imgs/chart4.png" alt="" />
+								<p>After Key Stage 5</p>
+								<img :src="school.achievement.chartPuplsGoAferS5Camden" alt="" />
 							</div>
 						</div>
 						<div class="about-sector" id="preparation-sector">
 							<h2 class="about__title">Where do pupils go after they leave our school?</h2>
-							<p class="about__text">
-								Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut
-								gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet
-								quis non.
-							</p>
-							<a class="about__link" href="">View Camden SEND local offer</a>
+							<p class="about__text">{{school.achievement.wherePupilsGoAfter}}</p>
+							<a class="about__link" href="">Link to our careers advice policy</a>
 						</div>
 					</div>
 				</div>

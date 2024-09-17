@@ -20,7 +20,7 @@
 			<div class="header__container">
 				<div class="header__content">
 					<div class="logo">
-						<a href="/Camden/index.html"><img src="../assets/imgs/logo.png" alt="logo" /></a>
+						<a href="/index.html"><img src="../assets/imgs/logo.png" alt="logo" /></a>
 					</div>
 				</div>
 			</div>
@@ -29,9 +29,7 @@
 			<section class="hero">
 				<div class="hero__container">
 					<div class="hero__content">
-						<a href="/Camden/school" class="go-back-button"
-							><img src="../assets/imgs/arrow-back.png" alt="" /><span>Back</span></a
-						>
+						<a href="/school" class="go-back-button"><img src="../assets/imgs/arrow-back.png" alt="" /><span>Back</span></a>
 						<h1 class="hero__title">Curriculum, Teaching & Learning</h1>
 						<div class="hero__navigation page-navigation">
 							<a href="#about-aims" class="page-navigation__button active">
@@ -67,12 +65,12 @@
 					<div class="about__content">
 						<div class="about-sector about-aims" id="about-aims">
 							<h2 class="about__title">What are the aims of our curriculum?</h2>
-							<p>{{school.aboutSchool.curriculum.curriculumAim}}</p>
+							<p>{{school.curriculum.curriculumAim}}</p>
 						</div>
 						<div class="about-sector about-strengths" id="about-strengths">
 							<h2 class="about__title">What are our main curriculum strengths?</h2>
 							<div class="info-tags__block">
-								<div v-for="strengths in school.aboutSchool.curriculum.curriculumStrengths" class="info-tag">
+								<div v-for="strengths in school.curriculum.curriculumStrengths" class="info-tag">
 									<!-- <img src="../assets/imgs/palette.png" alt="" /> -->
 									<span>{{strengths}}</span>
 								</div>
@@ -86,7 +84,7 @@
 							<p class="about-subjects__stages">Key Stage 5</p>
 							<h3 class="about__sub-title">A-Levels in:</h3>
 							<ul>
-								<li v-for="subject in school.aboutSchool.curriculum.topSubjects">{{subject}}</li>
+								<li v-for="subject in school.curriculum.topSubjects">{{subject}}</li>
 								<!-- <li>English literature</li>
 								<li>Maths</li>
 								<li>Biology</li>
@@ -100,7 +98,7 @@
 							</ul>
 							<h3 class="about__sub-title">A-Levels in:</h3>
 							<ul>
-								<li v-for="discipline in school.aboutSchool.curriculum.topDisciplines">{{discipline}}</li>
+								<li v-for="discipline in school.curriculum.topDisciplines">{{discipline}}</li>
 								<!-- <li>Applied Sciences</li>
 								<li>Business Studies</li>
 								<li>Health Studies</li> -->
