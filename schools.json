@@ -23,6 +23,7 @@
 			"Computer club",
 			"Yoga"
 		],
+		"admissionProcess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
 		"statistics": {
 			"pupilsNum": 412,
 			"ethnicGroupsNum": 14,
@@ -31,6 +32,8 @@
 			"BMEPercent": 32,
 			"disadvantagedPupilsPercent": 8,
 			"englishAdditionalLangPercent": 20,
+			"absencePercent": 4.7,
+			"persistentAbsenteesPercent": 12.2,
 			"specificLanguages": ["English", "Dutch", "Chinese", "Polish", "Spanish", "Japanese"],
 			"specificEthnicities": [
 				"White - British",
@@ -56,6 +59,33 @@
 			"pupilAdultRatio": 21.5,
 			"financialReserves": 10.234,
 			"changeYearReserves": 12.234
+		},
+		"aboutSchool": {
+			"curriculum": {
+				"curriculumAim": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
+				"curriculumStrengths": ["Creativity", "Sport", "Sciences"],
+				"topSubjects": [
+					"English literature",
+					"Maths",
+					"Biology",
+					"Chemistry",
+					"Physics",
+					"Dance",
+					"Drama",
+					"Computer Science",
+					"French",
+					"Italian"
+				],
+				"topDisciplines": ["Applied Sciences", "Business Studies", "Health Studies"],
+				"strengths": ["Creativity", "Sports", "Sciences"]
+			},
+			"support": {
+				"childSafetyAndHappiness": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum.",
+				"bullingProtection": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
+				"SENDPupilsSupport": "15% of our pupils have SEND (3% with an Education Health and Care Plan & 12% on SEN Support). We provide lorem ipsum dolor sit amet consectetur.",
+				"attendanceManagement": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
+			},
+			"achievement": {}
 		}
 	},
 	{

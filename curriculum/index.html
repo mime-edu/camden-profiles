@@ -11,10 +11,11 @@
 		<link rel="stylesheet" href="../assets/styles/global.css" />
 		<link rel="stylesheet" href="../assets/styles/components/header.css" />
 		<link rel="stylesheet" href="../assets/styles/pages/curriculum.css" />
-
-		<title>About school</title>
+		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+		<script type="module" src="../assets/scripts/curriculumPage.js" defer></script>
+		<title>Curriculum, Teaching & Learning</title>
 	</head>
-	<body class="Curriculum">
+	<body id="curriculumPage" class="Curriculum">
 		<header>
 			<div class="header__container">
 				<div class="header__content">
@@ -31,7 +32,7 @@
 						<a href="/Camden/school" class="go-back-button"
 							><img src="../assets/imgs/arrow-back.png" alt="" /><span>Back</span></a
 						>
-						<h1 class="hero__title">School & Community Context</h1>
+						<h1 class="hero__title">Curriculum, Teaching & Learning</h1>
 						<div class="hero__navigation page-navigation">
 							<a href="#about-aims" class="page-navigation__button active">
 								<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -66,18 +67,18 @@
 					<div class="about__content">
 						<div class="about-sector about-aims" id="about-aims">
 							<h2 class="about__title">What are the aims of our curriculum?</h2>
-							<p>
-								Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut
-								gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet
-								quis non.
-							</p>
+							<p>{{school.aboutSchool.curriculum.curriculumAim}}</p>
 						</div>
 						<div class="about-sector about-strengths" id="about-strengths">
 							<h2 class="about__title">What are our main curriculum strengths?</h2>
 							<div class="info-tags__block">
-								<div class="info-tag"><img src="../assets/imgs/palette.png" alt="" /><span>Creativity</span></div>
+								<div v-for="strengths in school.aboutSchool.curriculum.curriculumStrengths" class="info-tag">
+									<!-- <img src="../assets/imgs/palette.png" alt="" /> -->
+									<span>{{strengths}}</span>
+								</div>
+								<!-- <div class="info-tag"><img src="../assets/imgs/palette.png" alt="" /><span>Creativity</span></div>
 								<div class="info-tag"><img src="../assets/imgs/basketball.png" alt="" /><span>Sports</span></div>
-								<div class="info-tag"><img src="../assets/imgs/science.png" alt="" /><span>Sciences</span></div>
+								<div class="info-tag"><img src="../assets/imgs/science.png" alt="" /><span>Sciences</span></div> -->
 							</div>
 						</div>
 						<div class="about-sector about-subjects" id="about-subjects">
@@ -85,7 +86,8 @@
 							<p class="about-subjects__stages">Key Stage 5</p>
 							<h3 class="about__sub-title">A-Levels in:</h3>
 							<ul>
-								<li>English literature</li>
+								<li v-for="subject in school.aboutSchool.curriculum.topSubjects">{{subject}}</li>
+								<!-- <li>English literature</li>
 								<li>Maths</li>
 								<li>Biology</li>
 								<li>Chemistry</li>
@@ -94,13 +96,14 @@
 								<li>Drama</li>
 								<li>Computer Science</li>
 								<li>French</li>
-								<li>Italian</li>
+								<li>Italian</li> -->
 							</ul>
 							<h3 class="about__sub-title">A-Levels in:</h3>
 							<ul>
-								<li>Applied Sciences</li>
+								<li v-for="discipline in school.aboutSchool.curriculum.topDisciplines">{{discipline}}</li>
+								<!-- <li>Applied Sciences</li>
 								<li>Business Studies</li>
-								<li>Health Studies</li>
+								<li>Health Studies</li> -->
 							</ul>
 						</div>
 					</div>

@@ -13,7 +13,7 @@
 		<link rel="stylesheet" href="../assets/styles/pages/schoolContext.css" />
 		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 		<script src="../assets/scripts/schoolContext.js" defer></script>
-		<title>About school</title>
+		<title>School & Community Context</title>
 	</head>
 	<body id="schoolContext" class="schoolPage">
 		<header>
@@ -183,7 +183,7 @@
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">Pupil numbers</p>
 									<p class="stats-sector__description">{{school.statistics.pupilsNum}}</p>
-									<div class="stats-sector__comparisons _hidden">
+									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>354</span></p>
 										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>324</span></p>
 									</div>
@@ -191,7 +191,7 @@
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">% Disadvantaged pupils</p>
 									<p class="stats-sector__description">{{school.statistics.disadvantagedPupilsPercent}}%</p>
-									<div class="stats-sector__comparisons _hidden">
+									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>23%</span></p>
 										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>27%</span></p>
 									</div>
@@ -199,7 +199,7 @@
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">% English as an additional language</p>
 									<p class="stats-sector__description">{{school.statistics.englishAdditionalLangPercent}}%</p>
-									<div class="stats-sector__comparisons _hidden">
+									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>25</span></p>
 										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>32</span></p>
 									</div>
@@ -219,7 +219,7 @@
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">% BME</p>
 									<p class="stats-sector__description">{{school.statistics.BMEPercent}}%</p>
-									<div class="stats-sector__comparisons _hidden">
+									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>35%</span></p>
 										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>40%</span></p>
 									</div>
@@ -247,7 +247,7 @@
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">Special Educational Needs & Disabilities (SEND)</p>
 									<p class="stats-sector__description">{{school.statistics.SENDPercent}}%</p>
-									<div class="stats-sector__comparisons _hidden">
+									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>9%</span></p>
 										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>16%</span></p>
 									</div>
@@ -273,7 +273,7 @@
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">Pupil adult ratio</p>
 									<p class="stats-sector__description">{{school.statistics.pupilAdultRatio}}</p>
-									<div class="stats-sector__comparisons _hidden">
+									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>354</span></p>
 										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>324</span></p>
 									</div>
@@ -281,7 +281,7 @@
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">% of teachers with Qualified Teacher Status</p>
 									<p class="stats-sector__description">{{school.statistics.qualifiedTeachersPercent}}</p>
-									<div class="stats-sector__comparisons _hidden">
+									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>23%</span></p>
 										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>27%</span></p>
 									</div>
@@ -291,7 +291,7 @@
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">Financial reserves</p>
 									<p class="stats-sector__description">£{{school.statistics.financialReserves}}</p>
-									<div class="stats-sector__comparisons _hidden">
+									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>354</span></p>
 										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>324</span></p>
 									</div>
@@ -299,7 +299,7 @@
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">Change in reserves in last 12 months</p>
 									<p class="stats-sector__description">-£{{school.statistics.changeYearReserves}}</p>
-									<div class="stats-sector__comparisons _hidden">
+									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>23%</span></p>
 										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>27%</span></p>
 									</div>
@@ -308,11 +308,7 @@
 						</div>
 						<div class="admissions-process" id="admissions-sector">
 							<h2 class="context__title">What is the admissions process for our school?</h2>
-							<p>
-								Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut
-								gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet
-								quis non.
-							</p>
+							<p>{{school.admissionProcess}}</p>
 							<a href="">View Camden admissions website</a>
 						</div>
 					</div>

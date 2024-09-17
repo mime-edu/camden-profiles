@@ -9,27 +9,23 @@ document.addEventListener("DOMContentLoaded", async function () {
 			return el.schoolId == schoolId;
 		})
 	);
+	let showComparisonsInfo = ref(false);
 	let currentInfoBlock = ref(1);
 	createApp({
 		setup() {
-			return { school, currentInfoBlock: currentInfoBlock };
+			return { school, currentInfoBlock: currentInfoBlock, showComparisonsInfo };
 		},
 	}).mount("#schoolContext");
 
 	// page functions
 
 	const checkbox = document.querySelector("#switch2");
-	const comparisonsItems = document.querySelectorAll(".stats-sector__comparisons");
 
 	checkbox.addEventListener("change", function () {
 		if (checkbox.checked) {
-			for (const item of comparisonsItems) {
-				item.classList.remove("_hidden");
-			}
+			showComparisonsInfo.value = true;
 		} else {
-			for (const item of comparisonsItems) {
-				item.classList.add("_hidden");
-			}
+			showComparisonsInfo.value = false;
 		}
 	});
 

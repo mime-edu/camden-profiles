@@ -11,10 +11,12 @@
 		<link rel="stylesheet" href="../assets/styles/global.css" />
 		<link rel="stylesheet" href="../assets/styles/components/header.css" />
 		<link rel="stylesheet" href="../assets/styles/pages/support.css" />
+		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+		<script type="module" src="./../assets/scripts/supportPage.js" defer></script>
 
-		<title>School support</title>
+		<title>Pupil Support & Wellbeing</title>
 	</head>
-	<body class="Curriculum">
+	<body id="supportPage" class="Curriculum">
 		<header>
 			<div class="header__container">
 				<div class="header__content">
@@ -74,50 +76,39 @@
 					<div class="about__content">
 						<div class="about-sector" id="happiness-sector">
 							<h2 class="about__title">How do we ensure your child is safe and happy?</h2>
-							<p class="about__text">
-								Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut
-								gravida. Id ac tellus pulvinar ante cras fermentum.
-							</p>
+							<p class="about__text">{{school.aboutSchool.support.childSafetyAndHappiness}}</p>
 							<a class="about__link" href="">View our annual safeguarding audit statement</a>
 							<a class="about__link" href="">View our pupil wellbeing policy</a>
 						</div>
 						<div class="about-sector" id="bullying-sector">
 							<h2 class="about__title">How do we address bullying?</h2>
-							<p class="about__text">
-								Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut
-								gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet
-								quis non.
-							</p>
+							<p class="about__text">{{school.aboutSchool.support.bullingProtection}}</p>
 							<a class="about__link" href="">View our behaviour policy</a>
 						</div>
 						<div class="about-sector" id="support-sector">
 							<h2 class="about__title">
 								How do we support children with <span class="underlined">Special educational needs & disabilities (SEND)?</span>
 							</h2>
-							<p class="about__text">
-								15% of our pupils have SEND (3% with an Education Health and Care Plan & 12% on SEN Support). We provide lorem
-								ipsum dolor sit amet consectetur.
-							</p>
+							<p class="about__text">{{school.aboutSchool.support.SENDPupilsSupport}}</p>
 							<p class="about__text underlined">Specific SEND needs included (>5 pupils)</p>
 							<div class="info-tags__block">
-								<div class="info-tag"><span>Social, Emotional and Mental Health</span></div>
-								<div class="info-tag"><span>Hearing Impairment</span></div>
-								<div class="info-tag"><span>Visual Impairment</span></div>
-								<div class="info-tag"><span>Moderate Learning Difficulty</span></div>
+								<div v-for="SEND in school.statistics.specificSEND" class="info-tag">
+									<span>{{SEND}}</span>
+								</div>
+								<!-- <div class="info-tag"><span>Social, Emotional and Mental Health</span></div> -->
+								<!-- <div class="info-tag"><span>Hearing Impairment</span></div> -->
+								<!-- <div class="info-tag"><span>Visual Impairment</span></div> -->
+								<!-- <div class="info-tag"><span>Moderate Learning Difficulty</span></div> -->
 							</div>
 							<a class="about__link" href="">View Camden SEND local offer</a>
 						</div>
 						<div class="about-sector" id="attendance-sector">
 							<h2 class="about__title">How do we ensure good pupil attendance?</h2>
-							<p class="about__text">
-								Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut
-								gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet
-								quis non.
-							</p>
+							<p class="about__text">{{school.aboutSchool.support.attendanceManagement}}</p>
 							<p class="about__text underlined">2022/23 Statistics</p>
 							<div class="info-tags__block">
-								<div class="info-tag"><span>4.7% Absence</span></div>
-								<div class="info-tag"><span>12.2% Persistent absentees</span></div>
+								<div class="info-tag"><span>{{school.statistics.absencePercent}}% Absence</span></div>
+								<div class="info-tag"><span>{{school.statistics.persistentAbsenteesPercent}}% Persistent absentees</span></div>
 							</div>
 						</div>
 					</div>
