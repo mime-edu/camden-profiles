@@ -1,6 +1,7 @@
 const { createApp, ref } = Vue;
 document.addEventListener("DOMContentLoaded", async function () {
 	const response = await fetch("./../schools.json");
+
 	let schools = await response.json();
 	const urlParams = new URLSearchParams(window.location.search);
 

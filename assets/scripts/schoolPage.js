@@ -2,16 +2,10 @@ import { createTab } from "./modules/tabs.js";
 const { createApp, ref } = Vue;
 
 document.addEventListener("DOMContentLoaded", async function () {
-	const response = await fetch("/Camden/schools.json");
+	const response = await fetch("./../schools.json");
+
 	let schools = await response.json();
-
-	const urlParams = new URLSearchParams(window.location.search);
-
-	let schoolId = urlParams.get("schoolId");
-	if (!schoolId) {
-		schoolId = 0;
-	}
-
+	let schoolId = 1;
 	let school = ref(
 		schools.find((el) => {
 			return el.schoolId == schoolId;
