@@ -232,7 +232,6 @@
 	z-index: 2;
 }
 .schools-info__map._hidden {
-	height: 0;
 	min-height: 0;
 }
 

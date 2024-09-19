@@ -37,6 +37,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 				mapBlock.classList.remove("_hidden");
 				listBlock.classList.add("_hidden");
 				navButton.innerHTML = `<img src="./assets/imgs/list-icon.png" alt="" /><span>List</span>`;
+				drawMap(staticSchools);
 			}
 		});
 	}
@@ -68,7 +69,42 @@ document.addEventListener("DOMContentLoaded", async function () {
 			document.querySelector(".age-range .minValue").innerText = ageRangeInput.value;
 		});
 	}
+});
 
+// Close filter overlay function
+function closeFilterOverlay() {
+	let filterOverlay = document.querySelector(".filter-overlay");
+	if (!filterOverlay) {
+		return;
+	}
+	filterOverlay.classList.remove("_active");
+	filterOverlay.classList.add("_closed");
+}
+
+// Open filter overlay function
+function openFilterOverlay() {
+	let filterOverlay = document.querySelector(".filter-overlay");
+	if (!filterOverlay) {
+		return;
+	}
+	filterOverlay.classList.remove("_closed");
+	filterOverlay.classList.add("_active");
+}
+
+function filterSchools(query, schools) {
+	const lowerQuery = query.toLowerCase();
+
+	const filteredSchools = schools.filter((school) => {
+		const matchesName = school.schoolName.toLowerCase().includes(lowerQuery);
+		const matchesPostalCode = school.postCode.toLowerCase().includes(lowerQuery);
+
+		return matchesName || matchesPostalCode;
+	});
+
+	return filteredSchools;
+}
+
+function drawMap(staticSchools) {
 	let map = L.map("map", {
 		zoomControl: false,
 		attributionControl: false,
@@ -78,7 +114,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 		attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
 	}).addTo(map);
 
-	schools._rawValue.forEach((school) => {
+	staticSchools.forEach((school) => {
 		L.circleMarker([school.lat, school.long], {
 			color: "white",
 			fillColor: "#ff0077",
@@ -115,37 +151,4 @@ document.addEventListener("DOMContentLoaded", async function () {
 			)
 			.addTo(map);
 	});
-});
-
-// Close filter overlay function
-function closeFilterOverlay() {
-	let filterOverlay = document.querySelector(".filter-overlay");
-	if (!filterOverlay) {
-		return;
-	}
-	filterOverlay.classList.remove("_active");
-	filterOverlay.classList.add("_closed");
-}
-
-// Open filter overlay function
-function openFilterOverlay() {
-	let filterOverlay = document.querySelector(".filter-overlay");
-	if (!filterOverlay) {
-		return;
-	}
-	filterOverlay.classList.remove("_closed");
-	filterOverlay.classList.add("_active");
-}
-
-function filterSchools(query, schools) {
-	const lowerQuery = query.toLowerCase();
-
-	const filteredSchools = schools.filter((school) => {
-		const matchesName = school.schoolName.toLowerCase().includes(lowerQuery);
-		const matchesPostalCode = school.postCode.toLowerCase().includes(lowerQuery);
-
-		return matchesName || matchesPostalCode;
-	});
-
-	return filteredSchools;
 }
