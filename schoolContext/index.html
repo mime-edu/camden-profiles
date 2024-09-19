@@ -29,7 +29,9 @@
 			<section class="hero">
 				<div class="hero__container">
 					<div class="hero__content">
-						<a href="/school" class="go-back-button"><img src="../assets/imgs/arrow-back.png" alt="" /><span>Back</span></a>
+						<a :href="`/school/index.html?schoolId=${school.schoolId}`" class="go-back-button"
+							><img src="../assets/imgs/arrow-back.png" alt="" /><span>Back</span></a
+						>
 						<h1 class="hero__title">School & Community Context</h1>
 						<div class="hero__navigation navigation-hero page-navigation">
 							<a href="#location-sector" class="page-navigation__button navigation-hero__button active">
