@@ -8,10 +8,12 @@
 		<link
 			href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
 			rel="stylesheet" />
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
 		<link rel="stylesheet" href="./assets/styles/global.css" />
 		<link rel="stylesheet" href="./assets/styles/components/header.css" />
 		<link rel="stylesheet" href="./assets/styles/pages/main.css" />
 		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 		<script type="module" src="./assets/scripts/mainPage.js" defer></script>
 		<title>Camden</title>
 	</head>
@@ -20,7 +22,7 @@
 			<div class="header__container">
 				<div class="header__content">
 					<div class="logo">
-						<a href="/index.html"><img src="./assets/imgs/logo.png" alt="logo" /></a>
+						<a href="/Camden/index.html"><img src="./assets/imgs/logo.png" alt="logo" /></a>
 					</div>
 				</div>
 			</div>
@@ -58,7 +60,7 @@
 						<div class="schools-info__filter schools-filter">
 							<div class="schools-filter__input">
 								<img src="./assets/imgs/search-icon.png" alt="search" />
-								<input placeholder="Search by name or postcode" type="text" />
+								<input id="searchSchoolInput" placeholder="Search by name or postcode" type="text" />
 							</div>
 							<div class="schools-filter__button"><img src="./assets/imgs/tune.png" alt="tune" /></div>
 						</div>
@@ -85,7 +87,7 @@
 								</div>
 
 								<div class="school-item__footer">
-									<a class="link" :href="`/school/index.html?schoolId=${school.schoolId}`">
+									<a class="link" :href="`/Camden/school/index.html?schoolId=${school.schoolId}`">
 										<span>View school details</span>
 										<img src="./assets/imgs/arrow-outward.png" alt="arrow" />
 									</a>
@@ -173,13 +175,13 @@
 								</div>
 							</div> -->
 						</div>
-						<div class="schools-info__map _hidden">
-							<iframe
+						<div class="schools-info__map _hidden" id="map">
+							<!-- <iframe
 								src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1243.0925765114478!2d-0.09896219758077963!3d51.45475690704054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604746be66215%3A0xec64c8e179cb9aee!2sHerne%20Hill%20School!5e0!3m2!1sen!2suk!4v1725605687032!5m2!1sen!2suk"
 								loading="lazy"
 								style="border: 0"
 								referrerpolicy="no-referrer-when-downgrade">
-							</iframe>
+							</iframe> -->
 						</div>
 						<div class="filter-overlay">
 							<div class="filter-overlay__header">

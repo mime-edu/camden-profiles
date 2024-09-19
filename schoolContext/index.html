@@ -12,6 +12,8 @@
 		<link rel="stylesheet" href="../assets/styles/components/header.css" />
 		<link rel="stylesheet" href="../assets/styles/pages/schoolContext.css" />
 		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 		<script src="../assets/scripts/schoolContext.js" defer></script>
 		<title>School & Community Context</title>
 	</head>
@@ -20,7 +22,7 @@
 			<div class="header__container">
 				<div class="header__content">
 					<div class="logo">
-						<a href="/index.html"><img src="../assets/imgs/logo.png" alt="logo" /></a>
+						<a href="/Camden/index.html"><img src="../assets/imgs/logo.png" alt="logo" /></a>
 					</div>
 				</div>
 			</div>
@@ -29,7 +31,7 @@
 			<section class="hero">
 				<div class="hero__container">
 					<div class="hero__content">
-						<a :href="`/school/index.html?schoolId=${school.schoolId}`" class="go-back-button"
+						<a :href="`/Camden/school/index.html?schoolId=${school.schoolId}`" class="go-back-button"
 							><img src="../assets/imgs/arrow-back.png" alt="" /><span>Back</span></a
 						>
 						<h1 class="hero__title">School & Community Context</h1>
@@ -84,18 +86,18 @@
 						<div class="location" id="location-sector">
 							<div class="location__header">
 								<h2 class="context__title">Location</h2>
-								<a class="link" href="/school"
+								<a class="link" :href="school.websiteLink"
 									><span>View school details</span> <img src="../assets/imgs/arrow-outward.png" alt="arrow"
 								/></a>
 							</div>
 							<p class="location__address">{{school.address}}</p>
-							<div class="location__map">
-								<iframe
+							<div class="location__map" id="map">
+								<!-- <iframe
 									src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1243.0925765114478!2d-0.09896219758077963!3d51.45475690704054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604746be66215%3A0xec64c8e179cb9aee!2sHerne%20Hill%20School!5e0!3m2!1sen!2suk!4v1725605687032!5m2!1sen!2suk"
 									loading="lazy"
 									style="border: 0"
 									referrerpolicy="no-referrer-when-downgrade">
-								</iframe>
+								</iframe> -->
 							</div>
 							<div class="toggle-switch__block location__toggler-block">
 								<div class="toggle-switch">
@@ -184,7 +186,7 @@
 									<p class="stats-sector__description">{{school.statistics.pupilsNum}}</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>354</span></p>
-										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>324</span></p>
+										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>324</span></p>
 									</div>
 								</div>
 								<div class="statistics-block__sector stats-sector">
@@ -192,7 +194,7 @@
 									<p class="stats-sector__description">{{school.statistics.disadvantagedPupilsPercent}}%</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>23%</span></p>
-										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>27%</span></p>
+										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>27%</span></p>
 									</div>
 								</div>
 								<div class="statistics-block__sector stats-sector">
@@ -200,7 +202,7 @@
 									<p class="stats-sector__description">{{school.statistics.englishAdditionalLangPercent}}%</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>25</span></p>
-										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>32</span></p>
+										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>32</span></p>
 									</div>
 								</div>
 								<div class="statistics-block__sector stats-sector">
@@ -220,7 +222,7 @@
 									<p class="stats-sector__description">{{school.statistics.BMEPercent}}%</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>35%</span></p>
-										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>40%</span></p>
+										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>40%</span></p>
 									</div>
 								</div>
 								<div class="statistics-block__sector stats-sector">
@@ -248,7 +250,7 @@
 									<p class="stats-sector__description">{{school.statistics.SENDPercent}}%</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>9%</span></p>
-										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>16%</span></p>
+										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>16%</span></p>
 									</div>
 								</div>
 								<div class="statistics-block__sector stats-sector">
@@ -274,7 +276,7 @@
 									<p class="stats-sector__description">{{school.statistics.pupilAdultRatio}}</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>354</span></p>
-										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>324</span></p>
+										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>324</span></p>
 									</div>
 								</div>
 								<div class="statistics-block__sector stats-sector">
@@ -282,7 +284,7 @@
 									<p class="stats-sector__description">{{school.statistics.qualifiedTeachersPercent}}</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>23%</span></p>
-										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>27%</span></p>
+										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>27%</span></p>
 									</div>
 								</div>
 							</div>
@@ -292,7 +294,7 @@
 									<p class="stats-sector__description">£{{school.statistics.financialReserves}}</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>354</span></p>
-										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>324</span></p>
+										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>324</span></p>
 									</div>
 								</div>
 								<div class="statistics-block__sector stats-sector">
@@ -300,7 +302,7 @@
 									<p class="stats-sector__description">-£{{school.statistics.changeYearReserves}}</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>23%</span></p>
-										<p>Camden Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>27%</span></p>
+										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>27%</span></p>
 									</div>
 								</div>
 							</div>
@@ -308,7 +310,7 @@
 						<div class="admissions-process" id="admissions-sector">
 							<h2 class="context__title">What is the admissions process for our school?</h2>
 							<p>{{school.admissionProcess}}</p>
-							<a href="">View Camden admissions website</a>
+							<a href="https://www.camden.gov.uk/home">View Camden admissions website</a>
 						</div>
 					</div>
 				</div>

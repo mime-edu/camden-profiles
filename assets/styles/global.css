@@ -340,3 +340,19 @@ input:checked + .toggle-switch__slider:before {
 		font-size: 12px;
 	}
 }
+
+/* leaflet map */
+.leaflet-popup-content-wrapper {
+	padding: 0;
+	margin: 0;
+}
+.leaflet-popup-content {
+	margin: 0;
+	padding: 0;
+}
+.leaflet-popup-content {
+	margin: 0;
+}
+.leaflet-popup-content p {
+	margin: 0;
+}

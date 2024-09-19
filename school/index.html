@@ -23,7 +23,7 @@
 			<div class="header__container">
 				<div class="header__content">
 					<div class="logo">
-						<a href="/index.html"><img src="../assets/imgs/logo.png" alt="logo" /></a>
+						<a href="/Camden/index.html"><img src="../assets/imgs/logo.png" alt="logo" /></a>
 					</div>
 				</div>
 			</div>
@@ -88,9 +88,11 @@
 									<h5 class="tab-content__title">We want our pupils to become informed, articulate and empowered citizens.</h5>
 									<div class="swiper tab-slider">
 										<div class="swiper-wrapper tab-slider__wrapper">
-											<div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/15views.png" alt="" /></div>
-											<div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/15views.png" alt="" /></div>
-											<div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/15views.png" alt="" /></div>
+											<div v-for="view in school.tabs.schoolViewsUrls" class="swiper-slide tab-slider__slide">
+												<img :src="view" alt="" />
+											</div>
+											<!-- <div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/15views.png" alt="" /></div>
+											<div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/15views.png" alt="" /></div> -->
 										</div>
 									</div>
 									<a href="" class="tab-content__link"
@@ -112,9 +114,11 @@
 									<h5 class="tab-content__title">We want our pupils to become informed, articulate and empowered citizens.</h5>
 									<div class="swiper tab-slider">
 										<div class="swiper-wrapper tab-slider__wrapper">
-											<div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/10photos_1.png" alt="" /></div>
-											<div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/10photos_1.png" alt="" /></div>
-											<div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/10photos_1.png" alt="" /></div>
+											<div v-for="image in school.tabs.schoolPhotosUrls" class="swiper-slide tab-slider__slide">
+												<img :src="image" alt="" />
+											</div>
+											<!-- <div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/10photos_1.png" alt="" /></div>
+											<div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/10photos_1.png" alt="" /></div> -->
 										</div>
 									</div>
 								</div>
@@ -135,28 +139,28 @@
 										<div class="tab-stats__item">
 											<img src="../assets/imgs/people-message-icon.png" alt="" />
 											<p>Pupils</p>
-											<span>412</span>
+											<span>{{school.statistics.pupilsNum}}</span>
 										</div>
 										<div class="tab-stats__item">
 											<img src="../assets/imgs/people-message-icon.png" alt="" />
 											<p>SEND</p>
-											<span>15%</span>
+											<span>{{school.statistics.SENDPercent}}%</span>
 										</div>
 
 										<div class="tab-stats__item">
 											<img src="../assets/imgs/people-message-icon.png" alt="" />
 											<p>Disadvantaged</p>
-											<span>8%</span>
+											<span>{{school.statistics.languagesNum}}%</span>
 										</div>
 										<div class="tab-stats__item">
 											<img src="../assets/imgs/people-message-icon.png" alt="" />
 											<p>Ethnic Groups</p>
-											<span>14</span>
+											<span>{{school.statistics.ethnicGroupsNum}}</span>
 										</div>
 										<div class="tab-stats__item">
 											<img src="../assets/imgs/people-message-icon.png" alt="" />
 											<p>Languages</p>
-											<span>8</span>
+											<span>{{school.statistics.languagesNum}}</span>
 										</div>
 									</div>
 								</div>
@@ -175,9 +179,11 @@
 									<h5 class="tab-content__title">We want our pupils to become informed, articulate and empowered citizens.</h5>
 									<div class="swiper tab-slider">
 										<div class="swiper-wrapper tab-slider__wrapper">
-											<div class="swiper-slide tab-slider__slide"></div>
-											<div class="swiper-slide tab-slider__slide"></div>
-											<div class="swiper-slide tab-slider__slide"></div>
+											<div v-for="highlight in school.tabs.schoolHighlightsUrls" class="swiper-slide tab-slider__slide">
+												<img :src="highlight" alt="" />
+											</div>
+											<!-- <div class="swiper-slide tab-slider__slide"></div>
+											<div class="swiper-slide tab-slider__slide"></div> -->
 										</div>
 									</div>
 								</div>
@@ -196,9 +202,11 @@
 									<h5 class="tab-content__title">We want our pupils to become informed, articulate and empowered citizens.</h5>
 									<div class="swiper tab-slider">
 										<div class="swiper-wrapper tab-slider__wrapper">
-											<div class="swiper-slide tab-slider__slide"></div>
-											<div class="swiper-slide tab-slider__slide"></div>
-											<div class="swiper-slide tab-slider__slide"></div>
+											<div v-for="priority in school.tabs.schoolPrioritiesUrls" class="swiper-slide tab-slider__slide">
+												<img :src="priority" alt="" />
+											</div>
+											<!-- <div class="swiper-slide tab-slider__slide"></div>
+											<div class="swiper-slide tab-slider__slide"></div> -->
 										</div>
 									</div>
 								</div>
@@ -212,17 +220,17 @@
 					<div class="navigation__content">
 						<h2 class="navigation__title">More about our school:</h2>
 						<div class="navigation__buttons">
-							<a :href="`/schoolContext/index.html?schoolId=${school.schoolId}`" class="navigation__button">
+							<a :href="`/Camden/schoolContext/index.html?schoolId=${school.schoolId}`" class="navigation__button">
 								<div class="button__icon"><img src="../assets/imgs/location.png" alt="" /></div>
 								<span class="button__text">School & community context</span>
 								<div class="button__arrow"><img src="../assets/imgs/arrow-down.png" alt="" /></div>
 							</a>
-							<a :href="`/support/index.html?schoolId=${school.schoolId}`" class="navigation__button">
+							<a :href="`/Camden/support/index.html?schoolId=${school.schoolId}`" class="navigation__button">
 								<div class="button__icon"><img src="../assets/imgs/satisfied-icon.png" alt="" /></div>
 								<span class="button__text">Pupil support & wellbeing</span>
 								<div class="button__arrow"><img src="../assets/imgs/arrow-down.png" alt="" /></div>
 							</a>
-							<a :href="`/achievement/index.html?schoolId=${school.schoolId}`" class="navigation__button">
+							<a :href="`/Camden/achievement/index.html?schoolId=${school.schoolId}`" class="navigation__button">
 								<div class="button__icon"><img src="../assets/imgs/stats-4bars.png" alt="" /></div>
 								<span class="button__text">Pupils’ achievement</span>
 								<div class="button__arrow"><img src="../assets/imgs/arrow-down.png" alt="" /></div>

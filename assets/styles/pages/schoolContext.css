@@ -16,13 +16,21 @@
 	margin-bottom: 20px;
 }
 
-.location__map iframe {
+.location__map {
 	background-color: #bcbcbc;
 	width: 100%;
 	margin-bottom: 12px;
 	min-height: 220px;
 	border-radius: 15px;
 }
+
+/* .location__map iframe {
+	background-color: #bcbcbc;
+	width: 100%;
+	margin-bottom: 12px;
+	min-height: 220px;
+	border-radius: 15px;
+} */
 
 .location__toggler-block {
 	margin-bottom: 20px;

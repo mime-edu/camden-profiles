@@ -141,6 +141,30 @@
 	width: 100%;
 	flex-direction: column;
 }
+.leaflet-popup-close-button {
+	color: #ed4d8b !important;
+	font-weight: 700 !important;
+	font-size: 20px !important;
+}
+@media (min-width: 300px) {
+	.school-item-as-popup {
+		width: 260px;
+	}
+	.leaflet-popup-content,
+	.leaflet-popup-content-wrapper {
+		width: 260px;
+	}
+}
+@media (min-width: 375px) {
+	.school-item-as-popup {
+		width: 300px;
+	}
+	.leaflet-popup-content,
+	.leaflet-popup-content-wrapper {
+		width: 300px;
+	}
+}
+
 .school-item {
 	box-shadow: 0px 0px 7px 0px #00000040;
 	padding: 20px 20px;
@@ -172,7 +196,7 @@
 	justify-content: space-between;
 	gap: 10px;
 	margin-bottom: 20px;
-	max-width: 270px;
+	max-width: 290px;
 }
 .info-row__item p {
 	font-size: 14px;
@@ -191,11 +215,24 @@
 	display: flex;
 	align-items: center;
 }
+.school-item__footer span {
+	color: #ed4d8b;
+}
 
 /*  map  */
-.schools-info__map iframe {
+/* .schools-info__map iframe {
 	width: 100%;
 	min-height: 480px;
+} */
+.schools-info__map {
+	width: 100%;
+	min-height: 480px;
+	border-radius: 20px;
+	position: relative;
+	z-index: 2;
+}
+.schools-info__map._hidden {
+	height: 0;
 }
 
 /* -------------nav button-------------- */
@@ -211,6 +248,7 @@
 	background-color: #ed4d8b;
 	padding: 14px 20px;
 	min-width: 130px;
+	z-index: 25;
 }
 .navigation__button img {
 	width: 20px;
@@ -231,7 +269,7 @@
 	height: 100svh;
 	width: 100vw;
 	background-color: #fff;
-	z-index: 3;
+	z-index: 27;
 	display: flex;
 	flex-direction: column;
 	transform: translateY(100vh);
