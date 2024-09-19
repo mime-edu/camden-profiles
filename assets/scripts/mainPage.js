@@ -143,7 +143,7 @@ function drawMap(staticSchools) {
 						</div>
 					</div>
 					<div class="school-item__footer">
-						<a class="link" href="/school"
+						<a class="link" href="/Camden/school?schoolId=${school.schoolId}"
 							><span>View school details</span> <img src="./assets/imgs/arrow-outward.png" alt="arrow"
 						/></a>
 					</div>
