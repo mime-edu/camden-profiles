@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+			rel="stylesheet" />
+		<link rel="stylesheet" href="../assets/styles/global.css" />
+		<link rel="stylesheet" href="../assets/styles/components/header.css" />
+		<link rel="stylesheet" href="../assets/styles/pages/school.css" />
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js" defer></script>
+		<script type="module" src="../assets/scripts/schoolPage.js" defer></script>
+
+		<title>School</title>
+	</head>
+	<body id="schoolPage" class="schoolPage">
+		<header>
+			<div class="header__container">
+				<div class="header__content">
+					<div class="logo">
+						<a href="/Camden/index.html"><img src="../assets/imgs/logo.png" alt="logo" /></a>
+					</div>
+				</div>
+			</div>
+		</header>
+		<main>
+			<section class="hero">
+				<div class="hero__container">
+					<div class="hero__content">
+						<div class="hero-title__block">
+							<h1 class="hero__title">{{school.schoolName}}</h1>
+							<div class="hero_share"><span>Share</span><img src="../assets/imgs/share.png" alt="" /></div>
+						</div>
+						<p class="hero__address">{{school.address}} {{school.postCode}}</p>
+						<p class="hero__description">{{school.shortSlogan}}</p>
+						<div class="hero__information">
+							<div class="information__item">
+								<p>Age Range</p>
+								<span>{{school.ageRange}}</span>
+							</div>
+							<div class="information__item">
+								<p>School Type</p>
+								<span>{{school.type}}</span>
+							</div>
+							<div class="information__item">
+								<p>Sex</p>
+								<span>{{school.gender}}</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="about">
+				<div class="about__container">
+					<div class="about__content">
+						<div class="about__tabs tabs-block">
+							<div class="tabs-block__item tab">
+								<div class="tab__top">
+									<div class="tab__icon">
+										<img src="../assets/imgs/note-icon.png" alt="" />
+									</div>
+									<p class="tab__title">Our school in 100 words</p>
+									<div class="tab__close">
+										<img src="../assets/imgs/arrow-down.png" alt="" />
+									</div>
+								</div>
+								<div class="tab__content tab-content">
+									<h5 class="tab-content__title">{{school.descriptionTitle}}</h5>
+									<p class="tab-content__text">{{school.description}}</p>
+								</div>
+							</div>
+							<div class="tabs-block__item tab">
+								<div class="tab__top">
+									<div class="tab__icon">
+										<img src="../assets/imgs/people-message-icon.png" alt="" />
+									</div>
+									<p class="tab__title">Our school in 15 views</p>
+									<div class="tab__close">
+										<img src="../assets/imgs/arrow-down.png" alt="" />
+									</div>
+								</div>
+								<div class="tab__content tab-content">
+									<h5 class="tab-content__title">We want our pupils to become informed, articulate and empowered citizens.</h5>
+									<div class="swiper tab-slider">
+										<div class="swiper-wrapper tab-slider__wrapper">
+											<div v-for="view in school.tabs.schoolViewsUrls" class="swiper-slide tab-slider__slide">
+												<img :src="view" alt="" />
+											</div>
+											<!-- <div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/15views.png" alt="" /></div>
+											<div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/15views.png" alt="" /></div> -->
+										</div>
+									</div>
+									<a href="" class="tab-content__link"
+										><span>What does Ofsted say about our school?</span><img src="../assets/imgs/arrow-forward.png" alt=""
+									/></a>
+								</div>
+							</div>
+							<div class="tabs-block__item tab">
+								<div class="tab__top">
+									<div class="tab__icon">
+										<img src="../assets/imgs/picture-icon.png" alt="" />
+									</div>
+									<p class="tab__title">Our school in 10 photos</p>
+									<div class="tab__close">
+										<img src="../assets/imgs/arrow-down.png" alt="" />
+									</div>
+								</div>
+								<div class="tab__content tab-content">
+									<h5 class="tab-content__title">We want our pupils to become informed, articulate and empowered citizens.</h5>
+									<div class="swiper tab-slider">
+										<div class="swiper-wrapper tab-slider__wrapper">
+											<div v-for="image in school.tabs.schoolPhotosUrls" class="swiper-slide tab-slider__slide">
+												<img :src="image" alt="" />
+											</div>
+											<!-- <div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/10photos_1.png" alt="" /></div>
+											<div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/10photos_1.png" alt="" /></div> -->
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="tabs-block__item tab">
+								<div class="tab__top">
+									<div class="tab__icon">
+										<img src="../assets/imgs/stars.png" alt="" />
+									</div>
+									<p class="tab__title">Our school in 5 numbers</p>
+									<div class="tab__close">
+										<img src="../assets/imgs/arrow-down.png" alt="" />
+									</div>
+								</div>
+								<div class="tab__content tab-content">
+									<h5 class="tab-content__title">We want our pupils to become informed, articulate and empowered citizens.</h5>
+									<div class="tab-content__stats tab-stats">
+										<div class="tab-stats__item">
+											<img src="../assets/imgs/people-message-icon.png" alt="" />
+											<p>Pupils</p>
+											<span>{{school.statistics.pupilsNum}}</span>
+										</div>
+										<div class="tab-stats__item">
+											<img src="../assets/imgs/people-message-icon.png" alt="" />
+											<p>SEND</p>
+											<span>{{school.statistics.SENDPercent}}%</span>
+										</div>
+
+										<div class="tab-stats__item">
+											<img src="../assets/imgs/people-message-icon.png" alt="" />
+											<p>Disadvantaged</p>
+											<span>{{school.statistics.languagesNum}}%</span>
+										</div>
+										<div class="tab-stats__item">
+											<img src="../assets/imgs/people-message-icon.png" alt="" />
+											<p>Ethnic Groups</p>
+											<span>{{school.statistics.ethnicGroupsNum}}</span>
+										</div>
+										<div class="tab-stats__item">
+											<img src="../assets/imgs/people-message-icon.png" alt="" />
+											<p>Languages</p>
+											<span>{{school.statistics.languagesNum}}</span>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="tabs-block__item tab">
+								<div class="tab__top">
+									<div class="tab__icon">
+										<img src="../assets/imgs/upgrade-icon.png" alt="" />
+									</div>
+									<p class="tab__title">Our school in 4 highlights</p>
+									<div class="tab__close">
+										<img src="../assets/imgs/arrow-down.png" alt="" />
+									</div>
+								</div>
+								<div class="tab__content tab-content">
+									<h5 class="tab-content__title">We want our pupils to become informed, articulate and empowered citizens.</h5>
+									<div class="swiper tab-slider">
+										<div class="swiper-wrapper tab-slider__wrapper">
+											<div v-for="highlight in school.tabs.schoolHighlightsUrls" class="swiper-slide tab-slider__slide">
+												<img :src="highlight" alt="" />
+											</div>
+											<!-- <div class="swiper-slide tab-slider__slide"></div>
+											<div class="swiper-slide tab-slider__slide"></div> -->
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="tabs-block__item tab">
+								<div class="tab__top">
+									<div class="tab__icon">
+										<img src="../assets/imgs/note-icon.png" alt="" />
+									</div>
+									<p class="tab__title">Our school in 4 priorities</p>
+									<div class="tab__close">
+										<img src="../assets/imgs/arrow-down.png" alt="" />
+									</div>
+								</div>
+								<div class="tab__content tab-content">
+									<h5 class="tab-content__title">We want our pupils to become informed, articulate and empowered citizens.</h5>
+									<div class="swiper tab-slider">
+										<div class="swiper-wrapper tab-slider__wrapper">
+											<div v-for="priority in school.tabs.schoolPrioritiesUrls" class="swiper-slide tab-slider__slide">
+												<img :src="priority" alt="" />
+											</div>
+											<!-- <div class="swiper-slide tab-slider__slide"></div>
+											<div class="swiper-slide tab-slider__slide"></div> -->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="navigation">
+				<div class="navigation__container">
+					<div class="navigation__content">
+						<h2 class="navigation__title">More about our school:</h2>
+						<div class="navigation__buttons">
+							<a :href="`/Camden/schoolContext/index.html?schoolId=${school.schoolId}`" class="navigation__button">
+								<div class="button__icon"><img src="../assets/imgs/location.png" alt="" /></div>
+								<span class="button__text">School & community context</span>
+								<div class="button__arrow"><img src="../assets/imgs/arrow-down.png" alt="" /></div>
+							</a>
+							<a :href="`/Camden/support/index.html?schoolId=${school.schoolId}`" class="navigation__button">
+								<div class="button__icon"><img src="../assets/imgs/satisfied-icon.png" alt="" /></div>
+								<span class="button__text">Pupil support & wellbeing</span>
+								<div class="button__arrow"><img src="../assets/imgs/arrow-down.png" alt="" /></div>
+							</a>
+							<a :href="`/Camden/achievement/index.html?schoolId=${school.schoolId}`" class="navigation__button">
+								<div class="button__icon"><img src="../assets/imgs/stats-4bars.png" alt="" /></div>
+								<span class="button__text">Pupils’ achievement</span>
+								<div class="button__arrow"><img src="../assets/imgs/arrow-down.png" alt="" /></div>
+							</a>
+							<a :href="`/Camden/curriculum/index.html?schoolId=${school.schoolId}`" class="navigation__button">
+								<div class="button__icon"><img src="../assets/imgs/teaching-icon.png" alt="" /></div>
+								<span class="button__text">Curriculum, teaching & learning</span>
+								<div class="button__arrow"><img src="../assets/imgs/arrow-down.png" alt="" /></div>
+							</a>
+						</div>
+						<div class="navigation__link">
+							<img src="../assets/imgs/browser-black.png" alt="" /><a href="www.chrishatton.camden.sch.uk"
+								>www.chrishatton.camden.sch.uk</a
+							>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="verification">
+				<div class="verification__container">
+					<div class="verification__content">
+						<p>
+							This profile has been verified by the Camden Professional Partner, Camden Learning, as providing a true and fair
+							picture of the school’s provision.
+						</p>
+					</div>
+				</div>
+			</section>
+		</main>
+	</body>
+</html>

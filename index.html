@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+			rel="stylesheet" />
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+		<link rel="stylesheet" href="./assets/styles/global.css" />
+		<link rel="stylesheet" href="./assets/styles/components/header.css" />
+		<link rel="stylesheet" href="./assets/styles/pages/main.css" />
+		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+		<script type="module" src="./assets/scripts/mainPage.js" defer></script>
+		<title>Camden</title>
+	</head>
+	<body id="mainPage" class="mainPage">
+		<header>
+			<div class="header__container">
+				<div class="header__content">
+					<div class="logo">
+						<a href="/Camden/index.html"><img src="./assets/imgs/logo.png" alt="logo" /></a>
+					</div>
+				</div>
+			</div>
+		</header>
+		<main>
+			<section class="hero">
+				<div class="hero__container">
+					<div class="hero__content">
+						<h1 class="hero__title">Welcome</h1>
+						<p>Use this tool to learn more about Camden schools</p>
+						<div class="hero__tab tab-hero">
+							<div class="tab__top">
+								<p class="tab__title">Who are Camden Learning?</p>
+								<div class="tab__close">
+									<img src="./assets/imgs/close-tab.svg" alt="" />
+								</div>
+							</div>
+							<div class="tab__content">
+								<p class="tab__text">
+									Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et
+									ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit.
+									Imperdiet quis non.
+								</p>
+								<p class="tab__text link">
+									<img src="./assets/imgs/browser-icon.png" alt="" /> <a href="">View Camden learning website</a>
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="schools-info">
+				<div class="schools-info__container">
+					<div class="schools-info__content">
+						<div class="schools-info__filter schools-filter">
+							<div class="schools-filter__input">
+								<img src="./assets/imgs/search-icon.png" alt="search" />
+								<input id="searchSchoolInput" placeholder="Search by name or postcode" type="text" />
+							</div>
+							<div class="schools-filter__button"><img src="./assets/imgs/tune.png" alt="tune" /></div>
+						</div>
+						<div class="schools-info__list schools-list">
+							<div v-for="school in schools" class="schools-list_item school-item">
+								<div class="school-item__header">
+									<img src="./assets/imgs/school-logo.png" alt="school-logo" />
+									<h4 class="school-item__name">{{school.schoolName}}</h4>
+								</div>
+								<p class="school-itemy__description">{{school.shortSlogan}}</p>
+								<div class="school-item__info-row info-row">
+									<div class="info-row__item">
+										<p>Age Range</p>
+										<span>{{school.ageRange}}</span>
+									</div>
+									<div class="info-row__item">
+										<p>School Type</p>
+										<span>{{school.type}}</span>
+									</div>
+									<div class="info-row__item">
+										<p>Sex</p>
+										<span>{{school.gender}}</span>
+									</div>
+								</div>
+
+								<div class="school-item__footer">
+									<a class="link" :href="`/Camden/school/index.html?schoolId=${school.schoolId}`">
+										<span>View school details</span>
+										<img src="./assets/imgs/arrow-outward.png" alt="arrow" />
+									</a>
+								</div>
+							</div>
+							<!-- <div class="schools-list_item school-item">
+								<div class="school-item__header">
+									<img src="./assets/imgs/school-logo.png" alt="school-logo" />
+									<h4 class="school-item__name">Demo School</h4>
+								</div>
+								<p class="school-itemy__description">We want our pupils to become informed, articulate and empowered citizens.</p>
+								<div class="school-item__info-row info-row">
+									<div class="info-row__item">
+										<p>Age Range</p>
+										<span>4-11</span>
+									</div>
+									<div class="info-row__item">
+										<p>School Type</p>
+										<span>Roman Catholic</span>
+									</div>
+									<div class="info-row__item">
+										<p>Sex</p>
+										<span>Mixed</span>
+									</div>
+								</div>
+
+								<div class="school-item__footer">
+									<a class="link" href="/school"
+										><span>View school details</span> <img src="./assets/imgs/arrow-outward.png" alt="arrow"
+									/></a>
+								</div>
+							</div>
+							<div class="schools-list_item school-item">
+								<div class="school-item__header">
+									<img src="./assets/imgs/school-logo.png" alt="school-logo" />
+									<h4 class="school-item__name">Demo School</h4>
+								</div>
+								<p class="school-itemy__description">We want our pupils to become informed, articulate and empowered citizens.</p>
+								<div class="school-item__info-row info-row">
+									<div class="info-row__item">
+										<p>Age Range</p>
+										<span>4-11</span>
+									</div>
+									<div class="info-row__item">
+										<p>School Type</p>
+										<span>Roman Catholic</span>
+									</div>
+									<div class="info-row__item">
+										<p>Sex</p>
+										<span>Mixed</span>
+									</div>
+								</div>
+
+								<div class="school-item__footer">
+									<a class="link" href="/school"
+										><span>View school details</span> <img src="./assets/imgs/arrow-outward.png" alt="arrow"
+									/></a>
+								</div>
+							</div>
+							<div class="schools-list_item school-item">
+								<div class="school-item__header">
+									<img src="./assets/imgs/school-logo.png" alt="school-logo" />
+									<h4 class="school-item__name">Demo School</h4>
+								</div>
+								<p class="school-itemy__description">We want our pupils to become informed, articulate and empowered citizens.</p>
+								<div class="school-item__info-row info-row">
+									<div class="info-row__item">
+										<p>Age Range</p>
+										<span>4-11</span>
+									</div>
+									<div class="info-row__item">
+										<p>School Type</p>
+										<span>Roman Catholic</span>
+									</div>
+									<div class="info-row__item">
+										<p>Sex</p>
+										<span>Mixed</span>
+									</div>
+								</div>
+
+								<div class="school-item__footer">
+									<a class="link" href="/school"
+										><span>View school details</span><img src="./assets/imgs/arrow-outward.png" alt="arrow"
+									/></a>
+								</div>
+							</div> -->
+						</div>
+						<div class="schools-info__map _hidden" id="map">
+							<!-- <iframe
+								src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1243.0925765114478!2d-0.09896219758077963!3d51.45475690704054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604746be66215%3A0xec64c8e179cb9aee!2sHerne%20Hill%20School!5e0!3m2!1sen!2suk!4v1725605687032!5m2!1sen!2suk"
+								loading="lazy"
+								style="border: 0"
+								referrerpolicy="no-referrer-when-downgrade">
+							</iframe> -->
+						</div>
+						<div class="filter-overlay">
+							<div class="filter-overlay__header">
+								<h4>Filter schools</h4>
+								<button class="filter-overlay__close">
+									<img src="./assets/imgs/close-tab.svg" alt="" />
+								</button>
+							</div>
+							<div class="filter-overlay__main overlay-main">
+								<div class="overlay-main__sector sector">
+									<p class="sector__title">Age Range</p>
+									<div class="overlay__age-range age-range">
+										<input type="range" class="age-range-input" min="4" max="18" value="4" />
+										<div class="age-range__values">
+											<span class="minValue">4</span>
+											<span class="maxValue">18</span>
+										</div>
+									</div>
+								</div>
+								<div class="overlay-main__sector sector">
+									<p class="sector__title">School Type</p>
+									<div class="sector-params-block">
+										<button class="filter-checkbox">
+											<input class="filter-checkbox" type="checkbox" name="" id="" />
+											<p>Roman Catholic</p>
+										</button>
+										<button class="filter-checkbox">
+											<input class="filter-checkbox" type="checkbox" name="" id="" />
+											<p>Church of England</p>
+										</button>
+										<button class="filter-checkbox">
+											<input class="filter-checkbox" type="checkbox" name="" id="" />
+											<p>Special school</p>
+										</button>
+										<button class="filter-checkbox">
+											<input class="filter-checkbox" type="checkbox" name="" id="" />
+											<p>Alternative Provision</p>
+										</button>
+
+										<button class="filter-checkbox">
+											<input class="filter-checkbox" type="checkbox" name="" id="" />
+											<p>etc</p>
+										</button>
+									</div>
+								</div>
+								<div class="overlay-main__sector sector">
+									<p class="sector__title">Sex</p>
+									<div class="sector-params-block sector-params-block-row">
+										<button class="filter-checkbox">
+											<input class="filter-checkbox" type="checkbox" name="" id="" />
+											<p>Mixed</p>
+										</button>
+										<button class="filter-checkbox">
+											<input class="filter-checkbox" type="checkbox" name="" id="" />
+											<p>Boys Only</p>
+										</button>
+										<button class="filter-checkbox">
+											<input class="filter-checkbox" type="checkbox" name="" id="" />
+											<p>Girls Only</p>
+										</button>
+									</div>
+								</div>
+								<div class="overlay-main__sector sector">
+									<p class="sector__title">Facilities</p>
+									<div class="sector-params-block">
+										<button class="filter-checkbox">
+											<input class="filter-checkbox" type="checkbox" name="" id="" />
+											<p>Swimming Pool</p>
+										</button>
+										<button class="filter-checkbox">
+											<input class="filter-checkbox" type="checkbox" name="" id="" />
+											<p>Tennis Courts</p>
+										</button>
+										<button class="filter-checkbox">
+											<input class="filter-checkbox" type="checkbox" name="" id="" />
+											<p>Computer Lab</p>
+										</button>
+										<button class="filter-checkbox">
+											<input class="filter-checkbox" type="checkbox" name="" id="" />
+											<p>Theatre</p>
+										</button>
+										<button class="filter-checkbox">
+											<input class="filter-checkbox" type="checkbox" name="" id="" />
+											<p>Football Pitches</p>
+										</button>
+										<button class="filter-checkbox">
+											<input class="filter-checkbox" type="checkbox" name="" id="" />
+											<p>Rugby Pitches</p>
+										</button>
+										<button class="filter-checkbox">
+											<input class="filter-checkbox" type="checkbox" name="" id="" />
+											<p>Science Labs</p>
+										</button>
+									</div>
+								</div>
+							</div>
+							<div class="filter-overlay__footer">
+								<button class="filter-overlay__button filter-clear button-no-bg">Clear filters</button>
+								<button class="filter-overlay__button filter-accept button-with-bg">Show filtered schools</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<button class="navigation__button list"><img src="./assets/imgs/map-icon.png" alt="" /><span>Map</span></button>
+			<!-- <button class="navigation__button map"><img src="./assets/imgs/list-icon.png" alt="" /><span>List</span></button> -->
+		</main>
+	</body>
+</html>

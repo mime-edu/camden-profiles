@@ -1,0 +1,277 @@
+/* locations */
+.location {
+	margin-bottom: 30px;
+}
+
+.location__header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 10px;
+}
+
+.location__address {
+	font-size: 16px;
+	font-weight: 400;
+	margin-bottom: 20px;
+}
+
+.location__map {
+	background-color: #bcbcbc;
+	width: 100%;
+	margin-bottom: 12px;
+	min-height: 220px;
+	border-radius: 15px;
+}
+
+/* .location__map iframe {
+	background-color: #bcbcbc;
+	width: 100%;
+	margin-bottom: 12px;
+	min-height: 220px;
+	border-radius: 15px;
+} */
+
+.location__toggler-block {
+	margin-bottom: 20px;
+}
+
+label[for="location-input"] {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.location-input__wrapper {
+	margin-top: 10px;
+	background-color: #ebebeb;
+	border-radius: 10px;
+	padding: 20px 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 15px;
+}
+
+.location-input__wrapper input {
+	flex: 1 1 auto;
+	font-size: 18px;
+	min-width: 0;
+}
+
+.location-input__wrapper .location__input-button {
+	flex: 0 0 95px;
+	font-size: 14px;
+	font-weight: 600;
+	color: #ed4d8b;
+}
+@media (max-width: 375px) {
+	.location-input__wrapper input {
+		font-size: 16px;
+	}
+	.location-input__wrapper {
+		padding: 15px 10px;
+	}
+
+	.location-input__wrapper .location__input-button {
+		font-size: 12px;
+		flex: 0 0 80px;
+	}
+}
+/* travel timings */
+
+.location__travel-time {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 50px;
+}
+.travel-time__item {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	text-align: center;
+}
+
+.travel-time__item img {
+	height: 24px;
+	width: 24px;
+	margin-bottom: 5px;
+}
+.travel-time__item span {
+	font-size: 14px;
+	font-weight: 600;
+}
+@media (max-width: 375px) {
+	.location__travel-time {
+		gap: 20px;
+		justify-content: space-between;
+	}
+}
+
+/* facilities */
+.facilities {
+	margin-bottom: 30px;
+}
+.facilities__title {
+	margin-bottom: 10px;
+	font-size: 20px;
+	font-weight: 700;
+}
+
+/* .facilities-block {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+} */
+.facilities-block__item img {
+	margin-right: 10px;
+	width: 16px;
+	height: 16px;
+}
+
+/* activities */
+
+.activities {
+	margin-bottom: 30px;
+}
+
+.activities__title {
+	font-size: 20px;
+	font-weight: 700;
+	margin-bottom: 10px;
+}
+.activities__list {
+	margin-bottom: 10px;
+}
+.activities__list li {
+	font-size: 18px;
+	padding-left: 12px;
+	position: relative;
+}
+.activities__list li:not(:last-child) {
+	margin-bottom: 7px;
+}
+.activities__list li::before {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 50%;
+	width: 6px;
+	height: 2px;
+	background-color: #ed4d8b;
+}
+
+.activities__additional {
+	font-size: 18px;
+	font-weight: 600;
+}
+.activities__additional a {
+	cursor: pointer;
+	color: #ed4d8b;
+	text-decoration: underline;
+}
+
+/* statistics */
+
+.statistics {
+	margin-bottom: 30px;
+}
+
+.statistics__title {
+	margin-bottom: 12px;
+}
+
+.statistics__togler-block {
+	margin-bottom: 20px;
+}
+
+.statistics-nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 10px;
+	margin-bottom: 30px;
+}
+
+.statistics-nav__button {
+	font-size: 18px;
+	font-weight: 700;
+	color: #ed4d8a94;
+	position: relative;
+	padding-bottom: 5px;
+}
+.statistics-nav__button.active {
+	color: #ed4d8b;
+}
+.statistics-nav__button.active::before {
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 2px;
+	background-color: #ed4d8b;
+}
+
+/*  stats block *sectors* */
+
+.stats-sector:not(:last-child) {
+	margin-bottom: 20px;
+}
+.stats-sector .stats-sector__name {
+	font-size: 16px;
+	font-weight: 400;
+	text-decoration: underline;
+	margin-bottom: 10px;
+}
+
+.stats-sector .stats-sector__description {
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.stats-sector__comparisons {
+	margin-top: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	row-gap: 5px;
+	column-gap: 10px;
+	transition: all 0.5s ease;
+}
+.stats-sector__comparisons p {
+	display: flex;
+	align-items: center;
+	font-size: 14px;
+	font-weight: 700;
+}
+.stats-sector__comparisons p img {
+	width: 12px;
+	height: 12px;
+	margin-left: 2px;
+}
+.stats-sector__comparisons p:nth-child(1) {
+	color: #ed4d8b;
+}
+.stats-sector__comparisons p:nth-child(2) {
+	color: #ed6c26;
+}
+
+/* admissions-proces */
+.admissions-process {
+	margin-bottom: 80px;
+}
+.admissions-process h2 {
+	margin-bottom: 10px;
+}
+.admissions-process p {
+	font-size: 16px;
+	font-weight: 400;
+	margin-bottom: 10px;
+}
+.admissions-process a {
+	text-decoration: underline;
+	color: #ed4d8b;
+	font-size: 16px;
+}

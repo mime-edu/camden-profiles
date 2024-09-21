@@ -1,0 +1,29 @@
+header {
+	background-image: url("../../imgs/header-bg.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	height: 150px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+header .logo {
+	width: 128px;
+	height: auto;
+}
+
+.header__wrapper {
+	position: relative;
+}
+
+@media (max-width: 375px) {
+	header {
+		height: 110px;
+	}
+
+	header .logo {
+		width: 110px;
+		height: auto;
+	}
+}

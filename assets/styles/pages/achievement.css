@@ -1,0 +1,41 @@
+/* about */
+.about-sector {
+	margin-bottom: 20px;
+}
+.about__toggler-block {
+	margin-bottom: 10px;
+}
+.about-sector .about__title {
+	margin-bottom: 10px;
+}
+.about-sector .about__text {
+	margin-bottom: 10px;
+	display: inline-block;
+}
+.about-sector .about__link {
+	color: #ed4d8b;
+	text-decoration: underline;
+	display: inline-block;
+}
+.about__chart:not(:last-child) {
+	margin-bottom: 20px;
+}
+.about__chart h3 {
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 116%;
+	color: #ed4d8b;
+	margin-bottom: 20px;
+}
+.about__chart p {
+	text-decoration: underline;
+	margin-bottom: 20px;
+}
+
+.about__chart img {
+	max-width: 480px;
+	max-height: 250px;
+	object-fit: contain;
+	object-position: center;
+	display: block;
+}
