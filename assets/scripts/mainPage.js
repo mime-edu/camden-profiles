@@ -1,15 +1,15 @@
 import { createTab } from "./modules/tabs.js";
 const { createApp, ref } = Vue;
-// let schools = ref([{ title: "School" }, { title: "School1" }, { title: "School2" }, { title: "School3" }]);
+
 document.addEventListener("DOMContentLoaded", async function () {
 	const response = await fetch("./schools.json");
 	const staticSchools = await response.json();
 	let schools = ref(staticSchools);
-
+	let filterOverlayData = ref(getFiltersFields(staticSchools));
 	// Vue.js app initialization
 	createApp({
 		setup() {
-			return { schools };
+			return { schools, filterOverlayData };
 		},
 	}).mount("#mainPage");
 
@@ -45,10 +45,10 @@ document.addEventListener("DOMContentLoaded", async function () {
 	// search by name or post code
 
 	document.getElementById("searchSchoolInput")?.addEventListener("input", (event) => {
-		schools.value = filterSchools(event.target.value, staticSchools);
+		schools.value = findSchools(event.target.value, staticSchools);
 	});
 
-	// Filter overlay setup
+	// FilterOverlay setup
 	let openFilterOverlayBtn = document.querySelector(".schools-filter__button");
 	if (openFilterOverlayBtn) {
 		openFilterOverlayBtn.addEventListener("click", openFilterOverlay);
@@ -67,6 +67,24 @@ document.addEventListener("DOMContentLoaded", async function () {
 	if (ageRangeInput) {
 		ageRangeInput.addEventListener("input", function () {
 			document.querySelector(".age-range .minValue").innerText = ageRangeInput.value;
+		});
+	}
+
+	// applyFilters
+	let applyFiltersButton = document.querySelector(".filter-accept");
+	if (applyFiltersButton) {
+		applyFiltersButton.addEventListener("click", function () {
+			schools.value = filterSchools(staticSchools);
+			closeFilterOverlay();
+		});
+	}
+	// resetFilters
+	let resetFiltersButton = document.querySelector(".filter-clear");
+	if (resetFiltersButton) {
+		resetFiltersButton.addEventListener("click", function () {
+			schools.value = staticSchools;
+			clearFilerOverlayCheckboxes();
+			closeFilterOverlay();
 		});
 	}
 });
@@ -91,7 +109,67 @@ function openFilterOverlay() {
 	filterOverlay.classList.add("_active");
 }
 
-function filterSchools(query, schools) {
+function clearFilerOverlayCheckboxes() {
+	let filterOverlay = document.querySelector(".filter-overlay");
+	if (filterOverlay) {
+		let checkboxes = filterOverlay.querySelectorAll("input[type=checkbox]");
+		for (const input of checkboxes) {
+			input.checked = false;
+		}
+		let ageRangeInput = filterOverlay.querySelector(".age-range-input");
+		if (ageRangeInput) {
+			ageRangeInput.value = ageRangeInput.min;
+			document.querySelector(".age-range .minValue").innerText = ageRangeInput.value;
+		}
+	}
+}
+
+// filter schools
+function filterSchools(schools) {
+	let ageRangeValue = document.querySelector(".age-range-input");
+	if (ageRangeValue) {
+		ageRangeValue = +ageRangeValue.value;
+	}
+
+	let schoolTypeValues = [];
+	document.querySelectorAll(".school-type-filters button").forEach((button) => {
+		let buttonScheckbox = button.querySelector('input[type="checkbox"]');
+		if (buttonScheckbox && buttonScheckbox.checked == true) {
+			schoolTypeValues.push(button.innerText);
+		}
+	});
+
+	let genderValues = [];
+	document.querySelectorAll(".genders-filters button").forEach((button) => {
+		let buttonScheckbox = button.querySelector('input[type="checkbox"]');
+		if (buttonScheckbox && buttonScheckbox.checked == true) {
+			genderValues.push(button.innerText);
+		}
+	});
+
+	let facilitiesValues = [];
+	document.querySelectorAll(".facilities-filter button").forEach((button) => {
+		let buttonScheckbox = button.querySelector('input[type="checkbox"]');
+		if (buttonScheckbox && buttonScheckbox.checked == true) {
+			facilitiesValues.push(button.innerText);
+		}
+	});
+
+	let filteredSchools = schools.filter((school) => {
+		const [minAge, maxAge] = school.ageRange;
+		const ageMatch = ageRangeValue >= minAge && ageRangeValue <= maxAge;
+
+		const facilitiesMatch = facilitiesValues.length === 0 || facilitiesValues.some((type) => school.facilities.includes(type));
+		const genderMatch = genderValues.length === 0 || genderValues.includes(school.gender);
+		const schoolTypeMatch = schoolTypeValues.length === 0 || schoolTypeValues.includes(school.type);
+
+		return ageMatch && facilitiesMatch && genderMatch && schoolTypeMatch;
+	});
+
+	return filteredSchools;
+}
+
+function findSchools(query, schools) {
 	const lowerQuery = query.toLowerCase();
 
 	const filteredSchools = schools.filter((school) => {
@@ -125,21 +203,21 @@ function drawMap(staticSchools) {
 				`<div class="schools-list_item school-item school-item-as-popup">
 					<div class="school-item__header">
 						<img src="./assets/imgs/school-logo.png" alt="school-logo" />
-						<h4 class="school-item__name">Demo School</h4>
+						<h4 class="school-item__name">${school.schoolName}</h4>
 					</div>
-					<p class="school-itemy__description">We want our pupils to become informed, articulate and empowered citizens.</p>
+					<p class="school-itemy__description">${school.shortSlogan}</p>
 					<div class="school-item__info-row info-row">
 						<div class="info-row__item">
 							<p>Age Range</p>
-							<span>4-11</span>
+							<span>${school.ageRange}</span>
 						</div>
 						<div class="info-row__item">
 							<p>School Type</p>
-							<span>Roman Catholic</span>
+							<span>${school.type}</span>
 						</div>
 						<div class="info-row__item">
 							<p>Sex</p>
-							<span>Mixed</span>
+							<span>${school.gender}</span>
 						</div>
 					</div>
 					<div class="school-item__footer">
@@ -151,4 +229,29 @@ function drawMap(staticSchools) {
 			)
 			.addTo(map);
 	});
+}
+
+function getFiltersFields(schools) {
+	// get schools age ranges
+	const ageRanges = schools.map((school) => school.ageRange);
+	const minAge = Math.min(...ageRanges.map((range) => range[0]));
+	const maxAge = Math.max(...ageRanges.map((range) => range[1]));
+
+	// get schools types
+	const schoolTypes = [...new Set(schools.map((school) => school.type))];
+
+	// get schools genders
+	const schoolGenders = [
+		...new Set(
+			schools.map((school) => {
+				return school.gender;
+			})
+		),
+	];
+
+	// get schools facilities
+	let schoolFacilities = [...new Set(schools.flatMap((school) => school.facilities))];
+	console.log(schoolFacilities);
+
+	return { ageRange: [minAge, maxAge], schoolTypes: schoolTypes, genders: schoolGenders, facilities: schoolFacilities };
 }

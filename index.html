@@ -74,7 +74,7 @@
 								<div class="school-item__info-row info-row">
 									<div class="info-row__item">
 										<p>Age Range</p>
-										<span>{{school.ageRange}}</span>
+										<span>{{school.ageRange[0]}}-{{school.ageRange[1]}}</span>
 									</div>
 									<div class="info-row__item">
 										<p>School Type</p>
@@ -196,19 +196,22 @@
 									<div class="overlay__age-range age-range">
 										<input type="range" class="age-range-input" min="4" max="18" value="4" />
 										<div class="age-range__values">
-											<span class="minValue">4</span>
-											<span class="maxValue">18</span>
+											<span class="minValue">{{filterOverlayData.ageRange[0]}}</span>
+											<span class="maxValue">{{filterOverlayData.ageRange[1]}}</span>
 										</div>
 									</div>
 								</div>
 								<div class="overlay-main__sector sector">
 									<p class="sector__title">School Type</p>
-									<div class="sector-params-block">
-										<button class="filter-checkbox">
+									<div class="sector-params-block school-type-filters">
+										<button
+											v-for="schoolType in filterOverlayData.schoolTypes"
+											:filter-param="schoolType"
+											class="filter-checkbox">
 											<input class="filter-checkbox" type="checkbox" name="" id="" />
-											<p>Roman Catholic</p>
+											<p>{{schoolType}}</p>
 										</button>
-										<button class="filter-checkbox">
+										<!-- <button class="filter-checkbox">
 											<input class="filter-checkbox" type="checkbox" name="" id="" />
 											<p>Church of England</p>
 										</button>
@@ -219,39 +222,34 @@
 										<button class="filter-checkbox">
 											<input class="filter-checkbox" type="checkbox" name="" id="" />
 											<p>Alternative Provision</p>
-										</button>
-
-										<button class="filter-checkbox">
-											<input class="filter-checkbox" type="checkbox" name="" id="" />
-											<p>etc</p>
-										</button>
+										</button> -->
 									</div>
 								</div>
 								<div class="overlay-main__sector sector">
 									<p class="sector__title">Sex</p>
-									<div class="sector-params-block sector-params-block-row">
-										<button class="filter-checkbox">
+									<div class="sector-params-block sector-params-block-row genders-filters">
+										<button v-for="gender in filterOverlayData.genders" :filter-param="gender" class="filter-checkbox">
 											<input class="filter-checkbox" type="checkbox" name="" id="" />
-											<p>Mixed</p>
+											<p>{{gender}}</p>
 										</button>
-										<button class="filter-checkbox">
+										<!-- <button class="filter-checkbox">
 											<input class="filter-checkbox" type="checkbox" name="" id="" />
 											<p>Boys Only</p>
 										</button>
 										<button class="filter-checkbox">
 											<input class="filter-checkbox" type="checkbox" name="" id="" />
 											<p>Girls Only</p>
-										</button>
+										</button> -->
 									</div>
 								</div>
 								<div class="overlay-main__sector sector">
 									<p class="sector__title">Facilities</p>
-									<div class="sector-params-block">
-										<button class="filter-checkbox">
+									<div class="sector-params-block facilities-filter">
+										<button v-for="facility in filterOverlayData.facilities" :filter-param="facility" class="filter-checkbox">
 											<input class="filter-checkbox" type="checkbox" name="" id="" />
-											<p>Swimming Pool</p>
+											<p>{{facility}}</p>
 										</button>
-										<button class="filter-checkbox">
+										<!-- <button class="filter-checkbox">
 											<input class="filter-checkbox" type="checkbox" name="" id="" />
 											<p>Tennis Courts</p>
 										</button>
@@ -274,7 +272,7 @@
 										<button class="filter-checkbox">
 											<input class="filter-checkbox" type="checkbox" name="" id="" />
 											<p>Science Labs</p>
-										</button>
+										</button> -->
 									</div>
 								</div>
 							</div>
