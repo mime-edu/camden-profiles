@@ -8,17 +8,17 @@
 		"websiteLink": "https://www.redriff.co.uk/",
 		"type": "Roman Catholic",
 		"gender": "Mixed",
-		"ageRange": "4-10",
+		"ageRange": [4, 10],
 		"address": "Laystall St, Holborn, London",
-		"lat": 51.4862,
-		"long": -0.0175,
+		"lat": 51.509865,
+		"long": -0.118092,
 		"prevYearCatchmentRadius": 200,
 		"postCode": "EC1R 4PQ",
-		"facilities": ["Science lab", "2 playgrounds", "Tennis courts", "Library", "Computer lab", "2 cafes"],
+		"facilities": ["Science lab", "Cafe", "Playgrounds", "Library", "Tennis courts"],
 		"activities": [
 			"Breakfast club",
 			"Family learning",
-			"Sports club",
+			"Sports",
 			"Public speaking",
 			"Duke of Edinburgh",
 			"Computer club",
@@ -45,17 +45,33 @@
 				"../assets/imgs/school/10photos_1.png",
 				"../assets/imgs/school/10photos_1.png"
 			],
-			"schoolPrioritiesUrls": [
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png"
+			"schoolHighlights": [
+				{
+					"title": "Highlights 1",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 2",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 3",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 4",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				}
 			],
-			"schoolHighlightsUrls": [
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png"
+			"schoolPriorities": [
+				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
 			]
 		},
 		"statistics": {
@@ -138,26 +154,58 @@
 		"websiteLink": "https://www.stmarysschool.co.uk/",
 		"type": "Community",
 		"gender": "Mixed",
-		"ageRange": "3-11",
+		"ageRange": [4, 10],
 		"address": "123 Main Street, London",
-		"lat": 51.5074,
-		"long": -0.1278,
+		"lat": 51.5155,
+		"long": -0.0922,
 		"prevYearCatchmentRadius": 300,
 		"postCode": "SW1A 1AA",
-		"facilities": ["Art studio", "Sports hall", "Music room", "Library"],
-		"activities": ["After-school club", "Choir", "Football", "Drama club", "Dance"],
+		"facilities": ["Gym", "Library", "Art studio"],
+		"activities": ["After-school club", "Choir", "Football", "Drama", "Dance"],
 		"admissionProcess": "Applications are accepted year-round with deadlines for specific academic years. We encourage visits and open days to learn more about our school community.",
 		"tabs": {
 			"schoolViewsUrls": [
 				"https://via.placeholder.com/400x300?text=St.+Mary's+School+View+1",
-				"https://via.placeholder.com/400x300?text=St.+Mary's+School+View+2"
+				"https://via.placeholder.com/400x300?text=St.+Mary's+School+View+2",
+				"https://via.placeholder.com/400x300?text=St.+Mary's+School+View+1",
+				"https://via.placeholder.com/400x300?text=St.+Mary's+School+View+1",
+				"https://via.placeholder.com/400x300?text=St.+Mary's+School+View+1"
 			],
 			"schoolPhotosUrls": [
 				"https://via.placeholder.com/400x300?text=St.+Mary's+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=St.+Mary's+School+Photo+2"
+				"https://via.placeholder.com/400x300?text=St.+Mary's+School+Photo+2",
+				"https://via.placeholder.com/400x300?text=St.+Mary's+School+Photo+1",
+				"https://via.placeholder.com/400x300?text=St.+Mary's+School+Photo+1",
+				"https://via.placeholder.com/400x300?text=St.+Mary's+School+Photo+1"
 			],
-			"schoolPrioritiesUrls": ["https://via.placeholder.com/400x300?text=St.+Mary's+School+Priority+1"],
-			"schoolHighlightsUrls": ["https://via.placeholder.com/400x300?text=St.+Mary's+School+Highlight+1"]
+			"schoolHighlights": [
+				{
+					"title": "Highlights 1",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 2",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 3",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 4",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				}
+			],
+			"schoolPriorities": [
+				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
+			]
 		},
 		"statistics": {
 			"pupilsNum": 450,
@@ -210,26 +258,58 @@
 		"websiteLink": "https://www.londonacademy.co.uk/",
 		"type": "Academy",
 		"gender": "Mixed",
-		"ageRange": "11-16",
+		"ageRange": [4, 10],
 		"address": "456 Elm Street, London",
-		"lat": 51.5072,
-		"long": -0.1275,
+		"lat": 51.5014,
+		"long": -0.1419,
 		"prevYearCatchmentRadius": 250,
 		"postCode": "NW1 7AB",
-		"facilities": ["Sports centre", "Science labs", "Arts centre", "IT suite"],
-		"activities": ["Debate club", "Art workshops", "Football league", "Drama productions"],
+		"facilities": ["Gym", "Science lab", "Art studio"],
+		"activities": ["Debate club", "Art workshops", "Football", "Drama"],
 		"admissionProcess": "Applications are processed through the local authority with specific deadlines for each academic year.",
 		"tabs": {
 			"schoolViewsUrls": [
 				"https://via.placeholder.com/400x300?text=London+Academy+View+1",
-				"https://via.placeholder.com/400x300?text=London+Academy+View+2"
+				"https://via.placeholder.com/400x300?text=London+Academy+View+2",
+				"https://via.placeholder.com/400x300?text=London+Academy+View+1",
+				"https://via.placeholder.com/400x300?text=London+Academy+View+1",
+				"https://via.placeholder.com/400x300?text=London+Academy+View+1"
 			],
 			"schoolPhotosUrls": [
 				"https://via.placeholder.com/400x300?text=London+Academy+Photo+1",
-				"https://via.placeholder.com/400x300?text=London+Academy+Photo+2"
+				"https://via.placeholder.com/400x300?text=London+Academy+Photo+2",
+				"https://via.placeholder.com/400x300?text=London+Academy+Photo+1",
+				"https://via.placeholder.com/400x300?text=London+Academy+Photo+1",
+				"https://via.placeholder.com/400x300?text=London+Academy+Photo+1"
 			],
-			"schoolPrioritiesUrls": ["https://via.placeholder.com/400x300?text=London+Academy+Priority+1"],
-			"schoolHighlightsUrls": ["https://via.placeholder.com/400x300?text=London+Academy+Highlight+1"]
+			"schoolHighlights": [
+				{
+					"title": "Highlights 1",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 2",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 3",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 4",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				}
+			],
+			"schoolPriorities": [
+				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
+			]
 		},
 		"statistics": {
 			"pupilsNum": 600,
@@ -282,26 +362,58 @@
 		"websiteLink": "https://www.greenfieldschool.co.uk/",
 		"type": "Foundation",
 		"gender": "Mixed",
-		"ageRange": "4-11",
+		"ageRange": [4, 11],
 		"address": "789 Oak Avenue, London",
-		"lat": 51.5155,
-		"long": -0.1411,
+		"lat": 51.4872,
+		"long": -0.1638,
 		"prevYearCatchmentRadius": 150,
 		"postCode": "E1 6AN",
-		"facilities": ["Gym", "Outdoor playground", "Music studio", "Science lab"],
-		"activities": ["Gardening club", "Creative writing", "Art and design", "Basketball"],
+		"facilities": ["Gym", "Science lab", "Art studio", "Playground"],
+		"activities": ["Gardening club", "Creative writing", "Art and design", "Sports"],
 		"admissionProcess": "We offer admissions based on local authority guidelines with specific entry points throughout the year.",
 		"tabs": {
 			"schoolViewsUrls": [
 				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+View+2"
+				"https://via.placeholder.com/400x300?text=Greenfield+School+View+2",
+				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1",
+				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1",
+				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1"
 			],
 			"schoolPhotosUrls": [
 				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+2"
+				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+2",
+				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1",
+				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1",
+				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1"
 			],
-			"schoolPrioritiesUrls": ["https://via.placeholder.com/400x300?text=Greenfield+School+Priority+1"],
-			"schoolHighlightsUrls": ["https://via.placeholder.com/400x300?text=Greenfield+School+Highlight+1"]
+			"schoolHighlights": [
+				{
+					"title": "Highlights 1",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 2",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 3",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 4",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				}
+			],
+			"schoolPriorities": [
+				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
+			]
 		},
 		"statistics": {
 			"pupilsNum": 350,
@@ -354,26 +466,58 @@
 		"websiteLink": "https://www.riverbankschool.co.uk/",
 		"type": "Voluntary Aided",
 		"gender": "Mixed",
-		"ageRange": "5-11",
+		"ageRange": [5, 13],
 		"address": "321 River Road, London",
-		"lat": 51.5094,
-		"long": -0.0823,
+		"lat": 51.5145,
+		"long": -0.0925,
 		"prevYearCatchmentRadius": 200,
 		"postCode": "SE1 2PQ",
-		"facilities": ["Drama studio", "Outdoor classroom", "Computer suite", "Cafeteria"],
-		"activities": ["Music lessons", "Swimming", "Chess club", "Outdoor education"],
+		"facilities": ["Computer suite", "Drama studio", "Cafe", "Outdoor classroom"],
+		"activities": ["Music", "Sports", "Chess", "Sports"],
 		"admissionProcess": "Applications are handled directly by the school with opportunities for open days and visits to learn more about our community.",
 		"tabs": {
 			"schoolViewsUrls": [
 				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+View+2"
+				"https://via.placeholder.com/400x300?text=Riverbank+School+View+2",
+				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1",
+				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1",
+				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1"
 			],
 			"schoolPhotosUrls": [
 				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+2"
+				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+2",
+				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1",
+				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1",
+				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1"
 			],
-			"schoolPrioritiesUrls": ["https://via.placeholder.com/400x300?text=Riverbank+School+Priority+1"],
-			"schoolHighlightsUrls": ["https://via.placeholder.com/400x300?text=Riverbank+School+Highlight+1"]
+			"schoolHighlights": [
+				{
+					"title": "Highlights 1",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 2",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 3",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 4",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				}
+			],
+			"schoolPriorities": [
+				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
+			]
 		},
 		"statistics": {
 			"pupilsNum": 500,
@@ -426,26 +570,58 @@
 		"websiteLink": "https://www.oakwoodacademy.co.uk/",
 		"type": "Academy",
 		"gender": "Mixed",
-		"ageRange": "4-16",
+		"ageRange": [6, 16],
 		"address": "456 Oakwood Street, London",
-		"lat": 51.5195,
-		"long": -0.0995,
+		"lat": 51.5033,
+		"long": -0.1196,
 		"prevYearCatchmentRadius": 250,
 		"postCode": "WC1N 1AA",
-		"facilities": ["Sports hall", "Art studio", "Technology lab", "Library"],
-		"activities": ["Debate club", "Drama", "Environmental club", "Music lessons"],
+		"facilities": ["Gym", "Science lab", "Library", "Art studio"],
+		"activities": ["Debate club", "Drama", "Environmental club", "Music"],
 		"admissionProcess": "Applications are accepted throughout the year. Please contact the school office for more details on the admission process.",
 		"tabs": {
 			"schoolViewsUrls": [
 				"https://via.placeholder.com/400x300?text=Oakwood+Academy+View+1",
-				"https://via.placeholder.com/400x300?text=Oakwood+Academy+View+2"
+				"https://via.placeholder.com/400x300?text=Oakwood+Academy+View+2",
+				"https://via.placeholder.com/400x300?text=Oakwood+Academy+View+1",
+				"https://via.placeholder.com/400x300?text=Oakwood+Academy+View+1",
+				"https://via.placeholder.com/400x300?text=Oakwood+Academy+View+1"
 			],
 			"schoolPhotosUrls": [
 				"https://via.placeholder.com/400x300?text=Oakwood+Academy+Photo+1",
-				"https://via.placeholder.com/400x300?text=Oakwood+Academy+Photo+2"
+				"https://via.placeholder.com/400x300?text=Oakwood+Academy+Photo+2",
+				"https://via.placeholder.com/400x300?text=Oakwood+Academy+Photo+1",
+				"https://via.placeholder.com/400x300?text=Oakwood+Academy+Photo+1",
+				"https://via.placeholder.com/400x300?text=Oakwood+Academy+Photo+1"
 			],
-			"schoolPrioritiesUrls": ["https://via.placeholder.com/400x300?text=Oakwood+Academy+Priority+1"],
-			"schoolHighlightsUrls": ["https://via.placeholder.com/400x300?text=Oakwood+Academy+Highlight+1"]
+			"schoolHighlights": [
+				{
+					"title": "Highlights 1",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 2",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 3",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 4",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				}
+			],
+			"schoolPriorities": [
+				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
+			]
 		},
 		"statistics": {
 			"pupilsNum": 600,
@@ -498,26 +674,58 @@
 		"websiteLink": "https://www.westfieldschool.co.uk/",
 		"type": "Community",
 		"gender": "Mixed",
-		"ageRange": "4-11",
+		"ageRange": [4, 16],
 		"address": "123 Westfield Road, London",
-		"lat": 51.52,
-		"long": -0.1167,
+		"lat": 51.5184,
+		"long": -0.0785,
 		"prevYearCatchmentRadius": 180,
 		"postCode": "W1F 7PB",
-		"facilities": ["Library", "Music room", "Science lab", "Sports pitch"],
-		"activities": ["Chess club", "Drama productions", "Cooking club", "Environmental studies"],
+		"facilities": ["Science lab", "Library", "Art studio", "Playground"],
+		"activities": ["Chess", "Drama", "Cooking club", "Environmental studies"],
 		"admissionProcess": "We accept applications based on local authority guidelines. Please visit our website for detailed information on the admission process.",
 		"tabs": {
 			"schoolViewsUrls": [
 				"https://via.placeholder.com/400x300?text=Westfield+School+View+1",
-				"https://via.placeholder.com/400x300?text=Westfield+School+View+2"
+				"https://via.placeholder.com/400x300?text=Westfield+School+View+2",
+				"https://via.placeholder.com/400x300?text=Westfield+School+View+1",
+				"https://via.placeholder.com/400x300?text=Westfield+School+View+1",
+				"https://via.placeholder.com/400x300?text=Westfield+School+View+1"
 			],
 			"schoolPhotosUrls": [
 				"https://via.placeholder.com/400x300?text=Westfield+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Westfield+School+Photo+2"
+				"https://via.placeholder.com/400x300?text=Westfield+School+Photo+2",
+				"https://via.placeholder.com/400x300?text=Westfield+School+Photo+1",
+				"https://via.placeholder.com/400x300?text=Westfield+School+Photo+1",
+				"https://via.placeholder.com/400x300?text=Westfield+School+Photo+1"
 			],
-			"schoolPrioritiesUrls": ["https://via.placeholder.com/400x300?text=Westfield+School+Priority+1"],
-			"schoolHighlightsUrls": ["https://via.placeholder.com/400x300?text=Westfield+School+Highlight+1"]
+			"schoolHighlights": [
+				{
+					"title": "Highlights 1",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 2",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 3",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 4",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				}
+			],
+			"schoolPriorities": [
+				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
+			]
 		},
 		"statistics": {
 			"pupilsNum": 420,
@@ -570,26 +778,58 @@
 		"websiteLink": "https://www.greenfieldschool.co.uk/",
 		"type": "Independent",
 		"gender": "Mixed",
-		"ageRange": "4-18",
+		"ageRange": [10, 18],
 		"address": "789 Greenfield Avenue, London",
-		"lat": 51.5151,
-		"long": -0.13,
+		"lat": 51.4901,
+		"long": -0.1304,
 		"prevYearCatchmentRadius": 220,
 		"postCode": "SW1A 1AA",
-		"facilities": ["Gymnasium", "Arts center", "Computer lab", "Science labs"],
-		"activities": ["Music band", "Creative writing", "Sports teams", "Drama club"],
+		"facilities": ["Gym", "Science lab", "Arts center"],
+		"activities": ["Music", "Creative writing", "Sports teams", "Drama"],
 		"admissionProcess": "Admission is based on a selection process including interviews and assessments. Please visit our website for detailed information.",
 		"tabs": {
 			"schoolViewsUrls": [
 				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+View+2"
+				"https://via.placeholder.com/400x300?text=Greenfield+School+View+2",
+				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1",
+				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1",
+				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1"
 			],
 			"schoolPhotosUrls": [
 				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+2"
+				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+2",
+				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1",
+				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1",
+				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1"
 			],
-			"schoolPrioritiesUrls": ["https://via.placeholder.com/400x300?text=Greenfield+School+Priority+1"],
-			"schoolHighlightsUrls": ["https://via.placeholder.com/400x300?text=Greenfield+School+Highlight+1"]
+			"schoolHighlights": [
+				{
+					"title": "Highlights 1",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 2",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 3",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 4",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				}
+			],
+			"schoolPriorities": [
+				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
+			]
 		},
 		"statistics": {
 			"pupilsNum": 700,
@@ -642,26 +882,58 @@
 		"websiteLink": "https://www.riverbankschool.co.uk/",
 		"type": "Foundation",
 		"gender": "Mixed",
-		"ageRange": "4-12",
+		"ageRange": [7, 18],
 		"address": "321 Riverbank Drive, London",
-		"lat": 51.5115,
-		"long": -0.1165,
+		"lat": 51.5216,
+		"long": -0.1397,
 		"prevYearCatchmentRadius": 210,
 		"postCode": "SE1 8XX",
-		"facilities": ["Gym", "Library", "Music room", "Outdoor play area"],
-		"activities": ["Swimming club", "Art club", "Science experiments", "Drama club"],
+		"facilities": ["Gym", "Outdoor play area", "Library", "Art studio"],
+		"activities": ["Swimming club", "Art club", "Science experiments", "Drama"],
 		"admissionProcess": "Contact the school for information on the application process and deadlines.",
 		"tabs": {
 			"schoolViewsUrls": [
 				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+View+2"
+				"https://via.placeholder.com/400x300?text=Riverbank+School+View+2",
+				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1",
+				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1",
+				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1"
 			],
 			"schoolPhotosUrls": [
 				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+2"
+				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+2",
+				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1",
+				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1",
+				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1"
 			],
-			"schoolPrioritiesUrls": ["https://via.placeholder.com/400x300?text=Riverbank+School+Priority+1"],
-			"schoolHighlightsUrls": ["https://via.placeholder.com/400x300?text=Riverbank+School+Highlight+1"]
+			"schoolHighlights": [
+				{
+					"title": "Highlights 1",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 2",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 3",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 4",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				}
+			],
+			"schoolPriorities": [
+				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
+			]
 		},
 		"statistics": {
 			"pupilsNum": 500,
@@ -714,26 +986,58 @@
 		"websiteLink": "https://www.hillcrestschool.co.uk/",
 		"type": "Academy",
 		"gender": "Mixed",
-		"ageRange": "4-16",
+		"ageRange": [7, 18],
 		"address": "654 Hillcrest Road, London",
-		"lat": 51.5145,
-		"long": -0.14,
+		"lat": 51.5295,
+		"long": -0.0754,
 		"prevYearCatchmentRadius": 230,
 		"postCode": "E2 8AA",
-		"facilities": ["Gym", "Library", "Art studio", "Science labs"],
+		"facilities": ["Gym", "Science lab", "Library", "Art studio"],
 		"activities": ["Debate team", "Robotics club", "Drama", "Creative writing"],
 		"admissionProcess": "Please visit our website for information on the application process and deadlines.",
 		"tabs": {
 			"schoolViewsUrls": [
 				"https://via.placeholder.com/400x300?text=Hillcrest+School+View+1",
-				"https://via.placeholder.com/400x300?text=Hillcrest+School+View+2"
+				"https://via.placeholder.com/400x300?text=Hillcrest+School+View+2",
+				"https://via.placeholder.com/400x300?text=Hillcrest+School+View+1",
+				"https://via.placeholder.com/400x300?text=Hillcrest+School+View+1",
+				"https://via.placeholder.com/400x300?text=Hillcrest+School+View+1"
 			],
 			"schoolPhotosUrls": [
 				"https://via.placeholder.com/400x300?text=Hillcrest+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Hillcrest+School+Photo+2"
+				"https://via.placeholder.com/400x300?text=Hillcrest+School+Photo+2",
+				"https://via.placeholder.com/400x300?text=Hillcrest+School+Photo+1",
+				"https://via.placeholder.com/400x300?text=Hillcrest+School+Photo+1",
+				"https://via.placeholder.com/400x300?text=Hillcrest+School+Photo+1"
 			],
-			"schoolPrioritiesUrls": ["https://via.placeholder.com/400x300?text=Hillcrest+School+Priority+1"],
-			"schoolHighlightsUrls": ["https://via.placeholder.com/400x300?text=Hillcrest+School+Highlight+1"]
+			"schoolHighlights": [
+				{
+					"title": "Highlights 1",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 2",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 3",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				},
+				{
+					"title": "Highlights 4",
+					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"link": ""
+				}
+			],
+			"schoolPriorities": [
+				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
+			]
 		},
 		"statistics": {
 			"pupilsNum": 550,
