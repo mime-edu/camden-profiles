@@ -19,5 +19,5 @@ document.addEventListener("DOMContentLoaded", async function () {
 		setup() {
 			return { school };
 		},
-	}).mount("#curriculumPage");
+	}).mount("#sendPage");
 });

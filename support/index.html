@@ -10,13 +10,14 @@
 			rel="stylesheet" />
 		<link rel="stylesheet" href="../assets/styles/global.css" />
 		<link rel="stylesheet" href="../assets/styles/components/header.css" />
+		<link rel="stylesheet" href="../assets/styles/components/footer.css" />
 		<link rel="stylesheet" href="../assets/styles/pages/support.css" />
 		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 		<script type="module" src="./../assets/scripts/supportPage.js" defer></script>
 
 		<title>Pupil Support & Wellbeing</title>
 	</head>
-	<body id="supportPage" class="Curriculum">
+	<body id="supportPage" class="Curriculum" v-cloak>
 		<header>
 			<div class="header__container">
 				<div class="header__content">
@@ -35,7 +36,7 @@
 						>
 						<h1 class="hero__title">Pupil Support & Wellbeing</h1>
 						<div class="hero__navigation page-navigation">
-							<a href="#happiness-sector" class="page-navigation__button active">
+							<a href="#happiness-sector" class="page-navigation__button">
 								<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 									<path
 										d="M12.0043 17.1923C12.8527 17.1923 13.6535 17.0006 14.4067 16.6173C15.1599 16.2339 15.7686 15.6884 16.2327 14.9807C16.3775 14.7615 16.3945 14.5432 16.2836 14.3259C16.1727 14.1086 15.9961 14 15.7538 14C15.6547 14 15.5648 14.0227 15.4843 14.0683C15.4037 14.1138 15.3365 14.1788 15.2827 14.2634C14.8993 14.8057 14.4211 15.2307 13.8481 15.5384C13.275 15.8461 12.659 16 12 16C11.341 16 10.725 15.8461 10.1519 15.5384C9.57882 15.2307 9.10061 14.8057 8.71728 14.2634C8.65318 14.1788 8.58085 14.1138 8.5003 14.0683C8.41975 14.0227 8.3299 14 8.23075 14C7.98845 14 7.81185 14.1045 7.70095 14.3134C7.59005 14.5224 7.60704 14.7346 7.75193 14.95C8.21603 15.6679 8.82468 16.2211 9.57788 16.6096C10.3311 16.998 11.1399 17.1923 12.0043 17.1923ZM15.4061 10.8077C15.7699 10.8077 16.0785 10.6803 16.3317 10.4256C16.5849 10.1709 16.7115 9.86158 16.7115 9.4977C16.7115 9.13383 16.5841 8.8253 16.3294 8.5721C16.0747 8.3189 15.7654 8.1923 15.4016 8.1923C15.0377 8.1923 14.7292 8.31966 14.476 8.57438C14.2227 8.82908 14.0961 9.13837 14.0961 9.50225C14.0961 9.86612 14.2235 10.1747 14.4782 10.4279C14.7329 10.6811 15.0422 10.8077 15.4061 10.8077ZM8.5984 10.8077C8.96227 10.8077 9.2708 10.6803 9.524 10.4256C9.77722 10.1709 9.90383 9.86158 9.90383 9.4977C9.90383 9.13383 9.77647 8.8253 9.52175 8.5721C9.26703 8.3189 8.95774 8.1923 8.59388 8.1923C8.23001 8.1923 7.92147 8.31966 7.66825 8.57438C7.41505 8.82908 7.28845 9.13837 7.28845 9.50225C7.28845 9.86612 7.41581 10.1747 7.67053 10.4279C7.92524 10.6811 8.23453 10.8077 8.5984 10.8077ZM12.0016 21.5C10.6877 21.5 9.45268 21.2506 8.29655 20.752C7.1404 20.2533 6.13472 19.5765 5.2795 18.7217C4.42427 17.8669 3.74721 16.8616 3.24833 15.706C2.74944 14.5504 2.5 13.3156 2.5 12.0017C2.5 10.6877 2.74933 9.45268 3.248 8.29655C3.74667 7.1404 4.42342 6.13472 5.27825 5.2795C6.1331 4.42427 7.13834 3.74721 8.29398 3.24833C9.44959 2.74944 10.6844 2.5 11.9983 2.5C13.3122 2.5 14.5473 2.74933 15.7034 3.248C16.8596 3.74667 17.8652 4.42342 18.7205 5.27825C19.5757 6.1331 20.2527 7.13834 20.7516 8.29398C21.2505 9.44959 21.5 10.6844 21.5 11.9983C21.5 13.3122 21.2506 14.5473 20.752 15.7034C20.2533 16.8596 19.5765 17.8652 18.7217 18.7205C17.8669 19.5757 16.8616 20.2527 15.706 20.7516C14.5504 21.2505 13.3156 21.5 12.0016 21.5ZM12 20C14.2333 20 16.125 19.225 17.675 17.675C19.225 16.125 20 14.2333 20 12C20 9.76664 19.225 7.87498 17.675 6.32498C16.125 4.77498 14.2333 3.99998 12 3.99998C9.76664 3.99998 7.87498 4.77498 6.32498 6.32498C4.77498 7.87498 3.99998 9.76664 3.99998 12C3.99998 14.2333 4.77498 16.125 6.32498 17.675C7.87498 19.225 9.76664 20 12 20Z"
@@ -85,7 +86,7 @@
 							<p class="about__text">{{school.support.bullingProtection}}</p>
 							<a class="about__link" href="">View our behaviour policy</a>
 						</div>
-						<div class="about-sector" id="support-sector">
+						<!-- <div class="about-sector" id="support-sector">
 							<h2 class="about__title">
 								How do we support children with <span class="underlined">Special educational needs & disabilities (SEND)?</span>
 							</h2>
@@ -95,13 +96,10 @@
 								<div v-for="SEND in school.statistics.specificSEND" class="info-tag">
 									<span>{{SEND}}</span>
 								</div>
-								<!-- <div class="info-tag"><span>Social, Emotional and Mental Health</span></div> -->
-								<!-- <div class="info-tag"><span>Hearing Impairment</span></div> -->
-								<!-- <div class="info-tag"><span>Visual Impairment</span></div> -->
-								<!-- <div class="info-tag"><span>Moderate Learning Difficulty</span></div> -->
+								 
 							</div>
 							<a class="about__link" href="">View Camden SEND local offer</a>
-						</div>
+						</div> -->
 						<div class="about-sector" id="attendance-sector">
 							<h2 class="about__title">How do we ensure good pupil attendance?</h2>
 							<p class="about__text">{{school.support.attendanceManagement}}</p>
@@ -115,5 +113,18 @@
 				</div>
 			</section>
 		</main>
+		<footer>
+			<div class="footer__container">
+				<div class="footer__content">
+					<div class="logo">
+						<a href="/index.html"><img src="../assets/imgs/logo-color.png" alt="logo" /></a>
+					</div>
+					<p class="text">
+						Camden Learning, the local area-based education partnership, which supports the development of all Camden schools,
+						confirms that the information in this report is accurate at the date of publication.
+					</p>
+				</div>
+			</div>
+		</footer>
 	</body>
 </html>

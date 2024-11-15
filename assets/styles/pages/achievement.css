@@ -27,8 +27,9 @@
 	color: #ed4d8b;
 	margin-bottom: 20px;
 }
+
 .about__chart p {
-	text-decoration: underline;
+	/* text-decoration: underline; */
 	margin-bottom: 20px;
 }
 
@@ -38,4 +39,5 @@
 	object-fit: contain;
 	object-position: center;
 	display: block;
+	margin-bottom: 15px;
 }

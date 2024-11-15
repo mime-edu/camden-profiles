@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 	let schoolId = urlParams.get("schoolId");
 	if (!schoolId) {
 		schoolId = 0;
+		location.href = `${location.origin}`;
 	}
 	let school = ref(
 		schools.find((el) => {

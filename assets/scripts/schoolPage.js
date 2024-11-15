@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 	let schoolId = urlParams.get("schoolId");
 	if (!schoolId) {
 		schoolId = 0;
+		location.href = `${location.origin}`;
 	}
 	let school = ref(
 		schools.find((el) => {
@@ -35,7 +36,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 		// Optional parameters
 		direction: "horizontal",
 		loop: true,
-
+		autoHeight: true,
 		// Enable mousewheel control for desktop (scroll through slides using mouse wheel)
 		mousewheel: {
 			invert: false,

@@ -2,6 +2,7 @@
 	{
 		"schoolId": 1,
 		"schoolName": "Redriff Primary",
+		"isPrimary": false,
 		"shortSlogan": "We want our pupils to become informed, articulate and empowered citizens.",
 		"descriptionTitle": "We want our pupils to become informed, articulate and empowered citizens.",
 		"description": "Through our curriculum with its emphasis on the Environment and the Rights of the Child, our innovative pedagogy and the rich opportunities we provide, children develop the knowledge, skills and attitudes to thrive academically and personally. Affectionately known as 'Hattoneers,' our children embody high aspirations, mutual respect, and a commitment to making a positive impact. We are a happy, creative and inclusive school celebrating the rich diversity of our families. We are proud to be a beacon of excellence at the heart of our community.",
@@ -47,31 +48,35 @@
 			],
 			"schoolHighlights": [
 				{
+					"bgcolor": "#E50059",
 					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
 					"link": ""
 				},
 				{
+					"bgcolor": "#ED6C26",
 					"title": "Highlights 2",
 					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
 					"link": ""
 				},
 				{
+					"bgcolor": "#93C467",
 					"title": "Highlights 3",
 					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
 					"link": ""
 				},
 				{
+					"bgcolor": "#4764FF",
 					"title": "Highlights 4",
 					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
 					"link": ""
 				}
 			],
 			"schoolPriorities": [
-				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
+				{ "bgcolor": "#4764FF", "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "bgcolor": "#93C467", "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "bgcolor": "#E50059", "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
+				{ "bgcolor": "#ED6C26", "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
 			]
 		},
 		"statistics": {
@@ -131,954 +136,554 @@
 		"support": {
 			"childSafetyAndHappiness": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum.",
 			"bullingProtection": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"SENDPupilsSupport": "15% of our pupils have SEND (3% with an Education Health and Care Plan & 12% on SEN Support). We provide lorem ipsum dolor sit amet consectetur.",
 			"attendanceManagement": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
 		},
 		"achievement": {
 			"academicChildSuccess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"chartPupilsPerfomChartCamden": "../assets/imgs/chart1.png",
-			"chartPupilsPerfomChartLondon": "../assets/imgs/chart1.png",
-			"chartPupilsProgressCamden": "../assets/imgs/chart2.png",
-			"chartPupilsProgressLondon": "../assets/imgs/chart2.png",
-			"chartPuplsGoAferS4Camden": "../assets/imgs/chart3.png",
-			"chartPuplsGoAferS5Camden": "../assets/imgs/chart4.png",
+
+			"chartsPerform": [
+				{
+					"chartTitle": "attainment 8:",
+					"chartImg": "../assets/imgs/chart1.png",
+					"chartComparationImg": "../assets/imgs/chart1.png",
+					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
+				},
+				{
+					"chartTitle": "attainment 9:",
+					"chartImg": "../assets/imgs/chart1.png",
+					"chartComparationImg": "../assets/imgs/chart1.png",
+					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
+				}
+			],
+
+			"chartsProm": [
+				{
+					"chartTitle": "After Key 5:",
+					"chartImg": "../assets/imgs/chart3.png",
+					"chartDescription": ""
+				},
+				{
+					"chartTitle": "After Key 4:",
+					"chartImg": "../assets/imgs/chart4.png",
+					"chartDescription": ""
+				}
+			],
+
 			"wherePupilsGoAfter": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
+		},
+		"SEND": {
+			"sendSupportInfo": "26% of our pupils have SEND (3% with an Education Health and Care Plan & 23% on SEN Support). We prioritise high quality class teaching and ensure all teachers can adapt their practice so all pupils make progress. Pupils learn in mixed attainment groups as we have high expectations for all. <br /><br /> If a child needs additional help with an area of learning, support is provided through small group pre-teaching of key knowledge. This helps pupils to engage successfully in lessons. <br /><br /> For some pupils, specific interventions and more significant adaptations may be required. Our SENDCo works in partnership with parents and specialist agencies to plan these.",
+			"inclusivePracticeInfo": "We ensure standards and progress are consistently high for all groups of pupils: girls and boys; pupils of all ethnicities, pupils with SEND and those from disadvantaged backgrounds. This is the result of our inclusive practices and a curriculum that reflects the diversity of our community. <br /><br /> Teaching effective communication skills, an inclusive ethos and the creation of a safe and welcoming learning environment are central to ensuring all pupils can thrive."
 		}
 	},
 	{
 		"schoolId": 2,
-		"schoolName": "St. Mary's School",
-		"shortSlogan": "Nurturing Young Minds for a Bright Future.",
-		"descriptionTitle": "Nurturing Young Minds for a Bright Future.",
-		"description": "St. Mary's School offers a broad and balanced curriculum with a strong focus on personal development and academic excellence. We foster an inclusive and supportive environment where every child can achieve their best. Our dedicated staff and vibrant community work together to provide enriching experiences and a strong foundation for lifelong learning.",
-		"websiteLink": "https://www.stmarysschool.co.uk/",
-		"type": "Community",
+		"schoolName": "Greenwood Academy",
+		"isPrimary": true,
+		"shortSlogan": "Inspiring minds, shaping futures.",
+		"descriptionTitle": "Inspiring minds, shaping futures.",
+		"description": "At Greenwood Academy, we believe in nurturing each child's potential. Our curriculum emphasizes sustainability, creativity, and global citizenship. Through engaging lessons and diverse extracurricular activities, our students gain the skills and confidence to excel. Our school is a vibrant community where individuality is celebrated, and every child feels valued and supported.",
+		"websiteLink": "https://www.greenwoodacademy.edu/",
+		"type": "Community School",
 		"gender": "Mixed",
-		"ageRange": [4, 10],
-		"address": "123 Main Street, London",
-		"lat": 51.5155,
-		"long": -0.0922,
-		"prevYearCatchmentRadius": 300,
-		"postCode": "SW1A 1AA",
-		"facilities": ["Gym", "Library", "Art studio"],
-		"activities": ["After-school club", "Choir", "Football", "Drama", "Dance"],
-		"admissionProcess": "Applications are accepted year-round with deadlines for specific academic years. We encourage visits and open days to learn more about our school community.",
+		"ageRange": [5, 11],
+		"address": "Green Lane, Springfield, London",
+		"lat": 51.507351,
+		"long": -0.127758,
+		"prevYearCatchmentRadius": 250,
+		"postCode": "WC1N 3BG",
+		"facilities": ["Art Studio", "Sports Hall", "Garden", "IT Lab", "Library"],
+		"activities": [
+			"After-school club",
+			"STEM workshops",
+			"Performing arts",
+			"Debate club",
+			"Gardening club",
+			"Fitness classes",
+			"Music lessons"
+		],
+		"admissionProcess": "At Greenwood Academy, admission is open to all students in our local community. Applications are reviewed based on proximity, sibling attendance, and available places. Parents are encouraged to visit the school and attend our open days for a firsthand experience of our vibrant environment.",
 		"tabs": {
 			"schoolViewsUrls": [
-				"https://via.placeholder.com/400x300?text=St.+Mary's+School+View+1",
-				"https://via.placeholder.com/400x300?text=St.+Mary's+School+View+2",
-				"https://via.placeholder.com/400x300?text=St.+Mary's+School+View+1",
-				"https://via.placeholder.com/400x300?text=St.+Mary's+School+View+1",
-				"https://via.placeholder.com/400x300?text=St.+Mary's+School+View+1"
+				"../assets/imgs/school/15views.png",
+				"../assets/imgs/school/15views.png",
+				"../assets/imgs/school/15views.png",
+				"../assets/imgs/school/15views.png",
+				"../assets/imgs/school/15views.png",
+				"../assets/imgs/school/15views.png",
+				"../assets/imgs/school/15views.png"
 			],
 			"schoolPhotosUrls": [
-				"https://via.placeholder.com/400x300?text=St.+Mary's+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=St.+Mary's+School+Photo+2",
-				"https://via.placeholder.com/400x300?text=St.+Mary's+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=St.+Mary's+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=St.+Mary's+School+Photo+1"
+				"../assets/imgs/school/10photos_1.png",
+				"../assets/imgs/school/10photos_1.png",
+				"../assets/imgs/school/10photos_1.png",
+				"../assets/imgs/school/10photos_1.png",
+				"../assets/imgs/school/10photos_1.png",
+				"../assets/imgs/school/10photos_1.png",
+				"../assets/imgs/school/10photos_1.png",
+				"../assets/imgs/school/10photos_1.png"
 			],
 			"schoolHighlights": [
 				{
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"bgcolor": "#E50059",
+					"title": "Innovative Curriculum",
+					"description": "Our curriculum integrates sustainability, creativity, and real-world problem-solving to prepare students for the future.",
 					"link": ""
 				},
 				{
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"bgcolor": "#ED6C26",
+					"title": "State-of-the-Art Facilities",
+					"description": "From an IT lab to a dedicated art studio, we provide a well-rounded learning environment.",
 					"link": ""
 				},
 				{
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"bgcolor": "#93C467",
+					"title": "Inclusive Community",
+					"description": "Greenwood Academy celebrates diversity and promotes inclusivity in every aspect of school life.",
 					"link": ""
 				},
 				{
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"bgcolor": "#4764FF",
+					"title": "Dedicated Staff",
+					"description": "Our experienced and caring staff are committed to each child's success.",
 					"link": ""
 				}
 			],
 			"schoolPriorities": [
-				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
+				{
+					"bgcolor": "#4764FF",
+					"title": "Environmental Education",
+					"description": "We focus on sustainable practices and teaching students to care for the planet."
+				},
+				{
+					"bgcolor": "#93C467",
+					"title": "Student Well-being",
+					"description": "Mental health and well-being are at the forefront of our approach."
+				},
+				{
+					"bgcolor": "#E50059",
+					"title": "Creative Arts",
+					"description": "Our creative arts program helps students express themselves and develop talents."
+				},
+				{
+					"bgcolor": "#ED6C26",
+					"title": "Community Engagement",
+					"description": "We foster strong connections with families and the local community."
+				}
 			]
 		},
 		"statistics": {
-			"pupilsNum": 450,
-			"ethnicGroupsNum": 10,
-			"languagesNum": 6,
+			"pupilsNum": 360,
+			"ethnicGroupsNum": 18,
+			"languagesNum": 10,
 			"SENDPercent": 12,
 			"BMEPercent": 40,
 			"disadvantagedPupilsPercent": 15,
-			"englishAdditionalLangPercent": 18,
-			"absencePercent": 3.5,
+			"englishAdditionalLangPercent": 25,
+			"absencePercent": 3.8,
 			"persistentAbsenteesPercent": 10.5,
-			"specificLanguages": ["English", "French", "Spanish", "German", "Italian"],
-			"specificEthnicities": ["White - British", "Pakistani", "Bangladeshi", "Black - Caribbean", "Mixed"],
-			"specificSEND": ["Dyslexia", "Autism Spectrum Disorder", "ADHD"],
+			"specificLanguages": ["English", "French", "German", "Arabic", "Hindi", "Mandarin"],
+			"specificEthnicities": [
+				"White - British",
+				"Black - Caribbean",
+				"Asian - Indian",
+				"Pakistani",
+				"Bangladeshi",
+				"Chinese",
+				"Somali",
+				"Eastern European"
+			],
+			"specificSEND": [
+				"Autism Spectrum Disorder",
+				"Speech, Language and Communication Needs",
+				"Specific Learning Difficulties",
+				"Physical Disability"
+			],
 			"qualifiedTeachersPercent": 95,
-			"pupilAdultRatio": 22.0,
-			"financialReserves": 8.56,
-			"changeYearReserves": 9.64
+			"pupilAdultRatio": 18.5,
+			"financialReserves": 12.453,
+			"changeYearReserves": 15.327
 		},
 		"curriculum": {
-			"curriculumAim": "To provide a well-rounded education that supports academic success and personal growth. Our curriculum is designed to be engaging and challenging, preparing students for future education and life skills.",
-			"curriculumStrengths": ["Creativity", "Mathematics", "Technology"],
-			"topSubjects": ["Mathematics", "English", "Science", "History", "Geography"],
-			"topDisciplines": ["Languages", "STEM", "Arts"],
-			"strengths": ["Academic Excellence", "Personal Development", "Extracurricular Opportunities"]
+			"curriculumAim": "Our aim is to provide an engaging and inspiring curriculum that fosters curiosity, critical thinking, and creativity in every student.",
+			"curriculumStrengths": ["Sustainability", "Creative Thinking", "Technology"],
+			"topSubjects": [
+				"Environmental Science",
+				"Art and Design",
+				"Physics",
+				"Mathematics",
+				"History",
+				"Music",
+				"French",
+				"Drama",
+				"Computer Science"
+			],
+			"topDisciplines": ["Social Sciences", "Performing Arts", "Engineering"],
+			"strengths": ["Innovation", "Teamwork", "Diversity"]
 		},
 		"support": {
-			"childSafetyAndHappiness": "We prioritize the safety and well-being of all our students with dedicated safeguarding measures and a supportive environment.",
-			"bullingProtection": "Our anti-bullying policy includes regular training and a clear reporting system to ensure a safe and respectful environment.",
-			"SENDPupilsSupport": "We provide specialized support for students with SEND to ensure they achieve their full potential.",
-			"attendanceManagement": "We monitor attendance closely and work with families to address any issues and promote regular school attendance."
+			"childSafetyAndHappiness": "Ensuring the safety and happiness of every child is our highest priority. Our supportive environment promotes well-being and confidence.",
+			"bullingProtection": "We take a zero-tolerance approach to bullying, fostering a culture of respect and kindness.",
+			"attendanceManagement": "We work closely with families to maintain excellent attendance and ensure every child maximizes their learning opportunities."
 		},
 		"achievement": {
-			"academicChildSuccess": "Our students consistently achieve high academic standards and develop strong personal and social skills.",
-			"chartPupilsPerfomChartCamden": "https://via.placeholder.com/400x300?text=Chart+Camden",
-			"chartPupilsPerfomChartLondon": "https://via.placeholder.com/400x300?text=Chart+London",
-			"chartPupilsProgressCamden": "https://via.placeholder.com/400x300?text=Progress+Camden",
-			"chartPupilsProgressLondon": "https://via.placeholder.com/400x300?text=Progress+London",
-			"chartPuplsGoAferS4Camden": "https://via.placeholder.com/400x300?text=Go+After+S4+Camden",
-			"chartPuplsGoAferS5Camden": "https://via.placeholder.com/400x300?text=Go+After+S5+Camden",
-			"wherePupilsGoAfter": "Many of our students move on to local secondary schools and continue to excel in their education."
+			"academicChildSuccess": "Our students consistently achieve high academic results, reflecting their dedication and our effective teaching strategies.",
+			"chartsPerform": [
+				{
+					"chartTitle": "Reading Progress:",
+					"chartImg": "../assets/imgs/chart1.png",
+					"chartComparationImg": "../assets/imgs/chart1.png",
+					"chartDescription": "Students at Greenwood show above-average progress in reading compared to national benchmarks."
+				},
+				{
+					"chartTitle": "Maths Progress:",
+					"chartImg": "../assets/imgs/chart1.png",
+					"chartComparationImg": "../assets/imgs/chart1.png",
+					"chartDescription": "Our maths program equips students with problem-solving skills essential for success."
+				}
+			],
+			"chartsProm": [
+				{
+					"chartTitle": "Key Stage 2 Results:",
+					"chartImg": "../assets/imgs/chart3.png",
+					"chartDescription": "Outstanding results in core subjects at Key Stage 2."
+				},
+				{
+					"chartTitle": "Extra-Curricular Impact:",
+					"chartImg": "../assets/imgs/chart4.png",
+					"chartDescription": "Participation in extracurricular activities contributes to well-rounded student development."
+				}
+			],
+			"wherePupilsGoAfter": "Many of our graduates go on to excel at secondary schools and beyond, equipped with the skills to thrive in a global society."
+		},
+		"SEND": {
+			"sendSupportInfo": "15% of our pupils have SEND. We provide tailored support through personalized plans and specialist staff. Our SENDCo works closely with teachers and families to ensure success for every student.",
+			"inclusivePracticeInfo": "Inclusivity is at the heart of everything we do. From our curriculum to our classroom practices, we celebrate diversity and promote equality."
 		}
 	},
 	{
 		"schoolId": 3,
-		"schoolName": "London Academy",
-		"shortSlogan": "Empowering Students to Achieve Their Best.",
-		"descriptionTitle": "Empowering Students to Achieve Their Best.",
-		"description": "London Academy provides a supportive and challenging environment where students are encouraged to excel academically and personally. We offer a range of extracurricular activities and support services to help students reach their full potential.",
-		"websiteLink": "https://www.londonacademy.co.uk/",
-		"type": "Academy",
+		"schoolName": "Greenfield Academy",
+		"isPrimary": true,
+		"shortSlogan": "Fostering a love of learning and growth.",
+		"descriptionTitle": "Fostering a love of learning and growth.",
+		"description": "At Greenfield Academy, we cultivate an environment where children are inspired to achieve their fullest potential. Through a holistic approach to education, we balance academic excellence with personal development, nurturing curiosity and creativity. With strong community ties, we prepare our students to be responsible, compassionate citizens.",
+		"websiteLink": "https://www.greenfieldacademy.co.uk/",
+		"type": "Community School",
 		"gender": "Mixed",
-		"ageRange": [4, 10],
-		"address": "456 Elm Street, London",
-		"lat": 51.5014,
-		"long": -0.1419,
+		"ageRange": [5, 11],
+		"address": "Greenfield Road, York",
+		"lat": 53.959965,
+		"long": -1.08154,
 		"prevYearCatchmentRadius": 250,
-		"postCode": "NW1 7AB",
-		"facilities": ["Gym", "Science lab", "Art studio"],
-		"activities": ["Debate club", "Art workshops", "Football", "Drama"],
-		"admissionProcess": "Applications are processed through the local authority with specific deadlines for each academic year.",
+		"postCode": "YO1 7NP",
+		"facilities": ["Music room", "Sports field", "ICT suite", "Gardens", "Playground"],
+		"activities": ["Art club", "Gardening", "Choir", "Football", "STEM club", "Dance classes"],
+		"admissionProcess": "Admissions are open to all children in the local community, prioritizing those within the catchment area. Applications are reviewed based on set criteria, ensuring fair opportunities for all families.",
 		"tabs": {
 			"schoolViewsUrls": [
-				"https://via.placeholder.com/400x300?text=London+Academy+View+1",
-				"https://via.placeholder.com/400x300?text=London+Academy+View+2",
-				"https://via.placeholder.com/400x300?text=London+Academy+View+1",
-				"https://via.placeholder.com/400x300?text=London+Academy+View+1",
-				"https://via.placeholder.com/400x300?text=London+Academy+View+1"
+				"../assets/imgs/school/15views.png",
+				"../assets/imgs/school/15views.png",
+				"../assets/imgs/school/15views.png",
+				"../assets/imgs/school/15views.png",
+				"../assets/imgs/school/15views.png"
 			],
 			"schoolPhotosUrls": [
-				"https://via.placeholder.com/400x300?text=London+Academy+Photo+1",
-				"https://via.placeholder.com/400x300?text=London+Academy+Photo+2",
-				"https://via.placeholder.com/400x300?text=London+Academy+Photo+1",
-				"https://via.placeholder.com/400x300?text=London+Academy+Photo+1",
-				"https://via.placeholder.com/400x300?text=London+Academy+Photo+1"
+				"../assets/imgs/school/10photos_1.png",
+				"../assets/imgs/school/10photos_1.png",
+				"../assets/imgs/school/10photos_1.png",
+				"../assets/imgs/school/10photos_1.png"
 			],
 			"schoolHighlights": [
 				{
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"bgcolor": "#93C467",
+					"title": "Green Spaces",
+					"description": "Our spacious green fields provide ample opportunities for outdoor learning and play.",
 					"link": ""
 				},
 				{
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"bgcolor": "#4764FF",
+					"title": "Inclusive Education",
+					"description": "We welcome students of all abilities, offering tailored support for their needs.",
 					"link": ""
 				}
 			],
 			"schoolPriorities": [
-				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
+				{ "bgcolor": "#4764FF", "title": "Community Engagement", "description": "Strengthening ties with local organizations." },
+				{ "bgcolor": "#93C467", "title": "Sustainability", "description": "Teaching children about environmental stewardship." }
 			]
 		},
 		"statistics": {
-			"pupilsNum": 600,
-			"ethnicGroupsNum": 12,
-			"languagesNum": 7,
-			"SENDPercent": 10,
-			"BMEPercent": 35,
-			"disadvantagedPupilsPercent": 12,
-			"englishAdditionalLangPercent": 22,
-			"absencePercent": 4.0,
-			"persistentAbsenteesPercent": 11.0,
-			"specificLanguages": ["English", "Spanish", "Arabic", "Russian", "Turkish"],
-			"specificEthnicities": ["White - British", "Somali", "Iranian", "Black - African", "Mixed"],
-			"specificSEND": ["Autistic Spectrum Disorder", "Dyscalculia", "Speech and Language Needs"],
-			"qualifiedTeachersPercent": 92,
-			"pupilAdultRatio": 20.5,
-			"financialReserves": 9.78,
-			"changeYearReserves": 10.56
+			"pupilsNum": 320,
+			"ethnicGroupsNum": 10,
+			"languagesNum": 5,
+			"SENDPercent": 12,
+			"BMEPercent": 25,
+			"disadvantagedPupilsPercent": 15,
+			"englishAdditionalLangPercent": 18,
+			"absencePercent": 3.9,
+			"persistentAbsenteesPercent": 8.5,
+			"specificLanguages": ["English", "Spanish", "French", "German", "Arabic"],
+			"specificEthnicities": ["White - British", "Black - Caribbean", "Asian - Pakistani"],
+			"specificSEND": ["Speech and Language Needs", "Dyslexia"],
+			"qualifiedTeachersPercent": 94,
+			"pupilAdultRatio": 18,
+			"financialReserves": 8.532,
+			"changeYearReserves": 10.123
 		},
 		"curriculum": {
-			"curriculumAim": "To deliver a rigorous and enriching education that prepares students for higher education and careers. We focus on academic excellence and personal development through a varied and challenging curriculum.",
-			"curriculumStrengths": ["STEM", "Humanities", "Physical Education"],
-			"topSubjects": ["Mathematics", "English", "Geography", "History", "Physical Education"],
-			"topDisciplines": ["Engineering", "History", "Economics"],
-			"strengths": ["Academic Rigor", "Student Achievement", "Career Preparation"]
+			"curriculumAim": "Develop well-rounded individuals with strong academic foundations.",
+			"curriculumStrengths": ["Arts", "Technology", "Sciences"],
+			"topSubjects": ["Mathematics", "English", "Biology", "Art", "Physical Education"],
+			"topDisciplines": ["Creative Arts", "Engineering"],
+			"strengths": ["Innovation", "Teamwork"]
 		},
 		"support": {
-			"childSafetyAndHappiness": "We ensure a safe learning environment with comprehensive safeguarding policies and regular staff training.",
-			"bullingProtection": "Our school has a zero-tolerance policy towards bullying with established procedures for support and intervention.",
-			"SENDPupilsSupport": "We provide tailored support for students with SEND to help them succeed academically and socially.",
-			"attendanceManagement": "We work closely with parents to monitor and improve student attendance and address any issues."
+			"childSafetyAndHappiness": "Creating a secure and joyful environment for all learners.",
+			"bullingProtection": "Strong policies to ensure respect and inclusion.",
+			"attendanceManagement": "Close collaboration with families to support regular attendance."
 		},
 		"achievement": {
-			"academicChildSuccess": "Our students excel academically and are well-prepared for further education and their future careers.",
-			"chartPupilsPerfomChartCamden": "https://via.placeholder.com/400x300?text=Chart+Camden",
-			"chartPupilsPerfomChartLondon": "https://via.placeholder.com/400x300?text=Chart+London",
-			"chartPupilsProgressCamden": "https://via.placeholder.com/400x300?text=Progress+Camden",
-			"chartPupilsProgressLondon": "https://via.placeholder.com/400x300?text=Progress+London",
-			"chartPuplsGoAferS4Camden": "https://via.placeholder.com/400x300?text=Go+After+S4+Camden",
-			"chartPuplsGoAferS5Camden": "https://via.placeholder.com/400x300?text=Go+After+S5+Camden",
-			"wherePupilsGoAfter": "Our students transition successfully to colleges and vocational training programs, with many continuing to higher education."
+			"academicChildSuccess": "Celebrating achievements at all levels of education.",
+			"chartsPerform": [
+				{
+					"chartTitle": "Overall Progress:",
+					"chartImg": "../assets/imgs/chart1.png",
+					"chartDescription": "Students consistently perform above the national average."
+				}
+			],
+			"chartsProm": [
+				{
+					"chartTitle": "Sports Achievements:",
+					"chartImg": "../assets/imgs/chart4.png",
+					"chartDescription": "Award-winning sports teams at regional competitions."
+				}
+			],
+			"wherePupilsGoAfter": "Many students transition to top secondary schools in the area."
+		},
+		"SEND": {
+			"sendSupportInfo": "Comprehensive support tailored to individual needs.",
+			"inclusivePracticeInfo": "Fostering inclusivity and equal opportunities for all."
 		}
 	},
 	{
 		"schoolId": 4,
-		"schoolName": "Greenfield School",
-		"shortSlogan": "Learning for Life and Beyond.",
-		"descriptionTitle": "Learning for Life and Beyond.",
-		"description": "Greenfield School provides an inspiring learning environment that emphasizes holistic development. Our curriculum integrates academic rigor with opportunities for creative and physical development, fostering well-rounded students who are prepared for future challenges.",
-		"websiteLink": "https://www.greenfieldschool.co.uk/",
-		"type": "Foundation",
+		"schoolName": "Sunrise International School",
+		"isPrimary": false,
+		"shortSlogan": "Empowering minds, shaping futures.",
+		"descriptionTitle": "Empowering minds, shaping futures.",
+		"description": "Sunrise International School offers a rigorous academic curriculum designed to challenge and inspire. With a global perspective, we provide students with the skills and knowledge they need to succeed in an ever-changing world. Our commitment to educational excellence is reflected in our highly qualified faculty, modern facilities, and diverse extracurricular offerings.",
+		"websiteLink": "https://www.sunriseinternationalschool.com/",
+		"type": "International School",
 		"gender": "Mixed",
-		"ageRange": [4, 11],
-		"address": "789 Oak Avenue, London",
-		"lat": 51.4872,
-		"long": -0.1638,
-		"prevYearCatchmentRadius": 150,
-		"postCode": "E1 6AN",
-		"facilities": ["Gym", "Science lab", "Art studio", "Playground"],
-		"activities": ["Gardening club", "Creative writing", "Art and design", "Sports"],
-		"admissionProcess": "We offer admissions based on local authority guidelines with specific entry points throughout the year.",
+		"ageRange": [11, 18],
+		"address": "Sunrise Boulevard, London",
+		"lat": 51.507422,
+		"long": -0.127683,
+		"prevYearCatchmentRadius": 500,
+		"postCode": "W1F 9RU",
+		"facilities": ["Science labs", "Art studio", "Gymnasium", "Music rooms", "Library"],
+		"activities": ["International debate team", "Football", "Science fairs", "Swimming", "Basketball", "Drama club"],
+		"admissionProcess": "We accept students from all over the world, with priority given to those meeting academic and language proficiency requirements. The admission process includes an entrance exam and interview.",
 		"tabs": {
 			"schoolViewsUrls": [
-				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+View+2",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1"
+				"../assets/imgs/school/15views.png",
+				"../assets/imgs/school/15views.png",
+				"../assets/imgs/school/15views.png"
 			],
 			"schoolPhotosUrls": [
-				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+2",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1"
+				"../assets/imgs/school/10photos_2.png",
+				"../assets/imgs/school/10photos_2.png",
+				"../assets/imgs/school/10photos_2.png"
 			],
 			"schoolHighlights": [
 				{
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"bgcolor": "#F8B334",
+					"title": "Innovative Curriculum",
+					"description": "Our curriculum blends international standards with local context to offer a balanced education.",
 					"link": ""
 				},
 				{
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"bgcolor": "#1F73F0",
+					"title": "Global Network",
+					"description": "We connect students with peers and opportunities around the world through exchange programs.",
 					"link": ""
 				}
 			],
 			"schoolPriorities": [
-				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
+				{
+					"bgcolor": "#F8B334",
+					"title": "Academic Excellence",
+					"description": "Striving for top-tier academic achievements across all subjects."
+				},
+				{
+					"bgcolor": "#1F73F0",
+					"title": "Holistic Development",
+					"description": "Fostering students' intellectual, physical, and emotional growth."
+				}
 			]
 		},
 		"statistics": {
-			"pupilsNum": 350,
-			"ethnicGroupsNum": 8,
-			"languagesNum": 5,
-			"SENDPercent": 8,
+			"pupilsNum": 500,
+			"ethnicGroupsNum": 12,
+			"languagesNum": 8,
+			"SENDPercent": 10,
 			"BMEPercent": 30,
 			"disadvantagedPupilsPercent": 10,
-			"englishAdditionalLangPercent": 15,
-			"absencePercent": 3.8,
-			"persistentAbsenteesPercent": 9.2,
-			"specificLanguages": ["English", "Urdu", "French", "Chinese"],
-			"specificEthnicities": ["White - British", "Indian", "Bangladeshi", "Black - Caribbean"],
-			"specificSEND": ["Speech and Language Difficulties", "Autistic Spectrum Disorder", "Learning Disabilities"],
-			"qualifiedTeachersPercent": 93,
-			"pupilAdultRatio": 23.0,
-			"financialReserves": 7.43,
-			"changeYearReserves": 8.59
+			"englishAdditionalLangPercent": 25,
+			"absencePercent": 4.2,
+			"persistentAbsenteesPercent": 7.0,
+			"specificLanguages": ["English", "French", "German", "Spanish", "Mandarin"],
+			"specificEthnicities": ["White - British", "Indian", "Chinese", "Hispanic"],
+			"specificSEND": ["Autism Spectrum Disorder", "Physical Disabilities"],
+			"qualifiedTeachersPercent": 96,
+			"pupilAdultRatio": 15,
+			"financialReserves": 10.245,
+			"changeYearReserves": 12.321
 		},
 		"curriculum": {
-			"curriculumAim": "To deliver a balanced and engaging curriculum that supports the development of essential skills and knowledge, preparing students for lifelong learning.",
-			"curriculumStrengths": ["Personal Development", "Mathematics", "Literacy"],
-			"topSubjects": ["Literacy", "Numeracy", "Science", "Art", "Physical Education"],
-			"topDisciplines": ["Art", "Mathematics", "Humanities"],
-			"strengths": ["Student Engagement", "Holistic Development", "Inclusive Education"]
+			"curriculumAim": "Preparing students for success in global challenges.",
+			"curriculumStrengths": ["Global Perspective", "STEM", "Languages"],
+			"topSubjects": ["Mathematics", "History", "Literature", "Physics", "Languages"],
+			"topDisciplines": ["Humanities", "Technology", "Arts"],
+			"strengths": ["Innovation", "Creativity", "Critical Thinking"]
 		},
 		"support": {
-			"childSafetyAndHappiness": "Our commitment to child safety includes regular training for staff and a comprehensive safeguarding policy.",
-			"bullingProtection": "We have a proactive approach to prevent bullying with education, support, and clear procedures for reporting.",
-			"SENDPupilsSupport": "Specialist support and interventions are available to assist students with additional needs and ensure their successful learning experience.",
-			"attendanceManagement": "We monitor attendance closely and provide support to families to promote regular school attendance."
+			"childSafetyAndHappiness": "We prioritize the emotional and physical well-being of every student.",
+			"bullingProtection": "Zero-tolerance policy on bullying, fostering a safe and respectful environment.",
+			"attendanceManagement": "Encouraging regular attendance through positive reinforcement."
 		},
 		"achievement": {
-			"academicChildSuccess": "Students at Greenfield School achieve high standards and demonstrate strong personal and academic growth.",
-			"chartPupilsPerfomChartCamden": "https://via.placeholder.com/400x300?text=Chart+Camden",
-			"chartPupilsPerfomChartLondon": "https://via.placeholder.com/400x300?text=Chart+London",
-			"chartPupilsProgressCamden": "https://via.placeholder.com/400x300?text=Progress+Camden",
-			"chartPupilsProgressLondon": "https://via.placeholder.com/400x300?text=Progress+London",
-			"chartPuplsGoAferS4Camden": "https://via.placeholder.com/400x300?text=Go+After+S4+Camden",
-			"chartPuplsGoAferS5Camden": "https://via.placeholder.com/400x300?text=Go+After+S5+Camden",
-			"wherePupilsGoAfter": "Our students move on to local secondary schools and continue their educational journey with confidence."
+			"academicChildSuccess": "Celebrating every student's journey to academic excellence.",
+			"chartsPerform": [
+				{
+					"chartTitle": "International Rankings:",
+					"chartImg": "../assets/imgs/chart2.png",
+					"chartDescription": "Consistently ranked among the top international schools in the region."
+				}
+			],
+			"chartsProm": [
+				{
+					"chartTitle": "Sports Achievements:",
+					"chartImg": "../assets/imgs/chart5.png",
+					"chartDescription": "Our athletes regularly compete at the national level."
+				}
+			],
+			"wherePupilsGoAfter": "Our graduates attend prestigious universities worldwide, including Oxford, Harvard, and MIT."
+		},
+		"SEND": {
+			"sendSupportInfo": "Tailored programs and expert support for students with special educational needs.",
+			"inclusivePracticeInfo": "Inclusive classroom practices that support a wide range of learning needs."
 		}
 	},
 	{
 		"schoolId": 5,
-		"schoolName": "Riverbank School",
-		"shortSlogan": "Fostering Curiosity and Excellence.",
-		"descriptionTitle": "Fostering Curiosity and Excellence.",
-		"description": "Riverbank School provides a dynamic and supportive learning environment where students are encouraged to explore their interests and achieve academic success. Our curriculum is designed to inspire curiosity and develop skills that will serve students throughout their lives.",
-		"websiteLink": "https://www.riverbankschool.co.uk/",
-		"type": "Voluntary Aided",
+		"schoolName": "Bright Future Academy",
+		"isPrimary": true,
+		"shortSlogan": "Inspiring the leaders of tomorrow.",
+		"descriptionTitle": "Inspiring the leaders of tomorrow.",
+		"description": "At Bright Future Academy, we are committed to providing an exceptional educational experience. Our curriculum is designed to foster intellectual curiosity, critical thinking, and personal growth. We prepare students not only for academic success but also for leadership roles in their communities and beyond.",
+		"websiteLink": "https://www.brightfutureacademy.com/",
+		"type": "Private School",
 		"gender": "Mixed",
-		"ageRange": [5, 13],
-		"address": "321 River Road, London",
-		"lat": 51.5145,
-		"long": -0.0925,
-		"prevYearCatchmentRadius": 200,
-		"postCode": "SE1 2PQ",
-		"facilities": ["Computer suite", "Drama studio", "Cafe", "Outdoor classroom"],
-		"activities": ["Music", "Sports", "Chess", "Sports"],
-		"admissionProcess": "Applications are handled directly by the school with opportunities for open days and visits to learn more about our community.",
+		"ageRange": [5, 11],
+		"address": "Bright Future Street, Manchester",
+		"lat": 53.480759,
+		"long": -2.242631,
+		"prevYearCatchmentRadius": 300,
+		"postCode": "M1 4EA",
+		"facilities": ["Library", "Sports Hall", "Art Studio", "Computer Lab", "Outdoor Playground"],
+		"activities": ["Drama", "Sports teams", "Art and Design", "Music", "Dance", "Robotics club"],
+		"admissionProcess": "We offer an open enrollment process for local families. Admission is based on a combination of application forms, interviews, and an entrance exam to ensure a good fit for both the student and the school.",
 		"tabs": {
 			"schoolViewsUrls": [
-				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+View+2",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1"
+				"../assets/imgs/school/15views.png",
+				"../assets/imgs/school/15views.png",
+				"../assets/imgs/school/15views.png"
 			],
 			"schoolPhotosUrls": [
-				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+2",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1"
+				"../assets/imgs/school/10photos_3.png",
+				"../assets/imgs/school/10photos_3.png",
+				"../assets/imgs/school/10photos_3.png"
 			],
 			"schoolHighlights": [
 				{
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"bgcolor": "#FF8A65",
+					"title": "Dynamic Learning Environment",
+					"description": "Our interactive classrooms encourage creativity and critical thinking.",
 					"link": ""
 				},
 				{
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
+					"bgcolor": "#28A745",
+					"title": "Character Development",
+					"description": "We focus on nurturing character, responsibility, and leadership skills.",
 					"link": ""
 				}
 			],
 			"schoolPriorities": [
-				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
-			]
-		},
-		"statistics": {
-			"pupilsNum": 500,
-			"ethnicGroupsNum": 15,
-			"languagesNum": 9,
-			"SENDPercent": 14,
-			"BMEPercent": 38,
-			"disadvantagedPupilsPercent": 13,
-			"englishAdditionalLangPercent": 21,
-			"absencePercent": 4.2,
-			"persistentAbsenteesPercent": 12.0,
-			"specificLanguages": ["English", "Spanish", "Italian", "Polish"],
-			"specificEthnicities": ["White - British", "Portuguese", "Black - African", "Bangladeshi"],
-			"specificSEND": ["Autistic Spectrum Disorder", "Dyslexia", "ADHD"],
-			"qualifiedTeachersPercent": 90,
-			"pupilAdultRatio": 21.5,
-			"financialReserves": 6.29,
-			"changeYearReserves": 7.41
-		},
-		"curriculum": {
-			"curriculumAim": "To deliver an engaging curriculum that promotes academic excellence and personal growth, preparing students for future success.",
-			"curriculumStrengths": ["Literacy", "Numeracy", "Arts"],
-			"topSubjects": ["English", "Mathematics", "Science", "Art", "Physical Education"],
-			"topDisciplines": ["Literacy", "Science", "Creative Arts"],
-			"strengths": ["Student Engagement", "Creativity", "Academic Achievement"]
-		},
-		"support": {
-			"childSafetyAndHappiness": "We prioritize a safe and happy environment with regular training and clear safeguarding policies.",
-			"bullingProtection": "Our anti-bullying approach includes comprehensive measures for prevention and support.",
-			"SENDPupilsSupport": "We offer tailored support for students with SEND to ensure they have every opportunity to succeed.",
-			"attendanceManagement": "We work proactively with families to address attendance issues and promote consistent school attendance."
-		},
-		"achievement": {
-			"academicChildSuccess": "Our students demonstrate strong academic performance and develop essential life skills.",
-			"chartPupilsPerfomChartCamden": "https://via.placeholder.com/400x300?text=Chart+Camden",
-			"chartPupilsPerfomChartLondon": "https://via.placeholder.com/400x300?text=Chart+London",
-			"chartPupilsProgressCamden": "https://via.placeholder.com/400x300?text=Progress+Camden",
-			"chartPupilsProgressLondon": "https://via.placeholder.com/400x300?text=Progress+London",
-			"chartPuplsGoAferS4Camden": "https://via.placeholder.com/400x300?text=Go+After+S4+Camden",
-			"chartPuplsGoAferS5Camden": "https://via.placeholder.com/400x300?text=Go+After+S5+Camden",
-			"wherePupilsGoAfter": "Our students move on to local secondary schools, equipped with the skills and knowledge for future success."
-		}
-	},
-	{
-		"schoolId": 6,
-		"schoolName": "Oakwood Academy",
-		"shortSlogan": "Empowering Students for a Brighter Future.",
-		"descriptionTitle": "Empowering Students for a Brighter Future.",
-		"description": "Oakwood Academy offers a dynamic educational experience focused on student empowerment and achievement. With a strong emphasis on both academic and personal development, our school prepares students to excel in all areas of life.",
-		"websiteLink": "https://www.oakwoodacademy.co.uk/",
-		"type": "Academy",
-		"gender": "Mixed",
-		"ageRange": [6, 16],
-		"address": "456 Oakwood Street, London",
-		"lat": 51.5033,
-		"long": -0.1196,
-		"prevYearCatchmentRadius": 250,
-		"postCode": "WC1N 1AA",
-		"facilities": ["Gym", "Science lab", "Library", "Art studio"],
-		"activities": ["Debate club", "Drama", "Environmental club", "Music"],
-		"admissionProcess": "Applications are accepted throughout the year. Please contact the school office for more details on the admission process.",
-		"tabs": {
-			"schoolViewsUrls": [
-				"https://via.placeholder.com/400x300?text=Oakwood+Academy+View+1",
-				"https://via.placeholder.com/400x300?text=Oakwood+Academy+View+2",
-				"https://via.placeholder.com/400x300?text=Oakwood+Academy+View+1",
-				"https://via.placeholder.com/400x300?text=Oakwood+Academy+View+1",
-				"https://via.placeholder.com/400x300?text=Oakwood+Academy+View+1"
-			],
-			"schoolPhotosUrls": [
-				"https://via.placeholder.com/400x300?text=Oakwood+Academy+Photo+1",
-				"https://via.placeholder.com/400x300?text=Oakwood+Academy+Photo+2",
-				"https://via.placeholder.com/400x300?text=Oakwood+Academy+Photo+1",
-				"https://via.placeholder.com/400x300?text=Oakwood+Academy+Photo+1",
-				"https://via.placeholder.com/400x300?text=Oakwood+Academy+Photo+1"
-			],
-			"schoolHighlights": [
 				{
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
+					"bgcolor": "#FF8A65",
+					"title": "Holistic Learning",
+					"description": "Balancing academics with social and emotional development."
 				},
 				{
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
+					"bgcolor": "#28A745",
+					"title": "Parental Engagement",
+					"description": "Strong partnerships with families to support student growth."
 				}
-			],
-			"schoolPriorities": [
-				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
 			]
 		},
 		"statistics": {
-			"pupilsNum": 600,
-			"ethnicGroupsNum": 12,
-			"languagesNum": 7,
-			"SENDPercent": 10,
-			"BMEPercent": 35,
-			"disadvantagedPupilsPercent": 12,
-			"englishAdditionalLangPercent": 18,
-			"absencePercent": 4.0,
-			"persistentAbsenteesPercent": 10.5,
-			"specificLanguages": ["English", "French", "German", "Arabic"],
-			"specificEthnicities": ["White - British", "Pakistani", "Bangladeshi", "Black - Caribbean"],
-			"specificSEND": ["Autistic Spectrum Disorder", "Speech and Language Difficulties", "Dyslexia"],
-			"qualifiedTeachersPercent": 95,
-			"pupilAdultRatio": 22.0,
-			"financialReserves": 9.12,
-			"changeYearReserves": 10.34
-		},
-		"curriculum": {
-			"curriculumAim": "To provide a balanced education that supports academic excellence, personal growth, and social responsibility.",
-			"curriculumStrengths": ["Leadership", "Mathematics", "Creative Arts"],
-			"topSubjects": ["Mathematics", "English", "Science", "History", "Geography"],
-			"topDisciplines": ["Mathematics", "Science", "Performing Arts"],
-			"strengths": ["Academic Excellence", "Leadership Skills", "Creative Thinking"]
-		},
-		"support": {
-			"childSafetyAndHappiness": "Our school prioritizes child safety with a robust safeguarding policy and dedicated pastoral care.",
-			"bullingProtection": "We have effective measures to prevent and address bullying with a strong support system for affected students.",
-			"SENDPupilsSupport": "Specialized support services are available for students with SEND to ensure they reach their full potential.",
-			"attendanceManagement": "We closely monitor attendance and work with families to improve attendance rates and address concerns."
-		},
-		"achievement": {
-			"academicChildSuccess": "Our students achieve high academic standards and are well-prepared for future educational and career opportunities.",
-			"chartPupilsPerfomChartCamden": "https://via.placeholder.com/400x300?text=Chart+Camden",
-			"chartPupilsPerfomChartLondon": "https://via.placeholder.com/400x300?text=Chart+London",
-			"chartPupilsProgressCamden": "https://via.placeholder.com/400x300?text=Progress+Camden",
-			"chartPupilsProgressLondon": "https://via.placeholder.com/400x300?text=Progress+London",
-			"chartPuplsGoAferS4Camden": "https://via.placeholder.com/400x300?text=Go+After+S4+Camden",
-			"chartPuplsGoAferS5Camden": "https://via.placeholder.com/400x300?text=Go+After+S5+Camden",
-			"wherePupilsGoAfter": "Our students move on to prestigious colleges and universities, equipped with the skills and knowledge for future success."
-		}
-	},
-	{
-		"schoolId": 7,
-		"schoolName": "Westfield School",
-		"shortSlogan": "Nurturing Young Minds for Success.",
-		"descriptionTitle": "Nurturing Young Minds for Success.",
-		"description": "Westfield School is committed to providing a nurturing and supportive environment that fosters academic and personal growth. Our holistic approach ensures that students develop essential skills and confidence for their future endeavors.",
-		"websiteLink": "https://www.westfieldschool.co.uk/",
-		"type": "Community",
-		"gender": "Mixed",
-		"ageRange": [4, 16],
-		"address": "123 Westfield Road, London",
-		"lat": 51.5184,
-		"long": -0.0785,
-		"prevYearCatchmentRadius": 180,
-		"postCode": "W1F 7PB",
-		"facilities": ["Science lab", "Library", "Art studio", "Playground"],
-		"activities": ["Chess", "Drama", "Cooking club", "Environmental studies"],
-		"admissionProcess": "We accept applications based on local authority guidelines. Please visit our website for detailed information on the admission process.",
-		"tabs": {
-			"schoolViewsUrls": [
-				"https://via.placeholder.com/400x300?text=Westfield+School+View+1",
-				"https://via.placeholder.com/400x300?text=Westfield+School+View+2",
-				"https://via.placeholder.com/400x300?text=Westfield+School+View+1",
-				"https://via.placeholder.com/400x300?text=Westfield+School+View+1",
-				"https://via.placeholder.com/400x300?text=Westfield+School+View+1"
-			],
-			"schoolPhotosUrls": [
-				"https://via.placeholder.com/400x300?text=Westfield+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Westfield+School+Photo+2",
-				"https://via.placeholder.com/400x300?text=Westfield+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Westfield+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Westfield+School+Photo+1"
-			],
-			"schoolHighlights": [
-				{
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				}
-			],
-			"schoolPriorities": [
-				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
-			]
-		},
-		"statistics": {
-			"pupilsNum": 420,
-			"ethnicGroupsNum": 10,
-			"languagesNum": 6,
-			"SENDPercent": 12,
-			"BMEPercent": 33,
-			"disadvantagedPupilsPercent": 11,
-			"englishAdditionalLangPercent": 17,
-			"absencePercent": 3.5,
-			"persistentAbsenteesPercent": 8.7,
-			"specificLanguages": ["English", "Italian", "Polish", "Greek"],
-			"specificEthnicities": ["White - British", "Greek", "Italian", "Black - African"],
-			"specificSEND": ["ADHD", "Dyslexia", "Speech and Language Difficulties"],
-			"qualifiedTeachersPercent": 92,
-			"pupilAdultRatio": 24.0,
-			"financialReserves": 5.67,
-			"changeYearReserves": 6.89
-		},
-		"curriculum": {
-			"curriculumAim": "To offer a comprehensive curriculum that supports academic excellence and personal growth, preparing students for future challenges.",
-			"curriculumStrengths": ["Personal Development", "Numeracy", "Literacy"],
-			"topSubjects": ["English", "Mathematics", "Science", "Art", "Music"],
-			"topDisciplines": ["Literacy", "Numeracy", "Creative Arts"],
-			"strengths": ["Student Engagement", "Creative Arts", "Academic Achievement"]
-		},
-		"support": {
-			"childSafetyAndHappiness": "We ensure a safe environment with effective safeguarding measures and regular staff training.",
-			"bullingProtection": "Our anti-bullying policy includes proactive measures and support for affected students.",
-			"SENDPupilsSupport": "Specialized support is provided to help students with SEND achieve their best.",
-			"attendanceManagement": "We actively work with families to improve attendance and address any concerns."
-		},
-		"achievement": {
-			"academicChildSuccess": "Students achieve strong academic results and are well-prepared for future educational opportunities.",
-			"chartPupilsPerfomChartCamden": "https://via.placeholder.com/400x300?text=Chart+Camden",
-			"chartPupilsPerfomChartLondon": "https://via.placeholder.com/400x300?text=Chart+London",
-			"chartPupilsProgressCamden": "https://via.placeholder.com/400x300?text=Progress+Camden",
-			"chartPupilsProgressLondon": "https://via.placeholder.com/400x300?text=Progress+London",
-			"chartPuplsGoAferS4Camden": "https://via.placeholder.com/400x300?text=Go+After+S4+Camden",
-			"chartPuplsGoAferS5Camden": "https://via.placeholder.com/400x300?text=Go+After+S5+Camden",
-			"wherePupilsGoAfter": "Students progress to top secondary schools and are well-prepared for their future careers."
-		}
-	},
-	{
-		"schoolId": 8,
-		"schoolName": "Greenfield School",
-		"shortSlogan": "Building Foundations for a Successful Future.",
-		"descriptionTitle": "Building Foundations for a Successful Future.",
-		"description": "At Greenfield School, we focus on providing a solid educational foundation while promoting personal development. Our school environment fosters learning and growth, ensuring students are ready for future challenges.",
-		"websiteLink": "https://www.greenfieldschool.co.uk/",
-		"type": "Independent",
-		"gender": "Mixed",
-		"ageRange": [10, 18],
-		"address": "789 Greenfield Avenue, London",
-		"lat": 51.4901,
-		"long": -0.1304,
-		"prevYearCatchmentRadius": 220,
-		"postCode": "SW1A 1AA",
-		"facilities": ["Gym", "Science lab", "Arts center"],
-		"activities": ["Music", "Creative writing", "Sports teams", "Drama"],
-		"admissionProcess": "Admission is based on a selection process including interviews and assessments. Please visit our website for detailed information.",
-		"tabs": {
-			"schoolViewsUrls": [
-				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+View+2",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+View+1"
-			],
-			"schoolPhotosUrls": [
-				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+2",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Greenfield+School+Photo+1"
-			],
-			"schoolHighlights": [
-				{
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				}
-			],
-			"schoolPriorities": [
-				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
-			]
-		},
-		"statistics": {
-			"pupilsNum": 700,
-			"ethnicGroupsNum": 15,
-			"languagesNum": 9,
+			"pupilsNum": 250,
+			"ethnicGroupsNum": 6,
+			"languagesNum": 4,
 			"SENDPercent": 8,
-			"BMEPercent": 40,
-			"disadvantagedPupilsPercent": 10,
-			"englishAdditionalLangPercent": 20,
-			"absencePercent": 3.2,
-			"persistentAbsenteesPercent": 7.0,
-			"specificLanguages": ["English", "Spanish", "Mandarin", "French"],
-			"specificEthnicities": ["White - British", "Chinese", "Indian", "Black - African"],
-			"specificSEND": ["Autistic Spectrum Disorder", "ADHD", "Dyslexia"],
-			"qualifiedTeachersPercent": 94,
-			"pupilAdultRatio": 20.0,
-			"financialReserves": 8.43,
-			"changeYearReserves": 9.56
+			"BMEPercent": 20,
+			"disadvantagedPupilsPercent": 5,
+			"englishAdditionalLangPercent": 15,
+			"absencePercent": 2.8,
+			"persistentAbsenteesPercent": 4.3,
+			"specificLanguages": ["English", "Hindi", "Bengali", "French"],
+			"specificEthnicities": ["White - British", "Black - African", "Asian - Indian"],
+			"specificSEND": ["Dyslexia", "ADHD"],
+			"qualifiedTeachersPercent": 97,
+			"pupilAdultRatio": 16,
+			"financialReserves": 6.742,
+			"changeYearReserves": 9.221
 		},
 		"curriculum": {
-			"curriculumAim": "To provide a rich and varied curriculum that supports academic and personal development, preparing students for future success.",
-			"curriculumStrengths": ["STEM", "Arts", "Personal Development"],
-			"topSubjects": ["Mathematics", "Science", "English", "History", "Geography"],
-			"topDisciplines": ["STEM", "Arts", "Humanities"],
-			"strengths": ["Academic Excellence", "Creative Arts", "Personal Growth"]
+			"curriculumAim": "Fostering a love of learning and leadership.",
+			"curriculumStrengths": ["STEM", "Art", "Leadership Programs"],
+			"topSubjects": ["Mathematics", "Science", "English", "Physical Education", "Technology"],
+			"topDisciplines": ["STEM", "Art", "Social Studies"],
+			"strengths": ["Empathy", "Resilience", "Innovation"]
 		},
 		"support": {
-			"childSafetyAndHappiness": "We prioritize the safety and well-being of our students with comprehensive safeguarding policies and support services.",
-			"bullingProtection": "Our anti-bullying policies are robust and proactive, ensuring a safe learning environment for all students.",
-			"SENDPupilsSupport": "Tailored support is available for students with SEND to ensure their full participation in school life.",
-			"attendanceManagement": "We work closely with families to address attendance issues and improve overall attendance rates."
+			"childSafetyAndHappiness": "We emphasize the well-being of our students and provide resources for mental health and happiness.",
+			"bullingProtection": "Our zero-tolerance bullying policy ensures a safe environment for every student.",
+			"attendanceManagement": "We encourage attendance through regular communication with parents and positive reinforcement."
 		},
 		"achievement": {
-			"academicChildSuccess": "Our students consistently achieve high academic results and are well-prepared for further education and careers.",
-			"chartPupilsPerfomChartCamden": "https://via.placeholder.com/400x300?text=Chart+Camden",
-			"chartPupilsPerfomChartLondon": "https://via.placeholder.com/400x300?text=Chart+London",
-			"chartPupilsProgressCamden": "https://via.placeholder.com/400x300?text=Progress+Camden",
-			"chartPupilsProgressLondon": "https://via.placeholder.com/400x300?text=Progress+London",
-			"chartPuplsGoAferS4Camden": "https://via.placeholder.com/400x300?text=Go+After+S4+Camden",
-			"chartPuplsGoAferS5Camden": "https://via.placeholder.com/400x300?text=Go+After+S5+Camden",
-			"wherePupilsGoAfter": "Students transition to top secondary schools and universities, equipped with strong academic and personal skills."
-		}
-	},
-	{
-		"schoolId": 9,
-		"schoolName": "Riverbank School",
-		"shortSlogan": "Inspiring Success through Excellence.",
-		"descriptionTitle": "Inspiring Success through Excellence.",
-		"description": "Riverbank School is dedicated to fostering excellence in education and personal development. Our inclusive environment supports every student's journey towards academic and personal success.",
-		"websiteLink": "https://www.riverbankschool.co.uk/",
-		"type": "Foundation",
-		"gender": "Mixed",
-		"ageRange": [7, 18],
-		"address": "321 Riverbank Drive, London",
-		"lat": 51.5216,
-		"long": -0.1397,
-		"prevYearCatchmentRadius": 210,
-		"postCode": "SE1 8XX",
-		"facilities": ["Gym", "Outdoor play area", "Library", "Art studio"],
-		"activities": ["Swimming club", "Art club", "Science experiments", "Drama"],
-		"admissionProcess": "Contact the school for information on the application process and deadlines.",
-		"tabs": {
-			"schoolViewsUrls": [
-				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+View+2",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+View+1"
-			],
-			"schoolPhotosUrls": [
-				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+2",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Riverbank+School+Photo+1"
-			],
-			"schoolHighlights": [
+			"academicChildSuccess": "Celebrating the academic achievements of all students.",
+			"chartsPerform": [
 				{
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
+					"chartTitle": "Academic Performance:",
+					"chartImg": "../assets/imgs/chart1.png",
+					"chartDescription": "Top performers consistently exceed national academic standards."
 				}
 			],
-			"schoolPriorities": [
-				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
-			]
-		},
-		"statistics": {
-			"pupilsNum": 500,
-			"ethnicGroupsNum": 13,
-			"languagesNum": 8,
-			"SENDPercent": 9,
-			"BMEPercent": 37,
-			"disadvantagedPupilsPercent": 11,
-			"englishAdditionalLangPercent": 22,
-			"absencePercent": 3.8,
-			"persistentAbsenteesPercent": 9.2,
-			"specificLanguages": ["English", "Urdu", "French", "Polish"],
-			"specificEthnicities": ["White - British", "Pakistani", "Black - Caribbean", "Indian"],
-			"specificSEND": ["Speech and Language Difficulties", "Autistic Spectrum Disorder", "Dyslexia"],
-			"qualifiedTeachersPercent": 91,
-			"pupilAdultRatio": 23.0,
-			"financialReserves": 7.54,
-			"changeYearReserves": 8.67
-		},
-		"curriculum": {
-			"curriculumAim": "To deliver a comprehensive curriculum that fosters academic achievement and personal growth, preparing students for future success.",
-			"curriculumStrengths": ["Mathematics", "English", "Science"],
-			"topSubjects": ["Mathematics", "English", "Science", "History", "Geography"],
-			"topDisciplines": ["STEM", "Humanities", "Arts"],
-			"strengths": ["Academic Achievement", "Creative Expression", "Personal Development"]
-		},
-		"support": {
-			"childSafetyAndHappiness": "We prioritize safety and well-being with a comprehensive approach to safeguarding and pastoral care.",
-			"bullingProtection": "Our anti-bullying measures are robust, providing support and intervention when needed.",
-			"SENDPupilsSupport": "Dedicated support for SEND students ensures they have the resources and assistance required to succeed.",
-			"attendanceManagement": "We work proactively with families to address attendance issues and improve overall attendance rates."
-		},
-		"achievement": {
-			"academicChildSuccess": "Our students achieve outstanding academic results and are well-prepared for future educational and career opportunities.",
-			"chartPupilsPerfomChartCamden": "https://via.placeholder.com/400x300?text=Chart+Camden",
-			"chartPupilsPerfomChartLondon": "https://via.placeholder.com/400x300?text=Chart+London",
-			"chartPupilsProgressCamden": "https://via.placeholder.com/400x300?text=Progress+Camden",
-			"chartPupilsProgressLondon": "https://via.placeholder.com/400x300?text=Progress+London",
-			"chartPuplsGoAferS4Camden": "https://via.placeholder.com/400x300?text=Go+After+S4+Camden",
-			"chartPuplsGoAferS5Camden": "https://via.placeholder.com/400x300?text=Go+After+S5+Camden",
-			"wherePupilsGoAfter": "Students move on to prestigious secondary schools and higher education institutions with strong academic and personal skills."
-		}
-	},
-	{
-		"schoolId": 10,
-		"schoolName": "Hillcrest School",
-		"shortSlogan": "Shaping Futures with Excellence.",
-		"descriptionTitle": "Shaping Futures with Excellence.",
-		"description": "Hillcrest School is dedicated to providing an exceptional educational experience that prepares students for a successful future. Our commitment to academic excellence and personal development ensures every student reaches their full potential.",
-		"websiteLink": "https://www.hillcrestschool.co.uk/",
-		"type": "Academy",
-		"gender": "Mixed",
-		"ageRange": [7, 18],
-		"address": "654 Hillcrest Road, London",
-		"lat": 51.5295,
-		"long": -0.0754,
-		"prevYearCatchmentRadius": 230,
-		"postCode": "E2 8AA",
-		"facilities": ["Gym", "Science lab", "Library", "Art studio"],
-		"activities": ["Debate team", "Robotics club", "Drama", "Creative writing"],
-		"admissionProcess": "Please visit our website for information on the application process and deadlines.",
-		"tabs": {
-			"schoolViewsUrls": [
-				"https://via.placeholder.com/400x300?text=Hillcrest+School+View+1",
-				"https://via.placeholder.com/400x300?text=Hillcrest+School+View+2",
-				"https://via.placeholder.com/400x300?text=Hillcrest+School+View+1",
-				"https://via.placeholder.com/400x300?text=Hillcrest+School+View+1",
-				"https://via.placeholder.com/400x300?text=Hillcrest+School+View+1"
-			],
-			"schoolPhotosUrls": [
-				"https://via.placeholder.com/400x300?text=Hillcrest+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Hillcrest+School+Photo+2",
-				"https://via.placeholder.com/400x300?text=Hillcrest+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Hillcrest+School+Photo+1",
-				"https://via.placeholder.com/400x300?text=Hillcrest+School+Photo+1"
-			],
-			"schoolHighlights": [
+			"chartsProm": [
 				{
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
+					"chartTitle": "Sports Success:",
+					"chartImg": "../assets/imgs/chart4.png",
+					"chartDescription": "Students excel in various regional and national sporting events."
 				}
 			],
-			"schoolPriorities": [
-				{ "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
-			]
+			"wherePupilsGoAfter": "Our graduates attend leading secondary schools and some are accepted into specialized art and sports programs."
 		},
-		"statistics": {
-			"pupilsNum": 550,
-			"ethnicGroupsNum": 14,
-			"languagesNum": 8,
-			"SENDPercent": 11,
-			"BMEPercent": 39,
-			"disadvantagedPupilsPercent": 13,
-			"englishAdditionalLangPercent": 19,
-			"absencePercent": 4.1,
-			"persistentAbsenteesPercent": 9.5,
-			"specificLanguages": ["English", "Portuguese", "Arabic", "French"],
-			"specificEthnicities": ["White - British", "Portuguese", "Black - African", "Bangladeshi"],
-			"specificSEND": ["Dyslexia", "Autistic Spectrum Disorder", "ADHD"],
-			"qualifiedTeachersPercent": 93,
-			"pupilAdultRatio": 21.0,
-			"financialReserves": 6.89,
-			"changeYearReserves": 7.95
-		},
-		"curriculum": {
-			"curriculumAim": "To provide a well-rounded education that emphasizes academic excellence and personal growth, preparing students for future challenges.",
-			"curriculumStrengths": ["STEM", "Arts", "Leadership"],
-			"topSubjects": ["Mathematics", "English", "Science", "History", "Geography"],
-			"topDisciplines": ["STEM", "Creative Arts", "Humanities"],
-			"strengths": ["Academic Achievement", "Creative Expression", "Leadership Skills"]
-		},
-		"support": {
-			"childSafetyAndHappiness": "Our school has comprehensive safeguarding policies and support systems to ensure the safety and well-being of all students.",
-			"bullingProtection": "We have a strong anti-bullying policy and support system in place to address and prevent bullying.",
-			"SENDPupilsSupport": "Specialized support is available for students with SEND to ensure they have the resources needed for success.",
-			"attendanceManagement": "We monitor attendance closely and work with families to address any issues and improve overall attendance."
-		},
-		"achievement": {
-			"academicChildSuccess": "Students achieve high academic standards and are well-prepared for future educational and career opportunities.",
-			"chartPupilsPerfomChartCamden": "https://via.placeholder.com/400x300?text=Chart+Camden",
-			"chartPupilsPerfomChartLondon": "https://via.placeholder.com/400x300?text=Chart+London",
-			"chartPupilsProgressCamden": "https://via.placeholder.com/400x300?text=Progress+Camden",
-			"chartPupilsProgressLondon": "https://via.placeholder.com/400x300?text=Progress+London",
-			"chartPuplsGoAferS4Camden": "https://via.placeholder.com/400x300?text=Go+After+S4+Camden",
-			"chartPuplsGoAferS5Camden": "https://via.placeholder.com/400x300?text=Go+After+S5+Camden",
-			"wherePupilsGoAfter": "Our students progress to leading secondary schools and universities, equipped with the skills and knowledge for future success."
+		"SEND": {
+			"sendSupportInfo": "We provide a range of interventions to support students with learning differences and disabilities.",
+			"inclusivePracticeInfo": "Our inclusive classrooms ensure that all students have access to personalized learning."
 		}
 	}
 ]

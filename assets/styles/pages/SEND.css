@@ -1,0 +1,27 @@
+/* about */
+
+p {
+	margin-bottom: 10px;
+}
+
+.about-sector {
+	margin-bottom: 30px;
+}
+.about-sector .about__title {
+	margin-bottom: 10px;
+}
+.about-sector .about__text {
+	margin-bottom: 10px;
+	display: inline-block;
+}
+.about-sector .about__link {
+	color: #ed4d8b;
+	text-decoration: underline;
+	margin-bottom: 5px;
+	display: block;
+}
+
+.about-sector .info-tags__block {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}

@@ -10,6 +10,7 @@
 			rel="stylesheet" />
 		<link rel="stylesheet" href="../assets/styles/global.css" />
 		<link rel="stylesheet" href="../assets/styles/components/header.css" />
+		<link rel="stylesheet" href="../assets/styles/components/footer.css" />
 		<link rel="stylesheet" href="../assets/styles/pages/school.css" />
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
@@ -18,7 +19,7 @@
 
 		<title>School</title>
 	</head>
-	<body id="schoolPage" class="schoolPage">
+	<body v-cloak id="schoolPage" class="schoolPage">
 		<header>
 			<div class="header__container">
 				<div class="header__content">
@@ -71,7 +72,7 @@
 								</div>
 								<div class="tab__content tab-content">
 									<h5 class="tab-content__title">{{school.descriptionTitle}}</h5>
-									<p class="tab-content__text">{{school.description}}</p>
+									<p class="tab-content__text" v-html="school.description"></p>
 								</div>
 							</div>
 							<div class="tabs-block__item tab">
@@ -121,6 +122,47 @@
 									</div>
 								</div>
 							</div>
+							<!-- <div class="tabs-block__item tab">
+								<div class="tab__top">
+									<div class="tab__icon">
+										<img src="../assets/imgs/stars.png" alt="" />
+									</div>
+									<p class="tab__title">Our school in 5 numbers</p>
+									<div class="tab__close">
+										<img src="../assets/imgs/arrow-down.png" alt="" />
+									</div>
+								</div>
+								<div class="tab__content tab-content">
+									<div class="tab-content__stats tab-stats">
+										<div class="tab-stats__item">
+											<img src="../assets/imgs/people-message-icon.png" alt="" />
+											<p>Pupils</p>
+											<span>{{school.statistics.pupilsNum}}</span>
+										</div>
+										<div class="tab-stats__item">
+											<img src="../assets/imgs/people-message-icon.png" alt="" />
+											<p>SEND</p>
+											<span>{{school.statistics.SENDPercent}}%</span>
+										</div>
+
+										<div class="tab-stats__item">
+											<img src="../assets/imgs/people-message-icon.png" alt="" />
+											<p>Disadvantaged</p>
+											<span>{{school.statistics.languagesNum}}%</span>
+										</div>
+										<div class="tab-stats__item">
+											<img src="../assets/imgs/people-message-icon.png" alt="" />
+											<p>Ethnic Groups</p>
+											<span>{{school.statistics.ethnicGroupsNum}}</span>
+										</div>
+										<div class="tab-stats__item">
+											<img src="../assets/imgs/people-message-icon.png" alt="" />
+											<p>Languages</p>
+											<span>{{school.statistics.languagesNum}}</span>
+										</div>
+									</div>
+								</div>
+							</div> -->
 							<div class="tabs-block__item tab">
 								<div class="tab__top">
 									<div class="tab__icon">
@@ -134,7 +176,10 @@
 								<div class="tab__content tab-content">
 									<div class="swiper tab-slider">
 										<div class="swiper-wrapper tab-slider__wrapper">
-											<div v-for="highlight in school.tabs.schoolHighlights" class="swiper-slide tab-slider__slide text-slide">
+											<div
+												v-for="highlight in school.tabs.schoolHighlights"
+												class="swiper-slide tab-slider__slide text-slide"
+												:style="`${highlight?.bgcolor ? `background: ${highlight.bgcolor}`:''} `">
 												<h3>{{highlight.title}}</h3>
 												<p>{{highlight.description}}</p>
 												<a target="_blank" :href="highlight.link">Learn more</a>
@@ -158,7 +203,10 @@
 								<div class="tab__content tab-content">
 									<div class="swiper tab-slider">
 										<div class="swiper-wrapper tab-slider__wrapper">
-											<div v-for="priority in school.tabs.schoolPriorities" class="swiper-slide tab-slider__slide text-slide">
+											<div
+												v-for="priority in school.tabs.schoolPriorities"
+												class="swiper-slide tab-slider__slide text-slide"
+												:style="`${priority?.bgcolor ? `background: ${priority.bgcolor}`:''} `">
 												<h3>{{priority.title}}</h3>
 												<p>{{priority.description}}</p>
 											</div>
@@ -187,6 +235,11 @@
 								<span class="button__text">Pupil support & wellbeing</span>
 								<div class="button__arrow"><img src="../assets/imgs/arrow-down.png" alt="" /></div>
 							</a>
+							<a :href="`/SEND/index.html?schoolId=${school.schoolId}`" class="navigation__button">
+								<div class="button__icon"><img src="../assets/imgs/holdingHands-icon.png" alt="" /></div>
+								<span class="button__text">SEND & Inclusion</span>
+								<div class="button__arrow"><img src="../assets/imgs/arrow-down.png" alt="" /></div>
+							</a>
 							<a :href="`/achievement/index.html?schoolId=${school.schoolId}`" class="navigation__button">
 								<div class="button__icon"><img src="../assets/imgs/stats-4bars.png" alt="" /></div>
 								<span class="button__text">Pupils’ achievement</span>
@@ -199,14 +252,14 @@
 							</a>
 						</div>
 						<div class="navigation__link">
-							<img src="../assets/imgs/browser-black.png" alt="" /><a :href="school.websiteLink"
-								><span>{{school.websiteLink}}</span></a
+							<img src="../assets/imgs/browser-black.png" alt="" /><a traget="_blank" :href="`${school.websiteLink}`"
+								>{{school.websiteLink}}</a
 							>
 						</div>
 					</div>
 				</div>
 			</section>
-			<section class="verification">
+			<!-- <section class="verification">
 				<div class="verification__container">
 					<div class="verification__content">
 						<p>
@@ -215,7 +268,20 @@
 						</p>
 					</div>
 				</div>
-			</section>
+			</section> -->
 		</main>
+		<footer>
+			<div class="footer__container">
+				<div class="footer__content">
+					<div class="logo">
+						<a href="/index.html"><img src="../assets/imgs/logo-color.png" alt="logo" /></a>
+					</div>
+					<p class="text">
+						Camden Learning, the local area-based education partnership, which supports the development of all Camden schools,
+						confirms that the information in this report is accurate at the date of publication.
+					</p>
+				</div>
+			</div>
+		</footer>
 	</body>
 </html>
