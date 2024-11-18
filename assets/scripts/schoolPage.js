@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 	const swiper = new Swiper(".tab-slider", {
 		// Optional parameters
 		direction: "horizontal",
-		loop: true,
+		loop: false,
 		autoHeight: true,
 		// Enable mousewheel control for desktop (scroll through slides using mouse wheel)
 		mousewheel: {
@@ -56,10 +56,10 @@ document.addEventListener("DOMContentLoaded", async function () {
 		},
 
 		// Autoplay configuration
-		autoplay: {
-			delay: 5000,
-			disableOnInteraction: false,
-		},
+		// autoplay: {
+		// 	delay: 5000,
+		// 	disableOnInteraction: false,
+		// },
 
 		// Speed of slide transition in milliseconds
 		speed: 600,

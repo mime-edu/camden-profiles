@@ -8,9 +8,13 @@ header {
 	justify-content: center;
 }
 
+header .header__container {
+	width: 100%;
+}
 header .logo {
 	width: 128px;
 	height: auto;
+	margin: 0 auto;
 }
 
 .header__wrapper {
@@ -26,4 +30,36 @@ header .logo {
 		width: 110px;
 		height: auto;
 	}
+}
+
+/* school header */
+
+.header__school {
+	display: flex;
+	align-content: center;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.header__school .header__content {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 35px;
+}
+.header__school .school__logo {
+	flex: 0 0 80px;
+	width: 80px;
+	height: 80px;
+	background-color: rgb(196, 38, 38);
+	border-radius: 50%;
+	position: relative;
+	overflow: hidden;
+}
+.header__school .school__name {
+	font-weight: 600;
+	font-size: 28px;
+	color: #fff;
+	max-width: 250px;
 }

@@ -20,12 +20,13 @@
 		<title>School</title>
 	</head>
 	<body v-cloak id="schoolPage" class="schoolPage">
-		<header>
+		<header class="header__school">
 			<div class="header__container">
 				<div class="header__content">
-					<div class="logo">
-						<a href="/index.html"><img src="../assets/imgs/logo.png" alt="logo" /></a>
+					<div class="school__logo">
+						<img src="../assets/imgs/school/logo1.png" alt="logo">
 					</div>
+					<!-- <h1 class="school__name">{{school.schoolName}}</h1> -->
 				</div>
 			</div>
 		</header>
@@ -88,9 +89,24 @@
 								<div class="tab__content tab-content">
 									<div class="swiper tab-slider">
 										<div class="swiper-wrapper tab-slider__wrapper">
-											<div v-for="view in school.tabs.schoolViewsUrls" class="swiper-slide tab-slider__slide">
-												<img :src="view" alt="" />
+											<div
+												v-for="view in school.tabs.schoolViews"
+												:key="view.id"
+												class="swiper-slide tab-slider__slide"
+												:class="{'img-slide': view.type === 'image', 'quote-slide': view.type === 'quote'}"
+												:style="view.bgcolor ? { background: view.bgcolor } : null">
+												<template v-if="view.type === 'image'">
+													<img :src="view.url" alt="" />
+												</template>
+												<template v-else-if="view.type === 'quote'">
+													<div class="description-block">
+														<img class="quote-icon" src="../assets/imgs/quote-icon.png" alt="" />
+														<p>{{ view.text }}</p>
+													</div>
+													<p><b>{{ view.author }}<b></p>
+												</template>
 											</div>
+
 											<!-- <div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/15views.png" alt="" /></div>
 											<div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/15views.png" alt="" /></div> -->
 										</div>
@@ -113,7 +129,7 @@
 								<div class="tab__content tab-content">
 									<div class="swiper tab-slider">
 										<div class="swiper-wrapper tab-slider__wrapper">
-											<div v-for="image in school.tabs.schoolPhotosUrls" class="swiper-slide tab-slider__slide">
+											<div v-for="image in school.tabs.schoolPhotosUrls" class="swiper-slide tab-slider__slide img-slide">
 												<img :src="image" alt="" />
 											</div>
 											<!-- <div class="swiper-slide tab-slider__slide"><img src="../assets/imgs/school/10photos_1.png" alt="" /></div>
@@ -205,7 +221,7 @@
 										<div class="swiper-wrapper tab-slider__wrapper">
 											<div
 												v-for="priority in school.tabs.schoolPriorities"
-												class="swiper-slide tab-slider__slide text-slide"
+												class="swiper-slide tab-slider__slide text-slide priorities-slide"
 												:style="`${priority?.bgcolor ? `background: ${priority.bgcolor}`:''} `">
 												<h3>{{priority.title}}</h3>
 												<p>{{priority.description}}</p>
@@ -250,6 +266,33 @@
 								<span class="button__text">Curriculum, teaching & learning</span>
 								<div class="button__arrow"><img src="../assets/imgs/arrow-down.png" alt="" /></div>
 							</a>
+
+							
+							<!-- <a :href="`/Camden/schoolContext/index.html?schoolId=${school.schoolId}`" class="navigation__button">
+								<div class="button__icon"><img src="../assets/imgs/location.png" alt="" /></div>
+								<span class="button__text">School & community context</span>
+								<div class="button__arrow"><img src="../assets/imgs/arrow-down.png" alt="" /></div>
+							</a>
+							<a :href="`/Camden/support/index.html?schoolId=${school.schoolId}`" class="navigation__button">
+								<div class="button__icon"><img src="../assets/imgs/satisfied-icon.png" alt="" /></div>
+								<span class="button__text">Pupil support & wellbeing</span>
+								<div class="button__arrow"><img src="../assets/imgs/arrow-down.png" alt="" /></div>
+							</a>
+							<a :href="`/Camden/SEND/index.html?schoolId=${school.schoolId}`" class="navigation__button">
+								<div class="button__icon"><img src="../assets/imgs/holdingHands-icon.png" alt="" /></div>
+								<span class="button__text">SEND & Inclusion</span>
+								<div class="button__arrow"><img src="../assets/imgs/arrow-down.png" alt="" /></div>
+							</a>
+							<a :href="`/Camden/achievement/index.html?schoolId=${school.schoolId}`" class="navigation__button">
+								<div class="button__icon"><img src="../assets/imgs/stats-4bars.png" alt="" /></div>
+								<span class="button__text">Pupils’ achievement</span>
+								<div class="button__arrow"><img src="../assets/imgs/arrow-down.png" alt="" /></div>
+							</a>
+							<a :href="`/Camden/curriculum/index.html?schoolId=${school.schoolId}`" class="navigation__button">
+								<div class="button__icon"><img src="../assets/imgs/teaching-icon.png" alt="" /></div>
+								<span class="button__text">Curriculum, teaching & learning</span>
+								<div class="button__arrow"><img src="../assets/imgs/arrow-down.png" alt="" /></div>
+							</a> -->
 						</div>
 						<div class="navigation__link">
 							<img src="../assets/imgs/browser-black.png" alt="" /><a traget="_blank" :href="`${school.websiteLink}`"
@@ -275,6 +318,7 @@
 				<div class="footer__content">
 					<div class="logo">
 						<a href="/index.html"><img src="../assets/imgs/logo-color.png" alt="logo" /></a>
+						<!-- <a href="/Camden/index.html"><img src="../assets/imgs/logo-color.png" alt="logo" /></a> -->
 					</div>
 					<p class="text">
 						Camden Learning, the local area-based education partnership, which supports the development of all Camden schools,

@@ -8,6 +8,7 @@
 		<link
 			href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
 			rel="stylesheet" />
+
 		<link rel="stylesheet" href="../assets/styles/global.css" />
 		<link rel="stylesheet" href="../assets/styles/components/header.css" />
 		<link rel="stylesheet" href="../assets/styles/components/footer.css" />
@@ -19,12 +20,13 @@
 		<title>School & Community Context</title>
 	</head>
 	<body id="schoolContext" class="schoolPage" v-cloak>
-		<header>
+		<header class="header__school">
 			<div class="header__container">
 				<div class="header__content">
-					<div class="logo">
-						<a href="/index.html"><img src="../assets/imgs/logo.png" alt="logo" /></a>
+					<div class="school__logo">
+						<img src="../assets/imgs/school/logo1.png" alt="logo" />
 					</div>
+					<h1 class="school__name">{{school.schoolName}}</h1>
 				</div>
 			</div>
 		</header>
@@ -35,6 +37,10 @@
 						<a :href="`/school/index.html?schoolId=${school.schoolId}`" class="go-back-button"
 							><img src="../assets/imgs/arrow-back.png" alt="" /><span>Back</span></a
 						>
+
+						<!-- <a :href="`/Camden/school/index.html?schoolId=${school.schoolId}`" class="go-back-button"
+							><img src="../assets/imgs/arrow-back.png" alt="" /><span>Back</span></a
+						> -->
 						<h1 class="hero__title">School & Community Context</h1>
 						<div class="hero__navigation navigation-hero page-navigation">
 							<a href="#location-sector" class="page-navigation__button navigation-hero__button">
@@ -322,6 +328,7 @@
 				<div class="footer__content">
 					<div class="logo">
 						<a href="/index.html"><img src="../assets/imgs/logo-color.png" alt="logo" /></a>
+						<!-- <a href="/Camden/index.html"><img src="../assets/imgs/logo-color.png" alt="logo" /></a> -->
 					</div>
 					<p class="text">
 						Camden Learning, the local area-based education partnership, which supports the development of all Camden schools,

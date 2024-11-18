@@ -194,34 +194,72 @@
 	margin-bottom: 20px;
 }
 .tab-slider__slide {
-	min-height: auto;
+	min-height: 300px;
 	max-width: 340px;
 	background-color: #e50059;
 	border-radius: 10px;
 	overflow: hidden;
 	position: relative;
 }
-
+.tab-slider__slide p {
+	font-size: 14px;
+}
+/* for slides just for text */
 .tab-slider__slide.text-slide {
 	padding: 50px 20px 25px 20px;
 	color: #fff;
 	display: flex;
 	flex-direction: column;
 }
-.tab-slider__slide h3 {
+.tab-slider__slide.text-slide h3 {
 	font-size: 16px;
 	font-weight: 700;
 	margin-bottom: 30px;
 }
-.tab-slider__slide p {
+.tab-slider__slide.text-slide p {
 	font-size: 14px;
 	margin-bottom: 7px;
 }
-.tab-slider__slide a {
+.tab-slider__slide.text-slide a {
 	font-size: 14px;
 	font-weight: 700;
 	margin-top: auto;
 }
+
+/* for slides with quote and text */
+
+.tab-slider__slide.quote-slide {
+	padding: 50px 20px 25px 20px;
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	height: 100%;
+}
+
+.tab-slider__slide.quote-slide .description-block {
+	display: flex;
+	flex: 1 1 auto;
+}
+.tab-slider__slide.quote-slide .description-block .quote-icon {
+	position: relative;
+	display: inline-block;
+	flex: 0 0 25px;
+	height: 20px;
+	margin-right: 15px;
+}
+
+.tab-slider__slide.quote-slide .description-block p {
+	padding-top: 10px;
+}
+
+/* priorities */
+.tab-slider__slide.priorities-slide {
+	min-height: 200px;
+}
+
+/* general adaptive */
+
 @media (min-width: 430px) {
 	.tab-slider__slide {
 		min-height: 280px;
@@ -240,7 +278,7 @@
 		max-width: 470px;
 	}
 }
-.tab-slider__slide img {
+.tab-slider__slide.img-slide img {
 	position: absolute;
 	width: 100%;
 	height: 100%;
