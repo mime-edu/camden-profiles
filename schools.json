@@ -1,1610 +1,268 @@
 [
-	{
-		"schoolId": 1,
-		"schoolName": "Redriff Primary",
-		"isPrimary": false,
-		"shortSlogan": "We want our pupils to become informed, articulate and empowered citizens.",
-		"descriptionTitle": "We want our pupils to become informed, articulate and empowered citizens.",
-		"description": "Through our curriculum with its emphasis on the Environment and the Rights of the Child, our innovative pedagogy and the rich opportunities we provide, children develop the knowledge, skills and attitudes to thrive academically and personally. Affectionately known as 'Hattoneers,' our children embody high aspirations, mutual respect, and a commitment to making a positive impact. We are a happy, creative and inclusive school celebrating the rich diversity of our families. We are proud to be a beacon of excellence at the heart of our community.",
-		"schoolLogo": "../assets/imgs/school/logo1.png",
-		"websiteLink": "https://www.redriff.co.uk/",
-		"ofstedLink": "https://reports.ofsted.gov.uk/provider/23/137005",
-		"type": "Roman Catholic",
-		"gender": "Mixed",
-		"entryForms": 2,
-		"ageRange": [4, 10],
-		"address": "Laystall St, Holborn, London",
-		"lat": 51.509865,
-		"long": -0.118092,
-		"prevYearCatchmentRadius": 200,
-		"postCode": "EC1R 4PQ",
-		"facilities": ["Science lab", "Cafe", "Playgrounds", "Library", "Tennis courts"],
-		"activities": [
-			"Breakfast club",
-			"Family learning",
-			"Sports",
-			"Public speaking",
-			"Duke of Edinburgh",
-			"Computer club",
-			"Yoga"
-		],
-		"admissionProcess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-		"tabs": {
-			"schoolViews": [
-				{
-					"type": "image",
-					"url": "../assets/imgs/school/15views.png"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Christ Church School provides an education for its pupils that is exceptional in every way.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "This place has always left welcoming and safe",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Pupils said, without hesitation, that they felt safe in school.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "School is really fun and all the teachers and T.A.s are kind and they listen. I love how we do a lot of things outside the classroom as it makes school really fun.",
-					"author": "Pupil"
-				}
-			],
-			"schoolPhotosUrls": [
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png"
-			],
-			"schoolHighlights": [
-				{
-					"bgcolor": "#E50059",
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#ED6C26",
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#93C467",
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#4764FF",
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				}
-			],
-			"schoolPriorities": [
-				{ "bgcolor": "#4764FF", "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#93C467", "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#E50059", "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#ED6C26", "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
-			]
-		},
-		"statistics": {
-			"pupilsNum": 412,
-			"ethnicGroupsNum": 14,
-			"languagesNum": 8,
-			"SENDPercent": 15,
-			"BMEPercent": 32,
-			"disadvantagedPupilsPercent": 8,
-			"englishAdditionalLangPercent": 20,
-			"absencePercent": 4.7,
-			"persistentAbsenteesPercent": 12.2,
-			"specificLanguages": ["English", "Dutch", "Chinese", "Polish", "Spanish", "Japanese"],
-			"specificEthnicities": [
-				"White - British",
-				"Albanian",
-				"Portuguese",
-				"Asian and Chinese",
-				"Indian",
-				"Nepali",
-				"Black - Nigerian",
-				"Afghan",
-				"Thai",
-				"Vietnamese",
-				"Serbian",
-				"Other Pakistani"
-			],
-			"specificSEND": [
-				"Social, Emotional and Mental Health",
-				"Hearing Impairment",
-				"Visual Impairment",
-				"Moderate Learning Difficulty"
-			],
-			"qualifiedTeachersPercent": 97,
-			"pupilAdultRatio": 21.5,
-			"financialReserves": 10.234,
-			"changeYearReserves": 12.234
-		},
-		"curriculum": {
-			"curriculumAim": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"curriculumStrengths": ["Creativity", "Sport", "Sciences"],
-			"topSubjects": [
-				"English literature",
-				"Maths",
-				"Biology",
-				"Chemistry",
-				"Physics",
-				"Dance",
-				"Drama",
-				"Computer Science",
-				"French",
-				"Italian"
-			],
-			"topDisciplines": ["Applied Sciences", "Business Studies", "Health Studies"],
-			"strengths": ["Creativity", "Sports", "Sciences"]
-		},
-		"support": {
-			"childSafetyAndHappiness": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum.",
-			"bullingProtection": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"attendanceManagement": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"achievement": {
-			"academicChildSuccess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-
-			"chartsPerform": [
-				{
-					"chartTitle": "attainment 8:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				},
-				{
-					"chartTitle": "attainment 9:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				}
-			],
-
-			"chartsProm": [
-				{
-					"chartTitle": "After Key 5:",
-					"chartImg": "../assets/imgs/chart3.png",
-					"chartDescription": ""
-				},
-				{
-					"chartTitle": "After Key 4:",
-					"chartImg": "../assets/imgs/chart4.png",
-					"chartDescription": ""
-				}
-			],
-
-			"wherePupilsGoAfter": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"SEND": {
-			"sendSupportInfo": "26% of our pupils have SEND (3% with an Education Health and Care Plan & 23% on SEN Support). We prioritise high quality class teaching and ensure all teachers can adapt their practice so all pupils make progress. Pupils learn in mixed attainment groups as we have high expectations for all. <br /><br /> If a child needs additional help with an area of learning, support is provided through small group pre-teaching of key knowledge. This helps pupils to engage successfully in lessons. <br /><br /> For some pupils, specific interventions and more significant adaptations may be required. Our SENDCo works in partnership with parents and specialist agencies to plan these.",
-			"inclusivePracticeInfo": "We ensure standards and progress are consistently high for all groups of pupils: girls and boys; pupils of all ethnicities, pupils with SEND and those from disadvantaged backgrounds. This is the result of our inclusive practices and a curriculum that reflects the diversity of our community. <br /><br /> Teaching effective communication skills, an inclusive ethos and the creation of a safe and welcoming learning environment are central to ensuring all pupils can thrive."
-		}
-	},
-	{
-		"schoolId": 2,
-		"schoolName": "Redriff Primary 1",
-		"isPrimary": false,
-		"shortSlogan": "We want our pupils to become informed, articulate and empowered citizens.",
-		"descriptionTitle": "We want our pupils to become informed, articulate and empowered citizens.",
-		"description": "Through our curriculum with its emphasis on the Environment and the Rights of the Child, our innovative pedagogy and the rich opportunities we provide, children develop the knowledge, skills and attitudes to thrive academically and personally. Affectionately known as 'Hattoneers,' our children embody high aspirations, mutual respect, and a commitment to making a positive impact. We are a happy, creative and inclusive school celebrating the rich diversity of our families. We are proud to be a beacon of excellence at the heart of our community.",
-		"schoolLogo": "../assets/imgs/school/logo1.png",
-		"websiteLink": "https://www.redriff.co.uk/",
-		"ofstedLink": "https://reports.ofsted.gov.uk/provider/23/137005",
-		"type": "Roman Catholic",
-		"gender": "Mixed",
-		"entryForms": 2,
-		"ageRange": [4, 10],
-		"address": "Laystall St, Holborn, London",
-		"lat": 51.509865,
-		"long": -0.118092,
-		"prevYearCatchmentRadius": 200,
-		"postCode": "EC1R 4PQ",
-		"facilities": ["Science lab", "Cafe", "Playgrounds", "Library", "Tennis courts"],
-		"activities": [
-			"Breakfast club",
-			"Family learning",
-			"Sports",
-			"Public speaking",
-			"Duke of Edinburgh",
-			"Computer club",
-			"Yoga"
-		],
-		"admissionProcess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-		"tabs": {
-			"schoolViews": [
-				{
-					"type": "image",
-					"url": "../assets/imgs/school/15views.png"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Christ Church School provides an education for its pupils that is exceptional in every way.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "This place has always left welcoming and safe",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Pupils said, without hesitation, that they felt safe in school.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "School is really fun and all the teachers and T.A.s are kind and they listen. I love how we do a lot of things outside the classroom as it makes school really fun.",
-					"author": "Pupil"
-				}
-			],
-			"schoolPhotosUrls": [
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png"
-			],
-			"schoolHighlights": [
-				{
-					"bgcolor": "#E50059",
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#ED6C26",
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#93C467",
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#4764FF",
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				}
-			],
-			"schoolPriorities": [
-				{ "bgcolor": "#4764FF", "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#93C467", "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#E50059", "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#ED6C26", "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
-			]
-		},
-		"statistics": {
-			"pupilsNum": 412,
-			"ethnicGroupsNum": 14,
-			"languagesNum": 8,
-			"SENDPercent": 15,
-			"BMEPercent": 32,
-			"disadvantagedPupilsPercent": 8,
-			"englishAdditionalLangPercent": 20,
-			"absencePercent": 4.7,
-			"persistentAbsenteesPercent": 12.2,
-			"specificLanguages": ["English", "Dutch", "Chinese", "Polish", "Spanish", "Japanese"],
-			"specificEthnicities": [
-				"White - British",
-				"Albanian",
-				"Portuguese",
-				"Asian and Chinese",
-				"Indian",
-				"Nepali",
-				"Black - Nigerian",
-				"Afghan",
-				"Thai",
-				"Vietnamese",
-				"Serbian",
-				"Other Pakistani"
-			],
-			"specificSEND": [
-				"Social, Emotional and Mental Health",
-				"Hearing Impairment",
-				"Visual Impairment",
-				"Moderate Learning Difficulty"
-			],
-			"qualifiedTeachersPercent": 97,
-			"pupilAdultRatio": 21.5,
-			"financialReserves": 10.234,
-			"changeYearReserves": 12.234
-		},
-		"curriculum": {
-			"curriculumAim": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"curriculumStrengths": ["Creativity", "Sport", "Sciences"],
-			"topSubjects": [
-				"English literature",
-				"Maths",
-				"Biology",
-				"Chemistry",
-				"Physics",
-				"Dance",
-				"Drama",
-				"Computer Science",
-				"French",
-				"Italian"
-			],
-			"topDisciplines": ["Applied Sciences", "Business Studies", "Health Studies"],
-			"strengths": ["Creativity", "Sports", "Sciences"]
-		},
-		"support": {
-			"childSafetyAndHappiness": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum.",
-			"bullingProtection": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"attendanceManagement": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"achievement": {
-			"academicChildSuccess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-
-			"chartsPerform": [
-				{
-					"chartTitle": "attainment 8:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				},
-				{
-					"chartTitle": "attainment 9:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				}
-			],
-
-			"chartsProm": [
-				{
-					"chartTitle": "After Key 5:",
-					"chartImg": "../assets/imgs/chart3.png",
-					"chartDescription": ""
-				},
-				{
-					"chartTitle": "After Key 4:",
-					"chartImg": "../assets/imgs/chart4.png",
-					"chartDescription": ""
-				}
-			],
-
-			"wherePupilsGoAfter": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"SEND": {
-			"sendSupportInfo": "26% of our pupils have SEND (3% with an Education Health and Care Plan & 23% on SEN Support). We prioritise high quality class teaching and ensure all teachers can adapt their practice so all pupils make progress. Pupils learn in mixed attainment groups as we have high expectations for all. <br /><br /> If a child needs additional help with an area of learning, support is provided through small group pre-teaching of key knowledge. This helps pupils to engage successfully in lessons. <br /><br /> For some pupils, specific interventions and more significant adaptations may be required. Our SENDCo works in partnership with parents and specialist agencies to plan these.",
-			"inclusivePracticeInfo": "We ensure standards and progress are consistently high for all groups of pupils: girls and boys; pupils of all ethnicities, pupils with SEND and those from disadvantaged backgrounds. This is the result of our inclusive practices and a curriculum that reflects the diversity of our community. <br /><br /> Teaching effective communication skills, an inclusive ethos and the creation of a safe and welcoming learning environment are central to ensuring all pupils can thrive."
-		}
-	},
-	{
-		"schoolId": 3,
-		"schoolName": "Redriff Primary 2",
-		"isPrimary": false,
-		"shortSlogan": "We want our pupils to become informed, articulate and empowered citizens.",
-		"descriptionTitle": "We want our pupils to become informed, articulate and empowered citizens.",
-		"description": "Through our curriculum with its emphasis on the Environment and the Rights of the Child, our innovative pedagogy and the rich opportunities we provide, children develop the knowledge, skills and attitudes to thrive academically and personally. Affectionately known as 'Hattoneers,' our children embody high aspirations, mutual respect, and a commitment to making a positive impact. We are a happy, creative and inclusive school celebrating the rich diversity of our families. We are proud to be a beacon of excellence at the heart of our community.",
-		"schoolLogo": "../assets/imgs/school/logo1.png",
-		"websiteLink": "https://www.redriff.co.uk/",
-		"ofstedLink": "https://reports.ofsted.gov.uk/provider/23/137005",
-		"type": "Roman Catholic",
-		"gender": "Mixed",
-		"entryForms": 2,
-		"ageRange": [4, 10],
-		"address": "Laystall St, Holborn, London",
-		"lat": 51.509865,
-		"long": -0.118092,
-		"prevYearCatchmentRadius": 200,
-		"postCode": "EC1R 4PQ",
-		"facilities": ["Science lab", "Cafe", "Playgrounds", "Library", "Tennis courts"],
-		"activities": [
-			"Breakfast club",
-			"Family learning",
-			"Sports",
-			"Public speaking",
-			"Duke of Edinburgh",
-			"Computer club",
-			"Yoga"
-		],
-		"admissionProcess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-		"tabs": {
-			"schoolViews": [
-				{
-					"type": "image",
-					"url": "../assets/imgs/school/15views.png"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Christ Church School provides an education for its pupils that is exceptional in every way.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "This place has always left welcoming and safe",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Pupils said, without hesitation, that they felt safe in school.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "School is really fun and all the teachers and T.A.s are kind and they listen. I love how we do a lot of things outside the classroom as it makes school really fun.",
-					"author": "Pupil"
-				}
-			],
-			"schoolPhotosUrls": [
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png"
-			],
-			"schoolHighlights": [
-				{
-					"bgcolor": "#E50059",
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#ED6C26",
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#93C467",
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#4764FF",
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				}
-			],
-			"schoolPriorities": [
-				{ "bgcolor": "#4764FF", "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#93C467", "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#E50059", "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#ED6C26", "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
-			]
-		},
-		"statistics": {
-			"pupilsNum": 412,
-			"ethnicGroupsNum": 14,
-			"languagesNum": 8,
-			"SENDPercent": 15,
-			"BMEPercent": 32,
-			"disadvantagedPupilsPercent": 8,
-			"englishAdditionalLangPercent": 20,
-			"absencePercent": 4.7,
-			"persistentAbsenteesPercent": 12.2,
-			"specificLanguages": ["English", "Dutch", "Chinese", "Polish", "Spanish", "Japanese"],
-			"specificEthnicities": [
-				"White - British",
-				"Albanian",
-				"Portuguese",
-				"Asian and Chinese",
-				"Indian",
-				"Nepali",
-				"Black - Nigerian",
-				"Afghan",
-				"Thai",
-				"Vietnamese",
-				"Serbian",
-				"Other Pakistani"
-			],
-			"specificSEND": [
-				"Social, Emotional and Mental Health",
-				"Hearing Impairment",
-				"Visual Impairment",
-				"Moderate Learning Difficulty"
-			],
-			"qualifiedTeachersPercent": 97,
-			"pupilAdultRatio": 21.5,
-			"financialReserves": 10.234,
-			"changeYearReserves": 12.234
-		},
-		"curriculum": {
-			"curriculumAim": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"curriculumStrengths": ["Creativity", "Sport", "Sciences"],
-			"topSubjects": [
-				"English literature",
-				"Maths",
-				"Biology",
-				"Chemistry",
-				"Physics",
-				"Dance",
-				"Drama",
-				"Computer Science",
-				"French",
-				"Italian"
-			],
-			"topDisciplines": ["Applied Sciences", "Business Studies", "Health Studies"],
-			"strengths": ["Creativity", "Sports", "Sciences"]
-		},
-		"support": {
-			"childSafetyAndHappiness": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum.",
-			"bullingProtection": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"attendanceManagement": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"achievement": {
-			"academicChildSuccess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-
-			"chartsPerform": [
-				{
-					"chartTitle": "attainment 8:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				},
-				{
-					"chartTitle": "attainment 9:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				}
-			],
-
-			"chartsProm": [
-				{
-					"chartTitle": "After Key 5:",
-					"chartImg": "../assets/imgs/chart3.png",
-					"chartDescription": ""
-				},
-				{
-					"chartTitle": "After Key 4:",
-					"chartImg": "../assets/imgs/chart4.png",
-					"chartDescription": ""
-				}
-			],
-
-			"wherePupilsGoAfter": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"SEND": {
-			"sendSupportInfo": "26% of our pupils have SEND (3% with an Education Health and Care Plan & 23% on SEN Support). We prioritise high quality class teaching and ensure all teachers can adapt their practice so all pupils make progress. Pupils learn in mixed attainment groups as we have high expectations for all. <br /><br /> If a child needs additional help with an area of learning, support is provided through small group pre-teaching of key knowledge. This helps pupils to engage successfully in lessons. <br /><br /> For some pupils, specific interventions and more significant adaptations may be required. Our SENDCo works in partnership with parents and specialist agencies to plan these.",
-			"inclusivePracticeInfo": "We ensure standards and progress are consistently high for all groups of pupils: girls and boys; pupils of all ethnicities, pupils with SEND and those from disadvantaged backgrounds. This is the result of our inclusive practices and a curriculum that reflects the diversity of our community. <br /><br /> Teaching effective communication skills, an inclusive ethos and the creation of a safe and welcoming learning environment are central to ensuring all pupils can thrive."
-		}
-	},
-	{
-		"schoolId": 4,
-		"schoolName": "Redriff Primary 5",
-		"isPrimary": false,
-		"shortSlogan": "We want our pupils to become informed, articulate and empowered citizens.",
-		"descriptionTitle": "We want our pupils to become informed, articulate and empowered citizens.",
-		"description": "Through our curriculum with its emphasis on the Environment and the Rights of the Child, our innovative pedagogy and the rich opportunities we provide, children develop the knowledge, skills and attitudes to thrive academically and personally. Affectionately known as 'Hattoneers,' our children embody high aspirations, mutual respect, and a commitment to making a positive impact. We are a happy, creative and inclusive school celebrating the rich diversity of our families. We are proud to be a beacon of excellence at the heart of our community.",
-		"schoolLogo": "../assets/imgs/school/logo1.png",
-		"websiteLink": "https://www.redriff.co.uk/",
-		"ofstedLink": "https://reports.ofsted.gov.uk/provider/23/137005",
-		"type": "Roman Catholic",
-		"gender": "Mixed",
-		"entryForms": 2,
-		"ageRange": [4, 10],
-		"address": "Laystall St, Holborn, London",
-		"lat": 51.509865,
-		"long": -0.118092,
-		"prevYearCatchmentRadius": 200,
-		"postCode": "EC1R 4PQ",
-		"facilities": ["Science lab", "Cafe", "Playgrounds", "Library", "Tennis courts"],
-		"activities": [
-			"Breakfast club",
-			"Family learning",
-			"Sports",
-			"Public speaking",
-			"Duke of Edinburgh",
-			"Computer club",
-			"Yoga"
-		],
-		"admissionProcess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-		"tabs": {
-			"schoolViews": [
-				{
-					"type": "image",
-					"url": "../assets/imgs/school/15views.png"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Christ Church School provides an education for its pupils that is exceptional in every way.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "This place has always left welcoming and safe",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Pupils said, without hesitation, that they felt safe in school.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "School is really fun and all the teachers and T.A.s are kind and they listen. I love how we do a lot of things outside the classroom as it makes school really fun.",
-					"author": "Pupil"
-				}
-			],
-			"schoolPhotosUrls": [
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png"
-			],
-			"schoolHighlights": [
-				{
-					"bgcolor": "#E50059",
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#ED6C26",
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#93C467",
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#4764FF",
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				}
-			],
-			"schoolPriorities": [
-				{ "bgcolor": "#4764FF", "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#93C467", "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#E50059", "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#ED6C26", "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
-			]
-		},
-		"statistics": {
-			"pupilsNum": 412,
-			"ethnicGroupsNum": 14,
-			"languagesNum": 8,
-			"SENDPercent": 15,
-			"BMEPercent": 32,
-			"disadvantagedPupilsPercent": 8,
-			"englishAdditionalLangPercent": 20,
-			"absencePercent": 4.7,
-			"persistentAbsenteesPercent": 12.2,
-			"specificLanguages": ["English", "Dutch", "Chinese", "Polish", "Spanish", "Japanese"],
-			"specificEthnicities": [
-				"White - British",
-				"Albanian",
-				"Portuguese",
-				"Asian and Chinese",
-				"Indian",
-				"Nepali",
-				"Black - Nigerian",
-				"Afghan",
-				"Thai",
-				"Vietnamese",
-				"Serbian",
-				"Other Pakistani"
-			],
-			"specificSEND": [
-				"Social, Emotional and Mental Health",
-				"Hearing Impairment",
-				"Visual Impairment",
-				"Moderate Learning Difficulty"
-			],
-			"qualifiedTeachersPercent": 97,
-			"pupilAdultRatio": 21.5,
-			"financialReserves": 10.234,
-			"changeYearReserves": 12.234
-		},
-		"curriculum": {
-			"curriculumAim": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"curriculumStrengths": ["Creativity", "Sport", "Sciences"],
-			"topSubjects": [
-				"English literature",
-				"Maths",
-				"Biology",
-				"Chemistry",
-				"Physics",
-				"Dance",
-				"Drama",
-				"Computer Science",
-				"French",
-				"Italian"
-			],
-			"topDisciplines": ["Applied Sciences", "Business Studies", "Health Studies"],
-			"strengths": ["Creativity", "Sports", "Sciences"]
-		},
-		"support": {
-			"childSafetyAndHappiness": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum.",
-			"bullingProtection": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"attendanceManagement": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"achievement": {
-			"academicChildSuccess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-
-			"chartsPerform": [
-				{
-					"chartTitle": "attainment 8:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				},
-				{
-					"chartTitle": "attainment 9:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				}
-			],
-
-			"chartsProm": [
-				{
-					"chartTitle": "After Key 5:",
-					"chartImg": "../assets/imgs/chart3.png",
-					"chartDescription": ""
-				},
-				{
-					"chartTitle": "After Key 4:",
-					"chartImg": "../assets/imgs/chart4.png",
-					"chartDescription": ""
-				}
-			],
-
-			"wherePupilsGoAfter": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"SEND": {
-			"sendSupportInfo": "26% of our pupils have SEND (3% with an Education Health and Care Plan & 23% on SEN Support). We prioritise high quality class teaching and ensure all teachers can adapt their practice so all pupils make progress. Pupils learn in mixed attainment groups as we have high expectations for all. <br /><br /> If a child needs additional help with an area of learning, support is provided through small group pre-teaching of key knowledge. This helps pupils to engage successfully in lessons. <br /><br /> For some pupils, specific interventions and more significant adaptations may be required. Our SENDCo works in partnership with parents and specialist agencies to plan these.",
-			"inclusivePracticeInfo": "We ensure standards and progress are consistently high for all groups of pupils: girls and boys; pupils of all ethnicities, pupils with SEND and those from disadvantaged backgrounds. This is the result of our inclusive practices and a curriculum that reflects the diversity of our community. <br /><br /> Teaching effective communication skills, an inclusive ethos and the creation of a safe and welcoming learning environment are central to ensuring all pupils can thrive."
-		}
-	},
-	{
-		"schoolId": 5,
-		"schoolName": "Redriff Primary 6",
-		"isPrimary": false,
-		"shortSlogan": "We want our pupils to become informed, articulate and empowered citizens.",
-		"descriptionTitle": "We want our pupils to become informed, articulate and empowered citizens.",
-		"description": "Through our curriculum with its emphasis on the Environment and the Rights of the Child, our innovative pedagogy and the rich opportunities we provide, children develop the knowledge, skills and attitudes to thrive academically and personally. Affectionately known as 'Hattoneers,' our children embody high aspirations, mutual respect, and a commitment to making a positive impact. We are a happy, creative and inclusive school celebrating the rich diversity of our families. We are proud to be a beacon of excellence at the heart of our community.",
-		"schoolLogo": "../assets/imgs/school/logo1.png",
-		"websiteLink": "https://www.redriff.co.uk/",
-		"ofstedLink": "https://reports.ofsted.gov.uk/provider/23/137005",
-		"type": "Roman Catholic",
-		"gender": "Mixed",
-		"entryForms": 2,
-		"ageRange": [4, 10],
-		"address": "Laystall St, Holborn, London",
-		"lat": 51.509865,
-		"long": -0.118092,
-		"prevYearCatchmentRadius": 200,
-		"postCode": "EC1R 4PQ",
-		"facilities": ["Science lab", "Cafe", "Playgrounds", "Library", "Tennis courts"],
-		"activities": [
-			"Breakfast club",
-			"Family learning",
-			"Sports",
-			"Public speaking",
-			"Duke of Edinburgh",
-			"Computer club",
-			"Yoga"
-		],
-		"admissionProcess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-		"tabs": {
-			"schoolViews": [
-				{
-					"type": "image",
-					"url": "../assets/imgs/school/15views.png"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Christ Church School provides an education for its pupils that is exceptional in every way.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "This place has always left welcoming and safe",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Pupils said, without hesitation, that they felt safe in school.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "School is really fun and all the teachers and T.A.s are kind and they listen. I love how we do a lot of things outside the classroom as it makes school really fun.",
-					"author": "Pupil"
-				}
-			],
-			"schoolPhotosUrls": [
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png"
-			],
-			"schoolHighlights": [
-				{
-					"bgcolor": "#E50059",
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#ED6C26",
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#93C467",
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#4764FF",
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				}
-			],
-			"schoolPriorities": [
-				{ "bgcolor": "#4764FF", "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#93C467", "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#E50059", "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#ED6C26", "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
-			]
-		},
-		"statistics": {
-			"pupilsNum": 412,
-			"ethnicGroupsNum": 14,
-			"languagesNum": 8,
-			"SENDPercent": 15,
-			"BMEPercent": 32,
-			"disadvantagedPupilsPercent": 8,
-			"englishAdditionalLangPercent": 20,
-			"absencePercent": 4.7,
-			"persistentAbsenteesPercent": 12.2,
-			"specificLanguages": ["English", "Dutch", "Chinese", "Polish", "Spanish", "Japanese"],
-			"specificEthnicities": [
-				"White - British",
-				"Albanian",
-				"Portuguese",
-				"Asian and Chinese",
-				"Indian",
-				"Nepali",
-				"Black - Nigerian",
-				"Afghan",
-				"Thai",
-				"Vietnamese",
-				"Serbian",
-				"Other Pakistani"
-			],
-			"specificSEND": [
-				"Social, Emotional and Mental Health",
-				"Hearing Impairment",
-				"Visual Impairment",
-				"Moderate Learning Difficulty"
-			],
-			"qualifiedTeachersPercent": 97,
-			"pupilAdultRatio": 21.5,
-			"financialReserves": 10.234,
-			"changeYearReserves": 12.234
-		},
-		"curriculum": {
-			"curriculumAim": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"curriculumStrengths": ["Creativity", "Sport", "Sciences"],
-			"topSubjects": [
-				"English literature",
-				"Maths",
-				"Biology",
-				"Chemistry",
-				"Physics",
-				"Dance",
-				"Drama",
-				"Computer Science",
-				"French",
-				"Italian"
-			],
-			"topDisciplines": ["Applied Sciences", "Business Studies", "Health Studies"],
-			"strengths": ["Creativity", "Sports", "Sciences"]
-		},
-		"support": {
-			"childSafetyAndHappiness": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum.",
-			"bullingProtection": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"attendanceManagement": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"achievement": {
-			"academicChildSuccess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-
-			"chartsPerform": [
-				{
-					"chartTitle": "attainment 8:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				},
-				{
-					"chartTitle": "attainment 9:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				}
-			],
-
-			"chartsProm": [
-				{
-					"chartTitle": "After Key 5:",
-					"chartImg": "../assets/imgs/chart3.png",
-					"chartDescription": ""
-				},
-				{
-					"chartTitle": "After Key 4:",
-					"chartImg": "../assets/imgs/chart4.png",
-					"chartDescription": ""
-				}
-			],
-
-			"wherePupilsGoAfter": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"SEND": {
-			"sendSupportInfo": "26% of our pupils have SEND (3% with an Education Health and Care Plan & 23% on SEN Support). We prioritise high quality class teaching and ensure all teachers can adapt their practice so all pupils make progress. Pupils learn in mixed attainment groups as we have high expectations for all. <br /><br /> If a child needs additional help with an area of learning, support is provided through small group pre-teaching of key knowledge. This helps pupils to engage successfully in lessons. <br /><br /> For some pupils, specific interventions and more significant adaptations may be required. Our SENDCo works in partnership with parents and specialist agencies to plan these.",
-			"inclusivePracticeInfo": "We ensure standards and progress are consistently high for all groups of pupils: girls and boys; pupils of all ethnicities, pupils with SEND and those from disadvantaged backgrounds. This is the result of our inclusive practices and a curriculum that reflects the diversity of our community. <br /><br /> Teaching effective communication skills, an inclusive ethos and the creation of a safe and welcoming learning environment are central to ensuring all pupils can thrive."
-		}
-	},
-	{
-		"schoolId": 6,
-		"schoolName": "Redriff Primary 7",
-		"isPrimary": false,
-		"shortSlogan": "We want our pupils to become informed, articulate and empowered citizens.",
-		"descriptionTitle": "We want our pupils to become informed, articulate and empowered citizens.",
-		"description": "Through our curriculum with its emphasis on the Environment and the Rights of the Child, our innovative pedagogy and the rich opportunities we provide, children develop the knowledge, skills and attitudes to thrive academically and personally. Affectionately known as 'Hattoneers,' our children embody high aspirations, mutual respect, and a commitment to making a positive impact. We are a happy, creative and inclusive school celebrating the rich diversity of our families. We are proud to be a beacon of excellence at the heart of our community.",
-		"schoolLogo": "../assets/imgs/school/logo1.png",
-		"websiteLink": "https://www.redriff.co.uk/",
-		"ofstedLink": "https://reports.ofsted.gov.uk/provider/23/137005",
-		"type": "Roman Catholic",
-		"gender": "Mixed",
-		"entryForms": 2,
-		"ageRange": [4, 10],
-		"address": "Laystall St, Holborn, London",
-		"lat": 51.509865,
-		"long": -0.118092,
-		"prevYearCatchmentRadius": 200,
-		"postCode": "EC1R 4PQ",
-		"facilities": ["Science lab", "Cafe", "Playgrounds", "Library", "Tennis courts"],
-		"activities": [
-			"Breakfast club",
-			"Family learning",
-			"Sports",
-			"Public speaking",
-			"Duke of Edinburgh",
-			"Computer club",
-			"Yoga"
-		],
-		"admissionProcess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-		"tabs": {
-			"schoolViews": [
-				{
-					"type": "image",
-					"url": "../assets/imgs/school/15views.png"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Christ Church School provides an education for its pupils that is exceptional in every way.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "This place has always left welcoming and safe",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Pupils said, without hesitation, that they felt safe in school.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "School is really fun and all the teachers and T.A.s are kind and they listen. I love how we do a lot of things outside the classroom as it makes school really fun.",
-					"author": "Pupil"
-				}
-			],
-			"schoolPhotosUrls": [
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png"
-			],
-			"schoolHighlights": [
-				{
-					"bgcolor": "#E50059",
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#ED6C26",
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#93C467",
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#4764FF",
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				}
-			],
-			"schoolPriorities": [
-				{ "bgcolor": "#4764FF", "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#93C467", "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#E50059", "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#ED6C26", "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
-			]
-		},
-		"statistics": {
-			"pupilsNum": 412,
-			"ethnicGroupsNum": 14,
-			"languagesNum": 8,
-			"SENDPercent": 15,
-			"BMEPercent": 32,
-			"disadvantagedPupilsPercent": 8,
-			"englishAdditionalLangPercent": 20,
-			"absencePercent": 4.7,
-			"persistentAbsenteesPercent": 12.2,
-			"specificLanguages": ["English", "Dutch", "Chinese", "Polish", "Spanish", "Japanese"],
-			"specificEthnicities": [
-				"White - British",
-				"Albanian",
-				"Portuguese",
-				"Asian and Chinese",
-				"Indian",
-				"Nepali",
-				"Black - Nigerian",
-				"Afghan",
-				"Thai",
-				"Vietnamese",
-				"Serbian",
-				"Other Pakistani"
-			],
-			"specificSEND": [
-				"Social, Emotional and Mental Health",
-				"Hearing Impairment",
-				"Visual Impairment",
-				"Moderate Learning Difficulty"
-			],
-			"qualifiedTeachersPercent": 97,
-			"pupilAdultRatio": 21.5,
-			"financialReserves": 10.234,
-			"changeYearReserves": 12.234
-		},
-		"curriculum": {
-			"curriculumAim": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"curriculumStrengths": ["Creativity", "Sport", "Sciences"],
-			"topSubjects": [
-				"English literature",
-				"Maths",
-				"Biology",
-				"Chemistry",
-				"Physics",
-				"Dance",
-				"Drama",
-				"Computer Science",
-				"French",
-				"Italian"
-			],
-			"topDisciplines": ["Applied Sciences", "Business Studies", "Health Studies"],
-			"strengths": ["Creativity", "Sports", "Sciences"]
-		},
-		"support": {
-			"childSafetyAndHappiness": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum.",
-			"bullingProtection": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"attendanceManagement": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"achievement": {
-			"academicChildSuccess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-
-			"chartsPerform": [
-				{
-					"chartTitle": "attainment 8:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				},
-				{
-					"chartTitle": "attainment 9:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				}
-			],
-
-			"chartsProm": [
-				{
-					"chartTitle": "After Key 5:",
-					"chartImg": "../assets/imgs/chart3.png",
-					"chartDescription": ""
-				},
-				{
-					"chartTitle": "After Key 4:",
-					"chartImg": "../assets/imgs/chart4.png",
-					"chartDescription": ""
-				}
-			],
-
-			"wherePupilsGoAfter": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"SEND": {
-			"sendSupportInfo": "26% of our pupils have SEND (3% with an Education Health and Care Plan & 23% on SEN Support). We prioritise high quality class teaching and ensure all teachers can adapt their practice so all pupils make progress. Pupils learn in mixed attainment groups as we have high expectations for all. <br /><br /> If a child needs additional help with an area of learning, support is provided through small group pre-teaching of key knowledge. This helps pupils to engage successfully in lessons. <br /><br /> For some pupils, specific interventions and more significant adaptations may be required. Our SENDCo works in partnership with parents and specialist agencies to plan these.",
-			"inclusivePracticeInfo": "We ensure standards and progress are consistently high for all groups of pupils: girls and boys; pupils of all ethnicities, pupils with SEND and those from disadvantaged backgrounds. This is the result of our inclusive practices and a curriculum that reflects the diversity of our community. <br /><br /> Teaching effective communication skills, an inclusive ethos and the creation of a safe and welcoming learning environment are central to ensuring all pupils can thrive."
-		}
-	},
-	{
-		"schoolId": 7,
-		"schoolName": "Redriff Primary 8",
-		"isPrimary": true,
-		"shortSlogan": "We want our pupils to become informed, articulate and empowered citizens.",
-		"descriptionTitle": "We want our pupils to become informed, articulate and empowered citizens.",
-		"description": "Through our curriculum with its emphasis on the Environment and the Rights of the Child, our innovative pedagogy and the rich opportunities we provide, children develop the knowledge, skills and attitudes to thrive academically and personally. Affectionately known as 'Hattoneers,' our children embody high aspirations, mutual respect, and a commitment to making a positive impact. We are a happy, creative and inclusive school celebrating the rich diversity of our families. We are proud to be a beacon of excellence at the heart of our community.",
-		"schoolLogo": "../assets/imgs/school/logo1.png",
-		"websiteLink": "https://www.redriff.co.uk/",
-		"ofstedLink": "https://reports.ofsted.gov.uk/provider/23/137005",
-		"type": "Roman Catholic",
-		"gender": "Mixed",
-		"entryForms": 2,
-		"ageRange": [4, 10],
-		"address": "Laystall St, Holborn, London",
-		"lat": 51.509865,
-		"long": -0.118092,
-		"prevYearCatchmentRadius": 200,
-		"postCode": "EC1R 4PQ",
-		"facilities": ["Science lab", "Cafe", "Playgrounds", "Library", "Tennis courts"],
-		"activities": [
-			"Breakfast club",
-			"Family learning",
-			"Sports",
-			"Public speaking",
-			"Duke of Edinburgh",
-			"Computer club",
-			"Yoga"
-		],
-		"admissionProcess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-		"tabs": {
-			"schoolViews": [
-				{
-					"type": "image",
-					"url": "../assets/imgs/school/15views.png"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Christ Church School provides an education for its pupils that is exceptional in every way.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "This place has always left welcoming and safe",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Pupils said, without hesitation, that they felt safe in school.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "School is really fun and all the teachers and T.A.s are kind and they listen. I love how we do a lot of things outside the classroom as it makes school really fun.",
-					"author": "Pupil"
-				}
-			],
-			"schoolPhotosUrls": [
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png"
-			],
-			"schoolHighlights": [
-				{
-					"bgcolor": "#E50059",
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#ED6C26",
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#93C467",
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#4764FF",
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				}
-			],
-			"schoolPriorities": [
-				{ "bgcolor": "#4764FF", "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#93C467", "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#E50059", "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#ED6C26", "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
-			]
-		},
-		"statistics": {
-			"pupilsNum": 412,
-			"ethnicGroupsNum": 14,
-			"languagesNum": 8,
-			"SENDPercent": 15,
-			"BMEPercent": 32,
-			"disadvantagedPupilsPercent": 8,
-			"englishAdditionalLangPercent": 20,
-			"absencePercent": 4.7,
-			"persistentAbsenteesPercent": 12.2,
-			"specificLanguages": ["English", "Dutch", "Chinese", "Polish", "Spanish", "Japanese"],
-			"specificEthnicities": [
-				"White - British",
-				"Albanian",
-				"Portuguese",
-				"Asian and Chinese",
-				"Indian",
-				"Nepali",
-				"Black - Nigerian",
-				"Afghan",
-				"Thai",
-				"Vietnamese",
-				"Serbian",
-				"Other Pakistani"
-			],
-			"specificSEND": [
-				"Social, Emotional and Mental Health",
-				"Hearing Impairment",
-				"Visual Impairment",
-				"Moderate Learning Difficulty"
-			],
-			"qualifiedTeachersPercent": 97,
-			"pupilAdultRatio": 21.5,
-			"financialReserves": 10.234,
-			"changeYearReserves": 12.234
-		},
-		"curriculum": {
-			"curriculumAim": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"curriculumStrengths": ["Creativity", "Sport", "Sciences"],
-			"topSubjects": [
-				"English literature",
-				"Maths",
-				"Biology",
-				"Chemistry",
-				"Physics",
-				"Dance",
-				"Drama",
-				"Computer Science",
-				"French",
-				"Italian"
-			],
-			"topDisciplines": ["Applied Sciences", "Business Studies", "Health Studies"],
-			"strengths": ["Creativity", "Sports", "Sciences"]
-		},
-		"support": {
-			"childSafetyAndHappiness": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum.",
-			"bullingProtection": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"attendanceManagement": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"achievement": {
-			"academicChildSuccess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-
-			"chartsPerform": [
-				{
-					"chartTitle": "attainment 8:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				},
-				{
-					"chartTitle": "attainment 9:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				}
-			],
-
-			"chartsProm": [
-				{
-					"chartTitle": "After Key 5:",
-					"chartImg": "../assets/imgs/chart3.png",
-					"chartDescription": ""
-				},
-				{
-					"chartTitle": "After Key 4:",
-					"chartImg": "../assets/imgs/chart4.png",
-					"chartDescription": ""
-				}
-			],
-
-			"wherePupilsGoAfter": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"SEND": {
-			"sendSupportInfo": "26% of our pupils have SEND (3% with an Education Health and Care Plan & 23% on SEN Support). We prioritise high quality class teaching and ensure all teachers can adapt their practice so all pupils make progress. Pupils learn in mixed attainment groups as we have high expectations for all. <br /><br /> If a child needs additional help with an area of learning, support is provided through small group pre-teaching of key knowledge. This helps pupils to engage successfully in lessons. <br /><br /> For some pupils, specific interventions and more significant adaptations may be required. Our SENDCo works in partnership with parents and specialist agencies to plan these.",
-			"inclusivePracticeInfo": "We ensure standards and progress are consistently high for all groups of pupils: girls and boys; pupils of all ethnicities, pupils with SEND and those from disadvantaged backgrounds. This is the result of our inclusive practices and a curriculum that reflects the diversity of our community. <br /><br /> Teaching effective communication skills, an inclusive ethos and the creation of a safe and welcoming learning environment are central to ensuring all pupils can thrive."
-		}
-	},
-	{
-		"schoolId": 8,
-		"schoolName": "Redriff Primary 9",
-		"isPrimary": true,
-		"shortSlogan": "We want our pupils to become informed, articulate and empowered citizens.",
-		"descriptionTitle": "We want our pupils to become informed, articulate and empowered citizens.",
-		"description": "Through our curriculum with its emphasis on the Environment and the Rights of the Child, our innovative pedagogy and the rich opportunities we provide, children develop the knowledge, skills and attitudes to thrive academically and personally. Affectionately known as 'Hattoneers,' our children embody high aspirations, mutual respect, and a commitment to making a positive impact. We are a happy, creative and inclusive school celebrating the rich diversity of our families. We are proud to be a beacon of excellence at the heart of our community.",
-		"schoolLogo": "../assets/imgs/school/logo1.png",
-		"websiteLink": "https://www.redriff.co.uk/",
-		"ofstedLink": "https://reports.ofsted.gov.uk/provider/23/137005",
-		"type": "Roman Catholic",
-		"gender": "Mixed",
-		"entryForms": 2,
-		"ageRange": [4, 10],
-		"address": "Laystall St, Holborn, London",
-		"lat": 51.509865,
-		"long": -0.118092,
-		"prevYearCatchmentRadius": 200,
-		"postCode": "EC1R 4PQ",
-		"facilities": ["Science lab", "Cafe", "Playgrounds", "Library", "Tennis courts"],
-		"activities": [
-			"Breakfast club",
-			"Family learning",
-			"Sports",
-			"Public speaking",
-			"Duke of Edinburgh",
-			"Computer club",
-			"Yoga"
-		],
-		"admissionProcess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-		"tabs": {
-			"schoolViews": [
-				{
-					"type": "image",
-					"url": "../assets/imgs/school/15views.png"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Christ Church School provides an education for its pupils that is exceptional in every way.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "This place has always left welcoming and safe",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#E50059",
-					"text": "Pupils said, without hesitation, that they felt safe in school.",
-					"author": "Pupil"
-				},
-				{
-					"type": "quote",
-					"bgcolor": "#93C467",
-					"text": "School is really fun and all the teachers and T.A.s are kind and they listen. I love how we do a lot of things outside the classroom as it makes school really fun.",
-					"author": "Pupil"
-				}
-			],
-			"schoolPhotosUrls": [
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png",
-				"../assets/imgs/school/10photos_1.png"
-			],
-			"schoolHighlights": [
-				{
-					"bgcolor": "#E50059",
-					"title": "Highlights 1",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#ED6C26",
-					"title": "Highlights 2",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#93C467",
-					"title": "Highlights 3",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				},
-				{
-					"bgcolor": "#4764FF",
-					"title": "Highlights 4",
-					"description": "Lorem ipsum dolor sit amet consectetur. Mauris laoreet sit condimentum pellentesque enim.",
-					"link": ""
-				}
-			],
-			"schoolPriorities": [
-				{ "bgcolor": "#4764FF", "title": "Priority 1", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#93C467", "title": "Priority 2", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#E50059", "title": "Priority 3", "description": "Lorem ipsum dolor sit amet consectertur" },
-				{ "bgcolor": "#ED6C26", "title": "Priority 4", "description": "Lorem ipsum dolor sit amet consectertur" }
-			]
-		},
-		"statistics": {
-			"pupilsNum": 412,
-			"ethnicGroupsNum": 14,
-			"languagesNum": 8,
-			"SENDPercent": 15,
-			"BMEPercent": 32,
-			"disadvantagedPupilsPercent": 8,
-			"englishAdditionalLangPercent": 20,
-			"absencePercent": 4.7,
-			"persistentAbsenteesPercent": 12.2,
-			"specificLanguages": ["English", "Dutch", "Chinese", "Polish", "Spanish", "Japanese"],
-			"specificEthnicities": [
-				"White - British",
-				"Albanian",
-				"Portuguese",
-				"Asian and Chinese",
-				"Indian",
-				"Nepali",
-				"Black - Nigerian",
-				"Afghan",
-				"Thai",
-				"Vietnamese",
-				"Serbian",
-				"Other Pakistani"
-			],
-			"specificSEND": [
-				"Social, Emotional and Mental Health",
-				"Hearing Impairment",
-				"Visual Impairment",
-				"Moderate Learning Difficulty"
-			],
-			"qualifiedTeachersPercent": 97,
-			"pupilAdultRatio": 21.5,
-			"financialReserves": 10.234,
-			"changeYearReserves": 12.234
-		},
-		"curriculum": {
-			"curriculumAim": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"curriculumStrengths": ["Creativity", "Sport", "Sciences"],
-			"topSubjects": [
-				"English literature",
-				"Maths",
-				"Biology",
-				"Chemistry",
-				"Physics",
-				"Dance",
-				"Drama",
-				"Computer Science",
-				"French",
-				"Italian"
-			],
-			"topDisciplines": ["Applied Sciences", "Business Studies", "Health Studies"],
-			"strengths": ["Creativity", "Sports", "Sciences"]
-		},
-		"support": {
-			"childSafetyAndHappiness": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum.",
-			"bullingProtection": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-			"attendanceManagement": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"achievement": {
-			"academicChildSuccess": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non.",
-
-			"chartsPerform": [
-				{
-					"chartTitle": "attainment 8:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				},
-				{
-					"chartTitle": "attainment 9:",
-					"chartImg": "../assets/imgs/chart1.png",
-					"chartComparationImg": "../assets/imgs/chart1.png",
-					"chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils average a little above a grade 4 across their eight best GCSE-level subjects."
-				}
-			],
-
-			"chartsProm": [
-				{
-					"chartTitle": "After Key 5:",
-					"chartImg": "../assets/imgs/chart3.png",
-					"chartDescription": ""
-				},
-				{
-					"chartTitle": "After Key 4:",
-					"chartImg": "../assets/imgs/chart4.png",
-					"chartDescription": ""
-				}
-			],
-
-			"wherePupilsGoAfter": "Lorem ipsum dolor sit amet consectetur. Non pharetra vitae mi neque risus id id vitae. Egestas mattis porta et ut gravida. Id ac tellus pulvinar ante cras fermentum. Suspendisse vestibulum sit aliquam pretium nisi sit. Imperdiet quis non."
-		},
-		"SEND": {
-			"sendSupportInfo": "26% of our pupils have SEND (3% with an Education Health and Care Plan & 23% on SEN Support). We prioritise high quality class teaching and ensure all teachers can adapt their practice so all pupils make progress. Pupils learn in mixed attainment groups as we have high expectations for all. <br /><br /> If a child needs additional help with an area of learning, support is provided through small group pre-teaching of key knowledge. This helps pupils to engage successfully in lessons. <br /><br /> For some pupils, specific interventions and more significant adaptations may be required. Our SENDCo works in partnership with parents and specialist agencies to plan these.",
-			"inclusivePracticeInfo": "We ensure standards and progress are consistently high for all groups of pupils: girls and boys; pupils of all ethnicities, pupils with SEND and those from disadvantaged backgrounds. This is the result of our inclusive practices and a curriculum that reflects the diversity of our community. <br /><br /> Teaching effective communication skills, an inclusive ethos and the creation of a safe and welcoming learning environment are central to ensuring all pupils can thrive."
-		}
-	}
+    {
+        "schoolId": "2022842",
+        "schoolName": "Christopher Hatton Primary School",
+        "isPrimary": "TRUE",
+        "shortSlogan": "Informed, Articulate, Empowered.",
+        "descriptionTitle": "Informed, Articulate, Empowered.",
+        "description": "At Christopher Hatton we want our pupils to become informed, articulate and empowered citizens. Through our creative curriculum with its emphasis on the Environment and the Rights of the Child, our innovative teaching and the rich opportunities we provide, children develop the knowledge, skills and attitudes to succeed.\r\nWe are a happy, ambitious and inclusive school reflecting the rich diversity of families in our area and are proud to be a beacon of excellence at the heart of our community. Affectionately known as 'Hattoneers,' our children  embody high aspirations, mutual respect, and a commitment to making a positive impact.",
+        "schoolLogo": "../assets/imgs/school/2022842_logo.jpg",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/130342",
+        "websiteLink": "www.chrishatton.camden.sch.uk",
+        "type": "Primary inc. Nursery",
+        "gender": "Mixed",
+        "entryForms": 1,
+        "ageRange": [
+            "3",
+            "11"
+        ],
+        "address": "38 Laystall Street",
+        "lat": 51.522741,
+        "long": -0.112694,
+        "formsEntry": 1,
+        "prevYearCatchmentRadius": null,
+        "postCode": "EC1R 4PQ",
+        "facilities": [
+            "Computing room and specialist teaching",
+            " Music room with specialist teaching including free guitar tuition from Y4-Y ",
+            " Breakfast club",
+            " Library",
+            " Separate outdoor learning/play spaces for Nursery and Reception "
+        ],
+        "activities": [
+            "Art",
+            "Computer coding",
+            "Chess",
+            "Tai Kwando",
+            "Football",
+            "Drama",
+            "Multi sport",
+            "After school play centre collection with Coram's Fields"
+        ],
+        "admissionProcess": "Temp",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": ""
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#FFFFFF",
+                    "text": "Christopher Hatton is a wonderful school with a friendly ethos, excellent leadership and an immensely strong community. All of these combine to create superb environment for children to be safe and to learn.\u00c2\u00a0 -\u00c2\u00a0Parent",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "We feel that the atmosphere in the school, and the way it was run, are in a different league from any of the other schools we have visited or worked at. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "I have learnt to be confident and\u00c2\u00a0brave and that we should speak up for what we believe in",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "I love my school because everyone is kind and happy and our teachers are fun",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "This is an exceptional school",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "The curriculum prepares pupils exceptionally well to take their place as responsible citizens in the modern world",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "Relationships throughout the school are excellent. Pupils are polite and considerate. All members of the school community show each other the utmost respect",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "The pupils\u00c2\u00a0focus extremely well on their work, have excellent attitudes to their learning and are determined to do well.",
+                    "author": "Challenge Partners"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "I feel exceptionally well supported by leaders to develop professionally.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "I feel that the school is at the heart of the community and also goes beyond to help others.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "I am proud to be a Hattoneer, we like to challenge ourselves sand never give up. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "Staff are always extremely helpful,friendly and really approachable when any issues arise. They also know the students really well and I think they are a great team.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "I am extremely happy with my son being at the school. I feel very welcomed by the staff who are understanding and caring.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "100% of pupils anwered positively to the survey question: My school encourages me to respect people from other backgrounds",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "Christopher Hatton is a well run and well rounded school.",
+                    "author": "Parent"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2022842_1.jpg",
+                "../assets/imgs/school/2022842_2.jpg",
+                "../assets/imgs/school/2022842_3.jpg",
+                "../assets/imgs/school/2022842_4.jpg",
+                "../assets/imgs/school/2022842_5.jpg",
+                "../assets/imgs/school/2022842_6.jpg",
+                "../assets/imgs/school/2022842_7.jpg",
+                "../assets/imgs/school/2022842_8.jpg",
+                "../assets/imgs/school/2022842_9.jpg",
+                "../assets/imgs/school/2022842_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "",
+                    "title": "",
+                    "description": "We are at the heart of our cohesive community. Our families come from over 30 different countries and we love learning with and from each other and growing new bonds."
+                },
+                {
+                    "bgcolor": "",
+                    "title": "",
+                    "description": "Our teachers caring ethos creates a sense of belonging that helps all of our children to thrive in a happy, safe environment."
+                },
+                {
+                    "bgcolor": "",
+                    "title": "",
+                    "description": ""
+                },
+                {
+                    "bgcolor": "",
+                    "title": "",
+                    "description": "We are proud of how Hattoneers show they truly are informed, articulate and empowered as they confidently share their views at our annual Earth Summit and achieve high standards across the curriculum.             "
+                },
+                {
+                    "bgcolor": "",
+                    "title": "",
+                    "description": "We love seeing our creative curriculum come to life at the annual art exhibition, music concerts and class performances."
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "",
+                    "title": "KS1 Maths",
+                    "description": "Continue to close the gap for disadvantaged pupils in Key Stage 1 maths."
+                },
+                {
+                    "bgcolor": "",
+                    "title": "KS2 higher level writing",
+                    "description": "Ensure opportunities enable pupils to reach the highest possible standards in writing."
+                },
+                {
+                    "bgcolor": "",
+                    "title": "Succession planning",
+                    "description": "Ensuring staff new to roles have support to develop expertise."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 224,
+            "ethnicGroupsNum": 5,
+            "languagesNum": 8,
+            "SENDPercent": 19.6,
+            "BMEPercent": 83.0,
+            "disadvantagedPupilsPercent": 41.4,
+            "englishAdditionalLangPercent": 61.2,
+            "absencePercent": 5.3,
+            "persistentAbsenteesPercent": 14.9,
+            "specificLanguages": [
+                "English",
+                "Spanish",
+                "Italian",
+                "Somali",
+                "Bengali",
+                "Arabic",
+                "Korean",
+                "Chinese (Mandarin & Cantonese)"
+            ],
+            "specificEthnicities": [
+                "Bangladeshi",
+                "White British",
+                "Any Other Mixed Backround",
+                "White European",
+                "Other Black African"
+            ],
+            "specificSEND": [
+                "Specific learning difficulty",
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 100,
+            "pupilAdultRatio": 9.2,
+            "financialReserves": 266200.0,
+            "changeYearReserves": -2200.0
+        },
+        "curriculum": {
+            "curriculumAim": "Our curriculum helps all children to succeed in their academic and personal development. The content is inclusive, reflecting our diverse community and commitment to anti-racist practices.\r\n\r\nThe curriculum is filled with first-hand, purposeful experiences which allow children to expand their horizons and benefit from the breadth of cultural opportunities available in our locality. Children are encouraged to take on challenges and delve deeper to extend their expertise.\r\n\r\nWe provide enriching arts and cultural experiences as part of our entitlement pledge that are fundamental to their cultural and holistic development.",
+            "curriculumStrengths": [
+                "Speaking & Listening",
+                "Mathematics",
+                "Art"
+            ],
+            "topSubjects": [
+                "temp"
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "Our Hattoneer values focus on creating a safe, happy and fair school for all. Relationships between children, staff and their peers are positive and children are supported to articulate their feelings and views.\r\n\r\nThere is in-school therapeutic provision to support children when needed and access to wider services. A free breakfast and breaktime snacks are provided for all children. Play spaces are friendly and safe, with opportunities for both active play and quieter areas including a well stocked library.\r\n\r\nSafeguarding is central to everything we do; robust practices ensure children are supported and protected.",
+            "bullingProtection": "Pupils have the right to learn in an environment where they feel safe and happy; bullying is never acceptable and we recognise the impact it can have. We take the time needed to work through issues and support our pupils.\r\n\r\nWe work with children and parents to ensure children understand the effect of their actions and are supported to rebuild positive relationships. Children are taught about respectful relationships and behaviour through our curriculum.",
+            "attendanceManagement": "We are a happy school with an engaging curriculum and positive relationships. We strive to create a sense of belonging ensuring children want to come to school.\r\n\r\nWe know every school day counts so we work with families to support good attendance. Holidays in term time are not permitted."
+        },
+        "achievement": {
+            "academicChildSuccess": "Our aim is for our pupils to be informed, articulate and empowered and to be successful lifelong learners. We achieve this through our curriculum with our evidence informed teaching and the central use of oracy. Through our practice and ethos, we promote characteristics we believe are essential to success.\r\n\r\nUsing the principles of mastery teaching to scaffold learning, we enable children to progress together. Effective and consistent practices enable our pupils to make rapid and sustained progress across all Key stages and in all areas of learning.\r\n\r\nOfsted noted \u00e2\u20ac\u0153The curriculum prepares pupils exceptionally well to take their place as responsible citizens in the modern world\u00e2\u20ac\u009d.",
+            "chartPupilsPerfomChartCamden": "../assets/imgs/chart1.png",
+            "chartPupilsPerfomChartLondon": "../assets/imgs/chart1.png",
+            "chartPupilsProgressCamden": "../assets/imgs/chart2.png",
+            "chartPupilsProgressLondon": "../assets/imgs/chart2.png",
+            "chartPuplsGoAferS4Camden": "../assets/imgs/chart3.png",
+            "chartPuplsGoAferS5Camden": "../assets/imgs/chart4.png",
+            "wherePupilsGoAfter": "Temp"
+        },
+        "SEND": {
+            "sendSupportInfo": "26% of our pupils have SEND (3% with an Education Health and Care Plan & 23% on SEN Support). We prioritise high quality class teaching and ensure all teachers can adapt their practice so all pupils make progress. Pupils learn in mixed attainment groups as we have high expectations for all.\r\n\r\nIf a child needs additional help with an area of learning, support is provided through small group pre-teaching of key knowledge. This helps pupils to engage successfully in lessons.\r\n\r\nFor some pupils, specific interventions and more significant adaptations may be required. Our SENDCo works in partnership with parents and specialist agencies to plan these.",
+            "inclusivePracticeInfo": "We ensure standards and progress are consistently high for all groups of pupils: girls and boys; pupils of all ethnicities, pupils with SEND and those from disadvantaged backgrounds. This is the result of our inclusive practices and a curriculum that reflects the diversity of our community.\r\n\r\nTeaching effective communication skills, an inclusive ethos and the creation of a safe and welcoming learning environment are central to ensuring all pupils can thrive."
+        }
+    }
 ]
