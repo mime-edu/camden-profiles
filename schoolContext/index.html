@@ -24,7 +24,7 @@
 			<div class="header__container">
 				<div class="header__content">
 					<div class="school__logo">
-						<img src="../assets/imgs/school/logo1.png" alt="logo" />
+						<img :src="`${school.schoolLogo}`" alt="logo" />
 					</div>
 					<h1 class="school__name">{{school.schoolName}}</h1>
 				</div>
@@ -97,7 +97,7 @@
 									><span>View school details</span> <img src="../assets/imgs/arrow-outward.png" alt="arrow"
 								/></a>
 							</div>
-							<p class="location__address">{{school.address}}</p>
+							<p class="location__address">{{school.address}} {{school.postCode}}</p>
 							<div class="location__map" id="map">
 								<!-- <iframe
 									src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1243.0925765114478!2d-0.09896219758077963!3d51.45475690704054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604746be66215%3A0xec64c8e179cb9aee!2sHerne%20Hill%20School!5e0!3m2!1sen!2suk!4v1725605687032!5m2!1sen!2suk"
@@ -113,7 +113,7 @@
 								</div>
 								<p>Show Previous Year Catchment*</p>
 							</div>
-							<label for="location-input">Travel times from you</label>
+							<!-- <label for="location-input">Travel times from you</label>
 							<div class="location-input__wrapper">
 								<input type="text" id="location-input" placeholder="SE1 0LH" />
 								<div class="location__input-button">Edit Postcode</div>
@@ -126,7 +126,7 @@
 								</div>
 								<div class="travel-time__item"><img src="../assets/imgs/walking-icon.png" alt="" /><span>24 min</span></div>
 								<div class="travel-time__item"><img src="../assets/imgs/bike-icon.png" alt="" /><span>24 min</span></div>
-							</div>
+							</div> -->
 						</div>
 						<div class="facilities" id="facilities-sector">
 							<h2 class="context__title facilities__title">What facilities do we have?</h2>
@@ -191,25 +191,25 @@
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">Pupil numbers</p>
 									<p class="stats-sector__description">{{school.statistics.pupilsNum}}</p>
-									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
+									<!-- <div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>354</span></p>
 										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>324</span></p>
-									</div>
+									</div> -->
 								</div>
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">% Disadvantaged pupils</p>
 									<p class="stats-sector__description">{{school.statistics.disadvantagedPupilsPercent}}%</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
-										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>23%</span></p>
-										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>27%</span></p>
+										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>43%</span></p>
+										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>26%</span></p>
 									</div>
 								</div>
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">% English as an additional language</p>
 									<p class="stats-sector__description">{{school.statistics.englishAdditionalLangPercent}}%</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
-										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>25</span></p>
-										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>32</span></p>
+										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>57%</span></p>
+										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>49%</span></p>
 									</div>
 								</div>
 								<div class="statistics-block__sector stats-sector">
@@ -282,16 +282,16 @@
 									<p class="stats-sector__name">Pupil adult ratio</p>
 									<p class="stats-sector__description">{{school.statistics.pupilAdultRatio}}</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
-										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>354</span></p>
-										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>324</span></p>
+										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>9.4</span></p>
+										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>10.8</span></p>
 									</div>
 								</div>
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">% of teachers with Qualified Teacher Status</p>
 									<p class="stats-sector__description">{{school.statistics.qualifiedTeachersPercent}}</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
-										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>23%</span></p>
-										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>27%</span></p>
+										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>98%</span></p>
+										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>96%</span></p>
 									</div>
 								</div>
 							</div>
@@ -300,16 +300,16 @@
 									<p class="stats-sector__name">Financial reserves</p>
 									<p class="stats-sector__description">£{{school.statistics.financialReserves}}</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
-										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>354</span></p>
-										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>324</span></p>
+										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>£170,500</span></p>
+										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>£144,100</span></p>
 									</div>
 								</div>
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">Change in reserves in last 12 months</p>
 									<p class="stats-sector__description">-£{{school.statistics.changeYearReserves}}</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
-										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>23%</span></p>
-										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>27%</span></p>
+										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>-£2,500</span></p>
+										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>-£41,700</span></p>
 									</div>
 								</div>
 							</div>
