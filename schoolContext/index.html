@@ -189,6 +189,10 @@
 							</div>
 							<div v-if="currentInfoBlock == 1" class="statistics__block statistics-block">
 								<div class="statistics-block__sector stats-sector">
+									<p class="stats-sector__name">Number of Forms of Entry</p>
+									<p class="stats-sector__description">{{school.entryForms}}</p>
+								</div>
+								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">Pupil numbers</p>
 									<p class="stats-sector__description">{{school.statistics.pupilsNum}}</p>
 									<!-- <div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
