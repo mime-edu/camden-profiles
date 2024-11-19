@@ -3,12 +3,12 @@
         "schoolId": "2022842",
         "schoolName": "Christopher Hatton Primary School",
         "isPrimary": "TRUE",
-        "shortSlogan": "Informed, Articulate, Empowered.",
-        "descriptionTitle": "Informed, Articulate, Empowered.",
-        "description": "At Christopher Hatton we want our pupils to become informed, articulate and empowered citizens. Through our creative curriculum with its emphasis on the Environment and the Rights of the Child, our innovative teaching and the rich opportunities we provide, children develop the knowledge, skills and attitudes to succeed.\r\nWe are a happy, ambitious and inclusive school reflecting the rich diversity of families in our area and are proud to be a beacon of excellence at the heart of our community. Affectionately known as 'Hattoneers,' our children  embody high aspirations, mutual respect, and a commitment to making a positive impact.",
+        "shortSlogan": "<strong>We want our pupils to become informed, articulate and empowered citizens.</strong>",
+        "descriptionTitle": "<strong>We want our pupils to become informed, articulate and empowered citizens.</strong>",
+        "description": "At <strong>Christopher Hatton</strong> we want our pupils to become informed, articulate and empowered citizens. Through our creative curriculum with its emphasis on the Environment and the Rights of the Child, our innovative teaching and the rich opportunities we provide, children develop the knowledge, skills and attitudes to succeed.<br><br>\nWe are a happy, ambitious and inclusive school reflecting the rich diversity of families in our area and are proud to be a beacon of excellence at the heart of our community. Affectionately known as 'Hattoneers,' our children embody high aspirations, mutual respect, and a commitment to making a positive impact. <strong>Our most recent Ofsted report</strong> highlights our school\u2019s continuous growth and success. We are committed to our <strong>school performance</strong> and work in collaboration with <strong>Camden Learning</strong> to ensure the best outcomes for our students, alongside other <strong>Camden schools</strong>. All information provided is <strong>accurate at the date of publication</strong>.",
         "schoolLogo": "../assets/imgs/school/2022842_logo.jpg",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/130342",
-        "websiteLink": "www.chrishatton.camden.sch.uk",
+        "websiteLink": "https://www.chrishatton.camden.sch.uk",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
         "entryForms": 1,
@@ -48,91 +48,91 @@
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "#FFFFFF",
-                    "text": "Christopher Hatton is a wonderful school with a friendly ethos, excellent leadership and an immensely strong community. All of these combine to create superb environment for children to be safe and to learn.\u00c2\u00a0 -\u00c2\u00a0Parent",
+                    "bgcolor": "#e50059",
+                    "text": "Christopher Hatton is a wonderful school with a friendly ethos, excellent leadership and an immensely strong community. All of these combine to create superb environment for children to be safe and to learn.\u00a0 ",
                     "author": "Parent"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#e50059",
                     "text": "We feel that the atmosphere in the school, and the way it was run, are in a different league from any of the other schools we have visited or worked at. ",
                     "author": "Parent"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
-                    "text": "I have learnt to be confident and\u00c2\u00a0brave and that we should speak up for what we believe in",
+                    "bgcolor": "#ed6c26",
+                    "text": "I have learnt to be confident and\u00a0brave and that we should speak up for what we believe in",
                     "author": "Child"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#ed6c26",
                     "text": "I love my school because everyone is kind and happy and our teachers are fun",
                     "author": "Child"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#93c467",
                     "text": "This is an exceptional school",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#93c467",
                     "text": "The curriculum prepares pupils exceptionally well to take their place as responsible citizens in the modern world",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#93c467",
                     "text": "Relationships throughout the school are excellent. Pupils are polite and considerate. All members of the school community show each other the utmost respect",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
-                    "text": "The pupils\u00c2\u00a0focus extremely well on their work, have excellent attitudes to their learning and are determined to do well.",
+                    "bgcolor": "#93c467",
+                    "text": "The pupils\u00a0focus extremely well on their work, have excellent attitudes to their learning and are determined to do well.",
                     "author": "Challenge Partners"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#4764ff",
                     "text": "I feel exceptionally well supported by leaders to develop professionally.",
                     "author": "Teacher"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#e50059",
                     "text": "I feel that the school is at the heart of the community and also goes beyond to help others.",
                     "author": "Parent"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#ed6c26",
                     "text": "I am proud to be a Hattoneer, we like to challenge ourselves sand never give up. ",
                     "author": "Child"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#e50059",
                     "text": "Staff are always extremely helpful,friendly and really approachable when any issues arise. They also know the students really well and I think they are a great team.",
                     "author": "Parent"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#e50059",
                     "text": "I am extremely happy with my son being at the school. I feel very welcomed by the staff who are understanding and caring.",
                     "author": "Parent"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#ed6c26",
                     "text": "100% of pupils anwered positively to the survey question: My school encourages me to respect people from other backgrounds",
                     "author": "Child"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#e50059",
                     "text": "Christopher Hatton is a well run and well rounded school.",
                     "author": "Parent"
                 }
@@ -151,44 +151,44 @@
             ],
             "schoolHighlights": [
                 {
-                    "bgcolor": "",
-                    "title": "",
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
                     "description": "We are at the heart of our cohesive community. Our families come from over 30 different countries and we love learning with and from each other and growing new bonds."
                 },
                 {
-                    "bgcolor": "",
-                    "title": "",
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
                     "description": "Our teachers caring ethos creates a sense of belonging that helps all of our children to thrive in a happy, safe environment."
                 },
                 {
-                    "bgcolor": "",
-                    "title": "",
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
                     "description": ""
                 },
                 {
-                    "bgcolor": "",
-                    "title": "",
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
                     "description": "We are proud of how Hattoneers show they truly are informed, articulate and empowered as they confidently share their views at our annual Earth Summit and achieve high standards across the curriculum.             "
                 },
                 {
-                    "bgcolor": "",
-                    "title": "",
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
                     "description": "We love seeing our creative curriculum come to life at the annual art exhibition, music concerts and class performances."
                 }
             ],
             "schoolPriorities": [
                 {
-                    "bgcolor": "",
+                    "bgcolor": "#e50059",
                     "title": "KS1 Maths",
                     "description": "Continue to close the gap for disadvantaged pupils in Key Stage 1 maths."
                 },
                 {
-                    "bgcolor": "",
+                    "bgcolor": "#ed6c26",
                     "title": "KS2 higher level writing",
                     "description": "Ensure opportunities enable pupils to reach the highest possible standards in writing."
                 },
                 {
-                    "bgcolor": "",
+                    "bgcolor": "#4764ff",
                     "title": "Succession planning",
                     "description": "Ensuring staff new to roles have support to develop expertise."
                 }
@@ -233,7 +233,7 @@
             "changeYearReserves": -2200.0
         },
         "curriculum": {
-            "curriculumAim": "Our curriculum helps all children to succeed in their academic and personal development. The content is inclusive, reflecting our diverse community and commitment to anti-racist practices.\r\n\r\nThe curriculum is filled with first-hand, purposeful experiences which allow children to expand their horizons and benefit from the breadth of cultural opportunities available in our locality. Children are encouraged to take on challenges and delve deeper to extend their expertise.\r\n\r\nWe provide enriching arts and cultural experiences as part of our entitlement pledge that are fundamental to their cultural and holistic development.",
+            "curriculumAim": "<p>Our curriculum helps all children to succeed in their academic and personal development. The content is inclusive, reflecting our diverse community and commitment to anti-racist practices.</p>\n\n<p>The curriculum is filled with first-hand, purposeful experiences which allow children to expand their horizons and benefit from the breadth of cultural opportunities available in our locality. Children are encouraged to take on challenges and delve deeper to extend their expertise.</p>\n\n<p>We provide enriching arts and cultural experiences as part of our entitlement pledge that are fundamental to their cultural and holistic development.</p>",
             "curriculumStrengths": [
                 "Speaking & Listening",
                 "Mathematics",
@@ -246,12 +246,12 @@
             "strengths": "temp"
         },
         "support": {
-            "childSafetyAndHappiness": "Our Hattoneer values focus on creating a safe, happy and fair school for all. Relationships between children, staff and their peers are positive and children are supported to articulate their feelings and views.\r\n\r\nThere is in-school therapeutic provision to support children when needed and access to wider services. A free breakfast and breaktime snacks are provided for all children. Play spaces are friendly and safe, with opportunities for both active play and quieter areas including a well stocked library.\r\n\r\nSafeguarding is central to everything we do; robust practices ensure children are supported and protected.",
-            "bullingProtection": "Pupils have the right to learn in an environment where they feel safe and happy; bullying is never acceptable and we recognise the impact it can have. We take the time needed to work through issues and support our pupils.\r\n\r\nWe work with children and parents to ensure children understand the effect of their actions and are supported to rebuild positive relationships. Children are taught about respectful relationships and behaviour through our curriculum.",
-            "attendanceManagement": "We are a happy school with an engaging curriculum and positive relationships. We strive to create a sense of belonging ensuring children want to come to school.\r\n\r\nWe know every school day counts so we work with families to support good attendance. Holidays in term time are not permitted."
+            "childSafetyAndHappiness": "<p>Our Hattoneer values focus on creating a safe, happy and fair school for all. Relationships between children, staff and their peers are positive and children are supported to articulate their feelings and views.</p>\n\n<p>There is in-school therapeutic provision to support children when needed and access to wider services. A free breakfast and breaktime snacks are provided for all children. Play spaces are friendly and safe, with opportunities for both active play and quieter areas including a well stocked library.</p>\n\n<p>Safeguarding is central to everything we do; robust practices ensure children are supported and protected.</p>",
+            "bullingProtection": "Pupils have the right to learn in an environment where they feel safe and happy; bullying is never acceptable and we recognise the impact it can have. We take the time needed to work through issues and support our pupils.</br></br>We work with children and parents to ensure children understand the effect of their actions and are supported to rebuild positive relationships. Children are taught about respectful relationships and behaviour through our curriculum.</br></br><a class='about__link' href='https://www.google.com' target='_blank'>Link to bullying policy</a>",
+            "attendanceManagement": "<p>We are a happy school with an engaging curriculum and positive relationships. We strive to create a sense of belonging ensuring children want to come to school.</p>\n\n<p>We know every school day counts so we work with families to support good attendance. Holidays in term time are not permitted.</p>"
         },
         "achievement": {
-            "academicChildSuccess": "Our aim is for our pupils to be informed, articulate and empowered and to be successful lifelong learners. We achieve this through our curriculum with our evidence informed teaching and the central use of oracy. Through our practice and ethos, we promote characteristics we believe are essential to success.\r\n\r\nUsing the principles of mastery teaching to scaffold learning, we enable children to progress together. Effective and consistent practices enable our pupils to make rapid and sustained progress across all Key stages and in all areas of learning.\r\n\r\nOfsted noted \u00e2\u20ac\u0153The curriculum prepares pupils exceptionally well to take their place as responsible citizens in the modern world\u00e2\u20ac\u009d.",
+            "academicChildSuccess": "<p>Our aim is for our pupils to be informed, articulate and empowered and to be successful lifelong learners. We achieve this through our curriculum with our evidence informed teaching and the central use of oracy. Through our practice and ethos, we promote characteristics we believe are essential to success.</p>\n\n<p>Using the principles of mastery teaching to scaffold learning, we enable children to progress together. Effective and consistent practices enable our pupils to make rapid and sustained progress across all Key stages and in all areas of learning.</p>\n\n<p>Ofsted noted \u201cThe curriculum prepares pupils exceptionally well to take their place as responsible citizens in the modern world\u201d.</p>",
             "chartPupilsPerfomChartCamden": "../assets/imgs/chart1.png",
             "chartPupilsPerfomChartLondon": "../assets/imgs/chart1.png",
             "chartPupilsProgressCamden": "../assets/imgs/chart2.png",
@@ -261,8 +261,8 @@
             "wherePupilsGoAfter": "Temp"
         },
         "SEND": {
-            "sendSupportInfo": "26% of our pupils have SEND (3% with an Education Health and Care Plan & 23% on SEN Support). We prioritise high quality class teaching and ensure all teachers can adapt their practice so all pupils make progress. Pupils learn in mixed attainment groups as we have high expectations for all.\r\n\r\nIf a child needs additional help with an area of learning, support is provided through small group pre-teaching of key knowledge. This helps pupils to engage successfully in lessons.\r\n\r\nFor some pupils, specific interventions and more significant adaptations may be required. Our SENDCo works in partnership with parents and specialist agencies to plan these.",
-            "inclusivePracticeInfo": "We ensure standards and progress are consistently high for all groups of pupils: girls and boys; pupils of all ethnicities, pupils with SEND and those from disadvantaged backgrounds. This is the result of our inclusive practices and a curriculum that reflects the diversity of our community.\r\n\r\nTeaching effective communication skills, an inclusive ethos and the creation of a safe and welcoming learning environment are central to ensuring all pupils can thrive."
+            "sendSupportInfo": "<p>26% of our pupils have SEND (3% with an Education Health and Care Plan & 23% on SEN Support). We prioritise high quality class teaching and ensure all teachers can adapt their practice so all pupils make progress. Pupils learn in mixed attainment groups as we have high expectations for all.</p>\n\n<p>If a child needs additional help with an area of learning, support is provided through small group pre-teaching of key knowledge. This helps pupils to engage successfully in lessons.</p>\n\n<p>For some pupils, specific interventions and more significant adaptations may be required. Our SENDCo works in partnership with parents and specialist agencies to plan these.</p>",
+            "inclusivePracticeInfo": "<p>We ensure standards and progress are consistently high for all groups of pupils: girls and boys; pupils of all ethnicities, pupils with SEND and those from disadvantaged backgrounds. This is the result of our inclusive practices and a curriculum that reflects the diversity of our community.</p>\n\n<p>Teaching effective communication skills, an inclusive ethos and the creation of a safe and welcoming learning environment are central to ensuring all pupils can thrive.</p>"
         }
     }
 ]

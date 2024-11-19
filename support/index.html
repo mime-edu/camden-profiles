@@ -83,13 +83,13 @@
 					<div class="about__content">
 						<div class="about-sector" id="happiness-sector">
 							<h2 class="about__title">How do we ensure your child is safe and happy?</h2>
-							<p class="about__text">{{school.support.childSafetyAndHappiness}}</p>
+							<p class="about__text" v-html="school.support.childSafetyAndHappiness"></p>
 							<!-- <a class="about__link" href="">View our annual safeguarding audit statement</a>
 							<a class="about__link" href="">View our pupil wellbeing policy</a> -->
 						</div>
 						<div class="about-sector" id="bullying-sector">
 							<h2 class="about__title">How do we address bullying?</h2>
-							<p class="about__text">{{school.support.bullingProtection}}</p>
+							<p class="about__text" v-html="school.support.bullingProtection"></p>
 							<!-- <a class="about__link" href="">View our behaviour policy</a> -->
 						</div>
 						<!-- <div class="about-sector" id="support-sector">
@@ -108,7 +108,7 @@
 						</div> -->
 						<div class="about-sector" id="attendance-sector">
 							<h2 class="about__title">How do we ensure good pupil attendance?</h2>
-							<p class="about__text">{{school.support.attendanceManagement}}</p>
+							<p class="about__text" v-html="school.support.attendanceManagement"></p>
 							<p class="about__text underlined">2023/24 Statistics</p>
 							<div class="info-tags__block">
 								<div class="info-tag"><span>{{school.statistics.absencePercent}}% Absence</span></div>

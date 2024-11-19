@@ -39,7 +39,7 @@
 							<!-- <div class="hero_share"><span>Share</span><img src="../assets/imgs/share.png" alt="" /></div> -->
 						</div>
 						<p class="hero__address">{{school.address}} {{school.postCode}}</p>
-						<p class="hero__description">{{school.shortSlogan}}</p>
+						<p class="hero__description" v-html="school.shortSlogan"></p>
 						<div class="hero__information">
 							<div class="information__item">
 								<p>Age Range</p>
@@ -76,7 +76,7 @@
 									</div>
 								</div>
 								<div class="tab__content tab-content">
-									<h5 class="tab-content__title">{{school.descriptionTitle}}</h5>
+									<h5 class="tab-content__title" v-html="school.descriptionTitle"></h5>
 									<p class="tab-content__text" v-html="school.description"></p>
 								</div>
 							</div>
