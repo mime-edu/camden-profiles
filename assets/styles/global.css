@@ -386,3 +386,7 @@ input:checked + .toggle-switch__slider:before {
 .about-sector p {
 	margin-bottom: 10px;
 }
+
+.headlines a {
+	color: #ffffff;
+}

@@ -194,7 +194,7 @@
 										<div class="swiper-wrapper tab-slider__wrapper">
 											<div
 												v-for="highlight in school.tabs.schoolHighlights"
-												class="swiper-slide tab-slider__slide text-slide"
+												class="swiper-slide tab-slider__slide text-slide headlines"
 												:style="`${highlight?.bgcolor ? `background: ${highlight.bgcolor}`:''} `">
 												<h3>{{highlight.title}}</h3>
 												<p v-html="highlight.description"></p>
