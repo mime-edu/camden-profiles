@@ -372,6 +372,13 @@ input:checked + .toggle-switch__slider:before {
 
 /* blocks */
 
+.about a {
+	text-decoration: underline;
+	color: #ed4d8b;
+	cursor: pointer;
+	font-weight: 400;
+}
+
 .about-sector {
 	margin-bottom: 30px;
 }

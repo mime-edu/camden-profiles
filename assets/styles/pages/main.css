@@ -63,12 +63,12 @@
 	margin-bottom: 10px;
 	font-size: 14px;
 }
-.tab__text.link {
+/* .tab__text.link {
 	text-decoration: underline;
 	color: #ed4d8b;
 	cursor: pointer;
 	font-weight: 400;
-}
+} */
 .tab__text.link img {
 	width: 12.5px;
 	height: 12.5px;

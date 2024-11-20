@@ -12,11 +12,11 @@
 	margin-bottom: 10px;
 	display: inline-block;
 }
-.about-sector .about__link {
+/* .about-sector .about__link {
 	color: #ed4d8b;
 	text-decoration: underline;
 	display: inline-block;
-}
+} */
 .about__chart:not(:last-child) {
 	margin-bottom: 20px;
 }

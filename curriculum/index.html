@@ -85,7 +85,7 @@
 						</div>
 						<div class="about-sector about-aims" id="about-aims">
 							<h2 class="about__title">What are the aims of our curriculum?</h2>
-							<p>{{school.curriculum.curriculumAim}}</p>
+							<p v-html="school.curriculum?.curriculumAim"></p>
 						</div>
 						<div v-if="!school.isPrimary" class="about-sector about-subjects" id="about-subjects">
 							<h2 class="about__title">What subjects do we offer?</h2>
