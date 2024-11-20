@@ -39,7 +39,7 @@
 							<!-- <div class="hero_share"><span>Share</span><img src="../assets/imgs/share.png" alt="" /></div> -->
 						</div>
 						<p class="hero__address">{{school.address}} {{school.postCode}}</p>
-						<p class="hero__description">{{school.shortSlogan}}</p>
+						<p class="hero__description" v-html="school.shortSlogan"></p>
 						<div class="hero__information">
 							<div class="information__item">
 								<p>Age Range</p>
@@ -52,10 +52,6 @@
 							<div class="information__item">
 								<p>Sex</p>
 								<span>{{school.gender}}</span>
-							</div>
-							<div class="information__item">
-								<p>No. Forms</p>
-								<span>{{school.entryForms}}</span>
 							</div>
 						</div>
 					</div>
@@ -76,7 +72,7 @@
 									</div>
 								</div>
 								<div class="tab__content tab-content">
-									<h5 class="tab-content__title">{{school.descriptionTitle}}</h5>
+									<h5 class="tab-content__title" v-html="school.descriptionTitle"></h5>
 									<p class="tab-content__text" v-html="school.description"></p>
 								</div>
 							</div>
@@ -201,8 +197,8 @@
 												class="swiper-slide tab-slider__slide text-slide"
 												:style="`${highlight?.bgcolor ? `background: ${highlight.bgcolor}`:''} `">
 												<h3>{{highlight.title}}</h3>
-												<p>{{highlight.description}}</p>
-												<a target="_blank" :href="highlight.link">Learn more</a>
+												<p v-html="highlight.description"></p>
+												<a :href="highlight.link">Learn more</a>
 											</div>
 											<!-- <div class="swiper-slide tab-slider__slide"></div>
 											<div class="swiper-slide tab-slider__slide"></div> -->
@@ -215,7 +211,7 @@
 									<div class="tab__icon">
 										<img src="../assets/imgs/note-icon.png" alt="" />
 									</div>
-									<p class="tab__title">Our school in 4 priorities</p>
+									<p class="tab__title">Our school in 3 priorities</p>
 									<div class="tab__close">
 										<img src="../assets/imgs/arrow-down.png" alt="" />
 									</div>
@@ -227,8 +223,8 @@
 												v-for="priority in school.tabs.schoolPriorities"
 												class="swiper-slide tab-slider__slide text-slide priorities-slide"
 												:style="`${priority?.bgcolor ? `background: ${priority.bgcolor}`:''} `">
-												<h3>{{priority.title}}</h3>
-												<p>{{priority.description}}</p>
+												<h3 v-html="priority.title"></h3>
+												<p v-html="priority.description"></p>
 											</div>
 											<!-- <div class="swiper-slide tab-slider__slide"></div>
 											<div class="swiper-slide tab-slider__slide"></div> -->
@@ -325,8 +321,7 @@
 						<!-- <a href="/Camden/index.html"><img src="../assets/imgs/logo-color.png" alt="logo" /></a> -->
 					</div>
 					<p class="text">
-						Camden Learning, the local area-based education partnership, which supports the development of all Camden schools,
-						confirms that the information in this report is accurate at the date of publication.
+						This profile has been verified by the Camden Learning Professional Partner, Camden Learning, as providing a true and fair picture of the school.
 					</p>
 				</div>
 			</div>

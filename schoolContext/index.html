@@ -93,9 +93,9 @@
 						<div class="location" id="location-sector">
 							<div class="location__header">
 								<h2 class="context__title">Location</h2>
-								<a class="link" :href="school.websiteLink"
+								<!-- <a class="link" :href="school.websiteLink"
 									><span>View school details</span> <img src="../assets/imgs/arrow-outward.png" alt="arrow"
-								/></a>
+								/></a> -->
 							</div>
 							<p class="location__address">{{school.address}} {{school.postCode}}</p>
 							<div class="location__map" id="map">
@@ -106,13 +106,13 @@
 									referrerpolicy="no-referrer-when-downgrade">
 								</iframe> -->
 							</div>
-							<div class="toggle-switch__block location__toggler-block">
+							<!-- <div class="toggle-switch__block location__toggler-block">
 								<div class="toggle-switch">
 									<input type="checkbox" id="switch1" />
 									<label for="switch1" class="toggle-switch__slider"></label>
 								</div>
 								<p>Show Previous Year Catchment*</p>
-							</div>
+							</div> -->
 							<!-- <label for="location-input">Travel times from you</label>
 							<div class="location-input__wrapper">
 								<input type="text" id="location-input" placeholder="SE1 0LH" />
@@ -188,6 +188,10 @@
 								<button currentBlock="3" class="statistics-nav__button">Our finances</button>
 							</div>
 							<div v-if="currentInfoBlock == 1" class="statistics__block statistics-block">
+								<div class="statistics-block__sector stats-sector">
+									<p class="stats-sector__name">Number of Forms of Entry</p>
+									<p class="stats-sector__description">{{school.entryForms}}</p>
+								</div>
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">Pupil numbers</p>
 									<p class="stats-sector__description">{{school.statistics.pupilsNum}}</p>
@@ -317,6 +321,7 @@
 						<div class="admissions-process" id="admissions-sector">
 							<h2 class="context__title">What is the admissions process for our school?</h2>
 							<p v-html="school?.admissionProcess"></p>
+							<a href="https://www.camden.gov.uk/school-admissions">View Camden admissions website</a>
 						</div>
 					</div>
 				</div>
@@ -330,8 +335,8 @@
 						<!-- <a href="/Camden/index.html"><img src="../assets/imgs/logo-color.png" alt="logo" /></a> -->
 					</div>
 					<p class="text">
-						Camden Learning, the local area-based education partnership, which supports the development of all Camden schools,
-						confirms that the information in this report is accurate at the date of publication.
+						This profile has been verified by the Camden Learning Professional Partner, Camden Learning, as providing a true and
+						fair picture of the school
 					</p>
 				</div>
 			</div>
