@@ -71,7 +71,7 @@
 									<img src="./assets/imgs/school-logo.png" alt="school-logo" />
 									<h4 class="school-item__name">{{school.schoolName}}</h4>
 								</div>
-								<p class="school-itemy__description">{{school.shortSlogan}}</p>
+								<p class="school-itemy__description" v-html="school.shortSlogan"></p>
 								<div class="school-item__info-row info-row">
 									<div class="info-row__item">
 										<p>Age Range</p>
