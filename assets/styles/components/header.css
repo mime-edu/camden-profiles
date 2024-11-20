@@ -52,7 +52,7 @@ header .logo {
 	flex: 0 0 80px;
 	width: 80px;
 	height: 80px;
-	background-color: rgb(196, 38, 38);
+	background-color: #104070;
 	border-radius: 50%;
 	position: relative;
 	overflow: hidden;
