@@ -39,7 +39,7 @@
             "Multi sport",
             "After school play centre collection with Coram's Fields"
         ],
-        "admissionProcess": "We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below.\n<a href=\"https://www.chrishatton.camden.sch.uk/Parents/Admissions/\" target=\"_blank\">Christopher Hatton Admissions</a>\n<br>\n<a href=\"https://www.camden.gov.uk/primary-admissions?gad_source=1&gclid=EAIaIQobChMI_pzt5NHMiQMVq5NQBh2Cxwr8EAAYASAAEgLfLfD_BwE\" target=\"_blank\">Camden Local Authority Primary School Admissions</a>",
+        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below.</p>\n<p><a href=\"https://www.chrishatton.camden.sch.uk/Parents/Admissions/\" target=\"_blank\">Christopher Hatton Admissions</a>\n<br></p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions?gad_source=1&gclid=EAIaIQobChMI_pzt5NHMiQMVq5NQBh2Cxwr8EAAYASAAEgLfLfD_BwE\" target=\"_blank\">Camden Local Authority Primary School Admissions</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -48,93 +48,93 @@
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#e50059",
                     "text": "Christopher Hatton is a wonderful school with a friendly ethos, excellent leadership and an immensely strong community. All of these combine to create superb environment for children to be safe and to learn.\u00a0 ",
-                    "author": "<b>Parent</b>"
+                    "author": "Parent"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#e50059",
                     "text": "We feel that the atmosphere in the school, and the way it was run, are in a different league from any of the other schools we have visited or worked at. ",
-                    "author": "<b>Parent</b>"
+                    "author": "Parent"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#ed6c26",
                     "text": "I have learnt to be confident and\u00a0brave and that we should speak up for what we believe in",
-                    "author": "<b>Child</b>"
+                    "author": "Child"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#ed6c26",
                     "text": "I love my school because everyone is kind and happy and our teachers are fun",
-                    "author": "<b>Child</b>"
+                    "author": "Child"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#93c467",
                     "text": "This is an exceptional school",
-                    "author": "<b>Ofsted</b>"
+                    "author": "Ofsted"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#93c467",
                     "text": "The curriculum prepares pupils exceptionally well to take their place as responsible citizens in the modern world",
-                    "author": "<b>Ofsted</b>"
+                    "author": "Ofsted"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#93c467",
                     "text": "Relationships throughout the school are excellent. Pupils are polite and considerate. All members of the school community show each other the utmost respect",
-                    "author": "<b>Ofsted</b>"
+                    "author": "Ofsted"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#93c467",
                     "text": "The pupils\u00a0focus extremely well on their work, have excellent attitudes to their learning and are determined to do well.",
-                    "author": "<b>Challenge Partners</b>"
+                    "author": "Challenge Partners"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#4764ff",
                     "text": "I feel exceptionally well supported by leaders to develop professionally.",
-                    "author": "<b>Teacher</b>"
+                    "author": "Teacher"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#e50059",
                     "text": "I feel that the school is at the heart of the community and also goes beyond to help others.",
-                    "author": "<b>Parent</b>"
+                    "author": "Parent"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#ed6c26",
                     "text": "I am proud to be a Hattoneer, we like to challenge ourselves sand never give up. ",
-                    "author": "<b>Child</b>"
+                    "author": "Child"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#e50059",
                     "text": "Staff are always extremely helpful,friendly and really approachable when any issues arise. They also know the students really well and I think they are a great team.",
-                    "author": "<b>Parent</b>"
+                    "author": "Parent"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#e50059",
                     "text": "I am extremely happy with my son being at the school. I feel very welcomed by the staff who are understanding and caring.",
-                    "author": "<b>Parent</b>"
+                    "author": "Parent"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#ed6c26",
                     "text": "100% of pupils anwered positively to the survey question: My school encourages me to respect people from other backgrounds",
-                    "author": "<b>Child</b>"
+                    "author": "Child"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#e50059",
                     "text": "Christopher Hatton is a well run and well rounded school.",
-                    "author": "<b>Parent</b>"
+                    "author": "Parent"
                 }
             ],
             "schoolPhotosUrls": [
@@ -251,12 +251,12 @@
             "strengths": "temp"
         },
         "support": {
-            "childSafetyAndHappiness": "<p>Our Hattoneer values focus on creating a safe, happy and fair school for all. Relationships between children, staff and their peers are positive and children are supported to articulate their feelings and views.</p>\n\n<p>There is in-school therapeutic provision to support children when needed and access to wider services. A free breakfast and breaktime snacks are provided for all children. Play spaces are friendly and safe, with opportunities for both active play and quieter areas including a well stocked library.</p>\n\n<p>Safeguarding is central to everything we do; robust practices ensure children are supported and protected.</p></br></br><a href='<p><a href=\"https://www.chrishatton.camden.sch.uk/docs/Policies/Policies_2023-24/Christopher_Hatton_Child_Protection_and_Safeguarding_policy_2023_24.pdf\">Wellbeing and Safety Policy Link</a></p>' target='_blank' class='about__link'>Link to safety policy</a>",
-            "bullingProtection": "<p>Pupils have the right to learn in an environment where they feel safe and happy; bullying is never acceptable and we recognise the impact it can have. We take the time needed to work through issues and support our pupils.</p>\n\n<p>We work with children and parents to ensure children understand the effect of their actions and are supported to rebuild positive relationships. Children are taught about respectful relationships and behaviour through our curriculum.</p></br></br><a href='<a href=\"https://www.chrishatton.camden.sch.uk/docs/Policies/Policies_2022-23/Anti-bullying_policy.pdf\">Bullying Policy Link</a>' target='_blank' class='about__link'>Link to bullying policy</a>",
-            "attendanceManagement": "<p>We are a happy school with an engaging curriculum and positive relationships. We strive to create a sense of belonging ensuring children want to come to school.</p>\n\n<p>We know every school day counts so we work with families to support good attendance. Holidays in term time are not permitted.</p></br></br><a href='<a href=\"https://www.chrishatton.camden.sch.uk/docs/Christopher_Hatton_Attendance_Policy_Sept_23.pdf\">Attendance Policy Link</a>' target='_blank' class='about__link'>Link to attendance policy</a>"
+            "childSafetyAndHappiness": "<p>Our Hattoneer values focus on creating a safe, happy and fair school for all. Relationships between children, staff and their peers are positive and children are supported to articulate their feelings and views.</p>\n\n<p>There is in-school therapeutic provision to support children when needed and access to wider services. A free breakfast and breaktime snacks are provided for all children. Play spaces are friendly and safe, with opportunities for both active play and quieter areas including a well stocked library.</p>\n\n<p>Safeguarding is central to everything we do; robust practices ensure children are supported and protected.</p><p></br></br><a href='<p><a href=\"https://www.chrishatton.camden.sch.uk/docs/Policies/Policies_2023-24/Christopher_Hatton_Child_Protection_and_Safeguarding_policy_2023_24.pdf\">Wellbeing and Safety Policy Link</a></p>' target='_blank' class='about__link'>Link to safety policy</a></p>",
+            "bullingProtection": "<p>Pupils have the right to learn in an environment where they feel safe and happy; bullying is never acceptable and we recognise the impact it can have. We take the time needed to work through issues and support our pupils.</p>\n\n<p>We work with children and parents to ensure children understand the effect of their actions and are supported to rebuild positive relationships. Children are taught about respectful relationships and behaviour through our curriculum.</p><p></br></br><a href='<a href=\"https://www.chrishatton.camden.sch.uk/docs/Policies/Policies_2022-23/Anti-bullying_policy.pdf\">Bullying Policy Link</a>' target='_blank' class='about__link'>Link to bullying policy</a></p>",
+            "attendanceManagement": "<p>We are a happy school with an engaging curriculum and positive relationships. We strive to create a sense of belonging ensuring children want to come to school.</p>\n\n<p>We know every school day counts so we work with families to support good attendance. Holidays in term time are not permitted.</p><p></br></br><a href='<a href=\"https://www.chrishatton.camden.sch.uk/docs/Christopher_Hatton_Attendance_Policy_Sept_23.pdf\">Attendance Policy Link</a>' target='_blank' class='about__link'>Link to attendance policy</a></p>"
         },
         "achievement": {
-            "academicChildSuccess": "<p>Our aim is for our pupils to be informed, articulate and empowered and to be successful lifelong learners. We achieve this through our curriculum with our evidence informed teaching and the central use of oracy. Through our practice and ethos, we promote characteristics we believe are essential to success.</p>\n\n<p>Using the principles of mastery teaching to scaffold learning, we enable children to progress together. Effective and consistent practices enable our pupils to make rapid and sustained progress across all Key stages and in all areas of learning.</p>\n\n<p>Ofsted noted \u201cThe curriculum prepares pupils exceptionally well to take their place as responsible citizens in the modern world\u201d.</p></br></br><a href='<a href=\"https://www.chrishatton.camden.sch.uk/docs/Policies/Policies_2023-24/teaching_and_learning_policy_2022.pdf\" target=\"_blank\">Academic Success Policy</a>' target='_blank' class='about__link'>Link to academic success policy</a>",
+            "academicChildSuccess": "<p>Our aim is for our pupils to be informed, articulate and empowered and to be successful lifelong learners. We achieve this through our curriculum with our evidence informed teaching and the central use of oracy. Through our practice and ethos, we promote characteristics we believe are essential to success.</p>\n\n<p>Using the principles of mastery teaching to scaffold learning, we enable children to progress together. Effective and consistent practices enable our pupils to make rapid and sustained progress across all Key stages and in all areas of learning.</p>\n\n<p>Ofsted noted \u201cThe curriculum prepares pupils exceptionally well to take their place as responsible citizens in the modern world\u201d.</p><p></br></br><a href='<a href=\"https://www.chrishatton.camden.sch.uk/docs/Policies/Policies_2023-24/teaching_and_learning_policy_2022.pdf\" target=\"_blank\">Academic Success Policy</a>' target='_blank' class='about__link'>Link to academic success policy</a></p>",
             "chartsPerform": [
                 {
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
@@ -274,8 +274,8 @@
             "wherePupilsGoAfter": "Temp"
         },
         "SEND": {
-            "sendSupportInfo": "<p>26% of our pupils have SEND (3% with an Education Health and Care Plan & 23% on SEN Support). We prioritise high quality class teaching and ensure all teachers can adapt their practice so all pupils make progress. Pupils learn in mixed attainment groups as we have high expectations for all.</p>\n\n<p>If a child needs additional help with an area of learning, support is provided through small group pre-teaching of key knowledge. This helps pupils to engage successfully in lessons.</p>\n\n<p>For some pupils, specific interventions and more significant adaptations may be required. Our SENDCo works in partnership with parents and specialist agencies to plan these.</p></br></br><a href='<a href=\"https://www.chrishatton.camden.sch.uk/docs/Equality_policy_and_plan_2023_25.pdf\">SEND Policy Link</a>' target='_blank' class='about__link'>Link to SEND policy</a>",
-            "inclusivePracticeInfo": "<p>We ensure standards and progress are consistently high for all groups of pupils: girls and boys; pupils of all ethnicities, pupils with SEND and those from disadvantaged backgrounds. This is the result of our inclusive practices and a curriculum that reflects the diversity of our community.</p>\n\n<p>Teaching effective communication skills, an inclusive ethos and the creation of a safe and welcoming learning environment are central to ensuring all pupils can thrive.</p></br></br><a href='<a href=\"https://www.chrishatton.camden.sch.uk/Our-School/Policies/\">Inclusive Policy Link</a>' target='_blank' class='about__link'>Link to inclusive practice policy</a>"
+            "sendSupportInfo": "<p>26% of our pupils have SEND (3% with an Education Health and Care Plan & 23% on SEN Support). We prioritise high quality class teaching and ensure all teachers can adapt their practice so all pupils make progress. Pupils learn in mixed attainment groups as we have high expectations for all.</p>\n\n<p>If a child needs additional help with an area of learning, support is provided through small group pre-teaching of key knowledge. This helps pupils to engage successfully in lessons.</p>\n\n<p>For some pupils, specific interventions and more significant adaptations may be required. Our SENDCo works in partnership with parents and specialist agencies to plan these.</p><p></br></br><a href='<a href=\"https://www.chrishatton.camden.sch.uk/docs/Equality_policy_and_plan_2023_25.pdf\">SEND Policy Link</a>' target='_blank' class='about__link'>Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>We ensure standards and progress are consistently high for all groups of pupils: girls and boys; pupils of all ethnicities, pupils with SEND and those from disadvantaged backgrounds. This is the result of our inclusive practices and a curriculum that reflects the diversity of our community.</p>\n\n<p>Teaching effective communication skills, an inclusive ethos and the creation of a safe and welcoming learning environment are central to ensuring all pupils can thrive.</p><p></br></br><a href='<a href=\"https://www.chrishatton.camden.sch.uk/Our-School/Policies/\">Inclusive Policy Link</a>' target='_blank' class='about__link'>Link to inclusive practice policy</a></p>"
         }
     }
 ]
