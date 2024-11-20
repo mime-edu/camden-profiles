@@ -197,7 +197,7 @@
 												class="swiper-slide tab-slider__slide text-slide"
 												:style="`${highlight?.bgcolor ? `background: ${highlight.bgcolor}`:''} `">
 												<h3>{{highlight.title}}</h3>
-												<p>{{highlight.description}}</p>
+												<p v-html="highlight.description"></p>
 												<a target="_blank" :href="highlight.link">Learn more</a>
 											</div>
 											<!-- <div class="swiper-slide tab-slider__slide"></div>
@@ -223,8 +223,8 @@
 												v-for="priority in school.tabs.schoolPriorities"
 												class="swiper-slide tab-slider__slide text-slide priorities-slide"
 												:style="`${priority?.bgcolor ? `background: ${priority.bgcolor}`:''} `">
-												<h3>{{priority.title}}</h3>
-												<p>{{priority.description}}</p>
+												<h3 v-html="priority.title"></h3>
+												<p v-html="priority.description"></p>
 											</div>
 											<!-- <div class="swiper-slide tab-slider__slide"></div>
 											<div class="swiper-slide tab-slider__slide"></div> -->
