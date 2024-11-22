@@ -217,7 +217,7 @@ function drawMap(staticSchools) {
 			.bindPopup(
 				`<div class="schools-list_item school-item school-item-as-popup">
 					<div class="school-item__header">
-						<img src="./assets/imgs/school-logo.png" alt="school-logo" />
+						<img src="${school.schoolLogo}" alt="school-logo" />
 						<h4 class="school-item__name">${school.schoolName}</h4>
 					</div>
 					<p class="school-itemy__description">${school.shortSlogan}</p>

@@ -68,7 +68,7 @@
 						<div class="schools-info__list schools-list">
 							<div v-for="school in schools" class="schools-list_item school-item">
 								<div class="school-item__header">
-									<img src="./assets/imgs/school-logo.png" alt="school-logo" />
+									<img :src="`${school.schoolLogo}`" alt="school-logo" />
 									<h4 class="school-item__name">{{school.schoolName}}</h4>
 								</div>
 								<p class="school-itemy__description" v-html="school.shortSlogan"></p>
