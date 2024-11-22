@@ -79,7 +79,7 @@
 			<section class="about">
 				<div class="about__container">
 					<div class="about__content">
-						<div class="toggle-switch__block about__toggler-block">
+						<div class="toggle-switch__block about__toggler-block" v-if="school.isPrimary">
 							<div class="toggle-switch">
 								<input type="checkbox" id="switch1" />
 								<label for="switch1" class="toggle-switch__slider"></label>
@@ -108,11 +108,11 @@
 								<p>{{chart.chartDescription}}</p>
 							</div>
 						</div>
-						<!-- <div class="about-sector" id="preparation-sector">
+						<div class="about-sector" id="preparation-sector" v-if="!school.isPrimary">
 							<h2 class="about__title">Where do pupils go after they leave our school?</h2>
 							<p class="about__text" v-html="school.achievement.wherePupilsGoAfter"></p>
-							 <a class="about__link" href="">Link to our careers advice policy</a> -->
-						</div>
+							<!-- <a class="about__link" href="">Link to our careers advice policy</a>
+						</div> -->
 					</div>
 				</div>
 			</section>
@@ -125,7 +125,7 @@
 						<!-- <a href="/Camden/index.html"><img src="../assets/imgs/logo-color.png" alt="logo" /></a> -->
 					</div>
 					<p class="text">
-						This profile has been verified by the Camden Learning Professional Partner, Camden Learning, as providing a true and fair picture of the school
+						This is a pilot version of the School Report - we welcome your feedback. When finalised, it will be verified by Camden Learning as providing a true and fair picture of the school.
 					</p>
 				</div>
 			</div>
