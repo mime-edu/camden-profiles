@@ -2,7 +2,7 @@
     {
         "schoolId": 2022019,
         "schoolName": "Argyle Primary School",
-        "isPrimary": "TRUE",
+        "isPrimary": true,
         "shortSlogan": "<b>Join the Argyle Adventure!</b>",
         "descriptionTitle": "<b>Join the Argyle Adventure!</b>",
         "description": "\n    <p>We believe that Argyle is an exceptional school. We are incredibly ambitious for our children and have created a curriculum that inspires and motivates them through our \u2018Argyle Adventure\u2019 \u2013 a bespoke offer that ties exciting new experiences, educational visits and specialist workshops to our learning goals.</p>\n\n    <p>We teach our children to have a growth mindset and that they can have a positive impact on their own outcomes, their community, and the world around them.</p>\n\n    <p>Our inclusive approach, combined with academic rigour, means that all children are challenged and supported to attain their very best.</p>",
@@ -23,11 +23,15 @@
         "prevYearCatchmentRadius": null,
         "postCode": "WC1H 9EG",
         "facilities": [
-            "The school has state of the art STEAM lab",
-            " a music room and an art studio. At the heart of the school",
-            " the Discovery Zone includes a well stocked library and computing suite. Each age phase has its own playground and key stage 2 pupils enjoy a zoned playground with monkey bars",
-            " a fitness trail",
-            " a football pitch and trampolines. The whole school benefits from our nature garden with outdoor kitchen and wildlife pond."
+            " State of the art STEAM lab",
+            "  Music room and an art studio",
+            " Discovery Zone including a well stocked library and computing suite",
+            " Designated playground  for each age phase",
+            " Key stage 2 playground with monkey bars",
+            " Fitness trail,  Football pitch and trampolines",
+            "  Nature garden",
+            " Outdoor kitchen",
+            " Wildlife pond"
         ],
         "activities": [
             "Free Breakfast Club",
@@ -66,7 +70,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#4764ff",
-                    "text": "Argyle is such a great community school. Everyone is always ready to go the extra mile to give our pupils the very best learning oppotrunities.",
+                    "text": "Argyle is such a great community school. Everyone is always ready to go the extra mile to give our pupils the very best learning opportunities.",
                     "author": "Teacher"
                 },
                 {
@@ -84,7 +88,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#e50059",
-                    "text": "From the dedicated teachers to the teaching assistants and admin staff, it's clear that everyone goes above and beyond to create a positive and nurturng environment for the children.Thank you for your comitment to excellence and for making a difference every day.",
+                    "text": "From the dedicated teachers to the teaching assistants and admin staff, it's clear that everyone goes above and beyond to create a positive and nurturing environment for the children. Thank you for your commitment to excellence and for making a difference every day.",
                     "author": "Parent"
                 },
                 {
@@ -108,7 +112,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#ed6c26",
-                    "text": "This school is an institution that teaches yoiung children to be friendly, sensible and kind.",
+                    "text": "This school is an institution that teaches young children to be friendly, sensible and kind.",
                     "author": "Child"
                 },
                 {
@@ -119,9 +123,9 @@
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "#e50059",
-                    "text": "",
-                    "author": "Parent"
+                    "bgcolor": "#93c467",
+                    "text": "Reading is a priority from Nursery",
+                    "author": "Ofsted"
                 },
                 {
                     "type": "quote",
@@ -131,9 +135,9 @@
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "#93c467",
-                    "text": "Reading is a priority from Nursery",
-                    "author": "Ofsted"
+                    "bgcolor": "",
+                    "text": "",
+                    "author": ""
                 }
             ],
             "schoolPhotosUrls": [
@@ -226,20 +230,20 @@
             "changeYearReserves": -116900.0
         },
         "curriculum": {
-            "curriculumAim": "<p>The intention of our curriculum is to inspire pupils, broaden their horizons, take them out of the classroom and open their eyes to a wide range of opportunities and experiences.</p>\n<p>All whilst ensuring that they develop very strong skills in English, Mathematics and Science.</p>",
+            "curriculumAim": "<p>The intention of our curriculum is to inspire pupils, broaden their horizons, take them out of the classroom and open their eyes to a wide range of opportunities and experiences.</p>\n<p>All whilst ensuring that they develop very strong skills in English, Mathematics and Science.</p><p><a href=\"https://www.argyle.camden.sch.uk/page/?title=Our+Curriculum&pid=9\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
             "curriculumStrengths": [
                 "Reading",
                 "Cross curricular topics",
                 "Music and Art"
             ],
             "topSubjects": [
-                "temp"
+                ""
             ],
             "topDisciplines": "temp",
             "strengths": "temp"
         },
         "support": {
-            "childSafetyAndHappiness": "At Argyle we are committed to providing a caring, friendly, respectful and safe learning environment for all of our pupils. We promote an inclusive ethos that focuses on respecting one another and celebrating difference and diversity. We follow a trauma-informed approach and work hard to build strong relationships.",
+            "childSafetyAndHappiness": "At Argyle we are committed to providing a caring, friendly, respectful and safe learning environment for all of our pupils. We promote an inclusive ethos that focuses on respecting one another and celebrating difference and diversity. We follow a trauma-informed approach and work hard to build strong relationships.<p><a href=\"https://www.argyle.camden.sch.uk/page/?title=Safeguarding%2C+Inclusion+%26amp%3B+Welfare+Policies&pid=35\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
             "bullyingProtection": "<p>Bullying and prejudice-based language of any kind, involving pupils, adults towards pupils, staff or parents are unacceptable and will not be tolerated at our school. </p>\n\n<p>We understand the devastating and lasting effect being bullied can have on some children and we will deal with all incidents equally seriously, quickly and effectively, whether it has taken place in or outside of school.</p><p><a href=https://www.argyle.camden.sch.uk/images/Anti-Bullying_policy_2023-24.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
             "attendanceManagement": "<p>Argyle Primary School wants to ensure that all pupils receive a full-time education to maximise opportunities, attainment, well-being, and wider life chances for everybody to realise their\npotential.</p>\n\n<p>We aim for an environment which enables and encourages all members of the school community to strive for excellence and enjoyment in education. For our children to gain the greatest benefit from their education it is vital that they attend regularly and punctually.</p><p><a href=\"https://www.argyle.camden.sch.uk/images/10.04_Attendance_Policy_2023-24.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
         },
@@ -259,7 +263,19 @@
                     "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
                 }
             ],
-            "wherePupilsGoAfter": "Temp"
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>The entire curriculum is underpinned by a clear set of values \u2013 excellence, collaboration, kindness, drive, compassion, respect, self-control, courage, responsibility, empathy, positivity, fun, love, honesty, friendship, kindness, patience, wisdom, gratitude, self-belief, fairness, forgiveness and peace.</p>\n\n<p>These values support pupils in identifying common themes in their learning and in making links between subjects as well as supporting their social. emotional and moral growth. </p>"
         },
         "SEND": {
             "sendSupportInfo": "<p>We are committed to providing high-quality support for children with Special Educational Needs and Disabilities (SEND). Our approach begins with quality first teaching, ensuring that all children receive an inclusive and differentiated curriculum tailored to their individual needs. Teachers use formative assessments regularly to identify gaps in learning and ensure immediate \"keep up\" support for all students, so no one is left behind.</p> \n<p>For children who require additional support, we offer targeted, personalised interventions in small groups or one-to-one settings, addressing specific areas of need. These interventions are designed to close learning gaps and provide focused support across the curriculum. Regular reviews and collaboration with parents and external specialists ensure that the support is continually adapted to meet the evolving needs of each child, fostering an inclusive environment where every child can thrive.</p><p><a href=\"https://www.argyle.camden.sch.uk/images/10.7_SEND__Policy_and_Information_Report__Sept_2023.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
@@ -269,14 +285,14 @@
     {
         "schoolId": 2023323,
         "schoolName": "Christ Church Primary School, Hampstead",
-        "isPrimary": "TRUE",
+        "isPrimary": true,
         "shortSlogan": "<b>A village school in London, inspiring life in all its fullness.</b>",
         "descriptionTitle": "<b>A village school in London, inspiring life in all its fullness.</b>",
         "description": "<p>We are a highly <b>inclusive</b> and cohesive Church of England primary school, serving the diverse and international community of Hampstead.</p>\n\n<p>Our strengths include our feeling of <b>togetherness</b> and <b>community</b>, our focus on <b>positive relationships</b> for everyone, and our uncompromising ambition for <b>academic excellence</b> for all.</p>\n\n<p>The breadth and <b>creativity</b> of our curriculum, the <b>enrichment opportunities</b> that run alongside our high-quality classroom teaching, and our innovative <b>personal development</b> and <b>well-being work</b> support all <b>children</b> and <b>families</b>.</p>",
         "schoolLogo": "../assets/imgs/school/2023323_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100028",
         "websiteLink": "https://christchurchschool.co.uk/",
-        "type": "Primary",
+        "type": "Primary inc. Nursery",
         "gender": "Mixed",
         "entryForms": 1,
         "ageRange": [
@@ -290,17 +306,17 @@
         "prevYearCatchmentRadius": null,
         "postCode": "NW3 1JH",
         "facilities": [
-            "two playgrounds",
-            " access to Hampstead Heath for trips and PE",
-            " music room",
-            " library"
+            "Two playgrounds",
+            " Access to Hampstead Heath for trips & PE",
+            " Music room",
+            " Library"
         ],
         "activities": [
-            "after school clubs, including sports, cookery, arts and music tuition",
-            "sports teams, with the opportunity to compete in Camden tournaments",
-            "choir"
+            "After school clubs: sports, cookery, arts and music tuition",
+            "Sports teams, with the opportunity to compete in Camden tournaments",
+            "Choir"
         ],
-        "admissionProcess": "Our children are drawn from both the church community at Christ Church, Hampstead, and from our immediate local area. Please see our website for our current admissions policy: https://christchurchschool.co.uk/key-information/admissions/",
+        "admissionProcess": "Our children are drawn from both the church community at Christ Church, Hampstead, and from our immediate local area.<br>\nPlease see our <a href=\"https://christchurchschool.co.uk/key-information/admissions/\">current admissions policy</a>.",
         "tabs": {
             "schoolViews": [
                 {
@@ -497,25 +513,25 @@
             "changeYearReserves": 1000.0
         },
         "curriculum": {
-            "curriculumAim": "<p>The design, content, implementation, and evaluation of our curriculum plays a <b>key role</b> in how we make our school vision come to life and enable all in our school to <b>experience life in all its fullness</b>.</p>\n\n<p>The ambitious breadth of our curriculum provision and the links we make <b>across the curriculum</b>, to transferable skills and to personal development, including the development of <b>emotional well-being</b>, spirituality, and a <b>sense of community and responsibility</b>, are very important parts of our curriculum design.</p>\n\n<p>Our curriculum reflects and supports our pursuit of <b>academic excellence for all</b> and our vision for <b>creativity</b> in all we do.</p>",
+            "curriculumAim": "<p>The design, content, implementation, and evaluation of our curriculum plays a <b>key role</b> in how we make our school vision come to life and enable all in our school to <b>experience life in all its fullness</b>.</p>\n\n<p>The ambitious breadth of our curriculum provision and the links we make <b>across the curriculum</b>, to transferable skills and to personal development, including the development of <b>emotional well-being</b>, spirituality, and a <b>sense of community and responsibility</b>, are very important parts of our curriculum design.</p>\n\n<p>Our curriculum reflects and supports our pursuit of <b>academic excellence for all</b> and our vision for <b>creativity</b> in all we do.</p><p><a href=\"https://christchurchschool.co.uk/key-information/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
             "curriculumStrengths": [
-                "the arts, including visual arts, performing arts and music",
-                "PE, with a wide range of sports teams, clubs and opportunities to represent the school",
-                "reading - all children are fluent readers, unlocking the wider curriculum, and developing a love of reading for pleasure"
+                "Visual arts, performing arts and music",
+                "PE and various sports teams, clubs and opportunities to represent the school",
+                "Reading - children are fluent readers and with a passion for books"
             ],
             "topSubjects": [
-                "temp"
+                ""
             ],
             "topDisciplines": "temp",
             "strengths": "temp"
         },
         "support": {
-            "childSafetyAndHappiness": "<p>Keeping children safe and happy is our <b>highest priority</b>. Our safeguarding policies and regularly-updated <b>staff training</b> set out how we do this.</p>\n\n<p>Our pastoral care aims to support individual children and families with <b>extra support</b> when they need it, and we also teach a wide range of proactive strategies to support <b>positive well-being</b> in PSHE and in our Happiness Project.</p><p><a href=\"https://christchurchschool.co.uk/wp-content/uploads/2023/09/Safeguarding-and-Child-Protection-Policy-September-2023.pdf                                  \nhttps://christchurchschool.co.uk/happiness-project/\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "childSafetyAndHappiness": "<p>Keeping children safe and happy is our <b>highest priority</b>. Our safeguarding policies and regularly-updated <b>staff training</b> set out how we do this.</p>\n\n<p>Our pastoral care aims to support individual children and families with <b>extra support</b> when they need it, and we also teach a wide range of proactive strategies to support <b>positive well-being</b> in PSHE and in our Happiness Project.</p><p><a href=\"https://christchurchschool.co.uk/wp-content/uploads/2023/09/Safeguarding-and-Child-Protection-Policy-September-2023.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
             "bullyingProtection": "Our school ethos and behaviour policy are founded on <b>positive relationships</b> and we <b>do not tolerate</b> bullying of any kind. We teach children about being an <b>upstander</b>, not a bystander, and train all our Year 5 class as <b>Anti-Bullying Champions</b> each year.<p><a href=https://christchurchschool.co.uk/wp-content/uploads/2024/06/Positive-Behaviour-and-Anti-Bullying-Policy-June-2024.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
             "attendanceManagement": "Our <b>happy school</b> and vibrant and <b>engaging curriculum</b> encourage <b>high attendance</b>\u2014children <b>want to come to school</b>. Where we need to, we work with individual families, with <b>understanding and patience</b>, to support higher attendance for their children.<p><a href=\"https://christchurchschool.co.uk/wp-content/uploads/2023/03/Attendance-and-Punctuality-Policy-February-2023.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
         },
         "achievement": {
-            "academicChildSuccess": "We ensure academic success through <b>knowing our pupils</b> and their <b>individual needs</b> really well, having <b>skilled teachers in every classroom</b>, tracking pupil progress at an individual level, targeting and planning <b>additional support</b> carefully, and using our own bespoke curriculum with a <b>wide range of enrichment activities</b> to engage every child.<p><a href=\"https://christchurchschool.co.uk/key-information/curriculum-subjects/                    https://christchurchschool.co.uk/key-information/curriculum/    \" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
+            "academicChildSuccess": "We ensure academic success through <b>knowing our pupils</b> and their <b>individual needs</b> really well, having <b>skilled teachers in every classroom</b>, tracking pupil progress at an individual level, targeting and planning <b>additional support</b> carefully, and using our own bespoke curriculum with a <b>wide range of enrichment activities</b> to engage every child.<p><a href=\"https://christchurchschool.co.uk/key-information/curriculum/    \" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
             "chartsPerform": [
                 {
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
@@ -530,17 +546,29 @@
                     "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
                 }
             ],
-            "wherePupilsGoAfter": "Temp"
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>We support pupils to make a smooth transition to their secondary schools by working hard to provide every child with the best possible academic foundation and social skills to take with them to their new school.</p>\n\n<p>Specific transition activities include taking part in activities as a <b>whole class</b> to share concerns and questions, using 'tips' and advice from <b>former pupils</b>, <b>transition groups</b> for some pupils, and clear communication from Christ Church staff to new schools about <b>individual pupils' strengths, needs and next steps</b>.</p>"
         },
         "SEND": {
-            "sendSupportInfo": "<p>At Christ Church, we support pupils with a <b>range of individual needs</b> to make very good progress both academically and in the wider curriculum and <b>life skills</b>.</p>\n\n<p>We achieve this through <b>open communication with parents</b>, effective target setting, listening to <b>pupils' views</b>, targeted support in the classrooms and <b>skilled adaptations</b> to our curriculum and teaching.</p><p><a href=\"https://christchurchschool.co.uk/key-information/sen-local-offer/                                                   \nhttps://christchurchschool.co.uk/wp-content/uploads/2024/05/SEND-Policy-and-SEN-Information-Report-May-2024.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "sendSupportInfo": "<p>At Christ Church, we support pupils with a <b>range of individual needs</b> to make very good progress both academically and in the wider curriculum and <b>life skills</b>.</p>\n\n<p>We achieve this through <b>open communication with parents</b>, effective target setting, listening to <b>pupils' views</b>, targeted support in the classrooms and <b>skilled adaptations</b> to our curriculum and teaching.</p><p><a href=\"https://christchurchschool.co.uk/key-information/sen-local-offer/                                                   \n\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
             "inclusivePracticeInfo": "Our <b>inclusive practice</b> means that all in our school community can access our <b>broad and enriched curriculum</b>, especially those with individual needs.<p><a href=\"https://christchurchschool.co.uk/key-information/policies/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     },
     {
         "schoolId": 2022842,
         "schoolName": "Christopher Hatton Primary School",
-        "isPrimary": "TRUE",
+        "isPrimary": true,
         "shortSlogan": "<strong>We want our pupils to become informed, articulate and empowered citizens.</strong>",
         "descriptionTitle": "<strong>We want our pupils to become informed, articulate and empowered citizens.</strong>",
         "description": "At <strong>Christopher Hatton</strong> we want our pupils to become informed, articulate and empowered citizens. Through our creative curriculum with its emphasis on the Environment and the Rights of the Child, our innovative teaching and the rich opportunities we provide, children develop the knowledge, skills and attitudes to succeed.<br><br>\nWe are a happy, ambitious and inclusive school reflecting the rich diversity of families in our area and are proud to be a beacon of excellence at the heart of our community. Affectionately known as 'Hattoneers,' our children embody high aspirations, mutual respect, and a commitment to making a positive impact. <strong>Our most recent Ofsted report</strong> highlights our school\u2019s continuous growth and success. We are committed to our <strong>school performance</strong> and work in collaboration with <strong>Camden Learning</strong> to ensure the best outcomes for our students, alongside other <strong>Camden schools</strong>",
@@ -561,11 +589,7 @@
         "prevYearCatchmentRadius": null,
         "postCode": "EC1R 4PQ",
         "facilities": [
-            "Computing room and specialist teaching",
-            " Music room and specialist teaching including free guitar tuition from Y4-Y ",
-            " Breakfast club",
-            " Library",
-            " Separate outdoor learning/play spaces for Nursery and Reception "
+            "Computing room and specialist teaching, Music room and specialist teaching including free guitar tuition from Y4-Y , Breakfast club, Library, Separate outdoor learning/play spaces for Nursery and Reception "
         ],
         "activities": [
             "Art",
@@ -653,7 +677,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#e50059",
-                    "text": "Staff are always extremely helpful,friendly and really approachable when any issues arise. They also know the students really well and I think they are a great team.",
+                    "text": "Staff are always extremely helpful, friendly and really approachable when any issues arise. They also know the students really well and I think they are a great team.",
                     "author": "Parent"
                 },
                 {
@@ -665,7 +689,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#ed6c26",
-                    "text": "100% of pupils anwered positively to the survey question: My school encourages me to respect people from other backgrounds",
+                    "text": "100% of pupils answered positively to the survey question: My school encourages me to respect people from other backgrounds",
                     "author": "Child"
                 },
                 {
@@ -760,7 +784,7 @@
             "specificEthnicities": [
                 "Bangladeshi",
                 "White British",
-                "Any Other Mixed Backround",
+                "Any Other Mixed Background",
                 "White European",
                 "Other Black African"
             ],
@@ -783,7 +807,7 @@
                 "Art"
             ],
             "topSubjects": [
-                "temp"
+                ""
             ],
             "topDisciplines": "temp",
             "strengths": "temp"
@@ -809,7 +833,19 @@
                     "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
                 }
             ],
-            "wherePupilsGoAfter": "Temp"
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>Children are taught how to be effective learners with a <b>growth mind-set</b> that will equip them for life, giving pupils confidence to embrace <b>challenges and handle set-backs</b>. This along with <b>excellent academic achievement</b> and the ability to <b>articulate their views</b> enables children as they progress through their education.</p>"
         },
         "SEND": {
             "sendSupportInfo": "<p><b>26%</b> of our pupils have <b>SEND</b> (<b>3%</b> with an <b>Education Health and Care Plan</b> & <b>23%</b> on <b>SEN Support</b>). We prioritise high quality class teaching and ensure all teachers can adapt their practice so <b>all pupils make progress</b>. Pupils learn in <b>mixed attainment</b> groups as we have <b>high expectations</b> for all.</p>\n\n<p>If a child needs <b>additional help</b> with an area of learning, support is provided through <b>small group pre-teaching</b> of key knowledge. This helps pupils to engage successfully in lessons.</p>\n\n<p>For some pupils, <b>specific interventions</b> and more significant adaptations may be required. Our <b>SENDCo</b> works in partnership with <b>parents</b> and <b>specialist agencies</b> to plan these.</p><p><a href=\"https://www.chrishatton.camden.sch.uk/docs/Equality_policy_and_plan_2023_25.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
@@ -819,14 +855,14 @@
     {
         "schoolId": 2022775,
         "schoolName": "Gospel Oak Primary School",
-        "isPrimary": "TRUE",
+        "isPrimary": true,
         "shortSlogan": "<b>This is a fun, happy, hardworking and successful school. We are proud of the breadth of educational and extra-curricular opportunities we offer.</b>",
         "descriptionTitle": "<b>This is a fun, happy, hardworking and successful school. We are proud of the breadth of educational and extra-curricular opportunities we offer.</b>",
         "description": "<p><b>Gospel Oak</b> is a large <b>two-form entry</b> primary school with a nursery in the London Borough of Camden. It has enjoyed a long spell of stability. There is <b>low staff turnover</b>, particularly in the context of inner London. Overall achievement has been <b>rising steadily</b> and the school is <b>very popular</b>.</p>\n\n<p>Our families represent a <b>very wide cultural and socioeconomic range</b>. Just under half of the children qualify for free school meals and just over half have a first language other than English.</p>\n\n<p>The school was judged to be <b>Outstanding</b> by Ofsted in <b>October 2021</b>.</p>",
         "schoolLogo": "../assets/imgs/school/2022775_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100025",
         "websiteLink": "http://www.gospeloak.camden.sch.uk\n",
-        "type": "Primary",
+        "type": "Primary inc. Nursery",
         "gender": "Mixed",
         "entryForms": 2,
         "ageRange": [
@@ -840,7 +876,16 @@
         "prevYearCatchmentRadius": null,
         "postCode": "NW3 2JB",
         "facilities": [
-            "<p>ICT suite<br>\nFood Technology Room<br>\nArt & DT Room<br>\nSensory Room<br>\nOutdoor classroom<br>\nBreakfast Club<br>\nAfter School Club</p>"
+            "Music Room & Recording Studio",
+            " Teaching Kitchen and Vegetable Plot",
+            " 2 Large Buildings with Extra Teaching Spaces",
+            " Well Equipped Outside Play Space",
+            " Rooftop Playground",
+            " Family & Adult Learning Spaces",
+            " Children\u2019s Centre Facilities",
+            " 2 & 3 Year Old Nursery",
+            " Community Hub Space",
+            " Sensory and Soft Play Rooms"
         ],
         "activities": [
             "Basketball",
@@ -1045,14 +1090,14 @@
             "changeYearReserves": 97400.0
         },
         "curriculum": {
-            "curriculumAim": "<p>At Gospel Oak, our curriculum embraces a <b>topic-based approach</b> to teaching several subjects, building <b>connections</b> between <b>different areas</b> of learning and <b>deepening understanding</b>. While science, history, geography, art and design & technology follow this method, subjects like English, maths, computing, languages, music, PSHE, PE, & RE are taught <b>separately</b>, with <b>relevant links</b> made wherever possible.</p>\n\n<p>Our curriculum also cultivates an awareness of <b>life in modern Britain</b>. <b>Democracy</b> thrives within our school, with avenues for <b>pupil voice</b> through the <b>Junior Leadership Team</b> and <b>surveys</b>. We reinforce the importance of laws through routines, assemblies and behaviour support, teaching children about their <b>value, responsibilities and consequences</b>.</p>\n\n<p>In our safe and supportive environment, children are encouraged to <b>make choices</b>, exercise their rights, and develop cooking skills with a focus on <b>healthy eating</b>.</p>\n\n<p><b>Mutual respect is central to our ethos</b>, evident in our mission statement and relationships across the school. <b>Tolerance and understanding</b> are promoted through exploring <b>cultural diversity</b> in various subjects and inviting contributions from different <b>faiths</b> or <b>religions</b> to enrich learning experiences.</p>",
+            "curriculumAim": "<p>At Gospel Oak, our curriculum embraces a <b>topic-based approach</b> to teaching several subjects, building <b>connections</b> between <b>different areas</b> of learning and <b>deepening understanding</b>. While science, history, geography, art and design & technology follow this method, subjects like English, maths, computing, languages, music, PSHE, PE, & RE are taught <b>separately</b>, with <b>relevant links</b> made wherever possible.</p>\n\n<p>Our curriculum also cultivates an awareness of <b>life in modern Britain</b>. <b>Democracy</b> thrives within our school, with avenues for <b>pupil voice</b> through the <b>Junior Leadership Team</b> and <b>surveys</b>. We reinforce the importance of laws through routines, assemblies and behaviour support, teaching children about their <b>value, responsibilities and consequences</b>.</p>\n\n<p>In our safe and supportive environment, children are encouraged to <b>make choices</b>, exercise their rights, and develop cooking skills with a focus on <b>healthy eating</b>.</p>\n\n<p><b>Mutual respect is central to our ethos</b>, evident in our mission statement and relationships across the school. <b>Tolerance and understanding</b> are promoted through exploring <b>cultural diversity</b> in various subjects and inviting contributions from different <b>faiths</b> or <b>religions</b> to enrich learning experiences.</p><p><a href=\"https://sites.google.com/gospeloakschool.com/gospel-oak-primary-and-nursery/curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
             "curriculumStrengths": [
                 "Music",
                 "Computing",
                 "Sport"
             ],
             "topSubjects": [
-                "temp"
+                ""
             ],
             "topDisciplines": "temp",
             "strengths": "temp"
@@ -1078,24 +1123,685 @@
                     "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
                 }
             ],
-            "wherePupilsGoAfter": "Temp"
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>Gospel Oak equips pupils for success beyond their time with us with <b>tailored guidance</b>, <b>transferable skills</b> and a nurturing environment that fosters independence, resilience, and a <b>lifelong love for learning</b>.</p>"
         },
         "SEND": {
-            "sendSupportInfo": "<p>SEND teaching at Gospel Oak Primary School is <b>strong</b>, with a clear commitment to meeting <b>individual needs</b> through well-targeted support. The school promotes an <b>inclusive environment</b> where pupils with SEND receive <b>tailored interventions</b> and make good progress.</p>\n\n<p>Staff collaborate effectively to ensure these pupils access the <b>full curriculum</b>, and improvements have been made in integrating <b>support staff</b> into lesson planning to enhance the quality of provision.</p>\n\n<p>Leadership is dedicated to inclusivity, ensuring that children with SEND feel well-supported and included, with continued efforts to refine and strengthen the support to <b>help pupils thrive both academically and socially</b>.</p><p><a href=\"https://docs.google.com/document/d/1MJL3rBmehUFJXiq9hlXUD0yP9lifnZQymhz954-h8Xg/edit\nhttps://docs.google.com/document/d/11WLUWqG7kz0lKVgajaE37EImwRgFCimE80Mmbyj6xns/edit\nhttps://cindex.camden.gov.uk/kb5/camden/cd/localoffer.page?localofferchannel=0\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "sendSupportInfo": "<p>SEND teaching at Gospel Oak Primary School is <b>strong</b>, with a clear commitment to meeting <b>individual needs</b> through well-targeted support. The school promotes an <b>inclusive environment</b> where pupils with SEND receive <b>tailored interventions</b> and make good progress.</p>\n\n<p>Staff collaborate effectively to ensure these pupils access the <b>full curriculum</b>, and improvements have been made in integrating <b>support staff</b> into lesson planning to enhance the quality of provision.</p>\n\n<p>Leadership is dedicated to inclusivity, ensuring that children with SEND feel well-supported and included, with continued efforts to refine and strengthen the support to <b>help pupils thrive both academically and socially</b>.</p><p><a href=\"https://sites.google.com/gospeloakschool.com/gospel-oak-primary-and-nursery/curriculum/sen-inclusion\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
             "inclusivePracticeInfo": "<p><a href=\"https://sites.google.com/gospeloakschool.com/gospel-oak-primary-and-nursery/organisation/information/policies\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
+        "schoolId": 2024166,
+        "schoolName": "Parliament Hill School",
+        "isPrimary": false,
+        "shortSlogan": "High achieving and happy', we are a girls\u2019 school with a feminist mission to empower every student to make their mark on the world.",
+        "descriptionTitle": "High achieving and happy', we are a girls\u2019 school with a feminist mission to empower every student to make their mark on the world.",
+        "description": "<p>Our feminist mission is to enable every student to forge a strong identity, empowered to make their mark on the world. Enrichment programmes and a strong tradition of global citizenship prepare students to lead with kindness and purpose.</p>\n\n<p>Located on Hampstead Heath, we celebrate diversity and individuality, nurturing a supportive school community with unwavering commitment to inclusivity, wellbeing and academic excellence. With a broad academic and creative curriculum, we cultivate confident, independent learners who excel.</p>\n\n<p>Our motto, 'High Achieving and Happy', encapsulates our ethos. Understanding the challenges young women face today, we empower them to seize all opportunities and thrive.</p>",
+        "schoolLogo": "../assets/imgs/school/2024166_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100050",
+        "websiteLink": "https://www.parliamenthill.camden.sch.uk/",
+        "type": "Secondary",
+        "gender": "Girls",
+        "entryForms": 6,
+        "ageRange": [
+            "11",
+            "18"
+        ],
+        "address": "Highgate Road",
+        "lat": 51.558445,
+        "long": -0.149649,
+        "formsEntry": 6,
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW5 1RL",
+        "facilities": [
+            "Set in stunning grounds on the edge of Hampstead Heath. Major building works over the years has provided a mix of impressive buildings, both old and new. Modern science teaching laboratories. Excellent sports facilities both indoors and outdoors, on-site and with use of Hampstead Heath, which also provides opportunities for outdoor learning. Very well-resourced library. Music teaching and performance suite. Home to the recently built LaSWAP Sixth Form Consortium Centre.   "
+        ],
+        "activities": [
+            "Holiday Activities & Food",
+            "Leadership Clubs, inc School Council, Junior Leadership Team, Student Ambassadors, Digital Leaders",
+            "Coding Club",
+            "Netball",
+            "Debate Mate",
+            "Duke of Edinburgh Scheme",
+            "Model United Nations",
+            "Parli Elite Dance Company",
+            "Jazz Band",
+            "History & Philosophy",
+            "Climate Action Group",
+            "Student Co-Planners",
+            "LGBTQ+ Club",
+            "Spikeball",
+            "Volleyball",
+            "Gardening Club",
+            "Fitness Club",
+            "Table Tennis",
+            "Poetry by Heart",
+            "Choir"
+        ],
+        "admissionProcess": "<p>We abide by the admissions criteria of Camden Local Authority. Details can be found on the websites linked below:</p>\n<p><a href=\"https://www.camden.gov.uk/secondary-school-admissions\" target=\"_blank\">Secondary School Admissions Policy</a></p>\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">In-Year School Admissions Policy</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2024166_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Across all year groups 90-98% of parents agree that 'My child is happy at school'. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Across all year groups 81-97% of parents say they 'would recommend this school to another parent.'",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The teachers are SO GOOD, not only in terms of knowledge and experience but also being kind, understanding people who I genuinely enjoy having conversations with.'",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Leaders promote pupils' individuality and create a high achieving and happy school.'",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I believe the secret to Parli's success is that they optimise happiness first and (then) performance second. So many other schools do it the other way round and that's when you get drops in both metrics.'",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The best thing about being a student at Parli is that no one would ever feel left out in our community.'",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The adults at Parli do their best to ensure that each and every student\u2019s specific needs are met and everyone feels safe and happy.'",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Fantastic care and attention from teachers...I think it's a brilliant school.'",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Teachers are well trained to ensure that pupils with SEND [special educational needs and/or disabilities] receive the support they need and achieve highly.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The school is very engaged with children and parents. My child is very happy at this school.'",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I like that teachers know their pupils and give very good feedback on progress and what can be improved.'",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "Lots of teachers are very passionate about their subjects and teach in an entertaining way.'",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The teachers are a credit to the school. They are all very professional and do a brilliant job.'",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils meet leaders high expectations and enjoy being challenged.'",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Sadly this is goodbye not 'au revoir' as we have run out of children to send to Parli...I'm proud to be the mum of a Parli girl.'",
+                    "author": "Parent"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2024166_1.jpg",
+                "../assets/imgs/school/2024166_2.jpg",
+                "../assets/imgs/school/2024166_3.jpg",
+                "../assets/imgs/school/2024166_4.jpg",
+                "../assets/imgs/school/2024166_5.jpg",
+                "../assets/imgs/school/2024166_6.jpg",
+                "../assets/imgs/school/2024166_7.jpg",
+                "../assets/imgs/school/2024166_8.jpg",
+                "../assets/imgs/school/2024166_9.jpg",
+                "../assets/imgs/school/2024166_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "Parli is a truly comprehensive girls\u2019 school with a population that reflects our inner London location. We are proud of our strong ethos which values and respects the rich cultural and ethnic diversity of our community.",
+                    "link": "/schoolContext/index.html?schoolId=2024166"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "Our counselling service supports students' emotional wellbeing and mental health. This pioneering service offers individual psychotherapy, art therapy and access to Child and Adolescent Mental Health Services.",
+                    "link": "/support/index.html?schoolId=2024166"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "The school is dedicated to inclusion, ensuring all students, including those with special educational needs or disabilities (SEND), receive tailored support, collaborating closely with parents, carers, and health professionals to co-construct personalised plans which inform adaptive teaching. \u00a0",
+                    "link": "/SEND/index.html?schoolId=2024166"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "Our girls make well above average academic progress to age 16 and a high number of students go on to gain places at Russell Group universities, including Oxbridge.",
+                    "link": "/achievement/index.html?schoolId=2024166"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Our curriculum is distinctive and tailored to our context. Teachers have excellent subject knowledge. They use a variety of strategies to check pupils\u2019 understanding, addressing these effectively where needed.",
+                    "link": "/curriculum/index.html?schoolId=2024166"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Parli Baccalaureate",
+                    "description": "We are shaping an unrivalled curriculum experience which in addition to our core curriculum includes opportunities for student leadership, enrichment, social action, personal development and practice of cross curricular skills. Our new Parli Baccalaureate is a curriculum entitlement for all students. "
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "North London Alliance Research School",
+                    "description": "Deepening our collaborative work as part of the North London Alliance Research School and Camden Learning to ensure that staff participate in high quality professional development that leads to excellent outcomes for all students. "
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Making School Unmissable",
+                    "description": "We are focusing on ensuring that every child views school as unmissable with tailored support to make 100% attendance achievable for all."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 1218,
+            "ethnicGroupsNum": null,
+            "languagesNum": null,
+            "SENDPercent": 16.8,
+            "BMEPercent": 57.1,
+            "disadvantagedPupilsPercent": 36.7,
+            "englishAdditionalLangPercent": 32.5,
+            "absencePercent": 7.5,
+            "persistentAbsenteesPercent": 19.5,
+            "specificLanguages": [
+                ""
+            ],
+            "specificEthnicities": [
+                ""
+            ],
+            "specificSEND": [
+                "Specific learning difficulty",
+                "Moderate learning difficulty",
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 94,
+            "pupilAdultRatio": 11.1,
+            "financialReserves": 1539800.0,
+            "changeYearReserves": 299800.0
+        },
+        "curriculum": {
+            "curriculumAim": "<p>Our curriculum is a vehicle for social mobility, transforming lives and communities. Our purpose is to enable every young person to discover their interests and passions, empowering them to realise their potential. We want students to think hard as critical and analytical learners. We recognise that young people want to be part of the national conversation about what constitutes powerful knowledge and we are committed to listening to their voices, which inform ongoing work on diversifying the curriculum and teaching about the issues that are important to them. Our curriculum is broad and balanced. We believe that it is important to give students the time and space to discover their individual academic interests without specialising too early.</p>\n\n<p>The Parli curriculum seeks to:</p>\n\n<ul>\n  <li>Promote a love of learning and engage students' curiosity in the wider world</li>\n  <li>Provide carefully sequenced subject schemes of learning which enable students to build confidence and deepen their knowledge and skills</li>\n  <li>Develop learners who are literate, numerate and able to communicate their learning with a variety of audiences, supporting and challenging one another</li>\n  <li>Develop learners who use their knowledge and skills to be creative, inventive and resourceful</li>\n  <li>Provide opportunities to investigate problems and find solutions</li>\n  <li>Strengthen resilience and build independence through the skilful use of assessment, support and high challenge</li>\n  <li>Actively teach students to make healthy, safe and moral choices, providing physical and mental well-being and valuing diversity</li>\n  <li>Enable all students to succeed and benefit from equality of opportunity; build social and cultural understanding; nurture active citizenship and deliver social justice in today's world</li>\n</ul>\n\n<p><strong>Flying High:</strong> We offer a broad, high challenge academic curriculum with strong achievement in Maths, English, Science, Geography, History and Modern Foreign Languages.</p>\n\n<p><strong>Creativity:</strong> Students enjoy creative subjects and we are proud of curriculum projects developed through Camden STEAM. Industry partnerships have inspired many of our girls to explore the world of Design, Engineering and Architecture with Arkwright scholarships and prestigious university destinations.</p>\n\n<p><strong>Developing Global Citizens:</strong> Citizenship is a unique curriculum strength taught to all students at KS3. Opportunities for social action and leadership include the First Give programme, the Jack Petchey Speak Out competition and Debate Mate. Many students go on to study Citizenship at GCSE with very strong outcomes.</p><p><a href=\"https://www.parliamenthill.camden.sch.uk/Learning--Curriculum/Curriculum-KS4/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Mathematics",
+                "Humanities ",
+                "Design Technology"
+            ],
+            "topSubjects": [
+                "Art",
+                "Biology",
+                "Business",
+                "Chemistry",
+                "Classical Civilisation",
+                "Computer Science",
+                "Dance",
+                "Drama",
+                "Economics",
+                "English Literature and Language",
+                "English Literature",
+                "Extended Project",
+                "Film Studies",
+                "French",
+                "Further Maths",
+                "Geography",
+                "German",
+                "Graphics (Art)",
+                "History",
+                "History: Britain, Russia and Chine",
+                "History: Stuart Britain and America",
+                "Law",
+                "Maths",
+                "Core Maths",
+                "Media Studies",
+                "Music",
+                "Music Technology",
+                "Photography",
+                "Physical Education",
+                "Physics",
+                "Politics",
+                "Product Design",
+                "Psychology",
+                "Religious Studies",
+                "Sociology",
+                "Spanish",
+                "Textiles"
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>We provide a safe space for girls to develop their identity and to discover what makes them happy and fulfilled.</p>\n\n<p>We believe that keeping our pupils safe and happy is based on promoting their emotional wellbeing, developing their knowledge of how to identify and deal with the risks and supporting learning how to have positive friendships and relationships, including how to identify harmful sexual behaviours. Therefore our personal development curriculum is based on empowering our students to make the right decisions for their own physical and mental health, while also providing effective, appropriate support for the students through, for example, our wellbeing counselling services. Strong pastoral support means that every child has a trusted adult they can speak to and a team of professionals within school who have the expertise and knowledge that is needed to support teenage girls.</p><p><a href=\"https://www.parliamenthill.camden.sch.uk/Students/E-Safety/\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>At Parli we invest in positive relationships and celebrate kindness. We believe that all forms of bullying are unacceptable and should be dealt with seriously. Our approach to preventing bullying involves direct teaching about bullying and its consequences, celebrating difference and diversity, and promoting positive behaviour.</p>\n\n<p>We do this through:</p>\n<ul>\n  <li>Whole school ethos and environment</li>\n  <li>Whole school activities</li>\n  <li>Curriculum</li>\n  <li>Training and support for staff</li>\n  <li>Involving students</li>\n  <li>Involving parents and carers</li>\n</ul>\n\n<p>Practically:</p>\n<ul>\n  <li>Staff challenge students when they use prejudice-based language, explaining why it is wrong and how hurtful it can be</li>\n  <li>We encourage students to tell an adult if they are worried or upset about anything</li>\n  <li>Our break and lunchtimes are well supervised and support staff are trained to identify possible incidents</li>\n  <li>We take particular care of students with special educational needs and disabilities, who may be more likely to be victims of bullying</li>\n  <li>We have an \u201cAcceptable use of ICT\u201d policy which students sign</li>\n</ul><p><a href=https://www.parliamenthill.camden.sch.uk/docs/policies/Anti_Bullying_Policy_December_2022.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>Parliament Hill School is committed to excellent school attendance for all and works with students and families to achieve this. Parliament Hill's aim is to ensure that all students receive a full-time education that maximises wider life chances, academic attainment and wellbeing.</p>\n\n<p>Parliament Hill School will:</p>\n\n<ul>\n  <li>Promote good attendance</li>\n  <li>Reduce absence, including persistent and severe absence</li>\n  <li>Ensure every student has access to a full-time education, which they are entitled to</li>\n  <li>Act early to address patterns of absence</li>\n  <li>Build strong relationships with families to ensure students have the support in place to attend school regularly</li>\n</ul>\n\n<p>The school has a designated attendance team that follows up with families and students on attendance and punctuality each day.</p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>Our students know that their teachers want them to succeed and they trust that through the excellent teaching, curriculum planning, care and support they receive, they will achieve success through their education at Parli. Teaching is adapted so that everybody is able to achieve their personal best and experience success.</p>\n\n<p>Students are encouraged to appreciate the value of making mistakes whilst learning and in response to feedback 'craft' to achieve excellence.</p>\n\n<p>The school expects its students to:</p>\n\n<ul>\n  <li>Arrive on time to all lessons with the correct equipment</li>\n  <li>Follow instructions from staff the first time they are given</li>\n  <li>Listen when others are speaking and respect everyone\u2019s contributions</li>\n  <li>Remain focused in lessons and complete all work set to a high standard</li>\n  <li>Respect others, school resources and the classroom environment</li>\n</ul>\n\n<p>In this way, with the school community working together, our students achieve outstanding outcomes.</p><p><a href=\"https://www.parliamenthill.camden.sch.uk/Students/Expectations/\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "Attainment 8 (2023):",
+                    "chartImg": "../assets/imgs/charts/2024166_chart_ks4_att8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2024166_chart_ks4_att8.png",
+                    "chartDescription": "An Attainment 8 score of 59.1 means Parliament Hill pupils averaged just below a grade 6 across their eight best GCSE-level subjects."
+                },
+                {
+                    "chartTitle": "Progress 8 (2023):",
+                    "chartImg": "../assets/imgs/charts/2024166_chart_ks4_p8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2024166_chart_ks4_p8.png",
+                    "chartDescription": "A Progress 8 score of 0.61 means Parliament Hill pupils achieved over half a grade higher than similar pupils across the country."
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "After Key Stage 4 (2023):",
+                    "chartImg": "../assets/imgs/charts/2024166_chart_ks4_dest.png",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "After Key Stage 5 (2023):",
+                    "chartImg": "../assets/imgs/charts/2024166_chart_ks5_dest.png",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "Parliament Hill School is committed to developing Careers and Work-Related Learning across the curriculum. This learning is embedded in different subjects and supplemented through enrichment opportunities and clubs, through guest speakers and assemblies and through practical work activities such as work experience, visits and careers days."
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>During 2023/24 we are focusing on some key issues to make sure our students with SEND do as well as possible at our school. These things include that we are:</p>\n\n<ul>\n  <li>Continuing work to increase parental involvement and confidence in our SEND provision</li>\n  <li>Ensuring a systematic and thorough approach to the identification and assessment of needs and tracking the progress of students with SEND</li>\n  <li>Ensuring staff are well informed about the strengths, needs and abilities of students with SEND</li>\n  <li>Listening to students with SEND</li>\n  <li>Developing aspects of support and intervention for students not making expected progress</li>\n  <li>Supporting transition for students with SEND from year 6, between years, KS5 and into the next stage of education or alternative education if required</li>\n</ul><p><a href=\"https://www.parliamenthill.camden.sch.uk/docs/policies/SEND_Policy_Oct_2023__.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "Inclusion lies at the heart of our school\u2019s mission and values. We are proud of our diverse community and are committed to building equity and a culture of belonging for all. This commitment extends to every member of our school community, including the governing body, all of whom are dedicated to supporting the success and well-being of every student. Our KITE values\u2014Kindness, Inclusivity, Trust, and Excellence\u2014serve as the foundation for our inclusive practices, guiding everything we do and ensuring that all students are given the support they need to thrive. These values are embedded in our daily actions, creating a positive, inclusive environment where every student belongs and can succeed.<p><a href=\"https://www.parliamenthill.camden.sch.uk/Learning--Curriculum/Inclusion/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
+        "schoolId": 2024196,
+        "schoolName": "Regent High School",
+        "isPrimary": false,
+        "shortSlogan": "Regent High School, in the heart of London's Knowledge Quarter, is founded on our values of ambition, inspiration and opportunity.",
+        "descriptionTitle": "Regent High School, in the heart of London's Knowledge Quarter, is founded on our values of ambition, inspiration and opportunity.",
+        "description": "<p><strong>Regent</strong> is a vibrant, <strong>inclusive community</strong> that <strong>excels</strong> in academic and extracurricular activities. Known for our <strong>dedicated staff</strong> and supportive environment, Regent fosters a culture of <strong>high achievement</strong> and <strong>personal growth</strong>.</p>\n\n<p>Students benefit from a broad curriculum and <strong>state-of-the-art facilities</strong>, which encourage creativity, sporting and scientific endeavour. Our diverse student body and emphasis on <strong>mutual respect</strong> enrich the learning experience. Our strong partnerships with <strong>local</strong> and <strong>national</strong> <strong>organisations</strong> provide real-world opportunities that prepare our students for future success.</p>\n\n<p>Our school is a beacon of educational excellence and innovation, committed to nurturing <strong>confident, well-rounded individuals</strong> ready to contribute positively to society.</p>",
+        "schoolLogo": "../assets/imgs/school/2024196_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100051",
+        "websiteLink": "https://www.regenthighschool.org.uk/",
+        "type": "Secondary",
+        "gender": "Mixed",
+        "entryForms": 5,
+        "ageRange": [
+            "11",
+            "18"
+        ],
+        "address": "Chalton Street, Camden",
+        "lat": 51.53278,
+        "long": -0.132944,
+        "formsEntry": 5,
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW1 1RX",
+        "facilities": [
+            "Award-winning architect-designed school buildings located in the heart of London's Knowledge Quarter",
+            " 200-seat theatre",
+            " 60-seat lecture theatre",
+            " 14,000 text library",
+            " music recital room",
+            " state-of-the-art drama studios",
+            " modern science laboratories",
+            " Somers Town Community Sports Centre",
+            " access to green spaces",
+            " dedicated Sixth-Form Study Centre and Box Office Cafe."
+        ],
+        "activities": [
+            "Band, Brass Band, String, Samba and Choir Clubs ",
+            "Chess Club",
+            "Drama Club",
+            "Coding Club",
+            "Knitting Club",
+            "Dance Club",
+            "Badminton Club",
+            "Table Tennis Club",
+            "Basketball Club",
+            "Languages Club",
+            "Debate Club",
+            "Poetry Club",
+            "Film Club",
+            "Football Club",
+            "Girls' Bike Club",
+            "Science Club",
+            "Tech Club",
+            "Gym Club",
+            "Art Club",
+            "Duke of Edinburgh Award"
+        ],
+        "admissionProcess": "<p>We abide by the admissions criteria of Camden Local Authority. Details can be found on the websites linked below:</p>\n\n<ul>\n  <li><a href=\"https://www.camden.gov.uk/secondary-school-admissions\">Camden Secondary School Admissions Policy</a></li>\n  <li><a href=\"https://www.camden.gov.uk/inyearschooladmissions\">Camden In-Year School Admissions Policy</a></li>\n</ul>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2024196_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "From the exceptional support of our teachers to the companionship within our group, we were pleased to be given this opportunity to do our Bronze DofE.'",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "...it's wonderful to come here and see how much energy and explosion there is in this room...it's so great. Here is a room full of life...' - Sir Antony Gormley attending Regent High School's Art & Design 2023 Exhibition",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "Thank you for helping me pick my career choices. Without your advice getting my dream job as an architect would be confusing...these three weeks of Year 10 Future Frontiers were special to me.'",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Studying languages was one of my highlights of being at Regent High School...[studying] Spanish for five years allowed me to progress as a student... It is not just words and phrases, it is a whole culture waiting to be explored.'",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Staff have high expectations of pupils' learning.'",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Support is excellent for children at Regent High School. Any problems are dealt with fairly and efficiently.'",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Some of the highlights of being a head of year at this school have been seeing some of my shy students really flourish because they've taken part in extra-curricular programmes.'",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I think the staff in this school are incredible...they're always on hand for support and guidance.'",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": " Pupils typically show focused attitudes to their learning and respect to others.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "Regent High School offers a wide range of extra-curricular activities and subjects...it's also really fun here!'",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "My teachers, I like them all because when you're struggling or need help, they are there if you need a little support. That's a good feeling!'",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I'm very happy that my children are at Regent High School...the school is just getting better and better.'",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Teachers actively seek out opportunities to develop pupils\u2019 leadership skills. For example, in physical education, pupils are supported to complete leadership qualifications and use what they learn to coach others.'",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "In Regent sixth form we're given so many opportunities, for example, we went to the Google HQ for International Women's Day. As a woman myself, it made me feel empowered.'",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Well supported as an Early Career Teacher - there are good systems in place to support my role as a classroom teacher.'",
+                    "author": "Teacher"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2024196_1.jpg",
+                "../assets/imgs/school/2024196_2.jpg",
+                "../assets/imgs/school/2024196_3.jpg",
+                "../assets/imgs/school/2024196_4.jpg",
+                "../assets/imgs/school/2024196_5.jpg",
+                "../assets/imgs/school/2024196_6.jpg",
+                "../assets/imgs/school/2024196_7.jpg",
+                "../assets/imgs/school/2024196_8.jpg",
+                "../assets/imgs/school/2024196_9.jpg",
+                "../assets/imgs/school/2024196_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "Regent High School boasts state-of-the-art facilities, including well-equipped <strong>science laboratories</strong>, modern classrooms, a large library, and <strong>excellent sports facilities</strong>. These resources support a high-quality learning experience for <strong>all students</strong>.",
+                    "link": "/schoolContext/index.html?schoolId=2024196"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "Regent High School emphasizes the importance of a <b>supportive</b> and <b>nurturing</b> environment. The <b>pastoral care system</b> ensures that every student receives the guidance and support they need to thrive both <b>academically</b> and <b>personally</b>.",
+                    "link": "/support/index.html?schoolId=2024196"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "",
+                    "link": "/SEND/index.html?schoolId=2024196"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "Regent High School has a <b>strong focus</b> on <b>academic achievement</b>, providing a rigorous curriculum that prepares students for <b>higher education</b> and <b>future careers</b>. The school <b>consistently</b> achieves <b>good examination</b> results, particularly in <b>GCSEs and A-Levels</b>.",
+                    "link": "/achievement/index.html?schoolId=2024196"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "The school has <b>strong links</b> with local businesses, universities and cultural institutions. These partnerships provide students with <b>unique opportunities</b> for work experience, mentorship and enrichment activities.",
+                    "link": "/curriculum/index.html?schoolId=2024196"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Parental engagement",
+                    "description": "<b>School</b> and <b>parents</b> working together can contribute to better <b>student</b> outcomes. We will continue to offer <b>Parents and Carers\u2019 evenings</b>, increase communication and invite parents to attend <b>information evenings</b> to support learning at home so we can continue to foster a <b>supportive community</b> around students."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Focus on innovation",
+                    "description": "Regent High School embraces <b>innovative teaching methods</b> and <b>technology integration</b> to enhance the learning experience. The use of <b>digital tools and resources</b> is a key part of the school\u2019s approach to education and communication with home."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Expand extracurricular activities",
+                    "description": "The school offers a <b>wide variety</b> of extracurricular activities, including sports teams, music and drama clubs, and various <b>student societies</b>. We will continue to provide students with opportunities to develop their <b>diverse talents</b> and interests <b>outside the classroom</b>."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 1076,
+            "ethnicGroupsNum": null,
+            "languagesNum": null,
+            "SENDPercent": 20.8,
+            "BMEPercent": 95.2,
+            "disadvantagedPupilsPercent": 66.0,
+            "englishAdditionalLangPercent": 59.0,
+            "absencePercent": 9.6,
+            "persistentAbsenteesPercent": 32.8,
+            "specificLanguages": [
+                ""
+            ],
+            "specificEthnicities": [
+                ""
+            ],
+            "specificSEND": [
+                "Specific learning difficulty",
+                "Moderate learning difficulty",
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Physical disability",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 100,
+            "pupilAdultRatio": 9.5,
+            "financialReserves": 1001100.0,
+            "changeYearReserves": -462900.0
+        },
+        "curriculum": {
+            "curriculumAim": "<p>Our aim is to develop students who have limitless aspirations and are equipped to be successful in any path they choose. To that end, we offer a broad, balanced curriculum that ensures students master the relevant knowledge, concepts and skills of a wide range of disciplines, whilst fostering a life-long love of learning.</p>\n\n<p>Ours is a responsive and challenging curriculum with sufficient flexibility to meet the needs of all our students and ensure they are given the opportunity to fulfil their potential. Students can expect to receive feedback which enables them to grow, develop resilience and reach the highest standards. They can expect to be challenged and encouraged to be independent and take risks in their learning.</p>\n\n<p>Enrichment opportunities are built into our curriculum to allow our students to experience and participate in a broad range of cultural pursuits, engendering in them an appreciation of human creativity and achievement.</p><p><a href=\"https://www.regenthighschool.org.uk/Our-curriculum-intent/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Diverse subjects",
+                "Expanded and Enrichment curriculum",
+                "Tailored support"
+            ],
+            "topSubjects": [
+                "Art & Design",
+                "Biology",
+                "Business Studies",
+                "Chemistry",
+                "Computer Science",
+                "Design Technology: Product Design ",
+                "Drama and Theatre Studies",
+                "Economics",
+                "English Literature",
+                "French",
+                "Mathematics",
+                "Geography",
+                "Further Mathematics",
+                "History",
+                "Physics",
+                "Politics",
+                "Psychology",
+                "Religious Studies (Philosophy and Ethics)",
+                "Sociology",
+                "Spanish",
+                "National Applied Science (Extended Certificate/Diploma)",
+                "Business (Extended Certificate/Diploma)",
+                "National Health and Social Care (Extended Certificate)",
+                "Information Technology (Extended Certificate/Introductory Diploma)",
+                "Performing Arts (Music) (Extended Certificate)",
+                "Sport (Extended Certificate)"
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>Regent High School is committed to supporting the <b>mental health</b> and <b>wellbeing</b> of all our students. We believe that safeguarding our students' physical and mental wellbeing is about providing <b>effective support</b> and guidance, including helping our students to learn how to make the <b>right decisions</b> for themselves.</p>\n\n<p>From our <b>self-referral posters</b> found all over the school, to our approach to '<b>Reading Well</b>' and provision of the <b>Camden Youth Services Helpline</b>, we support our students in keeping themselves safe with respect to <b>internet use, drugs and alcohol misuse, and healthy relationships</b>, as well as when making important decisions about their <b>future study and careers</b>.</p><p><a href=\"https://www.regenthighschool.org.uk/Parents/Safety-and-wellbeing/\nhttps://www.regenthighschool.org.uk/docs/RHS_Safeguarding_and_Child_Protection_Policy_2022-23_Final.pdf \nhttps://www.regenthighschool.org.uk/Students/Internet-Safety/\nhttps://www.regenthighschool.org.uk/Students/safeguarding-support/\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>This quote from our latest Ofsted report (2023) shows the <b>effectiveness</b> of our anti-bullying procedures:</p>\n\n<p>\u201cPupils are kept safe. They know that bullying <b>will not be tolerated</b>. As a result, incidences of bullying are <b>rare</b> and are dealt with <b>swiftly</b> by adults. Pupils can speak with staff about any worries that they may have. They know that staff will treat concerns seriously.\u201d</p>\n\n<p>Bullying isn't tolerated at Regent, but when it happens, as it will in any school, we deal with it <b>effectively</b>.</p><p><a href=https://www.regenthighschool.org.uk/docs/anti_bullying_policy_22-23_.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>We believe that good attendance comes from our students <b>wanting</b> to be at our school, day-in, day-out. That's why we put so much effort into making lessons <b>interesting</b> and provide such extensive <b>extra-curricular opportunities</b> for all our students.</p>\n\n<p>We also recognise that some students and parents need a bit more <b>support</b> than others to make sure attendance is excellent. We set out to students and parents the importance of good attendance in supporting achievement:</p>\n\n<ul>\n  <li><b>Students who attend 100%</b> of their lessons are <b>more than twice as likely to achieve five 9-4 grades at GCSE</b> (including English and Maths) than students who have <b>85-90%</b> attendance.</li>\n  <li><b>73%</b> of students who have over <b>95%</b> attendance achieve five 9-4 grades at GCSE.</li>\n  <li>Students who <b>do not</b> attend school <b>regularly</b> may also find it difficult to make and keep <b>friends</b> and to manage <b>social situations</b>.</li>\n  <li>Students who are <b>persistently absent</b> from school may also be at risk of struggling to <b>secure a job</b> in the future or being <b>vulnerable to crime</b>.</li>\n</ul><p><a href=\"https://www.regenthighschool.org.uk/docs/P10_Attendance_and_Punctuality_Policy_2021-22_FINAL.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>We are proud of our team of dedicated staff who provide an inspiring, structured and supportive learning environment, in which every student is challenged to realise their full potential and encouraged to be ambitious for their futures. We have high expectations for our students and expect them to come to school prepared to learn.</p>\n\n<p>We know that when our students adhere to our code of conduct, they are successful in their learning. Our code is summarised by our students:</p>\n\n<ul>\n  <li><b>R</b>respectful to everyone</li>\n  <li><b>E</b>engaged in learning</li>\n  <li><b>G</b>rowing through challenges and new opportunities</li>\n  <li><b>E</b>excellence from ourselves and others</li>\n  <li><b>N</b>eat and well presented</li>\n  <li><b>T</b>ruthful and acting with integrity</li>\n</ul><p><a href=\"https://www.regenthighschool.org.uk/About/Our-ethos/\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "Attainment 8 (2023):",
+                    "chartImg": "../assets/imgs/charts/2024196_chart_ks4_att8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2024196_chart_ks4_att8.png",
+                    "chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils averaged between a grade 4 and a grade 5 across their eight best GCSE-level subjects."
+                },
+                {
+                    "chartTitle": "Progress 8 (2023):",
+                    "chartImg": "../assets/imgs/charts/2024196_chart_ks4_p8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2024196_chart_ks4_p8.png",
+                    "chartDescription": "A Progress 8 score of -0.06 means Regent High pupils achieved a grade slightly lower than similar pupils across the country."
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "After Key Stage 4 (2023):",
+                    "chartImg": "../assets/imgs/charts/2024196_chart_ks4_dest.png",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "After Key Stage 5 (2023):",
+                    "chartImg": "../assets/imgs/charts/2024196_chart_ks5_dest.png",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>Careers education is an important part of our curriculum at Regent High School. It provides the link between what we do in school and a student\u2019s next steps into the adult world.</p>\n\n<p>The Regent High School Futures Programme is our ambitious approach to careers education, information, advice and guidance.</p>\n\n<p>Our Futures Programme:</p>\n\n<ul>\n  <li>Broadens our students' understanding of the world of work and the opportunities available to them once they leave school</li>\n  <li>Provides students with opportunities to learn from employers, and employees, from a wide range of sectors, in particular those most important to the Camden and London economies</li>\n  <li>Links curriculum learning to careers</li>\n  <li>Increases opportunities for students to meet with further and higher education providers to support the development of appropriate aspirations</li>\n  <li>Increases the information we provide to parents and carers to enable them to better support their children at all transition points</li>\n</ul>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>We support our children with SEND through our <b>'Local Offer'</b>. This is delivered through these twelve important aspects:</p>\n\n<ol>\n  <li>Effective leadership, management and governance</li>\n  <li>Developing the skill and expertise of staff</li>\n  <li>The contribution of specialist services</li>\n  <li>Identification, assessment and planning for children with SEND</li>\n  <li>Reviewing children\u2019s progress</li>\n  <li>Inclusive teaching and effective support</li>\n  <li>Ensuring access to the curriculum</li>\n  <li>Providing accessible classrooms and special resources</li>\n  <li>Working in partnership with parents and carers</li>\n  <li>Listening to children and young people</li>\n  <li>Managing transitions \u2013 joining and leaving our school</li>\n  <li>Providing support for safety, personal well-being, attendance and health</li>\n</ol><p><a href=\"https://www.regenthighschool.org.uk/docs/P80_new_SEND_policy.pdf\nhttps://www.regenthighschool.org.uk/News/SEND/\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p><b>Diverse Curriculum</b>: The school aims to provide a broad and balanced curriculum that reflects the <b>diversity</b> of our student body. Lessons incorporate different perspectives, ensuring that all students feel <b>represented</b> and <b>respected</b> in what they are learning.</p>\n\n<p><b>English as an Additional Language (EAL) Support</b>: For students whose first language is not English, the school provides additional language <b>support</b> to help them fully <b>integrate</b> into the <b>school community</b> and participate in lessons.</p>\n\n<p><b>Pastoral Care and Wellbeing</b>: A strong pastoral care system is central to our inclusive practices. At Regent High School, this may include <b>counselling</b> services, <b>mentoring</b> programs, and <b>wellbeing</b> initiatives that address students\u2019 emotional and mental health needs.</p>\n\n<p><b>Student Voice and Participation</b>: We encourage student participation in decision-making processes through <b>student councils</b> or <b>leadership</b> programs. This ensures that students from <b>all backgrounds</b> have a say in aspects of their school experience.</p>\n\n<p><b>Teacher Training and Professional Development</b>: Staff are trained regularly on diversity, equity, and inclusion, helping them develop teaching strategies that cater to the varied needs of their students, fostering a more <b>inclusive classroom environment</b>.</p>\n\n<p>We aim to help create an environment where <b>all students feel valued, supported, and able to succeed</b>, regardless of their individual circumstances.</p><p><a href=\"https://www.regenthighschool.org.uk/About/Policies/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     },
     {
         "schoolId": 2022502,
         "schoolName": "Rhyl Community Primary School",
-        "isPrimary": "TRUE",
+        "isPrimary": true,
         "shortSlogan": "Nurturing, valuing and empowering every child and the community to have the highest aspirations for a successful future",
         "descriptionTitle": "Nurturing, valuing and empowering every child and the community to have the highest aspirations for a successful future",
         "description": "<p>We are a vibrant, happy and inclusive school where children thrive at the heart of our community. Children achieve highly and develop a thirst for learning in an environment where mutual respect, tolerance, diversity and inclusion is celebrated and promoted.</p>\n\n<p>Our excellent creative curriculum is enhanced through partnerships with artists, specialists and visits which open children\u2019s eyes to the world they live in and provide the best opportunities to develop their unique talents.</p>\n\n<p>We are proud to be a unique centre of excellence, where relationships are secure and where children grow to be confident, independent and successful lifelong learners.</p>",
         "schoolLogo": "../assets/imgs/school/2022502_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100021",
         "websiteLink": "https://www.rhylprim.camden.sch.uk/",
-        "type": "Primary",
+        "type": "Primary inc. Nursery",
         "gender": "Mixed",
         "entryForms": 2,
         "ageRange": [
@@ -1109,7 +1815,16 @@
         "prevYearCatchmentRadius": null,
         "postCode": "NW5 3HB",
         "facilities": [
-            "<p>Music Room & Recording Studio<br>\nTeaching Kitchen and vegetable plot<br>\n2 large buildings with extra teaching spaces<br>\nWell equipped outside play space<br>\nRooftop Playground<br>\nFamily & Adult Learning spaces<br>\nChildren\u2019s Centre facilities<br>\n2 & 3 year old Nursery<br>\nCommunity Hub Space<br>\nSensory and Soft Play rooms</p>"
+            "Music Room & Recording Studio",
+            "Teaching Kitchen and vegetable plot",
+            "2 large buildings with extra teaching spaces",
+            "Well equipped outside play space",
+            "Rooftop Playground",
+            "Family & Adult Learning spaces",
+            "Children\u2019s Centre facilities",
+            "2 & 3 year old Nursery",
+            "Community Hub Space",
+            "Sensory and Soft Play rooms"
         ],
         "activities": [
             "Homework Clubs",
@@ -1319,14 +2034,14 @@
             "changeYearReserves": 493300.0
         },
         "curriculum": {
-            "curriculumAim": "Our curriculum has been designed to enable every child to succeed academically and reach their potential whilst developing as individuals who are ready and prepared for the world ahead of them, from the next stage of their education and beyond to employment and to living in their local and global community.\n\nWe provide a broad and rich curriculum so children can make positive choices about their education, social and working life. Children learn through themes and first-hand experiences which are enriched through partnerships with artists, musicians, chefs and employers to enrich their experiences and aspire to greatness.\n\nAt the heart of our curriculum is the commitment to prepare children for their future life chances, giving them the confidence and skills that is their social and cultural capital.",
+            "curriculumAim": "Our curriculum has been designed to enable every child to succeed academically and reach their potential whilst developing as individuals who are ready and prepared for the world ahead of them, from the next stage of their education and beyond to employment and to living in their local and global community.\n\nWe provide a broad and rich curriculum so children can make positive choices about their education, social and working life. Children learn through themes and first-hand experiences which are enriched through partnerships with artists, musicians, chefs and employers to enrich their experiences and aspire to greatness.\n\nAt the heart of our curriculum is the commitment to prepare children for their future life chances, giving them the confidence and skills that is their social and cultural capital.<p><a href=\"https://www.rhylprim.camden.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
             "curriculumStrengths": [
                 "Oracy & Literacy",
                 "Music",
                 "Maths"
             ],
             "topSubjects": [
-                "temp"
+                ""
             ],
             "topDisciplines": "temp",
             "strengths": "temp"
@@ -1352,11 +2067,23 @@
                     "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
                 }
             ],
-            "wherePupilsGoAfter": "Temp"
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "According to Ofsted, \u201cPupils are prepared well for life in modern Britain and supported to be successful in their later lives.\u201d\n\nRaising Aspirations is our unique and innovative programme to support our children to learn about the world of work through first hand experience and engagement with employers. We want our children to broaden their horizons, understand what they could achieve and raise their aspirations for their future.\n\nThis enables our pupils to have a clear understanding of the link between achieving well at school and getting into an interesting job and career that is not bound by social mobility and gender stereotypes. Through the programme, children expand their knowledge and understanding of the world of work, the types of jobs there are and different career paths."
         },
         "SEND": {
-            "sendSupportInfo": "<p>Rhyl has excellent provision for children with SEND. Our Inclusion team is experienced and skilled and we make sure that every child is provided with what they need to meet their individual needs. Our adapted curriculum provision means that learning is accessible to all and children with SEND achieve the best possible outcomes.</p>\n\n<p>Our inclusive provision includes:</p>\n<ul>\n  <li><b>Sensory</b>, calm and soft play spaces</li>\n  <li>Additional provisions to support <b>language</b> and <b>social communication</b> needs</li>\n  <li><b>Social skills</b> and <b>life skills</b> sessions</li>\n  <li><b>Physical</b> and <b>sensory circuit</b> spaces</li>\n  <li><b>Parenting support</b> and networking for SEND</li>\n  <li>Wider range of interventions and support programmes led by trained staff</li>\n</ul>\n\n<p>We work closely with external professionals to provide appropriate and tailored support and a multi-disciplinary approach to meeting pupils\u2019 special educational needs. Through detailed provision mapping and bespoke provision, we ensure that children with additional needs receive the best possible support in a mainstream setting.</p><p><a href=\" https://www.rhylprim.camden.sch.uk/wp-content/uploads/2023/09/SEND-Policy-September-2023.pdf \n https://www.rhylprim.camden.sch.uk/wp-content/uploads/2024/01/SEND-Report-2023-2024-updated.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
-            "inclusivePracticeInfo": "Inclusion and the rights of the child are at the heart of our teaching practice. Staff at Rhyl are provided with training, coaching and support to develop and refine the best practice when working with all pupils. We are proud of our diverse school population and our curriculum reflects our children\u2019s backgrounds and cultures as does the choice of teaching resources and extra-curricular opportunities. We recognise that every child is unique and we value and celebrate thier differences. Teaching is carefully adapted and skilled staff adapt learning to meet the needs of a variety of different learning styles in the classroom. Families and the community are welcomed and involved in all aspects of school life to share experiences and to celebrate achievements.<p><a href=\"https://www.rhylprim.camden.sch.uk/send-and-inclusion/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+            "sendSupportInfo": "<p>Rhyl has excellent provision for children with SEND. Our Inclusion team is experienced and skilled and we make sure that every child is provided with what they need to meet their individual needs. Our adapted curriculum provision means that learning is accessible to all and children with SEND achieve the best possible outcomes.</p>\n\n<p>Our inclusive provision includes:</p>\n<ul>\n  <li><b>Sensory</b>, calm and soft play spaces</li>\n  <li>Additional provisions to support <b>language</b> and <b>social communication</b> needs</li>\n  <li><b>Social skills</b> and <b>life skills</b> sessions</li>\n  <li><b>Physical</b> and <b>sensory circuit</b> spaces</li>\n  <li><b>Parenting support</b> and networking for SEND</li>\n  <li>Wider range of interventions and support programmes led by trained staff</li>\n</ul>\n\n<p>We work closely with external professionals to provide appropriate and tailored support and a multi-disciplinary approach to meeting pupils\u2019 special educational needs. Through detailed provision mapping and bespoke provision, we ensure that children with additional needs receive the best possible support in a mainstream setting.</p><p><a href=\"https://www.rhylprim.camden.sch.uk/school-info/school-policies/\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "Inclusion and the rights of the child are at the heart of our teaching practice. Staff at Rhyl are provided with training, coaching and support to develop and refine the best practice when working with all pupils. We are proud of our diverse school population and our curriculum reflects our children\u2019s backgrounds and cultures as does the choice of teaching resources and extra-curricular opportunities. We recognise that every child is unique and we value and celebrate their differences. Teaching is carefully adapted and skilled staff adapt learning to meet the needs of a variety of different learning styles in the classroom. Families and the community are welcomed and involved in all aspects of school life to share experiences and to celebrate achievements.<p><a href=\"https://www.rhylprim.camden.sch.uk/send-and-inclusion/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     }
 ]
