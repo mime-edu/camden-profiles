@@ -266,7 +266,7 @@ function getFiltersFields(schools) {
 
 	// get schools facilities
 	let schoolFacilities = [...new Set(schools.flatMap((school) => school.facilities))];
-	console.log(schoolFacilities);
+	// console.log(schoolFacilities);
 
 	return { ageRange: [minAge, maxAge], schoolTypes: schoolTypes, genders: schoolGenders, facilities: schoolFacilities };
 }
