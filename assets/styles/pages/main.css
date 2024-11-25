@@ -103,6 +103,7 @@
 	font-size: 15px;
 	font-weight: 400;
 	color: #000000;
+	min-height: 50px;
 }
 .schools-info .schools-filter .schools-filter__input input {
 	width: 100%;
