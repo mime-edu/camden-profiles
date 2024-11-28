@@ -24,12 +24,14 @@ document.addEventListener("DOMContentLoaded", async function () {
 		},
 	}).mount("#schoolPage");
 
-	let tabsBlock = document.querySelector(".tabs-block");
-	if (tabsBlock) {
-		let tabsAboutSchool = tabsBlock.querySelectorAll(".tab");
-		for (const tab of tabsAboutSchool) {
-			createTab(tab);
-		}
+	let tabsBlocks = document.querySelectorAll(".tabs-block");
+	if (tabsBlocks) {
+		tabsBlocks.forEach((tabsBlock) => {
+			let tabsAboutSchool = tabsBlock.querySelectorAll(".tab");
+			for (const tab of tabsAboutSchool) {
+				createTab(tab);
+			}
+		});
 	}
 
 	const swiper = new Swiper(".tab-slider", {

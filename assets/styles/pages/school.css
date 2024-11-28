@@ -52,7 +52,25 @@
 	color: #ed6c26;
 }
 
+/* about  */
+/* report tab */
+
+.about__report {
+	margin-bottom: 20px;
+}
+.about__report .tabs-block__item {
+	color: #fff;
+	background-color: #ed4d8b;
+	max-width: 350px;
+}
+.about__report .tabs-block__item .tab__top {
+	padding: 5px 15px;
+	background-color: #ed4d8b;
+	color: #fff;
+}
+
 /* about */
+/* tabs */
 .about__tabs {
 	margin-bottom: 20px;
 }
