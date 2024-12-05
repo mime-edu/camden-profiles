@@ -280,7 +280,7 @@
         "schoolLogo": "../assets/imgs/school/2023323_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100028",
         "websiteLink": "https://christchurchschool.co.uk/",
-        "type": "Primary inc. Nursery",
+        "type": "Primary",
         "gender": "Mixed",
         "entryForms": 1,
         "ageRange": [
@@ -358,6 +358,48 @@
                     "bgcolor": "#ed6c26",
                     "text": "This place has always felt welcoming and safe'",
                     "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "I was only going to work here for a couple of years and then move on; twelve years later and I'm still here! I love the children, I love the school and I love all the extra things we do which enrich the children's lives and our lives.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Pupils have a genuine love of learning. They make teaching a joy. There's always something exciting going on at Christ Church. It is such a wonderful environment to work in.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Christ Church is a family. A family for the children, a family for the families and a family for the staff. Wellbeing is at the forefront of all we do and our broad, enriched curriculum is simply wonderful. ",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I have loved my short time here at Christ Church. Thank you for all the opportunities and fun. I wish I had joined earlier.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I want to say thank you to all the teachers for being there for me and for teaching me so much more than Maths and English.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I can truly say that my son has enjoyed every day at school and I don't think you can have a better endorsement than that.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "In her seven years at Christ Church, my daughter has grown up in a safe and supportive environment, become part of a warm and rich community and was given a plethora of opportunities to extend herself.",
+                    "author": "Parent"
                 }
             ],
             "schoolPhotosUrls": [
@@ -827,9 +869,10 @@
         "prevYearCatchmentRadius": null,
         "postCode": "NW5 2JA",
         "facilities": [
-            "Development Football"
+            "Assessing barriers and next steps in learning"
         ],
         "activities": [
+            "Development football",
             "Gymnastics Club",
             "Cricket ",
             "Tennis",
@@ -954,49 +997,49 @@
                 {
                     "bgcolor": "#e50059",
                     "title": "School & community context",
-                    "description": "Children's happiness, wellbeing and belonging runs through everything we do. We want everyone at our school to feel happy, safe, listened to and respected. This is embedded in our teaching and learning approach and within the 3 simple rules taught to everyone in our community: Ready, Respectful and Safe.  ",
+                    "description": "We are a one form entry community school in Tufnell Park, with Nursery provision for children aged 3yrs+, we are at the heart of a brilliantly diverse community of fascinating children and families. We learn and grow together. ",
                     "link": "/schoolContext/index.html?schoolId=2022841"
                 },
                 {
                     "bgcolor": "#ed6c26",
                     "title": "Pupil support & wellbeing",
-                    "description": "As an inclusive school, we are ambitious for all our children to progress and achieve. We work hard to support all of our children to thrive, and our curriculum reflects the diversity of our community. ",
+                    "description": "Children's happiness, wellbeing and belonging runs through everything we do. We want everyone at our school to feel happy, safe, listened to and respecte. This is embedded in our teaching and learning approach and within the 3 simple rules taught to everyone in our community: Ready, Respectful and Safe.  ",
                     "link": "/support/index.html?schoolId=2022841"
                 },
                 {
                     "bgcolor": "#64007e",
                     "title": "SEND & inclusion",
-                    "description": "Our children excel in their learning, whatever their starting points, consistently achieving standards above national levels.  We recognise and value high achievement across the curriculum and find opportunities for children to achieve excellence with highly skilled staff challenging, supporting and adapting their teaching. ",
+                    "description": "As an inclusive school, we are ambitious for all our children to progress and achieve. We work hard to support all of our children to thrive, and our curriculum reflects the diversity of our community. ",
                     "link": "/SEND/index.html?schoolId=2022841"
                 },
                 {
                     "bgcolor": "#93c467",
                     "title": "Pupils' achievement",
-                    "description": "Through term-long topics enriched by first hand experiences, subject specialists, trips and visitors, our curriculum is designed to make links, to challenge, and to prompt deep thinking. This approach connects areas of learning, promotes talk and debate, embraces 'good mistakes',  builds resilience and sparks a love of learning. ",
+                    "description": "Our children excel in their learning, whatever their starting points, consistently achieving standards above national levels.  We recognise and value high achievement across the curriculum and find opportunities for children to achieve excellence with highly skilled staff challenging, supporting and adpating their teaching. ",
                     "link": "/achievement/index.html?schoolId=2022841"
                 },
                 {
                     "bgcolor": "#4764ff",
                     "title": "Curriculum, teaching & learning",
-                    "description": "Successful first year of Hawley Primary School partnership",
+                    "description": "Through term-long topics enriched by first hand experiences, subject specialists, trips and visitors, our curriculum is designed to make links, to challenge, and to prompt deep thinking. This approach connects areas of learning, promotes talk and debate, embraces 'good mistakes',  builds resiliance and sparks a love of learning. ",
                     "link": "/curriculum/index.html?schoolId=2022841"
                 }
             ],
             "schoolPriorities": [
                 {
                     "bgcolor": "#e50059",
-                    "title": "Teachers and leaders working together across two small schools for the benefit of both.",
-                    "description": "Sustaining excellence in SEN provision."
+                    "title": "Successful first year of Hawley Primary School partnership",
+                    "description": "Teachers and leaders working together across two small schools for the benefit of both."
                 },
                 {
                     "bgcolor": "#ed6c26",
-                    "title": "Developing new SEN leaders and specialists.",
+                    "title": "Sustaining excellence in SEN provision.",
                     "description": "Assessing barriers and next steps in learning"
                 },
                 {
                     "bgcolor": "#4764ff",
                     "title": "Further develop our approach to identify and overcome barriers for pupils currently working towards expected standards in reading, writing and maths, particularly disadvantaged pupils.",
-                    "description": "Science Lab; Library; Music room and strings programme; Nursery, Infant and Junior playgrounds; Breakfast Club; After school 'Club EP'; Before and after school sports clubs; Gardener; Swimming lessons Y1-Y6; Specialist sport, art and music teaching; Latin for Y4"
+                    "description": "Developing new SEN leaders and specialists."
                 }
             ]
         },
@@ -2580,7 +2623,7 @@
     },
     {
         "schoolId": 2023359,
-        "schoolName": "Holy Trinity CofE Primary School, NW3",
+        "schoolName": "Holy Trinity CE Primary School",
         "isPrimary": true,
         "shortSlogan": "A small school with a big heart.",
         "descriptionTitle": "A small school with a big heart.",
@@ -2611,7 +2654,7 @@
             " Dedicated Children's Pastor"
         ],
         "activities": [
-            "The Winch wrap around care option  - https://www.holytrinitynw3.co.uk/the-winchester-club/",
+            "<a href=\"https://www.holytrinitynw3.co.uk/the-winchester-club/\" target=\"_blank\">The Winch wrap around care option</a>",
             "Cooking Club",
             "Drawing Club",
             "Stay & Play",
@@ -2821,7 +2864,7 @@
             "changeYearReserves": 27400.0
         },
         "curriculum": {
-            "curriculumAim": "<p>Our curriculum is driven by our aspirational Christian vision (Isaiah 40:31). In order for our pupils to \u2018soar on wings like eagles\u2019 we focus on raising their aspirations and opening their eyes to new possibilities. This is essential if we are to foster confidence, delight and discipline in learning. Our pupils enjoy a broad and balanced curriculum that promotes \u2018life in all its fullness\u2019 (John 10:10), so that they can each reach their potential. We hope to inspire pupils by bringing them into contact with a variety of specialists and visitors, through workshops, visits, long-term collaborations and participation in performances and competitions. We take regular advantage of enrichment opportunities provided by the wealth of cultural institutions that London has to offer. We embrace excellence and academic rigor, but place it within a wider framework where pupils are also encouraged to stretch themselves spiritually, morally, imaginatively and actively.</p><p><a href=\"https://www.holytrinity.merton.sch.uk/web/the_curriculum_1/504281\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumAim": "<p>Our curriculum is driven by our aspirational Christian vision (Isaiah 40:31). In order for our pupils to \u2018soar on wings like eagles\u2019 we focus on raising their aspirations and opening their eyes to new possibilities. This is essential if we are to foster confidence, delight and discipline in learning. Our pupils enjoy a broad and balanced curriculum that promotes \u2018life in all its fullness\u2019 (John 10:10), so that they can each reach their potential. We hope to inspire pupils by bringing them into contact with a variety of specialists and visitors, through workshops, visits, long-term collaborations and participation in performances and competitions. We take regular advantage of enrichment opportunities provided by the wealth of cultural institutions that London has to offer. We embrace excellence and academic rigor, but place it within a wider framework where pupils are also encouraged to stretch themselves spiritually, morally, imaginatively and actively.</p><p><a href=\"https://www.holytrinitynw3.co.uk/curriculum/curriculum-intent/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
             "curriculumStrengths": [
                 "Life in all its Fullness",
                 "Art & Design ",
@@ -2835,7 +2878,7 @@
         },
         "support": {
             "childSafetyAndHappiness": "<p>Our school values aim to teach pupils what it means to live well together. Daily worship is a time when the whole school comes together to reflect on these values and learn how to 'live' them.</p>\n\n<p>Relationships within the school are built on this foundation, creating a safe, friendly, and inclusive community where everyone is significant. Pupils are encouraged to be courageous advocates and trust in the adults to support them.</p>\n\n<p>We have a Pastoral Support Worker to support pupils who may need emotional support, plus a Children's Pastor at Lighthouse London Church.</p>\n\n<p>We have active, democratically elected House Captains and Class Representatives who canvas the opinions of pupils and support the Head of School with decision making.</p>\n\n<p>Safeguarding is fundamental to everything we do. Our processes are rigorous and effective, ensuring that all pupils are safe, cared for, and protected.</p><p><a href=\"https://cdn.realsmart.co.uk/8371211752971c8d6c79940c8c633f2c/uploads/2024/09/12122929/NEW-Child-protection-and-safeguarding-policy-for-schools-and-colleges-in-Camden-2024.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
-            "bullyingProtection": "<p>All pupils have the right to feel safe at school and bullying is never acceptable. Any allegations of bullying are taken seriously and time is taken to investigate them thoroughly, whilst supporting the pupils involved.</p>\n\n<p>Our Pastoral Support Worker holds weekly drop-in sessions that pupils can attend if they feel they need reassurance. We work with pupils to help them understand how their behaviour impacts on others and aim to rebuild relationships using a restorative justice model. Where necessary, we seek advice from relevant agencies in order to support pupils effectively.</p>\n\n<p>Our curriculum includes units that address bullying, and is underpinned by special events such as Odd Socks Day.</p><p><a href=https://cdn.realsmart.co.uk/8371211752971c8d6c79940c8c633f2c/uploads/2024/08/08094943/Behaviour-Policy-2425.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "bullyingProtection": "<p>All pupils have the right to feel safe at school and bullying is never acceptable. Any allegations of bullying are taken seriously and time is taken to investigate them thoroughly, whilst supporting the pupils involved.</p>\n\n<p>Our Pastoral Support Worker holds weekly drop-in sessions that pupils can attend if they feel they need reassurance. We work with pupils to help them understand how their behaviour impacts on others and aim to rebuild relationships using a restorative justice model. Where necessary, we seek advice from relevant agencies in order to support pupils effectively.</p>\n\n<p>Our curriculum includes units that address bullying, and is underpinned by special events such as Odd Socks Day.</p><p><a href=https://cdn.realsmart.co.uk/8371211752971c8d6c79940c8c633f2c/uploads/2024/08/08094943/Behaviour-Policy-2425.pdf target=\"_blank\" class=\"about__link\">Link to behaviour policy</a></p>",
             "attendanceManagement": "<p>Our curriculum is jam-packed with special events and school trips, so pupils do not want to miss school! Pupils learn that education is a right that not all children enjoy, so they have a responsibility to come into school if they want to reach their potential. We reward pupils with good attendance and punctuality in a number of ways, including summer lunches in the courtyard \u2018bistro\u2019.</p>\n\n<p>We have invested in an in-school Attendance Support Worker to assist families that need help to maintain good attendance and punctuality. The Attendance Support Worker can signpost families to support from other agencies and works closely with the local authority.</p><p><a href=\"https://cdn.realsmart.co.uk/8371211752971c8d6c79940c8c633f2c/uploads/2024/07/19152037/Attendance-Policy-2425.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
         },
         "achievement": {
@@ -2870,7 +2913,7 @@
         },
         "SEND": {
             "sendSupportInfo": "<p>One of our school values is significance. Pupils learn through worship that we are all \u2018wonderfully made\u2019 (Psalm 139) and are significant to God. Therefore pupils with SEND are welcomed into a school community where pupils accept difference and understand that their classmates may need more support or different provision.</p><br>\n\n<p>At Holy Trinity inclusion starts with high quality universal provision - teaching that is expertly adapted to meet the needs of all our pupils. We have embedded common adaptations into our day-to-day practice, so that the vast majority of pupils can learn alongside their peers in the classroom. Where the complexity of a pupil\u2019s needs necessitates a different approach to learning, or an alternative curriculum, we complement our in-house expertise with advice and support from a range of services to deliver bespoke support that ensures pupils make progress against their individual targets.</p><br><p><a href=\"https://www.holytrinitynw3.co.uk/about-us/holy-trinity-send-information-report/\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
-            "inclusivePracticeInfo": "<p>All members of SLT are qualified SENDCos, which ensures that inclusion remains at the heart of school planning. We succession plan to ensure that our SEND practice remains of the highest quality and proactively seek funding and opportunities to make our school more accessible.</p>\n\n<p>Leaders regularly conduct learning walks and monitor planning and books to ensure that adaptations are being made to meet the needs of pupils. Our SENDCo works alongside teachers to develop effective individual education plans that are monitored on a termly basis.</p>\n\n<p>We carefully select the evidence-based intervention programmes that we use and train staff how to deliver them effectively. The quality of intervention groups and individual support is monitored regularly to ensure that pupils make progress.</p>\n\n<p>We take a holistic approach to SEND and also monitor pupils' wellbeing, plus attendance & punctuality.</p><p><a href=\"https://www.holytrinitynw3.co.uk/about-us/holy-trinity-send-information-report/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+            "inclusivePracticeInfo": "<p>All members of SLT are qualified SENDCos, which ensures that inclusion remains at the heart of school planning. We succession plan to ensure that our SEND practice remains of the highest quality and proactively seek funding and opportunities to make our school more accessible.</p>\n\n<p>Leaders regularly conduct learning walks and monitor planning and books to ensure that adaptations are being made to meet the needs of pupils. Our SENDCo works alongside teachers to develop effective individual education plans that are monitored on a termly basis.</p>\n\n<p>We carefully select the evidence-based intervention programmes that we use and train staff how to deliver them effectively. The quality of intervention groups and individual support is monitored regularly to ensure that pupils make progress.</p>\n\n<p>We take a holistic approach to SEND and also monitor pupils' wellbeing, plus attendance & punctuality.</p>"
         }
     },
     {
@@ -7001,6 +7044,383 @@
         "SEND": {
             "sendSupportInfo": "<p>At WHPS, we believe that all pupils have the right to an education of the highest standard. Where pupils have learning difficulties and/or disabilities, we aim to provide the support necessary to enable them to access the curriculum and fulfil their potential. We make every effort for this to be achieved within the classroom alongside other pupils.</p>\n\n<br>\n\n<p>Children with special educational needs are catered for within their own class with additional support as needed. If appropriate, children may be sent to work with a specialist adult for short periods, individually or in a small group to ensure they make the best possible progress during their time at WHPS.</p><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=INCLUSION&pid=152\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
             "inclusivePracticeInfo": "<p>WHPS is an inclusive school and is widely recognised as such, both in the local community and by OFSTED during our 2022 inspection. We believe in the importance of inclusion and equality for all children and adults and as such ensure that these beliefs are embedded in our practices.</p>\n\n<p>At WHPS we have high expectations of all our children. Our school motto, 'Together We Achieve', encapsulates our ethos of inclusion. We are very proud of our success in supporting both children with special educational needs and children who show a particular gift or talent in an area of learning.</p><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=EQUALITY&pid=373\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
+        "schoolId": 2024688,
+        "schoolName": "William Ellis School",
+        "isPrimary": false,
+        "shortSlogan": "Nurturing successful students and good citizens through strong relationships, where there are many ways to be a boy.",
+        "descriptionTitle": "Nurturing successful students and good citizens through strong relationships, where there are many ways to be a boy.",
+        "description": "<p>William Ellis offers a welcoming, inclusive community where diversity is celebrated and academic excellence pursued, and is proud to educate future confident and caring young men. The school balances academic success with creative subjects, focusing on developing resilience, curiosity, and responsibility.</p>\n<br>\n<p>Students benefit from supportive relationships with dedicated staff and robust pastoral systems. The school effectively promotes good behaviour and addresses discrimination, while providing strong support for SEND pupils.</p>\n<br>\n<p>In sixth form, students study alongside peers from three other schools in the LaSWAP consortium, expanding their social circles and curriculum choice. A comprehensive extracurricular program includes music, sports,",
+        "schoolLogo": "../assets/imgs/school/2024688_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100056",
+        "websiteLink": "https://www.williamellis.camden.sch.uk/",
+        "type": "Secondary",
+        "gender": "Boys",
+        "entryForms": 5,
+        "ageRange": [
+            "11",
+            "18"
+        ],
+        "address": "Highgate Road",
+        "lat": 51.558701,
+        "long": -0.150262,
+        "formsEntry": 5,
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW5 1RN",
+        "facilities": [
+            "Outdoor Education Facility in Surrey Hills",
+            " Access to Hampstead Heath for PE and Extra-Curricular Activities",
+            " Music Tech Suite and Recording Studio",
+            " New LaSWAP 6th Form Centre",
+            " Multi-Sport Indoor Hall",
+            " Year 7 Playground Space",
+            " Specialist Art Classrooms."
+        ],
+        "activities": [
+            "Debating and Jack Petchey Speak Out Challenge",
+            "Duke of Edinburgh Bronze, Silver, Gold",
+            "National Numeracy Challenge",
+            "Language exchange and study trips",
+            "Coding club",
+            "Table tennis",
+            "Chess",
+            "Basketball including elite teams",
+            "Football",
+            "Ski trip",
+            "Rugby",
+            "Anime",
+            "Foreign films club",
+            "Eco club and field trips to The Mill",
+            "Student Council",
+            "Vocal group and staff and parent choir",
+            "Big band and salsa",
+            "LAMDA Drama lessons and theatre trips",
+            "Student informal bands",
+            "Art and museum trips"
+        ],
+        "admissionProcess": "<p>All information about admissions can be found at <a href=\"https://www.williamellis.camden.sch.uk/admissions-information\" target=\"_blank\">William Ellis Admissions Information</a>.</p>\n\n<p>We offer priority places to students with siblings at Parliament Hill and La Sainte Union, and up to 10% of places for students who show an aptitude in Music.</p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2024688_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "This is a place where you can be yourself.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "We could not be happier with our choice of this school for our son. Transition from year 6 was handled skilfully and kindly. Our first impression was of a kind, supportive environment and we have not been disappointed. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "The school has a strong inclusive culture and provides well for pupils with SEND. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "I have always felt appreciated and supported at William Ellis. I genuinely enjoy being part of the team. I like the \"humanised\" style of leadership we have, and the respect for our workload balance.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils enjoy coming to this school. It provides them with a sense of community where difference is accepted and equally valued.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The staff are exceptional - kind, dedicated and committed. The quality of teaching seems very high. The preparation for the boys' GCSE exams has been fantastic. My son has become a lovely young man during his time here.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "I value professional development on literacy, adaptive teaching and behaviour management, supporting me to always provide better for students.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I have been impressed by how the school is approaching personal development issues with the boys e.g. on issues around gender, sexuality, feminism etc. This is great to see.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "The school has developed an ambitious curriculum. The school has given careful thought, across the subjects, to the knowledge that it wants pupils to know.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "I feel lots of positive change has happened and the school feels ever more cohesive and a positive, supportive environment. ",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "There are many residential trips on offer. Visits overseas support language learning and cultural understanding.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Leaders and governors share vision and passion.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "The school has built up a strong network in the local community to enrich the school\u2019s work and pupils\u2019 experiences.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The Student Council has made a real difference in improving the school.",
+                    "author": "Child"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2024688_1.jpg",
+                "../assets/imgs/school/2024688_2.jpg",
+                "../assets/imgs/school/2024688_3.jpg",
+                "../assets/imgs/school/2024688_4.jpg",
+                "../assets/imgs/school/2024688_5.jpg",
+                "../assets/imgs/school/2024688_6.jpg",
+                "../assets/imgs/school/2024688_7.jpg",
+                "../assets/imgs/school/2024688_8.jpg",
+                "../assets/imgs/school/2024688_9.jpg",
+                "../assets/imgs/school/2024688_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "One of only 13 non-religious, non-selective boys' schools in London, serving our local community and families who make an active, positive choice for boys' education.",
+                    "link": "/schoolContext/index.html?schoolId=2024688"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "A supportive ethos based on the 5 R\u2019s: responsibility, resilience, resourcefulness, reflection, and respect. The school promotes respect for all, and maintains high attendance with proactive strategies and rewards. SEND students are supported by high quality adaptive teaching.",
+                    "link": "/support/index.html?schoolId=2024688"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "William Ellis School offers comprehensive support for SEND students, ensuring personalized attention and inclusive education. Teachers receive ongoing training, use detailed seating plans, and share effective strategies. The school provides various interventions and maintains high-quality support, fostering an inclusive and diverse curriculum.",
+                    "link": "/SEND/index.html?schoolId=2024688"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "We ensure academic success through a structured, knowledge-embedded curriculum, integrating essential skills and enrichment activities. They focus on equity, support disadvantaged students, and offer extensive post-16 options within the LaSWAP consortium. Comprehensive careers education prepares students for diverse future pathways and employability.",
+                    "link": "/achievement/index.html?schoolId=2024688"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Our school ensures every student receives an excellent education through expert teaching and a broad curriculum. We offer diverse subjects, including core areas and modern languages, and provide tailored support. Sixth form options include A-levels and vocational courses, fostering independence and resilience.",
+                    "link": "/curriculum/index.html?schoolId=2024688"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Capital investment ",
+                    "description": "Building modern, high quality spaces for play, socialising and eating."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Literacy and reading",
+                    "description": "For all students to be skilled, confident and enthusiastic readers."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum and citizenship",
+                    "description": "Strengthening our already challenging curriculum so that all students are equipped with the knowledge and understanding to be powerfully good citizens."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 879,
+            "ethnicGroupsNum": 19,
+            "languagesNum": 14,
+            "SENDPercent": 20.1,
+            "BMEPercent": 67.5,
+            "disadvantagedPupilsPercent": 47.0,
+            "englishAdditionalLangPercent": 37.1,
+            "absencePercent": 9.5,
+            "persistentAbsenteesPercent": 29.6,
+            "specificLanguages": [
+                "Albanian/Shqip",
+                "Arabic",
+                "Bengali",
+                "English",
+                "French",
+                "Lingala",
+                "Pashto/Pakhto",
+                "Persian/Farsi",
+                "Polish",
+                "Portuguese",
+                "Somali",
+                "Spanish",
+                "Tigrinya",
+                "Ukrainian"
+            ],
+            "specificEthnicities": [
+                "Albanian",
+                "Arab other",
+                "Bangladeshi",
+                "Black African",
+                "Black Congolese",
+                "Black Nigerian",
+                "Black Caribbean",
+                "Indian",
+                "Kosovan",
+                "Other Asian",
+                "Other Black African",
+                "Other Ethnic Group",
+                "Other Mixed Background",
+                "Other White British",
+                "White British",
+                "White English",
+                "White Irish",
+                "White and Any Other Asian Background",
+                "White and Any Other White Group",
+                "White and Asian"
+            ],
+            "specificSEND": [
+                "Specific learning difficulty",
+                "Moderate learning difficulty",
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": null,
+            "pupilAdultRatio": null,
+            "financialReserves": 657100.0,
+            "changeYearReserves": 232600.0
+        },
+        "curriculum": {
+            "curriculumAim": "<p>At our school, we believe every student deserves an excellent education. Our teachers are subject experts who make learning engaging and accessible for all students. We offer a broad range of subjects and take pride in helping students achieve highly, particularly in core subjects like mathematics, English, science, languages, and humanities.</p>\n\n<p>Our teaching approach ensures students build their knowledge step by step, with regular opportunities to revisit and strengthen their understanding. Teachers carefully check what students have learned and quickly provide extra help if needed. This means no student falls behind.</p>\n\n<p>For sixth form students, we offer a wide choice of both academic A-levels and practical vocational courses. We understand that students develop at different rates, so we also provide foundation year courses to help students prepare for advanced study.</p>\n\n<p>We invest in training our teachers to support all students effectively, including those who need extra help. This means every student, regardless of their starting point, can succeed in their learning.</p><p><a href=\"https://www.williamellis.camden.sch.uk/learning-and-curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Promote Resilience and Empathy",
+                "Modern Foreign Languages",
+                "Outdoor Education - PE and Personal Development"
+            ],
+            "topSubjects": [
+                "Art",
+                "BTEC Art",
+                "Art level 2 Cambridge technical",
+                "Biology",
+                "BTEC Applied science",
+                "BTEC Business",
+                "BTEC Business Extended Diploma",
+                "BTEC Business level 2",
+                "BTEC Health and social care ",
+                "BTEC Health and social care Extended Diploma",
+                "BTEC Media level 2",
+                "Business",
+                "Business applied",
+                "Business studies",
+                "Chemistry",
+                "Classical civilization",
+                "Computer science",
+                "Core mathematics",
+                "Dance",
+                "Drama",
+                "Economics",
+                "English language and literature",
+                "English literature",
+                "Extended project",
+                "Film studies",
+                "French",
+                "Further mathematics",
+                "Geography",
+                "German",
+                "Graphic communication",
+                "History",
+                "Law",
+                "Mathematics",
+                "Media studies",
+                "Music",
+                "Music technology",
+                "BTEC Performing arts",
+                "Photography",
+                "Physical education",
+                "Physics",
+                "Politics",
+                "Product design",
+                "Psychology",
+                "Religious studies",
+                "Sociology",
+                "Spanish",
+                "BTEC Sports",
+                "Sports and recreation level 2",
+                "Sports and recreation level 3",
+                "Textiles",
+                "GCSE English language",
+                "GCSE Mathematics",
+                "Functional skills English level 1",
+                "Functional skills English level 2",
+                "Functional skills Mathematics level 1",
+                "Functional skills Mathematics level 2",
+                "Media studies - T level"
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>The vision of the 5 R's - responsibility, resilience, resourcefulness, reflection and respect runs through all aspects of the school and has forged a shared and supported ethos amongst students, parents, governors and staff. This means that the school reflects the community it serves.</p>\n\n<p>Boys learn that there are clear expectations to do what is right, and to respect all others including girls and women, those of different ethnicities and religions and from the LGBT+ community.</p>\n\n<p>Through our PSHE curriculum we are able to address critical challenges for young men in the 2020s, including the national discourse around sexual harassment and abuse. Recently, our students featured in a national Period Poverty campaign. Our School Council spoke publicly about the importance of promoting tender, considered masculinity.</p>\n\n<p>Our award-winning partnership work with Middlesex University, equips students to counter misogyny and be positive role models.</p><p><a href=\"https://www.williamellis.camden.sch.uk/about-us/policies-and-documents\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>We are very clear about what our expectations are of how students should behave responsibly and respectfully towards each other. Tutors know their students well and trusting, close relationships mean that students can share any difficult experiences that they have.</p>\n\n<p>They expect, rightly, that this will be dealt with, resolved positively and monitored so that the peer relationships are rebuilt respectfully over time. Students are supported and expected to articulate their feelings and how they have learned from their mistakes, and to resolve differences.</p><p><a href=https://www.williamellis.camden.sch.uk/student-and-family-information/behaviour target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>The school takes a comprehensive approach to maintaining high attendance, with an ambitious target for every student. They recognize that regular attendance is crucial for effective learning and implement research-based strategies to support this goal.</p>\n\n<p>Good attendance is actively rewarded through competitions, certificates, and special events to maintain its high profile within the school community. The school provides early intervention and rapid support when attendance issues arise, creating a culture where students and parents feel comfortable asking for help.</p>\n\n<p>A dedicated Attendance Officer works alongside Form Tutors, Heads of Year, and senior staff to monitor attendance patterns and provide targeted support where needed. The school maintains regular communication with parents through various channels to address concerns promptly.</p>\n\n<p>Students receive guidance on practical strategies for maintaining good attendance, including proper sleep habits, preparation for school days, and encouraging walking or cycling to school. This comprehensive approach ensures attendance remains a priority for the entire school community.</p><p><a href=\"https://www.williamellis.camden.sch.uk/attachments/download.asp?file=685&type=pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>We ensure academic success through a comprehensive and carefully structured approach. Our curriculum is knowledge-embedded, building systematically on key ideas and content while developing essential skills across all subjects. We recognize that academic success extends beyond timetabled lessons, encompassing clubs, activities, and educational visits.</p>\n\n<p>We pay particular attention to disadvantaged students, ensuring they have access to enriching experiences that build cultural capital. Our curriculum planning specifically addresses equity, providing all students with comparable opportunities for growth and development.</p>\n\n<p>Each subject area follows a clear \"Single Attainment Target\" framework, with explicit assessment criteria and curriculum mapping to track progress. We integrate reading, writing, speaking, and listening skills development across all subjects, with targeted interventions where needed.</p>\n\n<p>For post-16 students, our partnership with the LaSWAP consortium offers extensive and flexible study options, maintaining strong educational support throughout their academic journey.</p><p><a href=\"https://www.williamellis.camden.sch.uk/about-us/policies-and-documents\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "Attainment 8 (2023):",
+                    "chartImg": "../assets/imgs/charts/2024688_chart_ks4_att8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2024688_chart_ks4_att8.png",
+                    "chartDescription": "An Attainment 8 score of 49.5 means William Ellis pupils averaged just below a grade 5 across their eight best GCSE-level subjects."
+                },
+                {
+                    "chartTitle": "Progress 8 (2023):",
+                    "chartImg": "../assets/imgs/charts/2024688_chart_ks4_p8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2024688_chart_ks4_p8.png",
+                    "chartDescription": "A Progress 8 score of -0.26 means William Ellis pupils achieved close to half a grade lower than similar pupils across the country."
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "After Key Stage 4 (2023):",
+                    "chartImg": "../assets/imgs/charts/2024688_chart_ks4_dest.png",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "After Key Stage 5 (2023):",
+                    "chartImg": "../assets/imgs/charts/2024688_chart_ks5_dest.png",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>We are deeply committed to preparing our students for life after school through comprehensive careers education, independent advice, and work-related learning. Our approach focuses on raising aspirations and enabling social mobility by empowering young people to plan and manage their own futures effectively.</p>\n\n<p>We provide students with accurate information and expertise across all year groups, promoting diverse career pathways equally while helping each student understand which path best suits their individual strengths and aspirations. Our program emphasizes developing employability skills and preparing students for the responsibilities of adult life.</p>\n\n<p>For sixth form students, we organize dedicated Futures Days featuring representatives from universities, apprenticeship providers, and various industries. These events provide practical support with university applications, apprenticeship research, and CV writing. Students benefit from direct interaction with professionals across diverse sectors, including PR, law, marketing, healthcare, and engineering, gaining valuable insights and networking opportunities for their future careers.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>We provide comprehensive support for every student with special educational needs and disabilities (SEND). Our dedicated approach ensures each child receives the attention they need to thrive in partnership with their family.</p>\n\n<br>\n\n<p>Our teachers receive regular professional development to enhance their skills in supporting SEND students. Teachers use detailed, personalised and regularly updated seating plans for every class that reflect each student's specific needs and successful strategies their learning. These plans are easily accessible to all teaching staff through our digital systems.</p>\n\n<br>\n\n<p>Our staff actively share a toolkit of effective support strategies and successful teaching methods. We maintain detailed records that help teachers quickly access information about how to best support each student, ensuring consistent, high-quality support throughout the school day. Students who are eligible for additional funding receive interventions that may include in-class TA support, on site counselling/mentoring, Speech and Language Therapy or access to physical aids as appropriate to their need.</p><p><a href=\"https://www.williamellis.camden.sch.uk/send\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>All students access the full curriculum offer, and are not restricted in the subjects they can choose at GCSE. Most teaching is in mixed attainment groupings with adaptive approaches - students learn both collaboratively and independently with targeted regular feedback and resources to ensure that they improve and progress.</p>\n\n<p>The school provides support for both students who are in the early stages of learning English, and those students who struggle with their literacy. More confident learners are pushed to achieve beyond their comfort zone across a range of curriculum areas as well as in their personal development and as young leaders.</p>\n\n<p>School leaders - staff and students - regularly review the curriculum to ensure that it is engaging, inclusive and reflects the diversity of our school community.</p><p><a href=\"https://www.williamellis.camden.sch.uk/about-us/policies-and-documents\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     }
 ]
