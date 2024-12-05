@@ -1,5 +1,300 @@
 [
     {
+        "schoolId": 2022001,
+        "schoolName": "Abacus Belsize Primary School",
+        "isPrimary": true,
+        "shortSlogan": "Abacus is a school where every child THRIVEs.",
+        "descriptionTitle": "Abacus is a school where every child THRIVEs.",
+        "description": "<p>Abacus Belsize Primary School provides a nurturing, supportive, and inclusive learning environment focused on academic success, personal growth, and creativity for a diverse student body.</p>\n<br>\n\n<p>The school\u2019s curriculum blends essential academic subjects with enrichment activities, aiming to develop well-rounded learners who are confident and engaged.</p>\n<br>\n\n<p>Abacus values each child\u2019s well-being, offering individualized support to meet various needs and fostering resilience, confidence, and a sense of community.</p>\n<br>\n\n<p>By encouraging enthusiasm and adaptability, Abacus prepares students for future challenges, promoting both a love of learning and strong foundational skills - giving children and adults the opportunity to THRIVE.</p>",
+        "schoolLogo": "../assets/imgs/school/2022001_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/139837",
+        "websiteLink": "https://www.abacus.anthemtrust.uk/",
+        "type": "Primary",
+        "gender": "Mixed",
+        "entryForms": 1,
+        "ageRange": [
+            "4",
+            "11"
+        ],
+        "address": "Jubilee Waterside Centre, 105 Camley Street",
+        "lat": 51.537812,
+        "long": -0.130658,
+        "formsEntry": 1,
+        "prevYearCatchmentRadius": null,
+        "postCode": "N1C 4PF",
+        "facilities": [
+            "School Bus with Staff for Safe Transport",
+            " Reading Spaces During Breaks",
+            " Safe Space for 'Marvellous Mistakes'",
+            " Enriched Learning",
+            " Fun Before/After-School Clubs",
+            " Engaging Classrooms and Playground",
+            " 'Loose Parts' for Playtime",
+            " Outdoor Learning Beyond the Classroom."
+        ],
+        "activities": [
+            "Enrichment of all areas of the curriculum beyond the national curiculum. ",
+            "Learn how to play the recorder, xylophone and violin",
+            "After school art, drama and sports clubs",
+            "Summer Sports Day",
+            "Participation in Camden's Royal Albert Hall performance and art biennale ",
+            "Perform a play at Christmas to our families",
+            "Perform Shakespeare with West End actors once every two years",
+            "Visit Hampstead Heath every half-term",
+            "Go on a trip linked to your learning each half-term",
+            "Visit the seaside during the summer",
+            "Go on an overnight (year 4) or week-long (years 5&6) residential ",
+            "Swimming lessons at Kings Cross leisure centre (KS2)",
+            "Visit and get to know your local area",
+            "A chance to be a member of the school council or a Timi Champion",
+            "Take part in a poetry competition"
+        ],
+        "admissionProcess": "<p>Reception admissions: If the School is oversubscribed, after the admission of pupils with an Education and Health Care Plan (EHCP), priority for admission will be given to those children who meet the criteria, in the following order:</p>\n\n<br>\n\n<ol>\n  <li>Looked after children and all previously looked after children.</li>\n  <li>Children with a sibling attending the school at the time of application.</li>\n  <li>Children of staff at the School.</li>\n  <li>Children from within the existing catchment area.</li>\n  <li>Children living outside the catchment.</li>\n</ol>\n\n<br>\n\n<p>For in-year admissions, please contact the school directly. For more information, including our admissions policy, visit our</p>\n\n<br>\n\n<p><a href=\"https://www.abacus.anthemtrust.uk/admissions\" target=\"_blank\">Admissions Policy Link</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2022001_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I\u2019ve always told prospective parents that it\u2019s the best school in Camden. Abacus is able to keep a nurturing and safe environment for children while maintaining high academic standards.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "The quality of teaching is outstanding. It interests, excites and inspires pupils. An early focus on instilling a love of learning and developing a sense of curiosity supports pupils\u2019 achievement well.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "I love being part of the Abacus family - it's a home away from home. The staff really take care of one another and we all feel valued. This means giving our everything to the pupils comes easily. The parent community support the school in ways I haven't seen before.",
+                    "author": "School Staff"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "We love the teachers and the way of teaching. The emphasis on each child makes us feel that they truly see the children.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "School ensures first-hand, purposeful experiences are prioritised within their curriculum which is rich in knowledge, understanding, vocabulary and transferable skills.",
+                    "author": "Challenge Partners"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "This school really cares about the needs of the children. They have a progressive and inclusive curriculum and expect all children to be kind and thoughtful, as well as have high academic expectations.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Abacus is a safe place to grow, learn and THRIVE-for its pupils and its staff. It's rare to find a workplace with such a strong sense of commitment, community and family but these three things are the very foundation of everything that we do.",
+                    "author": "School Staff"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "This wonderful school with its incredible teachers achieves the perfect balance of providing a nurturing environment for the children while enabling them to grow and develop to the highest levels of academic achievement. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils have overwhelmingly positive attitudes to school. One parent explained that her child spends all weekend looking forward to Monday when they can return to school.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "The teaching of early reading is prioritised, and ample time is allocated. Intervention starts quickly. It is an expectation that all children will learn to read, and the phonics leader closely tracks and monitors those who are falling behind. ",
+                    "author": "Challenge Partners"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Wonderful school with great balance between educational attainment and prioritising students' wellbeing.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Best primary School I have worked at in London! Credit to teachers, staff and of course to all the amazing kids!",
+                    "author": "Other"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Books and literacy were clearly held in high esteem in each class, and all children could refer to their current text without hesitation, showing a good knowledge of the content.",
+                    "author": "Challenge Partners"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Arrangements to support pupils who speak English as an additional language enable them to rapidly improve their communication and language skills so they are better able to access the curriculum. Staff provide creative solutions in order to ensure that pupils with more complex needs flourish at school.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "We always recommend Abacus for its amazing young and innovative teachers, great community and obviously because of its academic results.",
+                    "author": "Parent"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2022001_1.jpg",
+                "../assets/imgs/school/2022001_2.jpg",
+                "../assets/imgs/school/2022001_3.jpg",
+                "../assets/imgs/school/2022001_4.jpg",
+                "../assets/imgs/school/2022001_5.jpg",
+                "../assets/imgs/school/2022001_6.jpg",
+                "../assets/imgs/school/2022001_7.jpg",
+                "../assets/imgs/school/2022001_8.jpg",
+                "../assets/imgs/school/2022001_9.jpg",
+                "../assets/imgs/school/2022001_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "Everyone at Abacus - staff, children, parents and carers - are all part of one big Abacus family!",
+                    "link": "/schoolContext/index.html?schoolId=2022001"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "Children at abacus have a voice! They are taught how to speak and how to use their voice to express themselves and to support and stand up for others. All children are given the tools to THRIVE at Abacus.",
+                    "link": "/support/index.html?schoolId=2022001"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "Inclusion is at the heart of everything we do: 'every student, every lesson, all of the time'.",
+                    "link": "/SEND/index.html?schoolId=2022001"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "We achieve consistently higher results compared with Camden and National. Our children move to a range of state, grammar and independent Secondary schools with the tools and knowledge to meet the challenges of their next steps in education. ",
+                    "link": "/achievement/index.html?schoolId=2022001"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Our children have varying social, cultural and spiritual backgrounds. As a school it is really important that we give all children the opportunity to THRIVE, to have common learning experiences\u00a0with high aspirations for all, creating and shaping their social consciousness.",
+                    "link": "/curriculum/index.html?schoolId=2022001"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Oracy",
+                    "description": "Further developing oracy skills so that children know HOW to talk and use these skills to learn THROUGH talk."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Vulnerable children",
+                    "description": "Continued enhancement of the curriculum and personal development offer to meet the needs, support rapid progress and close the gap for vulnerable children."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Leadership",
+                    "description": "Create outsanding leaders in our school, empowering children and staff to lead and share expertise so that we all THRIVE."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 145,
+            "ethnicGroupsNum": 4,
+            "languagesNum": 6,
+            "SENDPercent": 14.5,
+            "BMEPercent": 62.8,
+            "disadvantagedPupilsPercent": 12.8,
+            "englishAdditionalLangPercent": 32.4,
+            "absencePercent": 4.2,
+            "persistentAbsenteesPercent": 7.9,
+            "specificLanguages": [
+                "Hebrew",
+                "Russian",
+                "Arabic",
+                "French ",
+                "Spanish",
+                "Italian"
+            ],
+            "specificEthnicities": [
+                "Any other white background",
+                "White other",
+                "White British",
+                "White European"
+            ],
+            "specificSEND": [
+                "Speech, language and communication needs"
+            ],
+            "qualifiedTeachersPercent": 100,
+            "pupilAdultRatio": 12.3,
+            "financialReserves": null,
+            "changeYearReserves": null
+        },
+        "curriculum": {
+            "curriculumAim": "<p>Our motto <strong>T.H.R.I.V.E.</strong> (team player, honesty, resilience, inclusive, valued, empowered) is at the heart of everything we do. First-hand, purposeful experiences are prioritised, as well as exposing children to a range of learning opportunities. We believe it to be our mission to equip children for the future, recognising that we are already preparing young children for a world that is constantly changing. It is therefore imperative that we offer children a curriculum that is rich in knowledge, understanding (including vocabulary), and transferable skills. We believe that to be effective, the curriculum must be purposeful, engaging, active, and connected.</p>\n<p>It must:</p>\n<ul>\n  <li>Have a starting point that builds on what children already know, understand, or can do, providing opportunities to make connections.</li>\n  <li>Enable the use of growing knowledge and understanding to develop skills for life.</li>\n  <li>Enable children to take an active part in their learning, including through first-hand learning experiences.</li>\n  <li>Enable children to achieve and overcome barriers to learning.</li>\n</ul><p><a href=\"https://www.abacus.anthemtrust.uk/page/?title=Whole%2Dschool+curriculum&pid=25\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Encouraging Deep Thinking",
+                "Enrichment of a Broad and Balanced Curriculum",
+                "Character Development"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>Children, staff, and parents refer to themselves as part of the 'Abacus family'. Staff create safe and inviting spaces for children to learn and share their worries.</p>\n\n<p>The development of strong behaviours for learning alongside our commitment to 'every student, every lesson, all of the time' ensures that learning and challenge are valued. Our classrooms are inclusive, providing scaffolding and support to allow all children to <strong>THRIVE</strong>.</p>\n\n<p>Children explore how to keep safe through our PSHE and enhanced THRIVE circle times as well as through dedicated RSE lessons. We use the phrase 'little and often' to describe our e-safety enhancements\u2014encouraging children to share.</p>\n\n<p>Our safe spaces allow children to make mistakes, build friendships, share their opinion, and value learning. In our most recent safeguarding survey, 98% of children stated they felt safe at school and 100% felt that school teaches them how to be safe online.</p><p><a href=\"https://www.abacus.anthemtrust.uk/policies\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>Instances of bullying are rare at Abacus and this is seen in our record keeping and safeguarding surveys with children. Children are friendly, kind and go out of their way to support their peers. Mistakes and differences in opinion are valued and reflected on.</p>\n\n<p>Where there are concerns about bullying, staff are proactive in resolving the situation by involving children and families. Through our oracy teaching, children are taught how to use their voice and to challenge and disagree in a positive and constructive way.</p>\n\n<p>We use a restorative approach and encourage children to reflect on their behaviour using the school's THRIVE values. In our most recent safeguarding survey 97% of children said they could talk to a school adult if something is worrying them.</p><p><a href=https://www.abacus.anthemtrust.uk/policies target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>We have an inclusive approach to attendance, ensuring that families, children, and staff all work together to ensure children come to school. When instances of falling attendance occur, support is put in place early to support families.</p>\n\n<p>Our dedicated attendance officer works individually with families with the support of the leadership team and teaching staff. We encourage families to book appointments outside of school times and communicate the importance of high attendance with families. Children enjoy coming to school at Abacus and school refusal is rare.</p><p><a href=\"https://www.abacus.anthemtrust.uk/policies\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>Children at Abacus love learning. They are taught from an early age that making mistakes means we are learning and this is something to celebrate rather than worry about. This safe learning space encourages children to take risks, ask questions, and deepen their understanding.</p>\n\n<p>A carefully planned curriculum which builds on and links to previous learning ensures that children know and remember more. Skilled teachers deliver the curriculum well, ensuring that oracy opportunities are used to enhance learning.</p>\n\n<p>Hands-on experiences, including enrichment trips, build children's understanding and cultural capital. Scaffolds are used where needed to ensure all children feel the sense of success and achievement. Books and knowledge are shared with joy.</p>\n\n<p>The focus on the wider curriculum on a Friday encourages children to explore topics deeply.</p><p><a href=\"https://www.abacus.anthemtrust.uk/page/?title=Our+Learning&pid=7\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2022001_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022001_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2022001_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022001_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>By celebrating learning and instilling positive learning behaviours, children are given the skills to continue their learning into KS3 and beyond. A vital element of success in secondary is the ability to read widely and independently, which is why reading is at the heart of our curriculum.</p>\n\n<p>We teach children to understand how they learn through sharing CTMM (cognitive theory memory and metacognition) strategies, developing independence through self-access to resources and scaffolds, and nurturing curiosity. A deep love of learning and high academic achievements ensures that children are ready for the challenge as they move to the secondary curriculum.</p>\n\n<p>Children visiting us from years 7&8 often report on their learning with great enthusiasm, and parents often credit the foundations they received at Abacus for their successes beyond primary school.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>We provide comprehensive support for children with Special Educational Needs and Disabilities (SEND). Teachers collaborate with the SENCo to plan individualised strategies, including in-class adaptations, specialist interventions, and targeted support for emotional and social well-being. Parents are involved in planning, and children\u2019s needs are regularly assessed and reviewed.</p>\n\n<p>The school emphasizes inclusivity, using personalised resources and multi-sensory approaches to learning. Staff receive ongoing training tailored to emerging needs and support staff champion specific interventions. Our aim for SEN pupils is high. For children with more complex needs, we draw on the expertise of specialists to plan and deliver interventions and support. Where children are working on individual programmes of learning, every effort is made to link learning and experiences with that of the wider class.</p>\n\n<p>SEND children at Abacus THRIVE as a result.</p><p><a href=\"https://www.abacus.anthemtrust.uk/send\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>Being inclusive is at the heart of everything we do, the 'I' in THRIVE celebrates this. Staff and students embrace Anthem's value of 'every student, every lesson, all the time'. Through careful lesson planning, support, and scaffolding, all children are given the tools to succeed.</p>\n\n<p>Weaving 'protected characteristics' and 'British Values' into learning opportunities ensures that children know how people are different and how difference enriches our lives. Our enhanced THRIVE curriculum builds on the work of the Camden PSHE scheme to ensure that children leave Abacus with open minds and an understanding of the importance of tolerance and teamwork.</p>\n\n<p>We strongly believe that it is not about where you come from but your passion and thirst for knowledge, and your dedication and commitment to learning that make the difference between success and failure. We are determined to ensure that our children are given every chance to realise their full potential.</p><p><a href=\"https://www.abacus.anthemtrust.uk/pupil-premium  https://www.abacus.anthemtrust.uk/page/?title=Equality&pid=84\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
         "schoolId": 2022019,
         "schoolName": "Argyle Primary School",
         "isPrimary": true,
@@ -268,6 +563,318 @@
         "SEND": {
             "sendSupportInfo": "<p>We are committed to providing high-quality support for children with Special Educational Needs and Disabilities (SEND). Our approach begins with quality first teaching, ensuring that all children receive an inclusive and differentiated curriculum tailored to their individual needs. Teachers use formative assessments regularly to identify gaps in learning and ensure immediate \"keep up\" support for all students, so no one is left behind.</p> \n<p>For children who require additional support, we offer targeted, personalised interventions in small groups or one-to-one settings, addressing specific areas of need. These interventions are designed to close learning gaps and provide focused support across the curriculum. Regular reviews and collaboration with parents and external specialists ensure that the support is continually adapted to meet the evolving needs of each child, fostering an inclusive environment where every child can thrive.</p><p><a href=\"https://www.argyle.camden.sch.uk/images/10.7_SEND__Policy_and_Information_Report__Sept_2023.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
             "inclusivePracticeInfo": "<p>At Argyle Primary School, we ensure inclusive practice through a whole-school ethos underpinned by our vision and values, which promote respect, equality, and diversity. This ethos is embedded in our teaching and learning practices, where we embrace adaptive teaching methods to meet the varied needs of all students. We utilise a range of groupings including mixed-ability groups which encourage collaboration and mutual support among children with different strengths and challenges. To further support inclusivity, we allocate additional adults where needed, ensuring that all children, especially those with SEND, receive the guidance and assistance necessary to succeed. We also make adjustments to the physical environment wherever possible, ensuring it is accessible and supportive of students' specific SEND needs, such as providing sensory spaces or alternative seating arrangements. By fostering an inclusive culture, we create an environment where every child feels valued, respected, and able to achieve their full potential.<p><p><a href=\"https://www.argyle.camden.sch.uk/page/?title=School+Policies&pid=13\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
+        "schoolId": 2022065,
+        "schoolName": "Brecknock Primary School",
+        "isPrimary": true,
+        "shortSlogan": "We offer a caring, creative and stimulating environment for all our children to learn together, grow and succeed as active citizens.",
+        "descriptionTitle": "We offer a caring, creative and stimulating environment for all our children to learn together, grow and succeed as active citizens.",
+        "description": "<p>We are a vibrant, inclusive school committed to fostering a love of learning and a strong sense of community. We foster creativity, critical thinking, and respect, offering a rich curriculum that includes the arts, sports, and STEAM. We provide a safe, supportive environment where every child is encouraged to achieve their potential academically, socially, and emotionally.</p>\n<br>\n\n<p>With dedicated pastoral care and a focus on wellbeing, Brecknock values the unique strengths of each student. The school\u2019s diverse, caring community is supported by skilled staff who work closely with families to ensure success for all.</p>",
+        "schoolLogo": "../assets/imgs/school/2022065_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100010",
+        "websiteLink": "https://www.brecknock.camden.sch.uk/",
+        "type": "Primary inc. Nursery",
+        "gender": "Mixed",
+        "entryForms": 1,
+        "ageRange": [
+            "2",
+            "11"
+        ],
+        "address": "Cliff Villas, Camden",
+        "lat": 51.547483,
+        "long": -0.127871,
+        "formsEntry": 1,
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW1 9AL",
+        "facilities": [
+            "Nursery provision from two",
+            " One of the largest outdoor EYFS space in Camden with pond and chickens",
+            " Scientist in Residence",
+            " Artist in Residence",
+            " Specialist music amenities",
+            " Sensory spaces",
+            " Rooftop playground",
+            " Tree lined climbing frame within a large playground",
+            " Multi Use Game Area",
+            "  Scientists and artists in residence",
+            " Staff training facilities",
+            " School and class  library",
+            " Separate dining hall"
+        ],
+        "activities": [
+            "Holiday Activities And Food Programme",
+            "Gymnastics",
+            "Coding",
+            "Chess",
+            "Wheelchair Basket Ball",
+            "Woodwork",
+            "Cooking",
+            "Art ",
+            "Mindfulness",
+            "Basketball ",
+            "Boxing",
+            "Film Club",
+            "Sewing Club",
+            "Football ",
+            "Camden Square Play Centre",
+            "Homework Club & Tutoring",
+            "Choir",
+            "Rock Band",
+            "Jazz Ensemble",
+            "Somali Club"
+        ],
+        "admissionProcess": "<p>We follow the Camden admissions procedure: <a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>\n<br>\n\n<p>Admissions into Reception are managed by Camden Education Authority. Apply directly to the school for in-year and Nursery admissions.</p>\n<br>\n\n<p>Nursery admissions are handled internally by the school, following Camden\u2019s admissions criteria. A Nursery place does not guarantee you a place in Reception.</p>\n<br>\n\n<p>The school admissions policy can be found here: <a href=\"https://brecknock.camden.sch.uk/2021/09/28/admissions/\">Brecknock Admissions Policy</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2022065_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils treat each other, staff and visitors with respect and kindness",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Leaders have developed a demanding curriculum. They have the expertise to make sure that subjects are typically planned well, and expectations are ambitious\u2026Leaders have high expectations for all, including those with special educational needs and/or disabilities (SEND).",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils take pride in their work. They trust and respect each other. This means that they work well together in lessons.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "The staff are incredibly welcoming, where there is always someone available to listen and provide guidance.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The school includes my views and my child\u2019s when considering next steps.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Staff have given me suggestions of ways to support my child at home.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "My child can take part in a range of inclusive activities.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Anti racist workshops offered meaningful discussions",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Participating in Connecting Classrooms professional development has led to the sustained enhancement of my teaching practice.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I think of Brecknock as a school that stops bullying and listens",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I love this school because we do fun things like gymnastics and maths. I like maths",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I like the school because all the teachers are kind and supportive.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I like this school because you get to go to places you have never been before",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "This is a community school. There is a strong partnership between families and the staff and the many events are valuable opportunities for us to come together",
+                    "author": "Teacher"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2022065_1.jpg",
+                "../assets/imgs/school/2022065_2.jpg",
+                "../assets/imgs/school/2022065_3.jpg",
+                "../assets/imgs/school/2022065_4.jpg",
+                "../assets/imgs/school/2022065_5.jpg",
+                "../assets/imgs/school/2022065_6.jpg",
+                "../assets/imgs/school/2022065_7.jpg",
+                "../assets/imgs/school/2022065_8.jpg",
+                "../assets/imgs/school/2022065_9.jpg",
+                "../assets/imgs/school/2022065_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "Our school is inclusive, situated in a culturally diverse area. We focus on the well-being and progress of every child and where all members of our community are of equal worth. We have high expectations of all learners and ensure that they achieve their best.",
+                    "link": "/schoolContext/index.html?schoolId=2022065"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "Our school creates a supportive environment where students develop life skills, resilience, and wellbeing. The pastoral team offers tailored support through programmes like emotional coaching and art therapy. Trained playground buddies and annual mental health training ensure a whole-school approach.",
+                    "link": "/support/index.html?schoolId=2022065"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "Our school is inclusive and celebrates the diverse backgrounds and educational needs of our children. We reject racism and promote gender equality by fostering empathy, resilience, and respect. Through high-quality, adaptive teaching and providing additional support when needed, we ensure equity in meeting the individual needs of every student.",
+                    "link": "/SEND/index.html?schoolId=2022065"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "The school is dedicated to ensuring all children progress rapidly, regardless of their starting point, with no child left behind. Provision is tailored to each child's needs, ensuring every pupil reaches their full potential.",
+                    "link": "/achievement/index.html?schoolId=2022065"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Our ambitious curriculum is exceptionally taught and carefully designed. We have expert maths and science leads accredited by NCETM and PSQM, leading learning. We are dedicated to empowering children to express and communicate their ideas. Committed to environmental literacy: our ambitious curriculum fosters academic and personal growth from the start of school.",
+                    "link": "/curriculum/index.html?schoolId=2022065"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Effectiveness of Leadership and Management",
+                    "description": "To implement our Federation Teaching and Learning Principles through professional development including instructional coaching."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Teaching & Learning",
+                    "description": "To further develop inclusive teaching strategies from EYFS to Year 6."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Effectiveness of Early Years",
+                    "description": "To maximise the power of play to support children\u2019s learning and development in the Early Years."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 308,
+            "ethnicGroupsNum": 12,
+            "languagesNum": 8,
+            "SENDPercent": 24.7,
+            "BMEPercent": 82.1,
+            "disadvantagedPupilsPercent": 64.3,
+            "englishAdditionalLangPercent": 55.5,
+            "absencePercent": 6.6,
+            "persistentAbsenteesPercent": 22.7,
+            "specificLanguages": [
+                "arabic",
+                "bengali",
+                "english ",
+                "somali",
+                "turkish",
+                "french",
+                "Albanian /Shqip",
+                "spanish"
+            ],
+            "specificEthnicities": [
+                "Somali",
+                "Bangaladeshi",
+                "Black Congolese",
+                "Black Caribbean",
+                "Other Black Africian ",
+                "Other Ethnic Group",
+                "white british",
+                "white and black Caribbean",
+                "White European",
+                "White other",
+                "Any other Asian Background",
+                "Black Somali"
+            ],
+            "specificSEND": [
+                "Specific learning difficulty",
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 100,
+            "pupilAdultRatio": 8.0,
+            "financialReserves": -13100.0,
+            "changeYearReserves": -122800.0
+        },
+        "curriculum": {
+            "curriculumAim": "<p>The key aims of Brecknock Primary\u2019s curriculum are to inspire confidence, creativity, and academic excellence in all students. We provide a broad, engaging curriculum that fosters intellectual growth while promoting respect for others, the environment, and children\u2019s rights. It promotes deep understanding of knowledge, skills and critical thinking, all underpinned by developing children\u2019s oracy skills.</p>\n<br>\n\n<p>There is a strong emphasis on ethical purpose, through a global lens, with learning leading to collective action projects in our community. Our approach encourages personal development, emotional wellbeing, and social responsibility, ensuring students are well-prepared for life and future challenges. By nurturing curiosity, resilience, and a love for learning, we aim to equip students with the skills and knowledge needed to contribute positively to society.</p>\n<br>\n\n<p>At Brecknock, we believe in empowering every child to reach their full potential in a supportive, inclusive environment.</p><p><a href=\"https://www.brecknock.camden.sch.uk/learning/curriculum-intent/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Maths",
+                "Holistic Development",
+                "Reading"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>The culture of Torriano ensures that every child is known well and valued. As a Unicef Gold Rights Respecting School, we not only teach about rights but, in addition, we are role models for each other: securing the highest levels of success and self-esteem for each individual child.</p>\n<br>\n\n<p>Our whole school question, \u2018Who do I want to be?\u2019 is underpinned by our values; we encourage our children to be empathetic, caring, and respectful. We reinforce positive behaviours to develop children\u2019s attitudes to learning and self-regulation.</p>\n<br>\n\n<p>Our school is a safe and stimulating environment for learning, playing, and growing where children know their voices are valued.</p>",
+            "bullyingProtection": "<p>Through our curriculum and behaviour policy, we promote the values of respect, tolerance, and kindness towards others. With a clear Rights Respecting School ethos, children are given agency and the tools to navigate friendships and address conflicts, with the help of adults in the school.</p>\n<br>\n\n<p>All children have the right to feel happy and safe in school. Children and families are made aware of the steps that will be taken by staff if they report bullying and understand our Children\u2019s Anti Bullying policy.</p>\n<br>\n\n<p>Bullying is never accepted and will be dealt with quickly.</p>",
+            "attendanceManagement": "<p>We want to ensure that all children are in school every day and on time, learning well and feeling happy. We work hard at making the learning relevant and engaging in a supportive and exciting environment.</p>\n<br>\n\n<p>Our dedicated federation Child & Family Support Worker and Pastoral Care team work closely with families to support regular attendance. Breakfast club, extra-curricular activities, and a broad enrichment programme ensure all pupils\u2019 interests and needs are met.</p>\n<br>\n\n<p>Every minute matters!</p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>At Brecknock, we ensure academic success for all pupils through a personalised, inclusive approach to learning. The school provides a broad and balanced curriculum that is tailored to meet the individual needs of each student, ensuring every child has the opportunity to excel. Teachers use a range of teaching strategies and resources to challenge and engage pupils at all levels. Regular assessments track progress, allowing for early identification of any gaps in learning, which are promptly addressed with high-quality teaching and targeted interventions.</p>\n<br>\n\n<p>Additionally, the school fosters a growth mindset, encouraging students to take pride in their learning journey and develop resilience. With a focus on both academic and personal development, Brecknock ensures that all pupils are well-supported and equipped to achieve their full potential.</p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2022065_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022065_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2022065_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022065_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>Brecknock School offers a tailored transition programme, that meets each child's unique needs in order to set up pupils to thrive as they transition to their new school. Brecknock emphasizes academic excellence, personal growth, and life skills through a dynamic curriculum that integrates STEAM, The Arts, oracy, and sustainability.</p>\n<br>\n\n<p>Pupils at Brecknock are taught how to be confident in their communication and take ownership of their learning, in order to have the requisite skills to be a lifelong learner. By fostering resilience, communication, and responsibility, Brecknock equips pupils to succeed in the next stage of their education and beyond, empowering them to be creative, critical thinkers and engaged, responsible citizens.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>Children across our school have a range of needs and we put inclusion at the heart of our practice. Staff are well trained to support children with additional needs, and we are proud to offer a high level of universal provision and communication-friendly classrooms.</p>\n<br>\n\n<p>All children receive the high-quality support they need, and staff have high expectations of their learning. Provision is shaped and adapted according to needs.</p>\n<br>\n\n<p>We work in partnership with parents and professionals. We value their input, with regular opportunities to feedback through inclusion forums, fairs, and coffee mornings.</p>\n<br>\n\n<p>Torriano has a Language Resource Base where children with identified communication and language needs receive specialist speech and language support, both within the base and their class.</p>",
+            "inclusivePracticeInfo": "<p>We strive to provide a high-quality education and promote success for all. Our collective mission is for all children to have a future of choice and opportunity.</p>\n<br>\n\n<p>Torriano is committed to ensuring all children make rapid progress, \u2018no child will be missed and no child will fall behind\u2019. We embody and promote equality and equity, through an inclusive approach.</p>\n<br>\n\n<p>We are a Unicef Gold Rights Respecting school where rights are at the forefront of learning and practice. With a strong focus on anti-racism, gender equality, and climate justice, our curriculum is underpinned by the Sustainable Development Goals.</p>\n<br>\n\n<p>We continue to learn, innovate, and contribute to building an anti-racist community and implement a highly representative curriculum. We believe every effort must be made to ensure that individuals within our school are valued and have the opportunity to develop their potential within a context of mutual respect, justice, and fairness.</p>"
         }
     },
     {
@@ -2001,12 +2608,12 @@
         "schoolId": 2022775,
         "schoolName": "Gospel Oak Primary School",
         "isPrimary": true,
-        "shortSlogan": "<b>This is a fun, happy, hardworking and successful school. We are proud of the breadth of educational and extra-curricular opportunities we offer.</b>",
-        "descriptionTitle": "<b>This is a fun, happy, hardworking and successful school. We are proud of the breadth of educational and extra-curricular opportunities we offer.</b>",
-        "description": "<p><b>Gospel Oak</b> is a large <b>two-form entry</b> primary school with a nursery in the London Borough of Camden. It has enjoyed a long spell of stability. There is <b>low staff turnover</b>, particularly in the context of inner London. Overall achievement has been <b>rising steadily</b> and the school is <b>very popular</b>.</p>\n<br>\n<p>Our families represent a <b>very wide cultural and socioeconomic range</b>. Just under half of the children qualify for free school meals and just over half have a first language other than English.</p>\n<br>\n<p>The school was judged to be <b>Outstanding</b> by Ofsted in <b>October 2021</b>.</p>",
+        "shortSlogan": "This is a fun, happy, hardworking and successful school. We are proud of the breadth of educational and extra-curricular opportunities we offer.\n",
+        "descriptionTitle": "This is a fun, happy, hardworking and successful school. We are proud of the breadth of educational and extra-curricular opportunities we offer.\n",
+        "description": "<p>Gospel Oak is a large two-form entry primary school with a nursery in the London Borough of Camden. It has enjoyed a long spell of stability. There is low staff turnover, particularly in the context of inner London.</p>\n<br>\n\n<p>Overall achievement has been rising steadily and the school is very popular. Our families represent a very wide cultural and socio-economic range. Just under half of the children qualify for free school meals and just over half have a first language other than English.</p>\n<br>\n\n<p>The school was judged to be Outstanding by Ofsted in October 2021.</p>",
         "schoolLogo": "../assets/imgs/school/2022775_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100025",
-        "websiteLink": "http://www.gospeloak.camden.sch.uk\n",
+        "websiteLink": "http://www.gospeloak.camden.sch.uk",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
         "entryForms": 2,
@@ -2021,16 +2628,13 @@
         "prevYearCatchmentRadius": null,
         "postCode": "NW3 2JB",
         "facilities": [
-            "Music Room & Recording Studio",
-            " Teaching Kitchen and Vegetable Plot",
-            " 2 Large Buildings with Extra Teaching Spaces",
-            " Well Equipped Outside Play Space",
-            " Rooftop Playground",
-            " Family & Adult Learning Spaces",
-            " Children\u2019s Centre Facilities",
-            " 2 & 3 Year Old Nursery",
-            " Community Hub Space",
-            " Sensory and Soft Play Rooms"
+            "ICT Suite",
+            "\nFood Technology Room",
+            "\nArt & DT Room",
+            "\nSensory Room",
+            "\nOutdoor Classroom",
+            "\nBreakfast Club",
+            "\nAfter School Club"
         ],
         "activities": [
             "Basketball",
@@ -2045,9 +2649,9 @@
             "Chess",
             "Bangla Club",
             "Turkish Club",
-            "Homework club"
+            "Homework Club"
         ],
-        "admissionProcess": "<p>We follow the London Borough of Camden's school admissions policy: <br> <a href=\"https://sites.google.com/gospeloakschool.com/gospel-oak-primary-and-nursery/organisation/admissions\" target=\"_blank\">Admissions Policy</a>.</p>",
+        "admissionProcess": "<p>We follow the London Borough of Camden's school admissions policy:</p>\n<p><a href=\"https://docs.google.com/document/d/1IquDkI7J2fVI_KbMtN6HH6MeOBUjYXo_zSzmL7DBGj8/edit\">Camden School Admissions Policy</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -2161,56 +2765,56 @@
                 {
                     "bgcolor": "#e50059",
                     "title": "School & community context",
-                    "description": "International Evening, active PTA. Regular coffee mornings for parents, Child and Family Support Worker, pastoral team.",
+                    "description": "International Evening. Active PTA. Regular coffee mornings for parents. Child and Family Support Worker. Pastoral team.",
                     "link": "/schoolContext/index.html?schoolId=2022775"
                 },
                 {
                     "bgcolor": "#ed6c26",
                     "title": "Pupil support & wellbeing",
-                    "description": "Mutual trust and respect between adults and children. Mental health lead. Strong stance on bullying. High behaviour expectations.",
+                    "description": "Inclusion team. Mutual trust and respect between adults and children. Mental health lead. Strong stance on bullying. High behaviour expectations.",
                     "link": "/support/index.html?schoolId=2022775"
                 },
                 {
                     "bgcolor": "#64007e",
                     "title": "SEND & inclusion",
-                    "description": "Our inclusive practices, welcoming environment, reflective curriculum and well trained staff ensure ALL children can thrive as Hattoneers.\u00a0",
+                    "description": "Inclusion team. Sensory Room. Mental health lead. SENDCo assistant. Tailored support and resources. Collaboration with external professionals. Inclusive environment.",
                     "link": "/SEND/index.html?schoolId=2022775"
                 },
                 {
                     "bgcolor": "#93c467",
                     "title": "Pupils' achievement",
-                    "description": "High standards for teaching and learning. Broad and balanced curriculum. Many extra-curricular opportunities. High quality EYFS provision. High standards and rates of progress in core subjects that are above national averages in KS1 and KS2.",
+                    "description": "High standards for teaching and learning. Broad and balanced curriculum. Many extra-curricular opportunities. High quality EYFS provision. High standards and rates of progress in core subjects across KS1 and KS2.",
                     "link": "/achievement/index.html?schoolId=2022775"
                 },
                 {
                     "bgcolor": "#4764ff",
                     "title": "Curriculum, teaching & learning",
-                    "description": "Contexts for learning that are reflected in a high quality, interactive learning environment throughout the school. Broad and relevant curriculum. Outstanding quality of teaching and learning.",
+                    "description": "Contexts for learning that are reflected in a high quality, interactive learning environment throughout the school. Broad and relevant curriculum. Outstanding quality of teaching and learning. High standards and rates of progress in core subjects that are above national averages in KS2.",
                     "link": "/curriculum/index.html?schoolId=2022775"
                 }
             ],
             "schoolPriorities": [
                 {
                     "bgcolor": "#e50059",
-                    "title": "Closing disadvantaged gap",
-                    "description": "<p>Address challenges faced by <b>disadvantaged children</b>, including a <b>lack of readiness</b> for learning, <b>low parental engagement</b> due to distrust of school or different values, and potential unconscious biases among teachers.</p>"
+                    "title": "Closing the gap between disadvantaged and non disadvantaged children",
+                    "description": "Closing the attainment gap requires addressing various challenges faced by disadvantaged children, including a lack of readiness for learning, low parental engagement due to distrust of school or different values and potential unconscious biases among teachers, all of which contribute to perpetuating inequalities in education."
                 },
                 {
                     "bgcolor": "#ed6c26",
                     "title": "Raising standards in writing",
-                    "description": "<p>Set up <b>accurate assessment practices</b> to inform targeted planning and teaching strategies aimed at <b>addressing gaps</b>, necessitating a more rigorous approach to teaching and <b>embedding SPaG</b> within curriculum units.</p>"
+                    "description": "Data indicates a discrepancy in writing attainment compared to other subjects, emphasising the need for accurate assessment practices to inform targeted planning and teaching strategies aimed at addressing gaps, necessitating a more rigorous approach to teaching and embedding SPaG within curriculum units to enhance application of knowledge in writing tasks."
                 },
                 {
                     "bgcolor": "#4764ff",
-                    "title": "SEND interventions",
-                    "description": "<p>Address <b>lack of structured intervention programs</b>, varying levels of TA training, <b>time constraints</b> for TAs to prepare interventions, and a <b>lack of clarity on appropriate interventions for identified needs</b>.</p>"
+                    "title": "Developing SEND interventions",
+                    "description": "Support for the majority of children in maintaining or catching up is hindered by a lack of structured intervention programs, varying levels of TA training, time constraints for TAs to prepare interventions and a lack of clarity on appropriate interventions for identified needs, resulting in inconsistent delivery and unclear impact, alongside missed opportunities for teachers to engage directly in small group work."
                 }
             ]
         },
         "statistics": {
             "pupilsNum": 447,
-            "ethnicGroupsNum": null,
-            "languagesNum": null,
+            "ethnicGroupsNum": 9,
+            "languagesNum": 13,
             "SENDPercent": 13.0,
             "BMEPercent": 63.3,
             "disadvantagedPupilsPercent": 36.1,
@@ -2218,10 +2822,30 @@
             "absencePercent": 6.3,
             "persistentAbsenteesPercent": 20.9,
             "specificLanguages": [
-                ""
+                "Albanian/Shqip",
+                "Arabic",
+                "Bengali",
+                "Chinese",
+                "English",
+                "French",
+                "Greek",
+                "Italian",
+                "Pashto",
+                "Portuguese",
+                "Russian",
+                "Somali",
+                "Spanish"
             ],
             "specificEthnicities": [
-                ""
+                "Any other mixed background",
+                "Albanian/Kosovan",
+                "Bangladeshi",
+                "Somali",
+                "Other Ethnic Group",
+                "White British",
+                "White and Asian",
+                "White and Black Caribbean",
+                "White Other"
             ],
             "specificSEND": [
                 "Specific learning difficulty",
@@ -2235,11 +2859,11 @@
             "changeYearReserves": 97400.0
         },
         "curriculum": {
-            "curriculumAim": "<p>At Gospel Oak, our curriculum embraces a <b>topic-based approach</b> to teaching several subjects, building <b>connections</b> between <b>different areas</b> of learning and <b>deepening understanding</b>. While science, history, geography, art and design & technology follow this method, subjects like English, maths, computing, languages, music, PSHE, PE, & RE are taught <b>separately</b>, with <b>relevant links</b> made wherever possible.</p>\n\n<p>Our curriculum also cultivates an awareness of <b>life in modern Britain</b>. <b>Democracy</b> thrives within our school, with avenues for <b>pupil voice</b> through the <b>Junior Leadership Team</b> and <b>surveys</b>. We reinforce the importance of laws through routines, assemblies and behaviour support, teaching children about their <b>value, responsibilities and consequences</b>.</p>\n\n<p>In our safe and supportive environment, children are encouraged to <b>make choices</b>, exercise their rights, and develop cooking skills with a focus on <b>healthy eating</b>.</p>\n\n<p><b>Mutual respect is central to our ethos</b>, evident in our mission statement and relationships across the school. <b>Tolerance and understanding</b> are promoted through exploring <b>cultural diversity</b> in various subjects and inviting contributions from different <b>faiths</b> or <b>religions</b> to enrich learning experiences.</p><p><a href=\"https://sites.google.com/gospeloakschool.com/gospel-oak-primary-and-nursery/curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumAim": "<p>At Gospel Oak, our curriculum embraces a topic-based approach to teaching several subjects, building connections between different areas of learning and deepening understanding. While science, history, geography, art and design & technology follow this method, subjects like English, maths, computing, languages, music, PSHE, PE, and RE are taught separately, with relevant links made wherever possible.</p>\n<br>\n\n<p>Our curriculum also cultivates an awareness of life in modern Britain. Democracy thrives within our school, with avenues for pupil voice through the Junior Leadership Team and surveys. We reinforce the importance of laws through routines, assemblies and behaviour support, teaching children about their value, responsibilities, and consequences.</p>\n<br>\n\n<p>In our safe and supportive environment, children are encouraged to make choices, exercise their rights, and develop cooking skills with a focus on healthy eating. Mutual respect is central to our ethos, evident in our mission statement and relationships across the school. Tolerance and understanding are promoted through exploring cultural diversity in various subjects and inviting contributions from different faiths or religions to enrich learning experiences.</p>",
             "curriculumStrengths": [
-                "Music",
-                "Computing",
-                "Sport"
+                "The school's computing curriculum is a significant strength because it is comprehensive, inclusive, and forward-thinking. It equips children with essential digital literacy, coding, and problem-solving skills, ensuring they are confident, competent users of technology. The focus on safe and responsible use of technology helps develop a strong digital citizenship ethos. Integrating computing across subjects enhances engagement and supports wider learning goals. The school's approach, including regular assessments and home access to online learning platforms, ensures consistent progress monitoring and strong home-school connections, preparing pupils well for future academic and real-world challenges.",
+                "The music curriculum at Gospel Oak is a key strength due to its comprehensive, inclusive, and progressive approach. It provides children with opportunities to engage in high-quality music education, learn instruments, and participate in live music experiences. With specialist teaching and tailored support, all pupils, including those with SEND, can access and excel in music. The curriculum fosters creativity, self-expression, and ensemble skills, developing both individual and group musicianship. Regular performances and strong links with Camden Music enhance community involvement. The use of technology and varied assessment methods ensures ongoing progress and a rich, dynamic learning experience for all children.",
+                "The PE curriculum at Gospel Oak is a key strength due to its comprehensive and inclusive approach, which promotes both physical and mental well-being. It offers a wide range of activities that cater to diverse interests, from gymnastics and dance to competitive sports. The curriculum encourages children to develop essential skills, including teamwork, resilience, and sportsmanship while fostering a lifelong positive attitude toward physical activity. Specialist teaching and partnerships with local sports organisations enhance the quality of provision, and consistent assessment practices ensure that every child makes progress. The programme also strengthens community ties through events like sports fixtures and fun runs."
             ],
             "topSubjects": [
                 ""
@@ -2248,12 +2872,12 @@
             "strengths": "temp"
         },
         "support": {
-            "childSafetyAndHappiness": "<p>We ensure the safety and happiness of our pupils through <b>comprehensive safeguarding</b> measures, <b>nurturing</b> environments, and fostering a <b>supportive community</b> where every child feels valued and supported in their <b>emotional well-being</b>.</p>",
-            "bullyingProtection": "<p>Gospel Oak implements <b>proactive anti-bullying policies</b> and fosters a culture of <b>empathy, respect and open communication</b> among students, staff, and parents to effectively address and prevent bullying incidents.</p><p><a href=https://docs.google.com/document/d/1UHQ64TZbeg19cCY6ZFzxVL0i-fGvuE6o-MhBMHmB4B0/edit target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
-            "attendanceManagement": "<p>Gospel Oak school promotes regular attendance through <b>engaging learning experiences</b>, <b>proactive communication</b> with families, and <b>targeted interventions</b> to support students and address any barriers to attendance, ensuring every child has the opportunity to <b>benefit fully</b> from their education.</p>\n\n<p>Our <b>pastoral support team</b> and <b>Child and Family Support Worker</b> work closely with families to emphasise the importance of consistent school attendance.</p><p><a href=\"https://docs.google.com/document/d/1SXGolwV98DsW_gq8K8UOaCMwhtQK7JsfIns1MmlVeZc/edit\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+            "childSafetyAndHappiness": "<p>We ensure the safety and happiness of our children through comprehensive safeguarding measures, nurturing environments, and fostering a supportive community where every child feels valued and supported in their emotional well-being.</p>",
+            "bullyingProtection": "<p>Gospel Oak implements proactive anti-bullying policies and promotes a culture of empathy, respect and open communication among children, staff and parents to effectively address and prevent bullying incidents.</p>",
+            "attendanceManagement": "<p>Gospel Oak school promotes regular attendance through engaging learning experiences, proactive communication with families and targeted interventions to support children and address any barriers to attendance, ensuring every child has the opportunity to benefit fully from their education.</p>\n<br>\n\n<p>Our pastoral support team and Child and Family support worker work closely with families to emphasise the importance of consistent school attendance.</p><p><a href=\"https://docs.google.com/document/d/1SXGolwV98DsW_gq8K8UOaCMwhtQK7JsfIns1MmlVeZc/edit?tab=t.0\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
         },
         "achievement": {
-            "academicChildSuccess": "<p>Gospel Oak offers a <b>personalised learning experience</b> to all pupils. We provide additional support where needed through classroom-based and small group interventions. We foster a <b>positive and inclusive learning environment</b> and promote a <b>growth mindset</b> approach that encourages resilience and <b>continuous improvement</b>.</p>",
+            "academicChildSuccess": "<p>Gospel Oak offers a personalised learning experience to all children. We provide additional support where needed through classroom-based and small group interventions.</p>\n<br>\n\n<p>We cultivate a positive and inclusive learning environment and promote a growth mindset approach that encourages resilience and continuous improvement.</p>",
             "chartsPerform": [
                 {
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
@@ -2280,11 +2904,11 @@
                     "chartDescription": null
                 }
             ],
-            "wherePupilsGoAfter": "<p>Gospel Oak equips pupils for success beyond their time with us with <b>tailored guidance</b>, <b>transferable skills</b> and a nurturing environment that fosters independence, resilience, and a <b>lifelong love for learning</b>.</p>"
+            "wherePupilsGoAfter": "<p>Gospel Oak equips children for success beyond their time with us with tailored guidance, transferable skills and a nurturing environment that fosters independence, resilience and a lifelong love for learning.</p>"
         },
         "SEND": {
-            "sendSupportInfo": "<p>SEND teaching at Gospel Oak Primary School is <b>strong</b>, with a clear commitment to meeting <b>individual needs</b> through well-targeted support. The school promotes an <b>inclusive environment</b> where pupils with SEND receive <b>tailored interventions</b> and make good progress.</p>\n\n<p>Staff collaborate effectively to ensure these pupils access the <b>full curriculum</b>, and improvements have been made in integrating <b>support staff</b> into lesson planning to enhance the quality of provision.</p>\n\n<p>Leadership is dedicated to inclusivity, ensuring that children with SEND feel well-supported and included, with continued efforts to refine and strengthen the support to <b>help pupils thrive both academically and socially</b>.</p><p><a href=\"https://sites.google.com/gospeloakschool.com/gospel-oak-primary-and-nursery/curriculum/sen-inclusion\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
-            "inclusivePracticeInfo": "<p><a href=\"https://sites.google.com/gospeloakschool.com/gospel-oak-primary-and-nursery/organisation/information/policies\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+            "sendSupportInfo": "<p>Gospel Oak provides tailored support and resources, collaborates closely with external professionals and nurtures an inclusive environment where children with special educational needs receive personalised attention and opportunities to thrive academically and socially.</p><p><a href=\"https://docs.google.com/document/d/11WLUWqG7kz0lKVgajaE37EImwRgFCimE80Mmbyj6xns/edit\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>At Gospel Oak, inclusive practice is integral to our ethos. Every teacher is responsible for SEND, focusing on early identification and personalised support. Lessons are differentiated to ensure full participation, and pupil progress is closely monitored.</p>\n<br>\n\n<p>Our SENDCo coordinates tailored support, working with the Inclusion Team and external specialists (e.g., Speech and Language Therapists, Educational Psychologists). Transition support is comprehensive, ensuring continuity across year groups and schools.</p>\n<br>\n\n<p>Staff receive regular training, and parents are actively involved in planning and reviews. Through Quality First Teaching and reasonable adjustments, we create a welcoming environment where every child can succeed, regardless of their starting point.</p>"
         }
     },
     {
@@ -4259,6 +4883,246 @@
         }
     },
     {
+        "schoolId": 2022436,
+        "schoolName": "Netley Primary School",
+        "isPrimary": true,
+        "shortSlogan": "Netley is a happy, rights respecting school. Everyone takes steps to better themselves and their community as they become responsible, global citizens.",
+        "descriptionTitle": "Netley is a happy, rights respecting school. Everyone takes steps to better themselves and their community as they become responsible, global citizens.",
+        "description": "<p>Netley Primary School is a happy, vibrant, and inclusive place to learn and grow. It offers a nurturing environment for children 2-11 years.</p>\n<br>\n\n<p>Children experience a broad and rich primary curriculum with individualised support for those with special educational needs. The UNICEF Rights Respecting Ethos is deeply embedded at Netley, placing respect at the heart of everything it does.</p>\n<br>\n\n<p>The school takes enormous pride in fostering a sense of community and celebrating diversity. Its commitment to academic and emotional growth empowers children to achieve their potential and thrive as they complete the first stages of their educational journey.</p>",
+        "schoolLogo": "../assets/imgs/school/2022436_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100018",
+        "websiteLink": "https://www.netley.camden.sch.uk/",
+        "type": "Primary inc. Nursery",
+        "gender": "Mixed",
+        "entryForms": 2,
+        "ageRange": [
+            "2",
+            "11"
+        ],
+        "address": "74 Stanhope Street, Camden",
+        "lat": 51.52771,
+        "long": -0.140616,
+        "formsEntry": 2,
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW1 3EX",
+        "facilities": [
+            "Sensory rooms",
+            " Whole-class music tuition",
+            " Music studio",
+            " Conversation Station",
+            " Reading Volunteers",
+            " Swimming lessons",
+            " Outdoor learning environments",
+            " Calm corners"
+        ],
+        "activities": [
+            "Residential trips (yr 5 and yr 6)",
+            "Careers Fortnight",
+            "Annual Camden Music choir festival",
+            "Camden School Sports Association league competitions",
+            "After-School clubs",
+            "Class performances",
+            "Partnerships: The Place (London Contemporary Dance School)",
+            " The Royal Academy of Music",
+            " Orchestra of the Age of Enlightenment"
+        ],
+        "admissionProcess": "<p>Netley abides by the admissions criteria of Camden Council. Please refer to the booklet 'Starting School in Camden' which can be obtained from the council.</p>\n<br>\n\n<p>The school manages its own admissions to Early Education for Two year-olds and the Nursery for Three year-olds. Please note that attendance at two year-old provision guarantees a place in Nursery, if places are available. However, attendance at our Nursery does not guarantee admission to the Reception class.</p>\n<br>\n\n<p>Children who attend Nursery at any Camden school need to apply for a Reception class place through Camden's Central Admissions Website. <a href=\"https://www.eadmissions.org.uk/\" target=\"_blank\">eAdmissions</a>.</p>\n<br>\n\n<p>Admissions to Woodlands need an EHCP in place and is strictly through consultation with the Camden SEND team. We are unable to admit any child into our centre via the Netley admissions criteria.</p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2022436_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "\"I feel Netley is a welcoming, inclusive school with high standards in all areas. My son is very happy and thriving in this school.\"",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "\"I feel that Mr Morris and the staff there do really care about the children's education and well being. It\u2019s not just a job to them. I leave them in school without a single worry.\"",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "\"The school and the staff are just amazing, caring and supportive. I wouldn\u2019t change this school for any other.\"",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "\"Netley makes a significant difference to pupils and their families. It is a haven within the community where everyone is valued and well looked after.\"",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "\"The school sets high expectations for all pupils to achieve the very best outcomes.\"",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "\"The school is unwavering in its work to find teaching approaches that help every pupil work towards the same ambitious curriculum goals.\"",
+                    "author": "Ofsted"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2022436_1.jpg",
+                "../assets/imgs/school/2022436_2.jpg",
+                "../assets/imgs/school/2022436_3.jpg",
+                "../assets/imgs/school/2022436_4.jpg",
+                "../assets/imgs/school/2022436_5.jpg",
+                "../assets/imgs/school/2022436_6.jpg",
+                "../assets/imgs/school/2022436_7.jpg",
+                "../assets/imgs/school/2022436_8.jpg",
+                "../assets/imgs/school/2022436_9.jpg",
+                "../assets/imgs/school/2022436_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "Netley's position within the community is very special to pupils and their families. Children, parents and carers are excellent ambassadors, upholding the school's values and sharing belief that behaving well and respecting others makes the world a better place.",
+                    "link": "/schoolContext/index.html?schoolId=2022436"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "Music therapy, nurture sessions; Netley's Got Talent; class worry boxes; art therapy; Compassionate Minds; pupil voice; restorative conversations; playground buddies;  the conversation station; just some of the ways in which we support pupil wellbeing at Netley.",
+                    "link": "/support/index.html?schoolId=2022436"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "We are an inclusive school through and through. Teachers and the inclusion team work incredibly hard to ensure that pupils with special educational needs not only access the curriculum, with adaptions, along with their peers, but thrive.",
+                    "link": "/SEND/index.html?schoolId=2022436"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "Our whole school question: \"Who do I want to be?\" encourages discussion around the qualities needed for success. This develops positive learning attitudes and aspirations with children stating that to be successful they must be respectful, determined, resilient, kind, brave.",
+                    "link": "/achievement/index.html?schoolId=2022436"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "The curriculum is well planned and ever evolving. Subject leaders ensure progression and support teaching staff to acquire and maintain strong and secure subject knowledge. They adjust learning effectively to ensure that all pupils access the curriculum and achieve success.",
+                    "link": "/curriculum/index.html?schoolId=2022436"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Improving outcomes in communication: spoken, written and early mark making",
+                    "description": "Our aim here is to empower children to be confident oral and written communicators"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Developing great teaching",
+                    "description": "Through carefully planned professional development, our aim is to support teachers to enable pupils to retrieve prior knowledge and make learning stick"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Maximising impact on children",
+                    "description": "We are developing strategies that will support children to become independent learners; adults give just the right amount of help to enable this"
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 381,
+            "ethnicGroupsNum": 7,
+            "languagesNum": 5,
+            "SENDPercent": 36.5,
+            "BMEPercent": 87.4,
+            "disadvantagedPupilsPercent": 65.2,
+            "englishAdditionalLangPercent": 60.9,
+            "absencePercent": 7.3,
+            "persistentAbsenteesPercent": 26.9,
+            "specificLanguages": [
+                "Albanian",
+                "Arabic",
+                "Bengali",
+                "English",
+                "Somali"
+            ],
+            "specificEthnicities": [
+                "White British",
+                "Bangladeshi",
+                "Somalian",
+                "Black African",
+                "Any Other Mixed Background",
+                "Other Black African",
+                "Other Ethnic Group"
+            ],
+            "specificSEND": [
+                "Specific learning difficulty",
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 96,
+            "pupilAdultRatio": 7.3,
+            "financialReserves": 807600.0,
+            "changeYearReserves": -155300.0
+        },
+        "curriculum": {
+            "curriculumAim": "<p>We do not simply say that our curriculum is broad and balanced. It truly is. Most importantly, it is designed to inspire a love of learning, meeting the diverse needs of our pupils and providing rich opportunities for personal growth.</p>\n<br>\n\n<p>Longstanding partnerships with organisations such as The Francis Crick Institute, The Royal Academy of Music and the London School of Contemporary Dance broaden the horizons for our children. Our annual events; The Exhibition, Poetry Recital; Talent Show and Careers Fortnight give all children the opportunity to develop their talents to the full.</p><p><a href=\"https://www.netley.camden.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Inclusive",
+                "Underpinned by secure subject knowledge and professional development",
+                "Responsive to children's needs "
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>We create a happy and respectful school environment through our commitment to the UNICEF Rights Respecting Schools ethos. Children are proud of their rights respecting behaviour, which is celebrated. They are supported to use the language of the UNCRC to ensure that they and their peers enjoy access to their rights.</p>\n<br>\n\n<p>Our commitment to safeguarding fosters a culture where pupils feel secure, confident to raise concerns, and assured that they will be taken seriously; pupils' voices are valued and respected. Staff are trained to handle concerns effectively and sensitively.</p>",
+            "bullyingProtection": "<p>We are committed to providing a caring, friendly, respectful and safe learning environment for all of our pupils and staff. We promote an inclusive ethos that focuses on respecting one another and celebrating difference and diversity.</p>\n<br>\n\n<p>Bullying and prejudice-based language of any kind involving pupils, adults towards pupils, staff or parents is unacceptable and will not be tolerated at our school.</p>",
+            "attendanceManagement": "<p>Attendance matters. We have high expectations around attendance and our families know this. We monitor attendance very carefully and communicate concerns with families as soon as they arise.</p>\n<br>\n\n<p>Our Child and Family Support Worker meets with parents and carers to help them improve their child's attendance. There are rewards to incentivise children, including the chance to win a brand new bicycle at the end of the year for anyone with attendance over 96%.</p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>High quality teaching combined with rigorous assessment means that children make excellent progress from their starting points. Teachers monitor pupils' understanding and progress daily and measure attainment against national standards.</p>\n<br>\n\n<p>Reading, writing and maths are assessed in termly progress meetings. Information from those meetings is used to create targeted interventions for pupils in danger of falling behind. Assessment is, of course, also measured via statutory tests.</p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2022436_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022436_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2022436_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022436_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>Our key three drivers all empower children to have high aspirations for themselves. The UNICEF Rights Respecting School Ethos; our whole-school question 'Who do I want to be?'; and our curriculum driver 'Someone like me', which puts representation at the heart of children's experiences while at our school.</p>\n<br>\n\n<p>Whether education partners are visiting school, children are going on trips, or learning about significant figures, we ensure that they see people like them and their families positively represented in society. We believe that children need to see it in order to know that one day they could be it.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>At Netley Primary School we work tirelessly to ensure that children with special educational needs access their right to the best possible education. Our inclusion team and our teachers are committed to developing the skills and knowledge necessary to teach children with SEND effectively.</p>\n<br>\n\n<p>A deep understanding of children's unique characteristics, interests, abilities, and learning needs supports us to tailor learning while maintaining high aspirations.</p>",
+            "inclusivePracticeInfo": "<p>We are known for our inclusive approach to primary education. Children from Woodlands Centre for Autism and Robson House Primary Pupil Referral Unit learn and play alongside children from the mainstream school whenever and as often as is appropriate.</p>\n<br>\n\n<p>Within the mainstream school, children with complex special needs also play and learn alongside their peers whilst having access to specialised interventions and resources.</p>"
+        }
+    },
+    {
         "schoolId": 2024166,
         "schoolName": "Parliament Hill School",
         "isPrimary": false,
@@ -5485,6 +6349,605 @@
         }
     },
     {
+        "schoolId": 2022507,
+        "schoolName": "Richard Cobden Primary School",
+        "isPrimary": true,
+        "shortSlogan": "A nurturing and inclusive school in the heart of Camden Town. We have a strong focus on the well-being and achievement of every child.",
+        "descriptionTitle": "A nurturing and inclusive school in the heart of Camden Town. We have a strong focus on the well-being and achievement of every child.",
+        "description": "<p>Our mission is to provide every child with a high quality education embedded in an inspiring and creative curriculum and enriched with extra-curricular opportunities to stretch their individual talents and interests. We are proud of the creativity and rigiour of our curriculum which has a focus on disciplinary thinking across all subjects.</p>\n<br>\n<p>We offer specialist teaching in PE and Music and have a strong focus on oracy.</p>\n<br>\n<p>We teach our children to use their voices to think, learn, reason, explore, create and influence. Our inclusivity and growth-mindset approach to learning supports our children to reach their fullest potential.</p>",
+        "schoolLogo": "../assets/imgs/school/2022507_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100022",
+        "websiteLink": "https://www.rcobden.camden.sch.uk/",
+        "type": "Primary inc. Nursery",
+        "gender": "Mixed",
+        "entryForms": 2,
+        "ageRange": [
+            "3",
+            "11"
+        ],
+        "address": "Camden Street",
+        "lat": 51.535595,
+        "long": -0.13639,
+        "formsEntry": 2,
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW1 0LL",
+        "facilities": [
+            "Breakfast club",
+            " Library",
+            " Music room",
+            " Growing garden",
+            " Outside role-play area",
+            " Sports pitch"
+        ],
+        "activities": [
+            "Gardening",
+            "Choir",
+            "Drumming",
+            "Yoga",
+            "Computer Coding",
+            "Sports Clubs ",
+            "Stroytelling Club",
+            "After school playcentre collection with Fairfield and Plot 10"
+        ],
+        "admissionProcess": "<p>Richard Cobden School abides by the admissions criteria of Camden Local Authority. Details can be found on the websites linked below:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\">Camden Primary Admissions</a></p>\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">In-Year School Admissions Policy</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2022507_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils are very happy here. They told us that all the adults who work with them are kind and helpful. The nurturing spirit of the school helps pupils to excel in all aspects of school life.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Richard Cobden is like a big family. It's a very cosmopolitan and inclusive school. ",
+                    "author": "School Staff"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "We have a wonderful staff team full of friendly faces! Everyone works incredibly hard for our children here. ",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Our school runs on a strong teamwork and listening ethos. ",
+                    "author": "School Staff"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils feel safe. They know bullying is not tolerated. If bullying were to happen, pupils know exactly where to turn for support. Pupils' behaviour is excellent too, in classrooms and at playtimes. Pupils know that behaving sensibly helps them to get the most of their education. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Books and reading for pleasure have a high profile in the school. There is a clear balance between promoting a love of reading and developing strong reading skills to support the development of fluent readers.  ",
+                    "author": "Challenge Partners"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The diversity of staff and pupils in Richard Cobden makes it very special as it brings an inclusive learning environment.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "The work which pupils produce is of the highest qualiy across all subjects. Displays in classrooms and corridors celebrate this. Leaders, staff and pupils are rightly proud of the learning that takes place here.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I like that everyone is different here. I mean different faces, different hair, different smiles. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "We do really fun things like art and sports at school and our teachers look after us. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "We have a wonderful school community. The teachers and leadership are very approachable and make you feel valued.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Leaders' ambitions for pupils are very high. All staff work together with a shared aim to provide an exceptional education. They expect the best of their pupils. This encourages pupils' strong commitment to their own learning.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "People are very kind to me at school so that's why I like coming to school even when I have a cold.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I like that everyone is respected and it feels like a second family.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "The school has embedded an engaging, knowledge-rich and progressive curriculum. Teachers balance the teaching of substantive knowledge with teaching children the enquiry skills which deepen their ability to think critically, creatively, ask perceptive questions and analyse evidence. ",
+                    "author": "Challenge Partners"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2022507_1.jpg",
+                "../assets/imgs/school/2022507_2.jpg",
+                "../assets/imgs/school/2022507_3.jpg",
+                "../assets/imgs/school/2022507_4.jpg",
+                "../assets/imgs/school/2022507_5.jpg",
+                "../assets/imgs/school/2022507_6.jpg",
+                "../assets/imgs/school/2022507_7.jpg",
+                "../assets/imgs/school/2022507_8.jpg",
+                "../assets/imgs/school/2022507_9.jpg",
+                "../assets/imgs/school/2022507_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "We are a community school and our families come from the very diverse local community and this adds significantly to the vibrancy of our school. Our staff have high aspirations for our pupils and our pupils are keen to learn which results in a hardworking, fun loving school environment.",
+                    "link": "/schoolContext/index.html?schoolId=2022507"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "Our school is an inclusive and happy school where we all work hard to do our very best. We have a nurturing ethos based in positive relationships. We advocate for wellbeing and Pupil Voice. Our School Councillors and Year 5 and 6 prefects help staff to support all children in our school to feel valued, heard and understood.",
+                    "link": "/support/index.html?schoolId=2022507"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "We ensure our pupils have access to expert teaching and a range of interventions in school to support them in their individual learning journies. We also work with a wide range of outside professionals to ensure each child has their individual needs met.",
+                    "link": "/SEND/index.html?schoolId=2022507"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "Our highly skilled staff ensure that our pupils are effectively challenged and supported to meet their fullest potential. This means that our pupils make exceptional progress based on their starting points. By the end of KS2, we achieve above National levels across all subject areas. The majority of our pupils move on to local secondary schools such as Regents High, Maria Fidelis and Haverstock.",
+                    "link": "/achievement/index.html?schoolId=2022507"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Our pupils are supported to be resilient and curious learners who ask questions and engage with the world around them. Our curriculm has a focus on disciplinary thinking and creativity. We engage with sporting events, concerts, performances, exhibitions and competitions throughout the year.",
+                    "link": "/curriculum/index.html?schoolId=2022507"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "To improve speech, language and communication skills across the EYFS.",
+                    "description": "We are enagaged with the Camden Kidstalk project and follow the best evidence based practice to support our children in Early Years to develop strong speech, language and communication skills. Our children make excellent progress based on their starting points."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "To improve phonics outcomes at KS1.",
+                    "description": "We have a specialist reading and SEND teacher who works alongside our class teachers, Early Reading Leader and SENDCos to support children in KS1 to make accelerated progress in reading based on their starting points. "
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "To improve editing skills in KS2.",
+                    "description": "Our writing curriculum is anchored in a diverse range of high quality texts and is carefully structured to engage and inspire our learners. We follow best evidence based practice to support our children to edit and improve their writing."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 412,
+            "ethnicGroupsNum": 7,
+            "languagesNum": 10,
+            "SENDPercent": 20.4,
+            "BMEPercent": 97.8,
+            "disadvantagedPupilsPercent": 56.5,
+            "englishAdditionalLangPercent": 91.3,
+            "absencePercent": 5.0,
+            "persistentAbsenteesPercent": 11.9,
+            "specificLanguages": [
+                "Bengali",
+                "Somali",
+                "Arabic",
+                "Farsi",
+                "Urdu",
+                "French",
+                "Italian",
+                "Turkish",
+                "Kurdish",
+                "Albanian"
+            ],
+            "specificEthnicities": [
+                "Bangladeshi",
+                "Somali",
+                "White British",
+                "White and Black Carribean",
+                "White and Asian",
+                "White European",
+                "White Other"
+            ],
+            "specificSEND": [
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 92,
+            "pupilAdultRatio": 9.2,
+            "financialReserves": 410100.0,
+            "changeYearReserves": -94800.0
+        },
+        "curriculum": {
+            "curriculumAim": "<p>At Richard Cobden, learning is our priority; whether it is academic learning, learning in the Arts and Physical Education, learning to be a good citizen, learning to triumph over challenges, or learning to respect ourselves and others.</p>\n<br>\n\n<p>We provide our children with an engaging, knowledge-rich, and progressive curriculum. Our curriculum has been purposefully designed to ignite children\u2019s interests and connect them to the world around them.</p>\n<br>\n\n<p>Substantive and disciplinary knowledge has been identified for each subject area and carefully sequenced to allow children to deepen their subject knowledge and develop disciplinary skills.</p>\n<br>\n\n<p>Our curriculum is enriched with well-planned trips, workshops, and experiences which are closely linked to the curriculum objectives. These ensure that our children develop the confidence to connect with the opportunities, experiences, and resources within our locality and beyond \u2013 enabling them to view themselves as important contributors and influencers of their environment.</p><p><a href=\"https://www.rcobden.camden.sch.uk/page/?title=Curriculum+Statement&pid=48\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Oracy",
+                "Music",
+                "Sports"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>We place a high priority on helping our pupils to develop as confident and responsible citizens. In doing this, it is very important to us that our pupils have a clear understanding of their rights and responsibilities.</p>\n<br>\n\n<p>This is achieved through the values of our school which are underpinned by the fundamental British values of democracy, the rule of law, individual liberty, mutual respect, and tolerance.</p>\n<br>\n\n<p>Our robust safeguarding practices permeate everything we do as a school and ensure our children are protected and feel safe. We prioritise building positive relationships that make our children feel empowered, valued, and supported to meet their fullest potential.</p>\n<br>\n\n<p>We are proud to offer a free breakfast to all children at our school and have developed a programme of therapeutic provision in partnership with a range of specialist practitioners to ensure our children who need to access further support have their needs met.</p><p><a href=\"https://www.rcobden.camden.sch.uk/_site/data/files/policies/4D67436AAA0661F7C284DB88151D4DA1.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>Bullying is never tolerated, and we understand the serious impact that bullying has on the way children and young people develop and learn. We are a telling school, which means that anyone who knows that bullying is happening is expected to speak out and get help.</p>\n<br>\n\n<p>We teach children about respectful relationships, trust, and kindness, and work with them to ensure they understand the importance of making the right choices and the impact that words and actions can have on others.</p><p><a href=https://www.rcobden.camden.sch.uk/_site/data/files/policies/89DF4CCE30031402A96D173D9EBF6351.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>Our Senior Leadership Team and Family Support Worker work closely with families to support excellent attendance. Our aim is to ensure that all of our pupils are able to maximise the opportunities offered to them at school.</p>\n<br>\n\n<p>We encourage all members of the school community to strive for excellence and support high levels of attendance through our nurturing ethos, engaging curriculum, and extra-curricular offer.</p><p><a href=\"https://www.rcobden.camden.sch.uk/_site/data/files/policies/6CFCE56D5EEE048176E725593D0E4C96.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>We offer our children high-quality teaching rooted in best evidence-based practice. We foster a positive learning environment and carefully plan enrichment and extra-curricular opportunities to inspire and motivate our children to fully engage with their learning.</p>\n<br>\n\n<p>We help our children to practise their skills over time, and our targeted programme of interventions, supported by our specialist teachers, ensures our children achieve meaningful success, make excellent progress, and feel proud of their achievements.</p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2022507_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022507_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2022507_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022507_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>We teach our children to be resilient and resourceful learners who rise to challenges and manage problems. We foster a growth-mindset ethos, and our children understand that mistakes help us to learn and improve our skills.</p>\n<br>\n\n<p>Our commitment to high achievement and the development of excellent oracy skills means our children know the power of their voice and have the words and confidence to question and reason.</p>\n<br>\n\n<p>We prepare our children to be active citizens and lifelong learners who engage with and shape the world around them.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>Our SEND provision is strong, and all staff work hard to ensure inclusion of all pupils at our school. We ensure high-quality teaching is provided for all children and are committed to providing equal opportunities for every child in our care.</p>\n<br>\n\n<p>We offer a safe and fully equipped learning environment which caters to the needs of every child as an individual. Our SENDCos and specialist intervention teachers work alongside our class teachers and learning support assistants to provide targeted interventions, support, and resources to help our children overcome any challenges to learning they may experience.</p>\n<br>\n\n<p>We work in partnership with a range of professionals and services to ensure our children who require more individualised, intensive, and specialised programmes of learning and support have their needs met.</p><p><a href=\"https://www.rcobden.camden.sch.uk/_site/data/files/policies/241336C23159F6F7540DB5964158BFCB.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>We believe in high achievement and social and emotional wellbeing for all our pupils. All groups of children make excellent progress at our school, and our specialist maths, literacy, and SEND intervention teachers work in partnership with our class teachers to identify and support our children to meet their fullest potential.</p>"
+        }
+    },
+    {
+        "schoolId": 2023391,
+        "schoolName": "Rosary Catholic Primary School",
+        "isPrimary": true,
+        "shortSlogan": "Rosary - a warm, caring school in the heart of NW3 where children are loved, valued and challenged.",
+        "descriptionTitle": "Rosary - a warm, caring school in the heart of NW3 where children are loved, valued and challenged.",
+        "description": "<p>At Rosary School, we are committed to <strong>'Building God\u2019s Family of Loving and Learning'</strong>, where faith and compassion are at the heart of all we do. Our children are encouraged to develop a growth mindset and believe in themselves and others.</p>\n\n<p>All are welcome at Rosary \u2013 inclusion and diversity are embraced to ensure that every child feels valued and supported. Our passionate and invested staff team work hard to inspire ambition, resilience, and a lifelong love of learning in every child.</p>\n\n<p>Through strong parent partnerships and positive working relationships, we create a nurturing environment that fosters lasting memories, meaningful connections, and the confidence to thrive in the future.</p>",
+        "schoolLogo": "../assets/imgs/school/2023391_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100035",
+        "websiteLink": "https://www.rosary.camden.sch.uk/",
+        "type": "Primary inc. Nursery",
+        "gender": "Mixed",
+        "entryForms": 1,
+        "ageRange": [
+            "3",
+            "11"
+        ],
+        "address": "238 Haverstock Hill, Hampstead",
+        "lat": 51.551617,
+        "long": -0.166081,
+        "formsEntry": 1,
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW3 2AE",
+        "facilities": [
+            "Computing Suite",
+            " Music Room",
+            " Cookery/Art & DT Zone",
+            " Well-Being Room",
+            " Performing Arts Stage",
+            " Prayer Garden",
+            " EYFS Unit \u2013 dedicated EYFS Adventure Playground",
+            "\nRecently developed playground with multi-use games area",
+            "\nLibrary and Discovery Zone currently in development",
+            "\nCounselling Room",
+            " Multiple dedicated intervention areas",
+            ""
+        ],
+        "activities": [
+            "Chess",
+            "Multi-Sports",
+            "Football",
+            "Achieve Arts Drama Club",
+            "Dodgeball",
+            "Cricket",
+            "Tennis",
+            "Animation",
+            "Gymnastics"
+        ],
+        "admissionProcess": "<p>Everyone is welcome at Rosary! We hold regular open mornings and encourage you to come along and see for yourself whether our wonderful school is the right fit for you and your child.</p>\n<br>\n<p><a href=\"https://www.rosary.camden.sch.uk/wp-content/uploads/2024/11/ROSARY-CATHOLIC-PRIMARY-SCHOOL-ADMISSIONS-POLICY-2025-2026.pdf\">Rosary Admissions Policy 2025-2026</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2023391_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I like my school because the teachers are really kind. We learn a range of subjects and our lessons are fun and challenging.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "It's been the dream school for all of us! Our daughter loves the school and says she will miss it when she goes to Secondary school in September. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "This is warm and caring school. School staff praise and encourage pupils routinely when interacting with them. Many parents and carers appreciate the kindness and compassion leaders show towards their children. Pupils are happy and safe in school.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Rosary School is a warm and welcoming place, made even more special by the support of our families and the wider community. It feels like being part of a big, caring family where everyone works together to help each other grow. ",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "Rosary is full of kind teachers and supportive friends. Everyone helps me. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Rosary was one of the best things that happened to us when we moved to this country. We are so grateful for everything it has done for us.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Strong relationships in school ensure that pupils feel safe and secure and staff feel valued.",
+                    "author": "Other"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I like being a Mini-Vinnie rep because I really love helping people out and making new pupils comfortable in the school.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Leaders and teachers have high expectations of pupils\u2019 behaviour. Pupils know what is expected of them and consistently strive to meet these standards. Pupils are enthusiastic about learning. They are engaged and attentive in class so that the curriculum is taught uninterrupted.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Rosary is a school where every child is wrapped in love .",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Amongst the many things I admire about Rosary school, one thing that stands out to me is the wider offering that the children are involved in.  \nSchool is not just about learning. It\u2019s about the wider school community and the other things that are often overlooked as part of school life.  The amazing assemblies where the children show with gusto their learning on subjects.  The summer and winter fairs and all the other adhoc events that happen throughout the school year. \nWell done Rosary.  Keep up the excellent work.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Pupils know that they have a responsibility to care for the most vulnerable in society choosing charities to help them respond to those in need.",
+                    "author": "Other"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "We sincerely appreciate the incredible dedication of the entire school staff, from the headteacher to the admin team, who work seamlessly together every day to create a nurturing and supportive environment for the children. Your efforts ensure every child feels cared for, understood, and valued. Thank you for all that you do!",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Leaders have high expectations for what pupils can achieve. Leaders work hard to ensure that all pupils learn the curriculum well and achieve highly.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Rosary is a wonderful place where children and staff are welcomed, invested in, supported and valued. Every day is a happy one at Rosary!\u00a0",
+                    "author": "Teacher"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2023391_1.jpg",
+                "../assets/imgs/school/2023391_2.jpg",
+                "../assets/imgs/school/2023391_3.jpg",
+                "../assets/imgs/school/2023391_4.jpg",
+                "../assets/imgs/school/2023391_5.jpg",
+                "../assets/imgs/school/2023391_6.jpg",
+                "../assets/imgs/school/2023391_7.jpg",
+                "../assets/imgs/school/2023391_8.jpg",
+                "../assets/imgs/school/2023391_9.jpg",
+                "../assets/imgs/school/2023391_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "Rosary is a warm, caring and diverse school community where children from all faiths and none are welcome. We take great pride in our wealth of cultures and backgrounds, fostering an environment where everyone thrives, celebrates differences, and learns together.",
+                    "link": "/schoolContext/index.html?schoolId=2023391"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "At Rosary, building strong relationships with children and families is essential. We ensure every pupil and their family feels known, heard, and valued. Mental health and well-being are prioritised, with support services like Creative Arts Therapy and in-house counselling available.",
+                    "link": "/support/index.html?schoolId=2023391"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "At Rosary School, we provide an inclusive environment where all pupils can flourish and reach their full potential in learning and development. Building strong parent partnerships from the moment a child joins us is a key priority.",
+                    "link": "/SEND/index.html?schoolId=2023391"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "We are aspirational for all children, encouraging each to develop a belief in themselves and a strong work ethic to achieve their best as well-rounded individuals.  Focus is given to building strong foundations in the Early Years so that they can continue to build on this throughout their school journey. ",
+                    "link": "/achievement/index.html?schoolId=2023391"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "We offer a broad and balanced curriculum with a range of specialist teachers including Music, Computing and PE. Every opportunity to enrich children's learning through bringing to curriulcum to life is embraced. Kagan Structures foster positive learning behaviours while building essential social skills, encouraging collaboration, communication, and teamwork among children.\n\n\n\n\n\n",
+                    "link": "/curriculum/index.html?schoolId=2023391"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Curriculum Breadth and Quality",
+                    "description": "Maintaining a broad curriculum provision, including our specialist teaching provision in Music, Computing and PE and undertake a review of our Creative Arts curriculum to further enhance provision."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Writing Progress ",
+                    "description": "Sustain and embed great practice in writing, encouraging children to develop a love of writing and see themselves as authors."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Sustainability",
+                    "description": "Encourage pupils to take an active role in addressing the challenges of sustainable development, ensuring they are well-prepared to contribute positively to society and the environment. "
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 309,
+            "ethnicGroupsNum": 6,
+            "languagesNum": 11,
+            "SENDPercent": 17.2,
+            "BMEPercent": 68.3,
+            "disadvantagedPupilsPercent": 40.8,
+            "englishAdditionalLangPercent": 51.5,
+            "absencePercent": 5.6,
+            "persistentAbsenteesPercent": 14.3,
+            "specificLanguages": [
+                "English",
+                "Tagalog",
+                "Polish",
+                "Spanish",
+                "Italian",
+                "Amharic",
+                "Portuguese",
+                "French",
+                "Akan Twi/Asante",
+                "Hindi",
+                "Tigrinya"
+            ],
+            "specificEthnicities": [
+                "White British",
+                "White European",
+                "Black African",
+                "Indian",
+                "Latin",
+                " South American",
+                "Any Other Asian"
+            ],
+            "specificSEND": [
+                "Specific learning difficulty",
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 95,
+            "pupilAdultRatio": 11.2,
+            "financialReserves": 296600.0,
+            "changeYearReserves": -35800.0
+        },
+        "curriculum": {
+            "curriculumAim": "<p>At Rosary, our vision is for children to leave empowered with the knowledge and cultural capital needed to be resilient, successful, and responsible citizens. We offer a broad, balanced curriculum with clear frameworks outlining what children will know, understand, and be able to do by the end of their journey with us. Catholic Social Teaching is integrated throughout our topics, skillfully promoted by our Mini Vinnie Pupil Chaplaincy Team.</p>\n<br>\n\n<p>Our curriculum is designed around subject disciplines, assessing and building on prior learning with clear milestones at the end of each phase. For each subject, we map out key learning objectives, ensuring children acquire essential knowledge by the time they leave our school.</p>\n<br>\n\n<p>We believe that deeper learning occurs through enquiry, first-hand experiences, direct teaching, and enrichment opportunities. Children are encouraged to ask questions, make connections, and engage in cooperative learning through Kagan Structures, which promote collaboration and essential social skills.</p><p><a href=\"https://www.rosary.camden.sch.uk/our-curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Music",
+                "Computing",
+                "PE"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>Keeping children safe and happy is at the heart of everything we do at Rosary. Our committed, experienced staff team work hard to ensure that we create a culture of respect, kindness and appreciation.</p>\n<br>\n\n<p>We follow a trauma-informed approach which aligns with a compassionate understanding of behaviours. We allow time and space for reflection and work hard to ensure that each and every child feels known, valued and understood.</p>\n<br>\n\n<p>Working together in partnership with families is paramount to ensuring the best outcomes for each and every child.</p>\n<br>\n\n<p>Robust safeguarding procedures and practices are in place to ensure the safety of all.</p><p><a href=\"https://www.rosary.camden.sch.uk/wp-content/uploads/2024/11/Behaviour-Policy-Sep-2024.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>We pride ourselves on positive, respectful relationships here at Rosary. Bullying is not tolerated. All forms of bullying and prejudice-based language are taken seriously and dealt with promptly.</p>\n<br>\n\n<p>Time is given to ensure that children and parents feel heard and have opportunities to discuss concerns and find resolutions.</p><p><a href=https://www.rosary.camden.sch.uk/wp-content/uploads/2021/11/Anti-Bullying.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>Excellent attendance and punctuality is key for children\u2019s success now and in the future. We take pride in positive partnerships with Rosary families and always aim to be transparent and honest in our communications.</p>\n<br>\n\n<p>Good attendance and punctuality is celebrated at a whole school, class and individual level with a variety of certificates and rewards.</p>\n<br>\n\n<p>We reach out to those who may need support to improve attendance.</p><p><a href=\"https://www.rosary.camden.sch.uk/wp-content/uploads/2024/11/Rosary-Attendance-Policy-Sep-2024.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>Rosary has high expectations for all - staff, pupils and families. We get to know our pupils well and work in partnership with parents to ensure best outcomes for each child. We strive to ensure individual needs are met whilst setting challenging targets.</p>\n<br>\n\n<p>We have a wonderfully invested, skilled staff who work hard to deliver an engaging and challenging curriculum with many carefully planned enrichment opportunities to consolidate and enhance learning. Children are encouraged to believe the best in themselves and celebrate one another's efforts and achievements.</p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2023391_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2023391_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2023391_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2023391_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>By the time our Rosary Chicks are ready to fly the nest, we want them to feel confident and well-equipped with the necessary tools to embark on the next stage of their journey. Robust transition procedures are in place to ensure that children feel prepared and are able to embrace change.</p>\n<br>\n\n<p>Our 'Careers Fair' provides children with a great opportunity to witness for themselves what exciting prospects lie ahead. Aspirations are raised, motivations are renewed and every child is inspired!</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>At Rosary School, we are committed to creating an inclusive environment where every pupil has the opportunity to thrive and achieve their full potential in all areas of learning and development. Identifying additional needs early is a key priority, enabling us to implement effective planning, interventions, and strategies.</p>\n<br>\n\n<p>We work closely with families, valuing their insights in shaping individualised support plans for children with special educational needs and disabilities. Where appropriate, external professional agencies offer additional guidance on personal education plans and the \"assess, plan, do, review\" cycle of support.</p>\n<br>\n\n<p>This structured approach ensures that progress - whether academic, social, or emotional - is carefully monitored and reviewed to assess the effectiveness of the support provided. Through this partnership approach, we aim to support every child\u2019s unique journey, fostering growth and success in a nurturing environment.</p><p><a href=\"https://www.rosary.camden.sch.uk/wp-content/uploads/2024/11/Rosary-SEND-POLICY-September-24.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>At Rosary, inclusive practice is at the heart of our ethos, ensuring that every child feels known, valued, and supported. We foster a welcoming environment through vibrant, diverse displays and take pride in getting to know our new students and families.</p>\n<br>\n\n<p>Inclusion is deeply embedded in our teaching strategies, including Kagan Structures that promote collaboration, celebrate differences, and ensure equal opportunities for all pupils. Ongoing staff training is a priority, with regular professional development focused on understanding diverse needs and adaptive teaching strategies.</p>\n<br>\n\n<p>We nurture strong parent partnerships through an open-door policy, workshops, and events such as Stay and Play/Read, Marvellous Maths Mornings, and Art Exhibitions like Engages All Ages, which actively involve families in their children's education. We collaborate closely with external agencies, such as speech and language therapists and educational psychologists, to provide tailored support.</p>\n<br>\n\n<p>Good communication is key, with regular updates keeping all stakeholders informed and engaged in our thriving, inclusive community.</p>"
+        }
+    },
+    {
         "schoolId": 2023398,
         "schoolName": "St Alban's Church of England Primary School",
         "isPrimary": true,
@@ -5770,6 +7233,303 @@
         "SEND": {
             "sendSupportInfo": "<p>All the teachers in the school are teachers of children with Special Educational Needs. As such, St Alban\u2019s adopts a 'whole school approach' to SEND that involves all staff adhering to a model of good practice. This is based on Quality First Teaching, specific 1:1 and small group intervention programmes, and outside agency support (when and where appropriate).</p>\n\n<p>The staff of the school are committed to identifying and providing for the needs of all children in a wholly inclusive environment. Inclusion is given a high priority in this policy, in line with the policies of Camden Local Authority. The SENDCo works closely with Camden SEND team, professional agencies, and parents to ensure the best possible outcomes for pupils with SEND.</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/stalbans-cepans-redesign/UploadedDocument/c833d8c3-9847-41e3-9be7-214c731a15bb/send-policy-nov-2024.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
             "inclusivePracticeInfo": "<p>Our vision underpins our approach to inclusion at St. Alban\u2019s CE Primary School. We are rigorous in ensuring that all our students, and especially those who are most vulnerable, are supported to achieve their full potential and be the best examples of themselves.</p>\n\n<p>St Alban\u2019s is committed to providing a tailored, creative, and high-quality education to all the children in our school that is delivered through our vision of Faith, Hope, and Love without exception of exclusion.</p>\n\n<p>We believe that all children have a common entitlement to a broad and balanced academic and social curriculum, which is accessible to them, and to be fully included in all aspects of school life.</p><p><a href=\"https://www.stalbanscamden.co.uk/policies-1/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
+        "schoolId": 2023441,
+        "schoolName": "St George the Martyr Church of England Primary School",
+        "isPrimary": true,
+        "shortSlogan": "Go Shine in the World",
+        "descriptionTitle": "Go Shine in the World",
+        "description": "<p>St George the Martyr CE Primary School provides a caring, stable, intellectually and creatively stimulating environment for children. Our staff are committed to ensuring that your child\u2019s time at school is inspiring and productive, so that they can move confidently to the next stage of their education.</p>\n<br>\n\n<p>St George the Martyr serves the local community by welcoming children from all faiths and children with no faith background. We value and respect the diversity of our community.</p>\n<br>\n\n<p>We work closely with parents, children, governors, staff and our partnership schools to ensure that each and every child is given the best possible start on their educational journey.</p>\n<br>\n\n<p>St George the Martyr is strengthened by working within a partnership.</p>",
+        "schoolLogo": "../assets/imgs/school/2023441_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100040",
+        "websiteLink": "https://www.stgeorge.camden.sch.uk/",
+        "type": "Primary inc. Nursery",
+        "gender": "Mixed",
+        "entryForms": 1,
+        "ageRange": [
+            "3",
+            "11"
+        ],
+        "address": "John's Mews",
+        "lat": 51.521998,
+        "long": -0.116257,
+        "formsEntry": 1,
+        "prevYearCatchmentRadius": null,
+        "postCode": "WC1N 2NX",
+        "facilities": [
+            "Breakfast Club",
+            " After-school Enrichment Clubs",
+            " Specialist Music teacher",
+            " Specialist PE teacher",
+            " Specialist Spanish teacher",
+            " Small group tuition",
+            " Individual Instrument Lessons",
+            " Class libraries",
+            " Whole class guitar lessons"
+        ],
+        "activities": [
+            "Football Club",
+            "Arts and Crafts Club",
+            "Multi-Sports Club",
+            "Journalism Club",
+            "Homework Club",
+            "Puzzles and Games Club",
+            "Music Concerts",
+            "Camden Choir Festival",
+            "Inter-School Football Tournament",
+            "Inter-School Athletics Tournament",
+            "Young Womens' Sports Days",
+            "After-School Playcentre at Coram's Fields",
+            "Camden Music Festival at The Royal Albert Hall"
+        ],
+        "admissionProcess": "<p>We are delighted that you are considering St George the Martyr for your child. To take things further, please read our admissions policy, complete the application form, and bring it to the school office.</p>\n\n<p>You will find the admissions policy and application form in the link below:</p>\n\n<p><a href=\"https://www.stgeorge.camden.sch.uk/page/?title=Admissions+Policy+and+Application+Forms&pid=32\" target=\"_blank\">Admissions Policy Link</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2023441_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils thrive in this nurturing and supportive school. They are proud of its inclusive ethos. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The school encourages children to excel and become the best version of themselves. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "My teacher helps me to do my best making sure I get better at my learning every day. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils' behaviour is exemplary. They listen attentively and are highly motivated. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Staff at St George the Martyr are compassionate, inclusive and have high standards for all pupils. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "The school has an exceptionally ambitious curriculum. It is well sequenced, enabling pupils to build up their knowledge as they move through the school.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The teachers at St George the Martyr are kind and friendly. I feel able to talk to them. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Pupil productivity and standards of teaching are excellent. ",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "My child loves their learning. They enjoy the range of topics covered in the curriculum and the trips that enrich this.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils feel safe and know how to report any concerns to a trusted adult. Bullying is not tolerated. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I love playtime because I can spend time with my friends. There is also the chance to play lots of different games like champ and table tennis. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "St George the Martyr is positive and inclusive environment where everyone feels valued and motivated to do their best. ",
+                    "author": "School Staff"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Parents are well-informed about their child as communication is excellent. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "There is a strong focus on teaching pupils why good behaviour is so important. The school praises individual pupils and classes for their hard work and good conduct.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I feel safe because my teachers always listen to me and help me to solve any problems. ",
+                    "author": "Child"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2023441_1.jpg",
+                "../assets/imgs/school/2023441_2.jpg",
+                "../assets/imgs/school/2023441_3.jpg",
+                "../assets/imgs/school/2023441_4.jpg",
+                "../assets/imgs/school/2023441_5.jpg",
+                "../assets/imgs/school/2023441_6.jpg",
+                "../assets/imgs/school/2023441_7.jpg",
+                "../assets/imgs/school/2023441_8.jpg",
+                "../assets/imgs/school/2023441_9.jpg",
+                "../assets/imgs/school/2023441_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "St George the Martyr serves the local community by welcoming children from all faiths and children with no faith background. We value and respect the diversity of our community. Pupils are proud of its inclusive ethos. ",
+                    "link": "/schoolContext/index.html?schoolId=2023441"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "St George the Martyr CE Primary School provides a caring and stable environment. Staff are committed to ensuring that your child\u2019s time at school is inspiring and productive, so that they can move confidently to the next stage of their education. ",
+                    "link": "/support/index.html?schoolId=2023441"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "We ensure that there are no barriers to allowing all pupils to learn successfully. There are clear systems in place to identify and support pupils who need additional support enabling them to access our outstanding curriculum. The school has the very highest expectations for all pupils. ",
+                    "link": "/SEND/index.html?schoolId=2023441"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "The school has high expectations and ambitions for all pupils. Pupils make excellent progress throughout their time at St George the Martyr to achieve very well for their age. They are exceptionally well-prepared for the next stage of their education. ",
+                    "link": "/achievement/index.html?schoolId=2023441"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Our curriculum equips our children with the knowledge and skills that they need to succeed in life. The curriculum is broad and balanced, enriched by a range of carefully chosen trips and visitors. We aim to provide ambitious learning opportunities, promoting achievement in every area and nurturing social, emotional and spiritual well-being.",
+                    "link": "/curriculum/index.html?schoolId=2023441"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Attendance",
+                    "description": "Continue to promote and celebrate pupils attending school every day so that no learning opportunities are missed. "
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Reading",
+                    "description": "Continue to prioritise reading fluency and love of reading, dedicating additional adult support to ensure all children make excellent progress. "
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Emotional wellbeing of pupils",
+                    "description": "Support pupils to feel confident in themselves and be able to express a range of emotions appropriately."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 190,
+            "ethnicGroupsNum": 7,
+            "languagesNum": 6,
+            "SENDPercent": 14.7,
+            "BMEPercent": 86.3,
+            "disadvantagedPupilsPercent": 36.8,
+            "englishAdditionalLangPercent": 49.5,
+            "absencePercent": 5.9,
+            "persistentAbsenteesPercent": 16.1,
+            "specificLanguages": [
+                "English",
+                "Bengali",
+                "Arabic",
+                "Albanian",
+                "Korean",
+                "Spanish"
+            ],
+            "specificEthnicities": [
+                "Bangladeshi",
+                "White British",
+                "Any Other Ethnic Group",
+                "Black African",
+                "Any Other White Background",
+                "Any Other Black Background",
+                "Any Other Mixed Background "
+            ],
+            "specificSEND": [
+                "Speech, language and communication needs"
+            ],
+            "qualifiedTeachersPercent": 91,
+            "pupilAdultRatio": 10.0,
+            "financialReserves": 22000.0,
+            "changeYearReserves": -31400.0
+        },
+        "curriculum": {
+            "curriculumAim": "<p>Our well-sequenced curriculum equips our children with the knowledge, skills and cultural capital that they need to succeed in life. In addition, each term we pause the usual curriculum for a week in order for everyone to take part in a Whole School Project Studies. In the recent past these have included Looking After Our World Studies, Equality Studies, Social Justice Studies and Keeping Safe Studies.</p>\n\n<p>These special studies weeks enable pupils to develop a deeper understanding and awareness of current issues and topics encouraging them to think about citizenship and their own contribution to society.</p><p><a href=\"https://www.stgeorge.camden.sch.uk/page/?title=Curriculum&pid=9\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Focus on Developing Strong Oracy",
+                "Focus on Oracy and Early Reading",
+                "Off Site Visits and Visitors to Enrich Learning."
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>At St George the Martyr, we are committed to providing an inclusive, respectful and safe learning environment for every child. Pupils thrive in our nurturing and supportive school. Ofsted noted how children adopt a positive mindset where making mistakes is seen as part of learning.</p>\n\n<p>Staff work in very close partnership with parents and carers to deliver the best possible experience for all pupils. We recognise the effect a calm, organised and productive atmosphere has on a child\u2019s learning, self-esteem and health.</p><p><a href=\"https://www.stgeorge.camden.sch.uk/page/?title=Policies&pid=31\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>We are vigilant for signs of bullying and always take reports of incidents seriously. We explicitly teach pupils what bullying is and develop strategies to identify and report bullying-type behaviour.</p>\n\n<p>Senior leaders work closely with pupils and parents to monitor bullying very carefully so that instances are extremely rare.</p><p><a href=https://www.stgeorge.camden.sch.uk/page/?title=Policies&pid=31 target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>For our children to gain the greatest benefit from their education it is vital that they attend school every day and are on time so that no learning is missed.</p>\n\n<p>Regular and punctual attendance is essential for effective learning and children should be at school, on time, every day the school is open unless the reason for the absence is unavoidable.</p>\n\n<p>We report to parents on their child's attendance and punctuality, and how this relates to their attainment and progress. We celebrate and reward good attendance by displaying individual and class achievements.</p><p><a href=\"https://www.stgeorge.camden.sch.uk/page/?title=Policies&pid=31\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>We provide ambitious learning opportunities for all children, promoting achievement in every area. Our curriculum contains the knowledge that we have identified as essential for pupils to learn.</p>\n\n<p>Sequences of lessons have been carefully crafted for each subject, and teaching is broken down into small steps to build pupils' knowledge and understanding. Teachers check pupils\u2019 understanding regularly, addressing any gaps in knowledge immediately.</p>\n\n<p>As a result, pupils make exceptional progress through their time at the school and attain very well for their age by the time they finish in Year 6.</p><p><a href=\"https://www.stgeorge.camden.sch.uk/page/?title=Our+curriculum+intent%2C+implementation+and+impact&pid=79\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2023441_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2023441_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2023441_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2023441_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>St George the Martyr has the very highest expectations for all pupils, which means that they are exceptionally well prepared for the next stage of their education. Pupils' academic attainment is high for their age by the end of Year 6. In addition to pupils' academic development, we support pupils to flourish socially and spiritually so that they can go on to be economically independent adults who have all of life\u2019s opportunities and can make a contribution to society.</p>\n\n<p>We have considered the need to broaden our pupils\u2019 life experiences and to raise their aspirations, and are therefore introduced to a wealth of local and national cultural experiences. These experiences widen pupils' horizons and build the confidence they need for the next phase in their education.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>We recognise that at different times during their school life a child may have a special need or disability. Staff identify all pupils requiring Special Educational Needs and Disabilities provision as early as possible in their school career to make sure that appropriate support is put in place without delay.</p>\n\n<p>Whilst many factors contribute to the range of difficulties experienced by some children, we believe that these can be overcome by parents, teachers and pupils working together. Parents of pupils with SEND are kept fully informed of their child\u2019s progress and attainment through regular meetings with both the SENDCo and the class teacher.</p><p><a href=\"https://www.stgeorge.camden.sch.uk/page/?title=Policies&pid=31\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>We believe that every child can be successful and achieve during their time at our school and beyond. We value each individual pupil and are committed to inclusive education, equal opportunities, and respect for all.</p>\n\n<p>Staff are ambitious for all pupils and adapt the curriculum so that it is appropriate to individual pupils' needs. Ofsted noted that pupils thrive in our nurturing and supportive school and that they are proud of its inclusive ethos.</p>\n\n<p>As a result, pupils achieve exceptionally well.</p><p><a href=\"https://www.stgeorge.camden.sch.uk/page/?title=Policies&pid=31\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     },
     {
