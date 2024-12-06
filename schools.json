@@ -295,6 +295,378 @@
         }
     },
     {
+        "schoolId": 2024285,
+        "schoolName": "Acland Burghley School",
+        "isPrimary": false,
+        "shortSlogan": "Creating Excellence Together",
+        "descriptionTitle": "Creating Excellence Together",
+        "description": "<p>We are a mixed, community comprehensive school for children aged 11-18. We believe passionately in each young person's potential, and prioritise high standards to support students of all abilities to excel across a balanced curriculum.</p>\n<br>\n\n<p>We encourage learners to be independent thinkers with a broad world view. Our emphasis on creativity is about developing the innovators of the future.</p>\n<br>\n\n<p>We have a UK-first partnership with our orchestra in residence, the OAE, and are a member of the highly successful LaSWAP sixth form consortium.</p>\n<br>\n\n<p>Above all, we are a friendly and happy school.</p>",
+        "schoolLogo": "../assets/imgs/school/2024285_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100053",
+        "websiteLink": "https://www.aclandburghley.camden.sch.uk/",
+        "type": "Secondary",
+        "gender": "Mixed",
+        "entryForms": 6,
+        "ageRange": [
+            "11",
+            "18"
+        ],
+        "address": "Burghley Road",
+        "lat": 51.557418,
+        "long": -0.139624,
+        "formsEntry": 6,
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW5 1UJ",
+        "facilities": [
+            "Iconic Grade 2 Listed Brutalist Building",
+            " Professional Dance and Drama Studios",
+            " Gym",
+            " Sports Hall",
+            " Two Sports Pitches",
+            " Gardens",
+            " Grade 2 Listed Standalone Assembly Hall",
+            " Outdoor Amphitheatre",
+            " 'Active Space' Play Area",
+            " Library",
+            " Media Studies Suite with Filming Equipment, Green Screen and Recording Studio",
+            " Resources Provision for Children with ASC",
+            " Specialist Science and Technology Classrooms",
+            " Two Canteens"
+        ],
+        "activities": [
+            "Computing clubs",
+            "French and spanish cooking clubs",
+            "Film clubs",
+            "Art and photography clubs",
+            "Youth Dance company",
+            "Bridge club",
+            "Debating club",
+            "Gardening club",
+            "Podcasting club",
+            "Burghley Big Voice club",
+            "OAE Young Producers club",
+            "STEM club",
+            "Musical Connections",
+            "Duke of Edinburgh's Award",
+            "Basketball, football, netball, cricket, rugby - sport is important here!"
+        ],
+        "admissionProcess": "<p>We abide by the admissions criteria of Camden Local Authority. Details can be found on the websites linked below:</p>\n<p><a href=\"https://www.camden.gov.uk/secondary-school-admissions\" target=\"_blank\">Secondary School Admissions Policy</a></p>\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">In-Year School Admissions Policy</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2024285_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "An inclusive community in which all pupils feel welcome with high expectations for all pupils.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils enjoy school. They are enthusiastic, happy and take pleasure in learning.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Leaders have developed an inclusive community in which all pupils feel welcome. Staff know pupils very well, which ensures they are safe. Leaders have high expectations for all pupils, including those with special educational needs and/or disabilities (SEND).",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils behave well during lessons and around the school site. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Leaders have developed a curriculum that is ambitious and in line with the expectations of the national curriculum. They have identified the key knowledge and skills they want pupils to learn. The curriculum progressively builds on pupils\u2019 knowledge over time.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Teachers have strong subject knowledge and present information clearly during lessons. They make adaptations to ensure that pupils with SEND can access the same ambitious curriculum.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "What won\u2019t be erased were the polished and imaginative dance routines from 20 Acland Burghley students. At a time when the arts seem marginalised in so many state schools, this was a heartwarming example of what fine standards can be achieved with inspiring leadership - The Times Newspaper",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The best thing about LaSWAP is the support.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I'm very pleased with my results. I'm going to take history, psychology and politics at LaSWAP. The teachers have been very encouraging. I wanted to make them proud.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I have always been impressed by the speed of response from all staff.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Staff are always positive, enthusiastic and willing to problem solve.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The school has such a positive and purposeful air to it, each and every one of my child\u2019s teachers are thoughtful and engaged (and delightful) \u2013 and he clearly respects and enjoys their teaching.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "We are very lucky to be part of this community.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I will be forever grateful for their kindness and dedication. It was a brilliant experience for him \u2013 and for us. He leaves you in really great shape.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "You do a truly magnificent job and we have huge respect and admiration for you and your team. My child has been lucky to be here.\n",
+                    "author": "Parent"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2024285_1.jpg",
+                "../assets/imgs/school/2024285_2.jpg",
+                "../assets/imgs/school/2024285_3.jpg",
+                "../assets/imgs/school/2024285_4.jpg",
+                "../assets/imgs/school/2024285_5.jpg",
+                "../assets/imgs/school/2024285_6.jpg",
+                "../assets/imgs/school/2024285_7.jpg",
+                "../assets/imgs/school/2024285_8.jpg",
+                "../assets/imgs/school/2024285_9.jpg",
+                "../assets/imgs/school/2024285_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "A friendly, diverse and inclusive community school with high standards, a rich curriculum and a focus on the arts and creativity.",
+                    "link": "/schoolContext/index.html?schoolId=2024285"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "We prize student wellbeing and happiness above all else. If children aren't happy, they won't do their best. Children come to Acland Burghley because they make great friends and have a great school experience. ",
+                    "link": "/support/index.html?schoolId=2024285"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "We are rightly well known for our SEND provision. We have a special provision for children with autism. Everyone with a special need gets noticed and included by our specially trained team of staff.",
+                    "link": "/SEND/index.html?schoolId=2024285"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "In 2024 our students got the best ever results for a \u201cstrong pass\u201d (grade 5) in English and Maths and we had the best results at sixth form since A Levels were reformed from 2015. We are super proud of them! ",
+                    "link": "/achievement/index.html?schoolId=2024285"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "We have a broad, balanced curriculum with the option of taking more than one creative subject at GCSE. Creative subjects are important, but English, maths and science are some of our best performers. We place a strong emphasis on PE and physical exercise. Languages, dance and history are particular strengths. Musicians benefit from support from the OAE.  ",
+                    "link": "/curriculum/index.html?schoolId=2024285"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Better attendance",
+                    "description": "We do well, but could do even better. We want every child in school and learning every day. "
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Powerful student voice",
+                    "description": "We love hearing from our students and their families. We have plans to extend our student council, and make this an even bigger part of student life. "
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Everyone a great reader",
+                    "description": "Strong access to the curriculum comes with great literacy. Supporting every young person to read well is a huge priority for us. "
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 1166,
+            "ethnicGroupsNum": 15,
+            "languagesNum": 13,
+            "SENDPercent": 22.6,
+            "BMEPercent": 46.1,
+            "disadvantagedPupilsPercent": 38.8,
+            "englishAdditionalLangPercent": 22.6,
+            "absencePercent": 7.6,
+            "persistentAbsenteesPercent": 24.3,
+            "specificLanguages": [
+                "English",
+                "Somali",
+                "Bengali",
+                "French ",
+                "Italian",
+                "Albanian",
+                "Arabic",
+                "Spanish",
+                "Polish",
+                "Russian",
+                "Amharic",
+                "German",
+                "Turkish"
+            ],
+            "specificEthnicities": [
+                "White British",
+                "White English",
+                "White and Black Caribbean",
+                "White European",
+                "Black Somali",
+                "Bangladeshi",
+                "White Other",
+                "Other Mixed Background",
+                "Any Other Mixed Background",
+                "White and Any Other Asian Background",
+                "Black Caribbean",
+                "White and Black African",
+                "Other Black African",
+                "White Irish",
+                "White Eastern European"
+            ],
+            "specificSEND": [
+                "Specific learning difficulty",
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 96,
+            "pupilAdultRatio": 8.8,
+            "financialReserves": 404900.0,
+            "changeYearReserves": -134300.0
+        },
+        "curriculum": {
+            "curriculumAim": "<p>We have a great core offer: we're known for creativity, but academic subjects underpin this, and children here do really well at English, maths and science. We are rightly known for our arts curriculum: everyone does dance, music, drama, technology and art, and everyone attends workshops led by our resident orchestra, the OAE.</p>\n\n<p>We have some great opportunities: you can study both Spanish and French if you want. Everyone does Latin for three years which supports literacy. We do loads of PE and sports activities. We run Duke of Edinburgh.</p>\n\n<p>At GCSE, you can choose one more subject than most schools, and you can do psychology, sociology, film studies, dance, classical civilisation, as well as everything that you studied in KS3. Homework is always meaningful, and students are supported to complete it if they are struggling. Our library is one of our favourite places. Come and have a look!</p><p><a href=\"https://www.aclandburghley.camden.sch.uk/Curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Using Music to Enrich Learning Opportunities ",
+                "Language Learning and Experiences ",
+                "Dance, Dance, Dance!"
+            ],
+            "topSubjects": [
+                "Art",
+                "Biology",
+                "Business Studies",
+                "Chemistry",
+                "Classics",
+                "Computer Science",
+                "Dance",
+                "Drama",
+                "Economics",
+                "English language and literature",
+                "English literature",
+                "Film",
+                "French",
+                "Further Maths",
+                "Geography",
+                "German",
+                "Graphic Communication",
+                "History: Britain, Russia and China",
+                "History: Stuart Britain and America",
+                "Law",
+                "Maths",
+                "Maths Studies",
+                "Media",
+                "Music",
+                "Music Technology",
+                "Photography",
+                "Physical Education",
+                "Physics",
+                "Politics",
+                "Product Design",
+                "Psychology",
+                "Philosophy, Ethics and Theology (Religious Studies)",
+                "Sociology",
+                "Spanish",
+                "Textiles",
+                "Applied Science Diploma",
+                "Art and Design Diploma",
+                "Business Studies Diploma and Extended Diploma",
+                "Health and Social Care Diploma and Extended Diploma",
+                "Performing Arts Diploma",
+                "Sports Coaching Extended Diplom",
+                "Sports Development",
+                "Digital Production, Design and Development",
+                "Education and Early Years",
+                "Marketing",
+                "Media, Broadcast and Productio",
+                "Art and Design Cambridge Technical",
+                "Business Studies BTEC",
+                "Media BTEC",
+                "Sports Activity Leadership NVQ",
+                "Sport and Active Leisure NVQ"
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>We teach young people to be ready to learn and achieve, be calm and purposeful around school, and to cultivate a culture of kindness and respect. We encourage self-regulating behaviour, so that young people are prepared to navigate the complexities of the world around them.</p>\n\n<p>We have a strong safeguarding team, centred around the headteacher's office, including non-teaching members of staff assigned to each key stage. A dedicated 'Place 2 Talk' space supports our wider culture of listening to students. There is strong emphasis on reporting, being an active bystander and on capturing and listening to student voice.</p>\n\n<p>We provide high levels of staff supervision. The behaviour policy takes a zero tolerance approach to bullying.</p><p><a href=\"https://www.aclandburghley.camden.sch.uk/docs/policies/Safeguarding_and_Child_Protection_Policy.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>Acland Burghley promotes a culture of kindness and respect, and does not tolerate bullying of any kind, including online. Any known instances are dealt with swiftly and followed up to ensure they do not happen again. Tracking and record keeping is really important. Where possible and helpful, restorative conversations are held.</p>\n\n<p>Students are encouraged to speak and report any bullying that they see. They learn through tutor times, assemblies and personal development sessions to act with decency and empathy. Staff receive regular training, parents are encouraged to monitor social media use, and school leaders review cases regularly.</p>\n\n<p>Phones must be switched off and in bags at all times. Our emphasis on diversity and inclusion means that every child can feel at home at Acland Burghley School.</p><p><a href=https://www.aclandburghley.camden.sch.uk/docs/policies/Behaviour_Policy.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>The quality of lessons is mainly really good, so this makes children want to attend school. There is a free breakfast club in the morning, and a welcoming tutor time or assembly after that to help children settle in. Great teaching is supported by dedicated and engaged tutor teams.</p>\n\n<p>Your child is supported to maintain good mental health, and will receive additional interventions and support if they need it. For example, the school runs a programme in partnership with the Brandon Centre in which families of students with attendance of 80% or less are supported with individualised in-school sessions.</p><p><a href=\"https://www.aclandburghley.camden.sch.uk/docs/policies/Student_Attendance_and_Punctuality_Policy.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>The curriculum is broad, challenging, and ambitious at every level. KS3 students study English, maths, and science throughout, and these are some of our best performing departments. We offer French, Spanish, and Latin, history, geography and RE, drama, dance, music, technology, art, and computer science. PE and Personal development are absolutely central.</p>\n\n<p>Quality first teaching from highly qualified staff includes signature pedagogies such as clear start and end of lessons routines, consolidation of key information, skilful questioning, and a focus on oracy and literacy.</p>\n\n<p>Extra funding supports students with targeted support through extra tuition. Parents receive termly progress reports and can contact teachers at any time (emails are on the website). Multiple homework clubs and extended library hours also support all students to succeed whatever their starting points.</p><p><a href=\"https://www.aclandburghley.camden.sch.uk/docs/information/pupil_premium_and_yr_7_catch_up/Pupil_Premium_Strategy_Document_Sept_2023.pdf\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "Attainment 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2024285_chart_ks4_att8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2024285_chart_ks4_att8.png",
+                    "chartDescription": "An Attainment 8 score of 50.4 means Acland Burghley pupils averaged just above a grade 5 across their eight best GCSE-level subjects."
+                },
+                {
+                    "chartTitle": "Progress 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2024285_chart_ks4_p8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2024285_chart_ks4_p8.png",
+                    "chartDescription": "A Progress 8 score of -0.3 means Acland Burghley pupils achieved close to half a grade lower than similar pupils across the country."
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "After Key Stage 4 (2024):",
+                    "chartImg": "../assets/imgs/charts/2024285_chart_ks4_dest.png",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "After Key Stage 5 (2023):",
+                    "chartImg": "../assets/imgs/charts/2024285_chart_ks5_dest.png",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>Our school leavers go on to an astonishing variety of university places and careers. Careers information starts in Year 7. We routinely explain how learning in any subject supports progress into employment or further study.</p>\n\n<p>Our Personal Development curriculum encourages critical thinking around current affairs and issues affecting young people such as online safety, fake news and mental health. We are leading the way in north London with our T Level offer in Media Broadcast and Production - just one example of how our curriculum links to the world of work.</p>\n\n<p>Independent, dedicated careers advice ensures that careers support is not an afterthought. Our emphasis on self-regulation and tolerance of difference, and our place as one of north London's foremost mixed comprehensive schools, prepares children to navigate the complexity of the world they step into each day after school has finished, and when they finally leave us aged 18.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>We are rightly well known for the quality of our provision for children with SEND. We welcome every child whose needs we can meet, and we are skilful enough to meet the needs of most. We are really proud of our autism resource provision ('The Base'), and as a result, do a good job with many other children who are more neuro-diverse, because the expertise exists within the organisation.</p>\n\n<p>Quality first teaching which is adaptive and trauma-informed provides a framework for everyone to succeed. Our strong additional needs team has specialist staff trained in communication and interaction, cognition and learning, social, emotional and mental health and sensory and/or physical needs.</p>\n\n<p>Children with SEND have opportunities to play with the resident orchestra in its ground-breaking 'Musical Connections' programme. They receive excellent work experience and careers guidance, and are included with all other children as often as possible.</p><p><a href=\"https://www.aclandburghley.camden.sch.uk/docs/policies/SEND_Policy.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>Teachers are aware of the needs of each individual student, and hold detailed student learning information in their lesson preparation files. When we evaluate teaching and learning, teachers are supported to meet the needs of all. Great lessons start with a high level of expectations for all. Adaptations then support all learners to make progress.</p>\n\n<p>Acland Burghley's support staff teams are rightly well regarded. We have learning support staff in many lessons, and we run a very wide range of interventions for children who need them, from literacy catch-up and maths support, through to 'circle of friends' social skills interventions.</p>\n\n<p>Our personal development curriculum teaches children to value other people from all backgrounds. We are proudly diverse in our social and ethnic mix, and are a happy and inclusive place for children who may be LGBTQIA+.</p><p><a href=\"https://www.aclandburghley.camden.sch.uk/docs/policies/Accessibility_Plan.pdf\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
         "schoolId": 2022019,
         "schoolName": "Argyle Primary School",
         "isPrimary": true,
@@ -790,14 +1162,14 @@
             "absencePercent": 6.6,
             "persistentAbsenteesPercent": 22.7,
             "specificLanguages": [
-                "arabic",
-                "bengali",
-                "english ",
-                "somali",
-                "turkish",
-                "french",
+                "Arabic",
+                "Bengali",
+                "English ",
+                "Somali",
+                "Turkish",
+                "French",
                 "Albanian /Shqip",
-                "spanish"
+                "Spanish"
             ],
             "specificEthnicities": [
                 "Somali",
@@ -2859,11 +3231,11 @@
             "changeYearReserves": 97400.0
         },
         "curriculum": {
-            "curriculumAim": "<p>At Gospel Oak, our curriculum embraces a topic-based approach to teaching several subjects, building connections between different areas of learning and deepening understanding. While science, history, geography, art and design & technology follow this method, subjects like English, maths, computing, languages, music, PSHE, PE, and RE are taught separately, with relevant links made wherever possible.</p>\n<br>\n\n<p>Our curriculum also cultivates an awareness of life in modern Britain. Democracy thrives within our school, with avenues for pupil voice through the Junior Leadership Team and surveys. We reinforce the importance of laws through routines, assemblies and behaviour support, teaching children about their value, responsibilities, and consequences.</p>\n<br>\n\n<p>In our safe and supportive environment, children are encouraged to make choices, exercise their rights, and develop cooking skills with a focus on healthy eating. Mutual respect is central to our ethos, evident in our mission statement and relationships across the school. Tolerance and understanding are promoted through exploring cultural diversity in various subjects and inviting contributions from different faiths or religions to enrich learning experiences.</p>",
+            "curriculumAim": "<p>At Gospel Oak, our curriculum embraces a topic-based approach to teaching several subjects, building connections between different areas of learning and deepening understanding. While science, history, geography, art and design & technology follow this method, subjects like English, maths, computing, languages, music, PSHE, PE, and RE are taught separately, with relevant links made wherever possible.</p>\n<br>\n\n<p>Our curriculum also cultivates an awareness of life in modern Britain. Democracy thrives within our school, with avenues for pupil voice through the Junior Leadership Team and surveys. We reinforce the importance of laws through routines, assemblies and behaviour support, teaching children about their value, responsibilities, and consequences.</p>\n<br>\n\n<p>In our safe and supportive environment, children are encouraged to make choices, exercise their rights, and develop cooking skills with a focus on healthy eating. Mutual respect is central to our ethos, evident in our mission statement and relationships across the school. Tolerance and understanding are promoted through exploring cultural diversity in various subjects and inviting contributions from different faiths or religions to enrich learning experiences.</p>\n<br>\n\n<p>The school's computing curriculum is a significant strength because it is comprehensive, inclusive, and forward-thinking. It equips children with essential digital literacy, coding, and problem-solving skills, ensuring they are confident, competent users of technology. The focus on safe and responsible use of technology helps develop a strong digital citizenship ethos. Integrating computing across subjects enhances engagement and supports wider learning goals. The school's approach, including regular assessments and home access to online learning platforms, ensures consistent progress monitoring and strong home-school connections, preparing pupils well for future academic and real-world challenges.</p>\n<br>\n\n<p>The music curriculum at Gospel Oak is a key strength due to its comprehensive, inclusive, and progressive approach. It provides children with opportunities to engage in high-quality music education, learn instruments, and participate in live music experiences. With specialist teaching and tailored support, all pupils, including those with SEND, can access and excel in music. The curriculum fosters creativity, self-expression, and ensemble skills, developing both individual and group musicianship. Regular performances and strong links with Camden Music enhance community involvement. The use of technology and varied assessment methods ensures ongoing progress and a rich, dynamic learning experience for all children.</p>\n<br>\n\n<p>The PE curriculum at Gospel Oak is a key strength due to its comprehensive and inclusive approach, which promotes both physical and mental well-being. It offers a wide range of activities that cater to diverse interests, from gymnastics and dance to competitive sports. The curriculum encourages children to develop essential skills, including teamwork, resilience, and sportsmanship while fostering a lifelong positive attitude toward physical activity. Specialist teaching and partnerships with local sports organisations enhance the quality of provision, and consistent assessment practices ensure that every child makes progress. The programme also strengthens community ties through events like sports fixtures and fun runs.</p><p><a href=\"https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sites.google.com/gospeloakschool.com/gospel-oak-primary-and-nursery/curriculum&ved=2ahUKEwjjxePjtJOKAxUdSUEAHYgoGtAQFnoECBwQAQ&usg=AOvVaw13YWwQR0krBZbSliFJEeQw\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
             "curriculumStrengths": [
-                "The school's computing curriculum is a significant strength because it is comprehensive, inclusive, and forward-thinking. It equips children with essential digital literacy, coding, and problem-solving skills, ensuring they are confident, competent users of technology. The focus on safe and responsible use of technology helps develop a strong digital citizenship ethos. Integrating computing across subjects enhances engagement and supports wider learning goals. The school's approach, including regular assessments and home access to online learning platforms, ensures consistent progress monitoring and strong home-school connections, preparing pupils well for future academic and real-world challenges.",
-                "The music curriculum at Gospel Oak is a key strength due to its comprehensive, inclusive, and progressive approach. It provides children with opportunities to engage in high-quality music education, learn instruments, and participate in live music experiences. With specialist teaching and tailored support, all pupils, including those with SEND, can access and excel in music. The curriculum fosters creativity, self-expression, and ensemble skills, developing both individual and group musicianship. Regular performances and strong links with Camden Music enhance community involvement. The use of technology and varied assessment methods ensures ongoing progress and a rich, dynamic learning experience for all children.",
-                "The PE curriculum at Gospel Oak is a key strength due to its comprehensive and inclusive approach, which promotes both physical and mental well-being. It offers a wide range of activities that cater to diverse interests, from gymnastics and dance to competitive sports. The curriculum encourages children to develop essential skills, including teamwork, resilience, and sportsmanship while fostering a lifelong positive attitude toward physical activity. Specialist teaching and partnerships with local sports organisations enhance the quality of provision, and consistent assessment practices ensure that every child makes progress. The programme also strengthens community ties through events like sports fixtures and fun runs."
+                "Computing",
+                "Music",
+                "PE"
             ],
             "topSubjects": [
                 ""
@@ -2977,56 +3349,32 @@
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "Leaders put much emphasis on pupils' welfare, including supporting their welfare, mental health and emotional well-being.",
-                    "author": "Ofsted"
-                },
-                {
-                    "type": "quote",
-                    "bgcolor": "#93c467",
                     "text": "Leaders have transformed pupils' behaviour. Pupils now have positive attitudes to learning. Throughout the day, they behave in a calm and sensible manner.",
                     "author": "Ofsted"
-                },
-                {
-                    "type": "quote",
-                    "bgcolor": "#93c467",
-                    "text": "Bullying is rare and should it happen, pupils are confident that staff will deal with effectively.",
-                    "author": "Ofsted"
-                },
-                {
-                    "type": "quote",
-                    "bgcolor": "#93c467",
-                    "text": "Teaching is effective and helps all groups of pupils to make good progress.",
-                    "author": "Ofsted"
-                },
-                {
-                    "type": "quote",
-                    "bgcolor": "#93c467",
-                    "text": "Students were extremely honest and positive about their experience of the Sixth Form. Those who joined from other schools reported that they were very happy with their choice; they said the quality of teaching was better and they felt the school cared about them and wanted them to succeed.",
-                    "author": "Challenge Partners"
-                },
-                {
-                    "type": "quote",
-                    "bgcolor": "#93c467",
-                    "text": "Relationships among staff and learners are strong and discussions with students support this. As one student told the reviewer, \u201cMy tutor is always willing to go the extra mile.\u201d",
-                    "author": "Challenge Partners"
-                },
-                {
-                    "type": "quote",
-                    "bgcolor": "#ed6c26",
-                    "text": "The one thing that makes me want to come to school every day is that I am always learning about new concepts. I love working on new projects too, specifically coding.",
-                    "author": "Child"
-                },
-                {
-                    "type": "quote",
-                    "bgcolor": "#ed6c26",
-                    "text": "I know I can achieve great grades here because the quality of the teaching is excellent!",
-                    "author": "Child"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#ed6c26",
                     "text": "The one thing that makes me want to come to school every day is the lessons that we have. This is because my teachers are able to make the lesson fun as well as interesting for me.",
                     "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Years 7-11 students from all socio-economic backgrounds are supported. Students are never excluded from trips or activities due to financial constraints.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The school has amazing work experience opportunities. Lots of good advice around careers as well.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Relationships among staff and learners are strong and discussions with students support this. As one student told the reviewer, \u201cMy tutor is always willing to go the extra mile.\u201d",
+                    "author": "Challenge Partners"
                 },
                 {
                     "type": "quote",
@@ -3042,9 +3390,27 @@
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "#e50059",
-                    "text": "Years 7-11 students from all socio-economic backgrounds are supported. Students are never excluded from trips or activities due to financial constraints.",
-                    "author": "Parent"
+                    "bgcolor": "#93c467",
+                    "text": "Leaders put much emphasis on pupils' welfare, including supporting their welfare, mental health and emotional well-being.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Bullying is rare and should it happen, pupils are confident that staff will deal with effectively.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The one thing that makes me want to come to school every day is that I am always learning about new concepts. I love working on new projects too, specifically coding.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Students were extremely honest and positive about their experience of the Sixth Form. Those who joined from other schools reported that they were very happy with their choice; they said the quality of teaching was better and they felt the school cared about them and wanted them to succeed.",
+                    "author": "Challenge Partners"
                 },
                 {
                     "type": "quote",
@@ -3054,14 +3420,20 @@
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "#e50059",
-                    "text": "Transition was good. Those children with SEN had time at the school by themselves before the rest of Year 7 came. Parents have a day to go and meet their children's form tutors.",
-                    "author": "Parent"
+                    "bgcolor": "#ed6c26",
+                    "text": "I know I can achieve great grades here because the quality of the teaching is excellent!",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Teaching is effective and helps all groups of pupils to make good progress.",
+                    "author": "Ofsted"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#e50059",
-                    "text": "The school has amazing work experience opportunities. Lots of good advice around careers as well.",
+                    "text": "Transition was good. Those children with SEN had time at the school by themselves before the rest of Year 7 came. Parents have a day to go and meet their children's form tutors.",
                     "author": "Parent"
                 }
             ],
@@ -3214,21 +3586,21 @@
             "academicChildSuccess": "<p>At our school, we are committed to helping every student reach their full potential through an ambitious, supportive, and inclusive approach to learning. Academic success at Haverstock is achieved by:</p>\n\n<p><strong>Quality First Teaching (QFT)</strong> in every subject, every lesson. QFT involves delivering high-quality, inclusive instruction to ensure that every student\u2014regardless of their starting point\u2014receives the support, challenge, and engagement needed to excel.</p>\n\n<p><strong>Regular feedback:</strong> Teachers will check understanding every lesson via a range of strategies, enabling them to monitor each student\u2019s progress, and provide constructive feedback which leads to improvement.</p>\n\n<p><strong>High Expectations & Standards:</strong> The Haverstock pillars (excellent attendance, high quality homework completion, and co-curricular involvement) promote the behaviours that research tells us leads to students realising their full academic potential. Our high expectations and standards ensure that students feel safe, respected, and supported. This allows them to focus on learning without distraction, knowing they are part of a stable, encouraging community.</p>\n\n<p><strong>Parental Involvement:</strong> We believe that collaboration with families is key to academic success. Through regular communication, bespoke events, information sharing, and resources, we empower parents to support their children\u2019s learning journey at home.</p>",
             "chartsPerform": [
                 {
-                    "chartTitle": "Attainment 8 (2023):",
+                    "chartTitle": "Attainment 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024104_chart_ks4_att8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024104_chart_ks4_att8.png",
-                    "chartDescription": "An Attainment 8 score of 41.7 means Haverstock pupils averaged just above a grade 4 across their eight best GCSE-level subjects."
+                    "chartDescription": "An Attainment 8 score of 44.2 means Haverstock pupils averaged between a grade 4 and a grade 5 across their eight best GCSE-level subjects."
                 },
                 {
-                    "chartTitle": "Progress 8 (2023):",
+                    "chartTitle": "Progress 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024104_chart_ks4_p8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024104_chart_ks4_p8.png",
-                    "chartDescription": "A Progress 8 score of -0.28 means Haverstock pupils achieved close to half a grade lower than similar pupils across the country."
+                    "chartDescription": "A Progress 8 score of -0.2 means Haverstock pupils achieved a grade slightly lower than similar pupils across the country."
                 }
             ],
             "chartsProm": [
                 {
-                    "chartTitle": "After Key Stage 4 (2023):",
+                    "chartTitle": "After Key Stage 4 (2024):",
                     "chartImg": "../assets/imgs/charts/2024104_chart_ks4_dest.png",
                     "chartDescription": null
                 },
@@ -4507,21 +4879,21 @@
             "academicChildSuccess": "<p>Our curriculum is summarised as \"the pursuit of excellence and care for others.\" We achieve this by creating an environment where everyone flourishes.</p>\n\n<p>Excellent teaching is the greatest driver for student success, so we invest in our staff with personalised coaching and opportunities to engage in professional networks to share expertise. Our approach is based on excellent subject knowledge and careful curriculum planning. Teachers present new information in small steps, check for understanding, and adapt their teaching, focusing on areas for development.</p>\n\n<p>Assessments allow us to check where students are on their learning journey, and what they need to do next. Frequent low-stakes quizzing improves long-term memory and builds resilience. Students are taught that clear routines for learning are also a route to success.</p>\n\n<p>Our students are motivated to behave well because they know that paying attention, thinking hard, and full participation are key elements to learning.</p><p><a href=\"https://www.lasainteunion.org.uk/School-Policies/\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
             "chartsPerform": [
                 {
-                    "chartTitle": "Attainment 8 (2023):",
+                    "chartTitle": "Attainment 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2025401_chart_ks4_att8.png",
                     "chartComparationImg": "../assets/imgs/charts/2025401_chart_ks4_att8.png",
-                    "chartDescription": "An Attainment 8 score of 49.6 means La Sainte Union pupils averaged just below a grade 5 across their eight best GCSE-level subjects."
+                    "chartDescription": "An Attainment 8 score of 48.7 means La Sainte Union pupils averaged just below a grade 5 across their eight best GCSE-level subjects."
                 },
                 {
-                    "chartTitle": "Progress 8 (2023):",
+                    "chartTitle": "Progress 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2025401_chart_ks4_p8.png",
                     "chartComparationImg": "../assets/imgs/charts/2025401_chart_ks4_p8.png",
-                    "chartDescription": "A Progress 8 score of 0.06 means La Sainte Union pupils achieved a grade slightly higher than similar pupils across the country."
+                    "chartDescription": "A Progress 8 score of 0.18 means La Sainte Union pupils achieved a grade slightly higher than similar pupils across the country."
                 }
             ],
             "chartsProm": [
                 {
-                    "chartTitle": "After Key Stage 4 (2023):",
+                    "chartTitle": "After Key Stage 4 (2024):",
                     "chartImg": "../assets/imgs/charts/2025401_chart_ks4_dest.png",
                     "chartDescription": null
                 },
@@ -4851,21 +5223,21 @@
             "academicChildSuccess": "<p>At MF, we believe that academic success is reliant upon all working together: parents, pupils, and staff. We do not allow poor behaviour to impact on learning. As is common across most schools, we encourage pupils to take responsibility for their learning by arriving on time, fully equipped, and ready to engage.</p>\n\n<p>It is this last area that is a key focus for us; we want our pupils to be proactive in taking ownership of their learning by:</p>\n\n<ul>\n  <li>Responding to feedback on their marked work and in lessons</li>\n  <li>Completing independent learning</li>\n  <li>Seeking support when they are struggling</li>\n</ul>\n\n<p>We ask parents to work with us to achieve these goals.</p>\n\n<p>Our staff have strong subject knowledge and are adept at providing clear explanations and identifying gaps in prior learning. A more consistent approach to checking for understanding is a target area for our staff.</p><p><a href=\"https://www.mariafidelis.camden.sch.uk/page/?title=Key+Policies&pid=58\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
             "chartsPerform": [
                 {
-                    "chartTitle": "Attainment 8 (2023):",
+                    "chartTitle": "Attainment 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024652_chart_ks4_att8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024652_chart_ks4_att8.png",
-                    "chartDescription": "An Attainment 8 score of 40.5 means Maria Fidelis pupils averaged just above a grade 4 across their eight best GCSE-level subjects."
+                    "chartDescription": "An Attainment 8 score of 41.8 means Maria Fidelis pupils averaged just above a grade 4 across their eight best GCSE-level subjects."
                 },
                 {
-                    "chartTitle": "Progress 8 (2023):",
+                    "chartTitle": "Progress 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024652_chart_ks4_p8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024652_chart_ks4_p8.png",
-                    "chartDescription": "A Progress 8 score of -0.33 means Maria Fidelis pupils achieved close to half a grade lower than similar pupils across the country."
+                    "chartDescription": "A Progress 8 score of -0.58 means Maria Fidelis pupils achieved over half a grade lower than similar pupils across the country."
                 }
             ],
             "chartsProm": [
                 {
-                    "chartTitle": "After Key Stage 4 (2023):",
+                    "chartTitle": "After Key Stage 4 (2024):",
                     "chartImg": "../assets/imgs/charts/2024652_chart_ks4_dest.png",
                     "chartDescription": null
                 },
@@ -4936,37 +5308,37 @@
                 {
                     "type": "quote",
                     "bgcolor": "#e50059",
-                    "text": "\"I feel Netley is a welcoming, inclusive school with high standards in all areas. My son is very happy and thriving in this school.\"",
+                    "text": "I feel Netley is a welcoming, inclusive school with high standards in all areas. My son is very happy and thriving in this school.",
                     "author": "Parent"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#e50059",
-                    "text": "\"I feel that Mr Morris and the staff there do really care about the children's education and well being. It\u2019s not just a job to them. I leave them in school without a single worry.\"",
+                    "text": "I feel that Mr Morris and the staff there do really care about the children's education and well being. It\u2019s not just a job to them. I leave them in school without a single worry.",
                     "author": "Parent"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#e50059",
-                    "text": "\"The school and the staff are just amazing, caring and supportive. I wouldn\u2019t change this school for any other.\"",
+                    "text": "The school and the staff are just amazing, caring and supportive. I wouldn\u2019t change this school for any other.",
                     "author": "Parent"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "\"Netley makes a significant difference to pupils and their families. It is a haven within the community where everyone is valued and well looked after.\"",
+                    "text": "Netley makes a significant difference to pupils and their families. It is a haven within the community where everyone is valued and well looked after.",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "\"The school sets high expectations for all pupils to achieve the very best outcomes.\"",
+                    "text": "The school sets high expectations for all pupils to achieve the very best outcomes.",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "\"The school is unwavering in its work to find teaching approaches that help every pupil work towards the same ambitious curriculum goals.\"",
+                    "text": "The school is unwavering in its work to find teaching approaches that help every pupil work towards the same ambitious curriculum goals.",
                     "author": "Ofsted"
                 }
             ],
@@ -5423,21 +5795,21 @@
             "academicChildSuccess": "<p>Our students know that their teachers want them to succeed and they trust that through the excellent teaching, curriculum planning, care and support they receive, they will achieve success through their education at Parli. Teaching is adapted so that everybody is able to achieve their personal best and experience success.</p>\n\n<p>Students are encouraged to appreciate the value of making mistakes whilst learning and in response to feedback 'craft' to achieve excellence.</p>\n\n<p>The school expects its students to:</p>\n\n<ul>\n  <li>Arrive on time to all lessons with the correct equipment</li>\n  <li>Follow instructions from staff the first time they are given</li>\n  <li>Listen when others are speaking and respect everyone\u2019s contributions</li>\n  <li>Remain focused in lessons and complete all work set to a high standard</li>\n  <li>Respect others, school resources and the classroom environment</li>\n</ul>\n\n<p>In this way, with the school community working together, our students achieve outstanding outcomes.</p><p><a href=\"https://www.parliamenthill.camden.sch.uk/Students/Expectations/\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
             "chartsPerform": [
                 {
-                    "chartTitle": "Attainment 8 (2023):",
+                    "chartTitle": "Attainment 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024166_chart_ks4_att8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024166_chart_ks4_att8.png",
-                    "chartDescription": "An Attainment 8 score of 59.1 means Parliament Hill pupils averaged just below a grade 6 across their eight best GCSE-level subjects."
+                    "chartDescription": "An Attainment 8 score of 58.8 means Parliament Hill pupils averaged just below a grade 6 across their eight best GCSE-level subjects."
                 },
                 {
-                    "chartTitle": "Progress 8 (2023):",
+                    "chartTitle": "Progress 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024166_chart_ks4_p8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024166_chart_ks4_p8.png",
-                    "chartDescription": "A Progress 8 score of 0.61 means Parliament Hill pupils achieved over half a grade higher than similar pupils across the country."
+                    "chartDescription": "A Progress 8 score of 0.5 means Parliament Hill pupils achieved over half a grade higher than similar pupils across the country."
                 }
             ],
             "chartsProm": [
                 {
-                    "chartTitle": "After Key Stage 4 (2023):",
+                    "chartTitle": "After Key Stage 4 (2024):",
                     "chartImg": "../assets/imgs/charts/2024166_chart_ks4_dest.png",
                     "chartDescription": null
                 },
@@ -6028,21 +6400,21 @@
             "academicChildSuccess": "<p>We are proud of our team of dedicated staff who provide an inspiring, structured and supportive learning environment, in which every student is challenged to realise their full potential and encouraged to be ambitious for their futures. We have high expectations for our students and expect them to come to school prepared to learn.</p>\n\n<p>We know that when our students adhere to our code of conduct, they are successful in their learning. Our code is summarised by our students:</p>\n\n<ul>\n  <li><b>R</b>espectful to everyone</li>\n  <li><b>E</b>ngaged in learning</li>\n  <li><b>G</b>rowing through challenges and new opportunities</li>\n  <li><b>E</b>xcellence from ourselves and others</li>\n  <li><b>N</b>eat and well presented</li>\n  <li><b>T</b>ruthful and acting with integrity</li>\n</ul>\n<br><p><a href=\"https://www.regenthighschool.org.uk/About/Our-ethos/\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
             "chartsPerform": [
                 {
-                    "chartTitle": "Attainment 8 (2023):",
+                    "chartTitle": "Attainment 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024196_chart_ks4_att8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024196_chart_ks4_att8.png",
-                    "chartDescription": "An Attainment 8 score of 43.8 means Regent High pupils averaged between a grade 4 and a grade 5 across their eight best GCSE-level subjects."
+                    "chartDescription": "An Attainment 8 score of 44.5 means Regent High pupils averaged between a grade 4 and a grade 5 across their eight best GCSE-level subjects."
                 },
                 {
-                    "chartTitle": "Progress 8 (2023):",
+                    "chartTitle": "Progress 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024196_chart_ks4_p8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024196_chart_ks4_p8.png",
-                    "chartDescription": "A Progress 8 score of -0.06 means Regent High pupils achieved a grade slightly lower than similar pupils across the country."
+                    "chartDescription": "A Progress 8 score of -0.27 means Regent High pupils achieved close to half a grade lower than similar pupils across the country."
                 }
             ],
             "chartsProm": [
                 {
-                    "chartTitle": "After Key Stage 4 (2023):",
+                    "chartTitle": "After Key Stage 4 (2024):",
                     "chartImg": "../assets/imgs/charts/2024196_chart_ks4_dest.png",
                     "chartDescription": null
                 },
@@ -7611,7 +7983,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#64007e",
-                    "text": "<p>The school motto<br> \u2018together everyone achieves more\u2019 (TEAM) makes a significant contribution to the strong relationships between all groups and all faiths in the school community.</p>",
+                    "text": "The school motto \"together everyone achieves more\" (TEAM) makes a significant contribution to the strong relationships between all groups and all faiths in the school community.",
                     "author": "SIAMS"
                 },
                 {
@@ -7677,7 +8049,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#e50059",
-                    "text": "Love this school - wish more schools were like yours.",
+                    "text": "Love this school - wish more schools were like your's.",
                     "author": "Parent"
                 }
             ],
@@ -7744,12 +8116,12 @@
             ]
         },
         "statistics": {
-            "pupilsNum": 193,
+            "pupilsNum": 190,
             "ethnicGroupsNum": 6,
             "languagesNum": 4,
             "SENDPercent": 22.3,
-            "BMEPercent": 68.4,
-            "disadvantagedPupilsPercent": 62.0,
+            "BMEPercent": 69.5,
+            "disadvantagedPupilsPercent": 68.0,
             "englishAdditionalLangPercent": 34.7,
             "absencePercent": 5.1,
             "persistentAbsenteesPercent": 14.4,
@@ -7779,7 +8151,7 @@
             "changeYearReserves": 113700.0
         },
         "curriculum": {
-            "curriculumAim": "<p>Our distinctive school Vision and Values inform all aspects of our work. Underpinned by high expectations, our bespoke curriculum is carefully crafted and aspirational; providing all children with the opportunity to attain high academic standards and develop the secure personal skills and attributes necessary to become life-long learners.</p>\n\n<p>Reading is the cornerstone of the broader curriculum and from the Early Years, children develop a secure body of knowledge and skills across every subject, including Spanish, enabling them to be very well prepared for every next step in their education.</p>\n\n<p>We deliver a comprehensive religious education, ensuring children learn how to stay safe, make sensible choices, and be good citizens.</p>\n\n<p>We are highly ambitious for pupils with SEND and offer carefully considered bespoke support. Our children enjoy coming to school to benefit from the wide range of exciting activities the school provides.</p><p><a href=\"https://www.stmp.camden.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumAim": "<p>Our distinctive school Vision and Values inform all aspects of our work. Underpinned by high expectations, our bespoke curriculum is carefully crafted and aspirational; providing all children with the opportunity to attain high academic standards and develop the secure personal skills and attributes necessary to become life-long learners.</p>\n\n<p>Reading is the cornerstone of the broader curriculum and from the Early Years, children develop a secure body of knowledge and skills across every subject, including Spanish, enabling them to be very well prepared for every next step in their education.</p>\n\n<p>We deliver comprehensive religious education and PSHE programmes, ensuring children learn how to stay safe, make sensible choices, and be good citizens.</p>\n\n<p>We are highly ambitious for pupils with SEND and offer carefully considered bespoke support. Our children enjoy coming to school to benefit from the wide range of exciting activities the school provides.</p><p><a href=\"https://www.stmp.camden.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
             "curriculumStrengths": [
                 "Broad and Stimulating",
                 "Holding Music Mark Accreditation",
@@ -7827,7 +8199,7 @@
             "wherePupilsGoAfter": "<p>STMP equips children with the personal skills and qualities they need to continue their learning journey. They readily take on a range of responsibilities, understand the component parts of British Values and are keenly aware of their place as global citizens and the power they have to make positive change.</p>"
         },
         "SEND": {
-            "sendSupportInfo": "<p>Inclusion is at the heart of our school ethos. Children with SEND are at the heart of our provision and staff are highly ambitious for their achievement. Teachers are skilled in adapting curriculum provision to suit each child's individual learning needs. Children with SEND needs are placed on the SEND register in liaison with parents. This allows the needs of the child to be considered in an in-depth way through an Individual Support Plan, (ISP), an Exceptional Needs Grant plan or an Education Health Care Plan.</p>\n\n<p>We work with specialist services including Speech and Language Therapists, Occupational Therapists, Educational Psychologists, and CAMHs. The school SENDCo works closely with parents and the professionals involved on all aspects of SEND so that children's success is celebrated and incremental steps for achievement are carefully planned and evaluated. We also have a medical needs register and work with our school Nurse.</p><p><a href=\"https://www.stmp.camden.sch.uk/wp-content/uploads/2024/03/13.05-SEND-Policy-March-2024.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "sendSupportInfo": "<p>Inclusion is at the heart of our school ethos. Children with SEND are at the centre of our provision and staff are highly ambitious for their achievement. Teachers are skilled in adapting curriculum provision to suit each child's individual learning needs. Children with SEND needs are placed on the SEND register in liaison with parents. This allows the needs of the child to be considered in an in-depth way through an Individual Support Plan, (ISP), an Exceptional Needs Grant plan or an Education Health Care Plan.</p>\n\n<p>We work with specialist services including Speech and Language Therapists, Occupational Therapists, Educational Psychologists, and CAMHs. The school SENDCo works closely with parents and the professionals involved on all aspects of SEND so that children's success is celebrated and incremental steps for achievement are carefully planned and evaluated. We also have a medical needs register and work with our school Nurse.</p><p><a href=\"https://www.stmp.camden.sch.uk/wp-content/uploads/2024/03/13.05-SEND-Policy-March-2024.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
             "inclusivePracticeInfo": "<p>Our approach to equality is based on the following key principles, in line with our school Vision:</p>\n\n<ul>\n  <li>All learners are of equal value</li>\n  <li>We recognise, respect and value difference and believe there is strength in our diversity</li>\n  <li>We foster positive attitudes and relationships</li>\n  <li>We foster a shared sense of cohesion and belonging</li>\n  <li>We observe good equalities practice for our staff</li>\n  <li>We have the highest expectations of all our children</li>\n  <li>We work to raise standards for all pupils, but especially for the most disadvantaged and vulnerable</li>\n  <li>We dignify and value children and those of all faiths and none.</li>\n</ul><p><a href=\"https://www.stmp.camden.sch.uk/about-us/school-policies/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     },
@@ -8459,21 +8831,21 @@
             "academicChildSuccess": "<p>\"The school has high aspirations for pupils' academic achievement.\" (Ofsted, 2024)</p>\n\n<p>Our curriculum is inclusive, and we ensure staff and students have positive relationships which enable students to focus on their learning. Teachers have dedicated time for training and collaborative planning, meaning lessons are high quality.</p>\n\n<p>Our tracking of academic achievement and progress is detailed and meaningful. Parents receive written reports three times each year. Where students need extra support, we have a range of interventions they are given.</p>\n\n<p>Every lesson at the Academy features a focus on authentic challenge, collaboration, and feedback, which ensures no child is left behind.</p>",
             "chartsPerform": [
                 {
-                    "chartTitle": "Attainment 8 (2023):",
+                    "chartTitle": "Attainment 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024000_chart_ks4_att8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024000_chart_ks4_att8.png",
-                    "chartDescription": "An Attainment 8 score of 47.4 means The UCL Academy pupils averaged between a grade 4 and a grade 5 across their eight best GCSE-level subjects."
+                    "chartDescription": "An Attainment 8 score of 46.6 means The UCL Academy pupils averaged between a grade 4 and a grade 5 across their eight best GCSE-level subjects."
                 },
                 {
-                    "chartTitle": "Progress 8 (2023):",
+                    "chartTitle": "Progress 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024000_chart_ks4_p8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024000_chart_ks4_p8.png",
-                    "chartDescription": "A Progress 8 score of -0.15 means The UCL Academy pupils achieved a grade slightly lower than similar pupils across the country."
+                    "chartDescription": "A Progress 8 score of -0.17 means The UCL Academy pupils achieved a grade slightly lower than similar pupils across the country."
                 }
             ],
             "chartsProm": [
                 {
-                    "chartTitle": "After Key Stage 4 (2023):",
+                    "chartTitle": "After Key Stage 4 (2024):",
                     "chartImg": "../assets/imgs/charts/2024000_chart_ks4_dest.png",
                     "chartDescription": null
                 },
@@ -8802,8 +9174,8 @@
             "wherePupilsGoAfter": "<p>At WHPS, values prepare our children for all of the challenges of growing up and becoming adults.</p>\n\n<p><strong>ASPIRATION.</strong> We aim high! Our intention is for everyone at WHPS to be a creative, curious learner who can communicate well and achieves their goals.</p>\n\n<p><strong>COMMUNITY.</strong> We work together in partnerships. Everyone at WHPS should feel a sense of belonging and develop strong and positive relationships with others.</p>\n\n<p><strong>CONSIDERATION.</strong> Kindness, empathy and respect are prized highly here at school. We treat others with empathy, compassion, and fairness.</p>\n\n<p><strong>RESILIENCE.</strong> Life always presents challenges; at WHPS we are adaptable, aiming to meet our challenges with a positive mindset and developing confidence and independence.</p>\n\n<p><strong>RESPONSIBILITY.</strong> We value being good citizens, and doing our best to look after ourselves, each other and the environment. We aspire to always be organised and proactive.</p>"
         },
         "SEND": {
-            "sendSupportInfo": "<p>At WHPS, we believe that all pupils have the right to an education of the highest standard. Where pupils have learning difficulties and/or disabilities, we aim to provide the support necessary to enable them to access the curriculum and fulfil their potential. We make every effort for this to be achieved within the classroom alongside other pupils.</p>\n\n<br>\n\n<p>Children with special educational needs are catered for within their own class with additional support as needed. If appropriate, children may be sent to work with a specialist adult for short periods, individually or in a small group to ensure they make the best possible progress during their time at WHPS.</p><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=INCLUSION&pid=152\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
-            "inclusivePracticeInfo": "<p>WHPS is an inclusive school and is widely recognised as such, both in the local community and by OFSTED during our 2022 inspection. We believe in the importance of inclusion and equality for all children and adults and as such ensure that these beliefs are embedded in our practices.</p>\n\n<p>At WHPS we have high expectations of all our children. Our school motto, 'Together We Achieve', encapsulates our ethos of inclusion. We are very proud of our success in supporting both children with special educational needs and children who show a particular gift or talent in an area of learning.</p><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=EQUALITY&pid=373\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+            "sendSupportInfo": "<p>At WHPS, we believe that all pupils have the right to an education of the highest standard. For children with Special Educational Needs and Disabilities (SEND), we plan carefully and take a personalised approach to ensure that every child receives the support they need to access the curriculum and reach their full potential. We recognise that each child's needs are unique and work closely with families and specialists to develop tailored strategies.</p>\n<br>\n\n<p>Support is provided both within the classroom and, when necessary, through targeted interventions. Children may work with specialist adults in one-to-one or small group settings to address specific learning needs. Our aim is to ensure that all children are fully included and make meaningful progress in a supportive and nurturing environment. Through this approach, we strive to create an atmosphere where every pupil can thrive academically and socially at WHPS.</p><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=INCLUSION&pid=152\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>WHPS is an inclusive school, widely recognised in the local community and by OFSTED during our 2022 inspection. We strongly believe in the importance of inclusion and equality for all children and adults, embedding these values in every aspect of our practice. Our school motto, 'Together We Achieve', encapsulates our ethos of inclusion. We have high expectations for all our pupils, providing a supportive environment that allows them to thrive.</p>\n<br>\n\n<p>Our \"Assess, Plan, Do, Review\" approach ensures that we meet the individual needs of each child. All staff are dedicated to inclusive practices, working collaboratively to ensure no child is left behind.</p>\n<br>\n\n<p>We also collaborate with other schools and external professionals to continually enhance our inclusive provision. This commitment ensures that inclusion is embedded in our school culture. We are particularly proud of our success in supporting both children with special educational needs and those with particular gifts or talents.</p><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=EQUALITY&pid=373\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     },
     {
@@ -9152,21 +9524,21 @@
             "academicChildSuccess": "<p>We ensure academic success through a comprehensive and carefully structured approach. Our curriculum is knowledge-embedded, building systematically on key ideas and content while developing essential skills across all subjects. We recognize that academic success extends beyond timetabled lessons, encompassing clubs, activities, and educational visits.</p>\n\n<p>We pay particular attention to disadvantaged students, ensuring they have access to enriching experiences that build cultural capital. Our curriculum planning specifically addresses equity, providing all students with comparable opportunities for growth and development.</p>\n\n<p>Each subject area follows a clear \"Single Attainment Target\" framework, with explicit assessment criteria and curriculum mapping to track progress. We integrate reading, writing, speaking, and listening skills development across all subjects, with targeted interventions where needed.</p>\n\n<p>For post-16 students, our partnership with the LaSWAP consortium offers extensive and flexible study options, maintaining strong educational support throughout their academic journey.</p><p><a href=\"https://www.williamellis.camden.sch.uk/about-us/policies-and-documents\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
             "chartsPerform": [
                 {
-                    "chartTitle": "Attainment 8 (2023):",
+                    "chartTitle": "Attainment 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024688_chart_ks4_att8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024688_chart_ks4_att8.png",
-                    "chartDescription": "An Attainment 8 score of 49.5 means William Ellis pupils averaged just below a grade 5 across their eight best GCSE-level subjects."
+                    "chartDescription": "An Attainment 8 score of 48.8 means William Ellis pupils averaged just below a grade 5 across their eight best GCSE-level subjects."
                 },
                 {
-                    "chartTitle": "Progress 8 (2023):",
+                    "chartTitle": "Progress 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024688_chart_ks4_p8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024688_chart_ks4_p8.png",
-                    "chartDescription": "A Progress 8 score of -0.26 means William Ellis pupils achieved close to half a grade lower than similar pupils across the country."
+                    "chartDescription": "A Progress 8 score of -0.17 means William Ellis pupils achieved a grade slightly lower than similar pupils across the country."
                 }
             ],
             "chartsProm": [
                 {
-                    "chartTitle": "After Key Stage 4 (2023):",
+                    "chartTitle": "After Key Stage 4 (2024):",
                     "chartImg": "../assets/imgs/charts/2024688_chart_ks4_dest.png",
                     "chartDescription": null
                 },
