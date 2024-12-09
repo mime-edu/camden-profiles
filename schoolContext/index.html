@@ -302,7 +302,7 @@
 							<div v-if="currentInfoBlock == 3" class="statistics__block statistics-block">
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">Financial reserves</p>
-									<p class="stats-sector__description">£{{school.statistics.financialReserves}}</p>
+									<p class="stats-sector__description">{{school.statistics.financialReserves}}</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>£170,500</span></p>
 										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>£144,100</span></p>
@@ -310,7 +310,7 @@
 								</div>
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">Change in reserves in last 12 months</p>
-									<p class="stats-sector__description">-£{{school.statistics.changeYearReserves}}</p>
+									<p class="stats-sector__description">{{school.statistics.changeYearReserves}}</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>-£2,500</span></p>
 										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>-£41,700</span></p>

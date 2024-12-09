@@ -127,6 +127,10 @@
 									<a class="tab-content__link" target="_blank" :href="`${school.ofstedLink}`"
 										><span>What does Ofsted say about our school?</span><img src="../assets/imgs/arrow-forward.png" alt=""
 									/></a>
+									<br v-if="school?.churchLink">
+									<a v-if="school?.churchLink" class="tab-content__link" target="_blank" :href="`${school.churchLink}`"
+										><span>What does the church say about our school?</span><img src="../assets/imgs/arrow-forward.png" alt=""
+									/></a>
 								</div>
 							</div>
 							<div class="tabs-block__item tab">
