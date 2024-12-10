@@ -3940,6 +3940,289 @@
         }
     },
     {
+        "schoolId": 2023361,
+        "schoolName": "Holy Trinity and Saint Silas CofE Primary School, NW1",
+        "isPrimary": true,
+        "shortSlogan": "A small Christian school with a warm heart that fosters care, courage and co-operation.  ",
+        "descriptionTitle": "A small Christian school with a warm heart that fosters care, courage and co-operation.  ",
+        "description": "<p>At Holy Trinity & St Silas School, we offer all our children an education of the highest quality taught with a strong focus on the arts and lived through the principles and practice of the Christian faith.</p>\n<br>\n\n<p>Our school values are embedded across our curriculum, enabling pupils to show care for themselves, others and the world around them; have courage to find their voice and see challenge as an opportunity to grow; and to learn to cooperate with one other so that they are able to consider the views of others, adapt their thinking, and work as a team - we grow together.</p>",
+        "schoolLogo": "../assets/imgs/school/2023361_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100033",
+        "churchLink": "https://www.holytrinitynw1.camden.sch.uk/site/wp-content/uploads/Holy-Trinity-St-Silas-Camden-SIAMS-Draft-Report-FAC.pdf",
+        "websiteLink": "https://www.holytrinitynw1.camden.sch.uk/",
+        "type": "Primary",
+        "gender": "Mixed",
+        "entryForms": 1,
+        "ageRange": [
+            "4",
+            "11"
+        ],
+        "address": "Hartland Road",
+        "lat": 51.544545,
+        "long": -0.145222,
+        "formsEntry": 1,
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW1 8DE",
+        "facilities": [
+            "Specialist arts and sports teachers",
+            " Infant and junior playgrounds",
+            " Breakfast club",
+            " Music and art room",
+            " Free whole class music tuition in KS2"
+        ],
+        "activities": [
+            "Art ",
+            "Science",
+            "Trampoline",
+            "Multisports",
+            "Football",
+            "Choir",
+            "Forest School",
+            "Running club",
+            "Pick from school to extended childcare at Talacre after school centre"
+        ],
+        "admissionProcess": "<p>While we follow the Camden application process and prioritise key groups, 60% our school places are offered on any Christian church attendance with 40% being open to those that live the closest.</p>\n<br>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2023361_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Great teachers who support the children in their education and pursuing their passions. The school is caring, welcoming and filled with lots of fun activities that make my children love coming into school every day.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "A wonderfully welcoming place for parents and children. Behaviour seems to be good and the children learn how to be good friends and supportive of each other. There is a fostering of pupil collaboration not competitiveness. It's great!",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Parents and carers speak highly of the sporting and cultural opportunities which enrich the school\u2019s planned curriculum, providing many opportunities for their children to grow in confidence. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Across the school, pupils\u2019 attitudes in lessons are positive, they cooperate well and are keen learners. They engage well with the curriculum on offer and teaching proceeds uninterrupted. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Leaders are ambitious for every pupil to develop a love of reading. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "Adults help children persevere even if something is hard.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "In our school everyone knows each other and cheers each other on.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The three c's help us with everything we need to do. They motivate us to do the right thing. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "Several of the teaching staff and TAs have been with the school for a number of years, which helps to uphold the school's ethos and friendly atmosphere. This helps us to feel well known and understood.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "The school has a delightful sense of community spirit where everyone supports one another. ",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Working here is like being with extended family.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "I am always awe struck by the children's performances at Christmas and during the whole school Shakespeare project. ",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "In my aspiration to model care, courage and co-operation, I find new meaning and more value within these words every day. ",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Great teachers who support the children in their education and pursuing their passions. The school is caring, welcoming and filled with lots of fun activities that make my children love coming into school every day.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The school has highly committed staff. Pastoral care is great. Always feel listened to, and that each child is an individual and yet also part of the community. Phenomenal that drama is at the heart of a lot of what they do, as this gives each child a sense of self-ownership.",
+                    "author": "Parent"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2023361_1.jpg",
+                "../assets/imgs/school/2023361_2.jpg",
+                "../assets/imgs/school/2023361_3.jpg",
+                "../assets/imgs/school/2023361_4.jpg",
+                "../assets/imgs/school/2023361_5.jpg",
+                "../assets/imgs/school/2023361_6.jpg",
+                "../assets/imgs/school/2023361_7.jpg",
+                "../assets/imgs/school/2023361_8.jpg",
+                "../assets/imgs/school/2023361_9.jpg",
+                "../assets/imgs/school/2023361_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "We are a Church of England school nestled close to Camden Market. Our community reflects the diversity around us, with families from 21 different countries.  ",
+                    "link": "/schoolContext/index.html?schoolId=2023361"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "Our three c's of care, courage and co-operation are the cornerstone of meaningful and effective support for all.",
+                    "link": "/support/index.html?schoolId=2023361"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "",
+                    "link": "/SEND/index.html?schoolId=2023361"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "We have consistently strong outcomes at the end of KS2. We want all our children to have solid foundations when they move on to secondary school.",
+                    "link": "/achievement/index.html?schoolId=2023361"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Our curriculum is considered/well designed, inspiring and inclusive. All teaching and learning intends to ensure that all our children have a wide range of opportunities to explore, question and deepen their thinking over time. ",
+                    "link": "/curriculum/index.html?schoolId=2023361"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Closing the disadvantage gap",
+                    "description": "To close the disadvantage gap in all classes in reading, writing and maths."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Behaviour Practices",
+                    "description": "To embed our behaviour and relationships practices consistently across the school."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum Development",
+                    "description": "To embed threads linked to our core values across all subjects that build subject knowledge and experience in a meaningful way."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 208,
+            "ethnicGroupsNum": null,
+            "languagesNum": null,
+            "SENDPercent": 25.0,
+            "BMEPercent": 55.8,
+            "disadvantagedPupilsPercent": 33.7,
+            "englishAdditionalLangPercent": 25.5,
+            "absencePercent": 3.7,
+            "persistentAbsenteesPercent": 7.7,
+            "specificLanguages": [
+                "Bengali",
+                "Arabic"
+            ],
+            "specificEthnicities": [
+                ""
+            ],
+            "specificSEND": [
+                "Specific learning difficulty",
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 92,
+            "pupilAdultRatio": 10.9,
+            "financialReserves": "\u00a3132,300",
+            "changeYearReserves": "\u00a334,700"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>It is our intention to provide a broad, inspiring and inclusive curriculum that ensures all children have a wide range of opportunities to explore, question and deepen their thinking over time. Subjects are taught as distinct disciplines that are knowledge-rich and sequenced meaningfully so that, as children move up through the school, they consolidate and develop their subject-specific knowledge over time.</p>\n<br>\n\n<p>Learning is brought to life by making it memorable and engaging, both in the classroom and beyond. We believe that working with drama, art, music and sporting specialists through whole-school projects, performances and competitions enhances our curriculum. These creative, cultural and sporting activities symbolise the holistic and inclusive view of education that runs through our school, with the development of the whole child driving all that we do.</p>\n<br>\n\n<p>Our curriculum supports our children in becoming: caring citizens who show care to each other, the local community and wider world and who know how their actions can help others; courageous communicators who ask questions, speak knowledgeably, extend their vocabulary, take risks, learn from their mistakes and challenge themselves through new experiences; co-operative learners who work well together, negotiate and compromise, share ideas, listen to and support one another.</p><p><a href=\"https://www.holytrinitynw1.camden.sch.uk/parents/day-to-day/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Reading ",
+                "The Arts",
+                "PE"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>We live through our Christian verse, 'Strong in our faith in God, let us consider how we may spur one another on towards love and good deeds, by encouraging one another.' (Hebrews 10:23-25) and our school values of care, courage and co-operation. They are equally fundamental in ensuring that children feel safe, secure and happy in all aspects of school life.</p>\n<br>\n<p>We know that in order to thrive, our children need secure and trusting relationships with all those around them. It is a priority for us to start to build this with children and parents, from the day they enter our school. The children are always involved in the design or development of play spaces in the school to ensure that the needs of every child are met in their time of play and social growth with their peers as well as with all children in our school.</p>\n<br>\n\n<p>Safeguarding at HTSS is robust and everyone knows that it is their responsibility to protect our children. Staff are consistent in reporting any concerns.</p><p><a href=\"https://www.holytrinitynw1.camden.sch.uk/site/wp-content/uploads/Relationships-Behaviour-policy-2022.23.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>We support children in building happy and safe relationships with all children in the school. Any behaviour that is repeated, targeted and potentially bullying is promptly responded to, ensuring all pupils are heard.</p>\n<br>\n\n<p>We treat children fairly and sensitively; we listen to them, we hear both sides of any disagreements, and we help children sort problems out in a way that enables resolution. We strongly promote children having a fresh start that expects learning from our mistakes.</p>\n<br>\n\n<p>We actively involve parents in any behaviour concerns and expect that school expectations are reinforced at home.</p><p><a href=https://www.holytrinitynw1.camden.sch.uk/site/wp-content/uploads/Relationships-Behaviour-policy-2022.23.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>We want our children to make the most of every day at school and to love coming to school. We are robust in our expectation of strong and consistent communication from parents in relation to any absence and are prompt in addressing any attendance concerns.</p>\n<br>\n\n<p>We value strong relationships with parents so that we are able to work together on any challenges that might impact lost attendance and lost learning.</p><p><a href=\"https://www.holytrinitynw1.camden.sch.uk/site/wp-content/uploads/Attendance-Policy-23-24.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>It is our priority that all children have the support they need and inspiration they deserve in order to excel in all areas of the curriculum. We achieve this through considered staff training and development in understanding the needs of our children so that lessons are engaging and adapted to ensure success every day.</p>\n<br>\n\n<p>We love reading and want our children to as well. This is why in the infants, we teach reading using a synthetic phonics programme as well as daily intensive reading using the Daily Supported Reader programme - we are successful in ensuring that the majority of our children are confident and motivated readers by the end of Key Stage One.</p>\n<br>\n\n<p>Reading confidence and achievement continue to build in Key Stage Two where specific reading skills are taught systematically using the Destination Reader programme. These practices consistently result in exceptional outcomes for all groups by the end of Year 6. We also love using books throughout the curriculum to inspire writing and to deepen knowledge.</p>\n<br>\n\n<p>In maths, we use the mastery approach to deepen mathematical understanding and confidence and to enable children to progress alongside one another. Our results reflect the success of this approach and the confidence children build in maths as they move through the school.</p>\n<br>\n\n<p>Our arts curriculum and emphasis on performance through school plays twice a year and school assemblies is fundamental in building the confidence in our children to believe that they can and do achieve well. Our commitment to employing specialists in particular subjects (art, drama, music and PE) reflects our determination that our pupils should enjoy high-quality teaching and learning in foundation subjects as well as core subjects.</p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2023361_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2023361_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2023361_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2023361_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>Our ambitious expectations for academic success aim to equip pupils for the knowledge, skills and self-belief that will lead to continued success. Children are taught how to show care, courage and co-operation for themselves as learners and for all, both in school and beyond.</p>\n<br>\n\n<p>It is our intention that children learn how these key attributes have to be carried on in their lives as they grow and that they will positively impact their future outcomes.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>Staff work closely with children, parents/carers and professionals to develop opportunities for all learners. We know that the earlier we identify special educational needs and provide support, the more successful children will be over time. We work closely with Camden SEND specialists to provide expert support and resources so as to enable all children to reach their full potential.</p>\n<br>\n\n<p>Our staff have regular training on meeting the needs of SEND learners and we are a trauma-informed school. We continuously review and adapt our environment and our offer so as to meet the needs of the children in our care. At HTSS, we actively involve parents in the planning and reviewing of progress of our children with SEND; we know that parents are the first educators of their child \u2013 we need their knowledge to plan effectively.</p>\n<br>\n\n<p>Parents and carers of children with SEND talk about how much their child \u2018enjoys school\u2019 and that Holy Trinity and S. Silas is the \u2018best environment\u2019 for their child. Many parents/carers of children with SEND talk of the \u2018dedication and care of all the staff in the school\u2019 and feel \u2018continually supported\u2019 by the school.</p><p><a href=\"https://www.holytrinitynw1.camden.sch.uk/site/wp-content/uploads/Inclusion-and-SEND-Policy-22-23.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>At our school, we want to know all our children and their families, so we prioritise building strong and trusting relationships. We see each child as being unique and of equal value and therefore ensure the support and care we offer enables every child to be successful.</p>\n<br>\n\n<p>We have a learning environment where all children feel welcome throughout the school day. We intend that our curriculum supports teachers in delivering engaging and motivating lessons both within the classroom as well as in the wider community, giving children a wide range of trips and experiences in our vibrant city and beyond.</p>\n<br>\n\n<p>We know that the opportunities we afford through our creative arts experiences and practices raise the aspirations of all children, helping them believe that anything is possible for anyone.</p>"
+        }
+    },
+    {
         "schoolId": 2023359,
         "schoolName": "Holy Trinity CE Primary School",
         "isPrimary": true,
@@ -9503,6 +9786,314 @@
         "SEND": {
             "sendSupportInfo": "<p>Ofsted (2024) said that \"This is an inclusive and welcoming school. The school has high aspirations for pupils\u2019 academic achievement, including pupils with special educational needs and/or disabilities (SEND).\"</p><br>\n\n<p>We are committed to meeting the needs of learners through our ambitious curriculum and quality first teaching. Our aim is to ensure that all students, regardless of their starting point, have a tailored and personalised curriculum to enable good progress.</p><br>\n\n<p>We communicate with primary schools to understand SEND needs before students join us. By using a range of assessments and listening to our students, we know them very well. All SEND learners are supported via a personal SEND passport which contains key strategies for learning, student views, and information about their learning needs.</p><br>\n\n<p>Children who have additional needs are supported via the SEND team and specialist teachers.</p><br><p><a href=\"https://drive.google.com/file/d/1OrBDQHwHoS2ZLEy0uyOf0Pt8DHeeuS6S/view\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
             "inclusivePracticeInfo": "<p>We work hard to ensure our curriculum offer, the topics taught and the staff body directly reflect the local community. We place inclusive practice at the heart of what we do: our approach to managing behaviour; reporting academic achievement, training staff and designing lessons are inclusive and respond to the needs of all. We make reasonable adjustments and treat everyone as an individual.</p>\n\n<p>The Pastoral and PHSCE Curriculums encourage students to reflect on themselves, others and those who are different to them. Through this whole child education differences are celebrated.</p><p><a href=\"https://uclacademy.co.uk/about-us/policies-and-documents/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
+        "schoolId": 2022036,
+        "schoolName": "West Hampstead Primary School",
+        "isPrimary": true,
+        "shortSlogan": "<p>Together, We Achieve! Our values of Community, Aspiration, Consideration, Resilience, and Responsibility are at the heart of all we do.</p>",
+        "descriptionTitle": "<p>Together, We Achieve! Our values of Community, Aspiration, Consideration, Resilience, and Responsibility are at the heart of all we do.</p>",
+        "description": "<p>At WHPS we are very proud of our school, with its rich, fascinating history and diverse, welcoming community. What makes us special? Our learning environment enables all children to flourish and enjoy being at school. Our exciting and broad curriculum sets high expectations and meets the needs of all of our children, ensuring that they all reach their full potential, academically and socially. We are an NCETM centre of excellence for Mathematics. Children's learning is enriched through high-quality, creative and cultural experiences; making the most of the city we live in.</p>",
+        "schoolLogo": "../assets/imgs/school/2022036_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100009",
+        "churchLink": "",
+        "websiteLink": "https://www.westhampstead.camden.sch.uk/",
+        "type": "Primary inc. Nursery",
+        "gender": "Mixed",
+        "entryForms": 2,
+        "ageRange": [
+            "3",
+            "11"
+        ],
+        "address": "Dornfell Street, West Hampstead",
+        "lat": 51.550753,
+        "long": -0.199482,
+        "formsEntry": 2,
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW6 1QL",
+        "facilities": [
+            "Beautiful Victorian building. Spacious bright classrooms. Three large assembly halls. Separate dining hall. Engaging and adventurous playground. Astro-turf sports pitch. Basketball/Football pitch. Sensory Room. Breakfast Club. Science Garden. Outdoor Reading area. Specialist Art teaching. Specialist PE coaching. Dedicated Art Room. Whole class brass lessons in Year 6. Whole class recorder lessons in Year 4. Amazing EYFS playground. Year 1 outdoor area. Swimming at Hampstead school. "
+        ],
+        "activities": [
+            "Choir",
+            "Rock Band",
+            "Arts and Crafts",
+            "Boys Football",
+            "Girls Football",
+            "Mini Kicks Football",
+            "After school playcentre collection with 'PACE'",
+            "Badminton",
+            "Capoeira",
+            "Fitness and Stamina",
+            "Eco Club",
+            "Table Tennis",
+            "Drama",
+            "Coding",
+            "Breakfast Club",
+            "Debating Society",
+            "School Council",
+            "Newspaper Team",
+            "Chess Club"
+        ],
+        "admissionProcess": "<p>We strictly abide by the admissions of Camden Local Authority. Details can be found on the websites below:</p>\n\n<ul>\n    <li><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></li>\n    <li><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">Camden In-Year School Admissions</a></li>\n</ul>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2022036_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils love coming to this friendly and welcoming school.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The school has lovely staff members who clearly care deeply about their work and the young people in their care.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "The school has developed a curriculum which sets high expectations for all pupils.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The children are very lucky to have so much space, both in classrooms and outdoors.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Leaders give safeguarding the highest priority.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Quality of teaching, diversity of curriculum and exposure to cultural experiences are the best things about WHPS!",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "The overall happiness of the children is higher than any other schools I've worked in.",
+                    "author": "School Staff"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "We have a relentless desire to give pupils the best outcomes.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "As a school, we are always striving to develop and be better.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "I love the staff, the teamwork, the diversity, the children and  the way we go above and beyond to support our families.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I\u2019m proud of how the school celebrates everyone\u2019s backgrounds. No one is left out.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "The headteacher and his senior leadership team (SLT) lead the school with sensitivity and ambition.",
+                    "author": "Challenge Partners"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "Aspiration is when you go beyond and reach for the stars.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Inclusivity is a strength and leaders ensure that as many pupils as possible access mainstream provision and that diversity is celebrated.",
+                    "author": "Challenge Partners"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "There is strong consistency across Early Years Foundation Stage (EYFS). The atmosphere is calm and nurturing and the children know how to work independently. In Nursery and Reception classes, levels of engagement are high.",
+                    "author": "Challenge Partners"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2022036_1.jpg",
+                "../assets/imgs/school/2022036_2.jpg",
+                "../assets/imgs/school/2022036_3.jpg",
+                "../assets/imgs/school/2022036_4.jpg",
+                "../assets/imgs/school/2022036_5.jpg",
+                "../assets/imgs/school/2022036_6.jpg",
+                "../assets/imgs/school/2022036_7.jpg",
+                "../assets/imgs/school/2022036_8.jpg",
+                "../assets/imgs/school/2022036_9.jpg",
+                "../assets/imgs/school/2022036_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "A school community for everyone in West Hampstead. A school where families from different backgrounds and cultures feel included, welcomed and heard. Relationships between staff, parents and pupils are extremely positive and are built on mutual respect.",
+                    "link": "/schoolContext/index.html?schoolId=2022036"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "A school with 'Consideration' and 'Resilience' at the core of its values and a curriculum that prepares all of our children for adulthood. The strong values, which are lived and modelled to pupils, underpin the curriculum to support learning and teaching.",
+                    "link": "/support/index.html?schoolId=2022036"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "Excellent inclusive practice and personalised provision for children with SEND is at the heart of WHPS. Inclusivity is a strength and leaders ensure that as many pupils as possible access mainstream provision and that diversity is celebrated.",
+                    "link": "/SEND/index.html?schoolId=2022036"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "The staff at WHPS have high aspirations for all of the children, this ensures that they make excellent academic progress whatever their starting points. Our children consistently achieve above national levels, due to adaptive teaching and challenge for all.",
+                    "link": "/achievement/index.html?schoolId=2022036"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "At WHPS we have an ambitious, aspirational and broad curriculum for all of our children. Teachers\u2019 subject knowledge is strong and they all provide children, including those who are disadvantaged with enriched curriculum that is enhanced with real-life experiences.",
+                    "link": "/curriculum/index.html?schoolId=2022036"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Excellence in Teaching and Learning ",
+                    "description": "Every child will make excellent progress through high quality teaching and learning, which adapts to the needs of every child."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Inclusion for All",
+                    "description": "To ensure excellence in inclusive practice regardless of a child's starting point, providing challenge and support for all, in particular disadvantaged pupils, high attainers and children with SEND."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Enrichment across the curriculum",
+                    "description": "To further develop our engaging and unforgettable curriculum and continue to review our range of memorable enrichment experiences for all of our children."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 397,
+            "ethnicGroupsNum": 12,
+            "languagesNum": 10,
+            "SENDPercent": 19.4,
+            "BMEPercent": 71.3,
+            "disadvantagedPupilsPercent": 45.6,
+            "englishAdditionalLangPercent": 47.9,
+            "absencePercent": 5.6,
+            "persistentAbsenteesPercent": 16.2,
+            "specificLanguages": [
+                "English",
+                "Arabic",
+                "Spanish",
+                "Italian",
+                "French",
+                "Japanese",
+                "Turkish",
+                "Albanian",
+                "Somali",
+                "Bengali"
+            ],
+            "specificEthnicities": [
+                "White British\nArab\nWhite and Black Caribbean \nAfrican\nCaribbean\nBangladeshi\nIndian\nOther Asian\nTurkish\nAlbanian",
+                "White European",
+                "Black Somali",
+                "Arab",
+                "White and Black Caribbean ",
+                "African",
+                "Caribbean",
+                "Bangladeshi",
+                "Indian",
+                "Other Asian",
+                "Turkish",
+                "Albanian"
+            ],
+            "specificSEND": [
+                "Specific learning difficulty",
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 95,
+            "pupilAdultRatio": 12.7,
+            "financialReserves": "\u00a3252,000",
+            "changeYearReserves": "-\u00a3168,600"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>At WHPS, we provide a broad and balanced curriculum that develops the individual child according to their age and ability. Our curriculum is designed to:</p>\n\n<ol>\n    <li>Ensure the children have a broad, balanced, and secure knowledge and understanding of the world.</li>\n    <li>Ensure high levels of competence in the core subjects of English and maths.</li>\n    <li>Teach our pupils to live well in a diverse world, as confident, responsible citizens.</li>\n    <li>Teach our pupils to learn well and to love learning.</li>\n    <li>Teach our pupils how to lead happy, healthy, and constructive lives, in which they can aspire and experience success.</li>\n</ol><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=OUR+CURRICULUM&pid=184\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                " Maths Mastery Curriculum",
+                "Rich Understanding of History and Geography",
+                "Harness curiosity & Uniqueness"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>At WHPS we are committed to providing a safe learning environment for the children that promotes their welfare and helps them to develop socially and emotionally so that they can make the most of their life chances. We do this by:</p>\n\n<ul>\n    <li>Providing pupils with opportunities to discuss issues and report problems affecting their safety and welfare</li>\n    <li>Following safe recruitment practices</li>\n    <li>Ensuring robust procedures for recognition and referral where there are welfare or child protection concerns</li>\n    <li>Monitoring and supporting pupils who are supported by child protection plans and contributing to the implementation of their plan</li>\n    <li>Raising awareness amongst staff of child protection issues and ensuring staff are equipped to deal with concerns</li>\n    <li>Teaching children to keep themselves safe and ensuring they know who to approach for help</li>\n    <li>Promoting partnership working with parents and professionals</li>\n</ul><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=SAFEGUARDING&pid=146\t\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>The WHPS community recognises that bullying, especially if left unaddressed, can have a devastating effect on individuals; it can create a barrier to learning and have serious consequences for mental well-being. By effectively preventing and tackling bullying, our school provides a safe, disciplined environment where pupils are able to learn and fulfil their potential.</p>\n\n<p>At WHPS, we use the Jenny Mosley model of Golden Rules and Circle Time as a whole-school approach to enhance self-esteem, positive behaviour, and relationships within the school and beyond. All the children and adults are involved, and we hope that families, too, adopt the same approach.</p><p><a href=https://www.westhampstead.camden.sch.uk/attachments/download.asp?file=1234&type=pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>We want to ensure that all pupils receive a full-time education to maximise opportunities for them to realise their potential. We foster an environment that enables and encourages all members of the school community to strive for excellence and enjoyment in education. For our children to gain the greatest benefit from their education, it is vital that they attend regularly and punctually.</p>\n\n<p>At WHPS, our objectives are to develop an ethos that demonstrates to children, parents/carers, and the wider community the importance of good attendance and punctuality. Regular and punctual attendance is essential for effective learning, and children should be at school, on time, every day that the school is open, unless the reason for the absence is unavoidable.</p>\n\n<p>We have a dedicated 'School Home Liaison Officer' who works closely with our families to offer support and connect them with wider services in the borough.</p><p><a href=\"https://www.westhampstead.camden.sch.uk/attachments/download.asp?file=597\t\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>We are very proud of all our children\u2019s achievements, and in particular, the good progress they make while at West Hampstead Primary School. This is achieved through prioritising the continuous professional development of all our staff, no matter their level of experience or expertise. We have well-established, rigorous systems that ensure that all of our children achieve their maximum potential.</p>\n\n<p>Our children excel in the core subjects; however, as a school, we also make sure that we celebrate achievements in all areas. This may include great progress in PE, an exceptional piece of artwork, developing a real talent for music, or learning to care for others.</p><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=OUR+CURRICULUM&pid=184\t\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2022036_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022036_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2022036_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022036_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>At WHPS, our values prepare our children for all of the challenges of growing up and becoming adults.</p>\n\n<p><strong>ASPIRATION.</strong> We aim high! We inspire creative, curious learners who can communicate well and achieve their goals.</p>\n\n<p><strong>COMMUNITY.</strong> We enjoy working together, academically and socially. Everyone at WHPS feels a sense of belonging and develops strong and positive relationships with others.</p>\n\n<p><strong>CONSIDERATION.</strong> Kindness, empathy, and respect are prized highly at our school. We treat others with empathy, compassion, and fairness.</p>\n\n<p><strong>RESILIENCE.</strong> Life always presents challenges; at WHPS, we are adaptable, aiming to meet our challenges with a positive mindset and developing confidence and independence.</p>\n\n<p><strong>RESPONSIBILITY.</strong> We value being good citizens and doing our best to look after ourselves, each other, and the environment. We aspire to always be organised and proactive.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>At WHPS, we believe that all pupils have the right to an education of the highest standard. For children with Special Educational Needs and Disabilities (SEND), we plan carefully and take a personalised approach to ensure that every child receives the support they need to access the curriculum and reach their full potential. We recognise that each child's needs are unique and work closely with families and specialists to develop tailored strategies.</p>\n\n<p>Support is provided both within the classroom and, when necessary, through targeted interventions. Children may work with specialist adults in one-to-one or small group settings to address specific learning needs. Our aim is to ensure that all children are fully included and make meaningful progress in a supportive and nurturing environment. Through this approach, we strive to create an atmosphere where every pupil can thrive academically and socially at WHPS.</p><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=INCLUSION&pid=152\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>WHPS is an inclusive school, widely recognised in the local community and by OFSTED during our 2022 inspection. We strongly believe in the importance of inclusion and equality for all children and adults, embedding these values in every aspect of our practice. Our school motto, 'Together We Achieve', encapsulates our ethos of inclusion. We have high expectations for all our pupils, providing a supportive environment that allows them to thrive.</p>\n\n<p>Our \"Assess, Plan, Do, Review\" approach ensures that we meet the individual needs of each child. All staff are dedicated to inclusive practices, working collaboratively to ensure no child is left behind. We also collaborate with other schools and external professionals to continually enhance our inclusive provision. This commitment ensures that inclusion is embedded in our school culture.</p>\n\n<p>We are particularly proud of our success in supporting both children with special educational needs and those with particular gifts or talents.</p><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=EQUALITY&pid=373\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     },
     {
