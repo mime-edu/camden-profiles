@@ -273,7 +273,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022001_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022001_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -918,7 +918,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022019_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022019_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -1214,7 +1214,7 @@
             "strengths": "temp"
         },
         "support": {
-            "childSafetyAndHappiness": "<p>The culture of Torriano ensures that every child is known well and valued. As a UNICEF Gold Rights Respecting School, we not only teach about rights but, in addition, we are role models for each other: securing the highest levels of success and self-esteem for each individual child.</p>\n<br>\n\n<p>Our whole school question, \u2018Who do I want to be?\u2019 is underpinned by our values; we encourage our children to be empathetic, caring, and respectful. We reinforce positive behaviours to develop children\u2019s attitudes to learning and self-regulation.</p>\n<br>\n\n<p>Our school is a safe and stimulating environment for learning, playing, and growing where children know their voices are valued.</p>",
+            "childSafetyAndHappiness": "<p>The culture of Brecknock ensures that every child is known well and valued. As a UNICEF Gold Rights Respecting School, we not only teach about rights but, in addition, we are role models for each other: securing the highest levels of success and self-esteem for each individual child.</p>\n<br>\n\n<p>Our whole school question, \u2018Who do I want to be?\u2019 is underpinned by our values; we encourage our children to be empathetic, caring, and respectful. We reinforce positive behaviours to develop children\u2019s attitudes to learning and self-regulation.</p>\n<br>\n\n<p>Our school is a safe and stimulating environment for learning, playing, and growing where children know their voices are valued.</p>",
             "bullyingProtection": "<p>Through our curriculum and behaviour policy, we promote the values of respect, tolerance, and kindness towards others. With a clear Rights Respecting School ethos, children are given agency and the tools to navigate friendships and address conflicts, with the help of adults in the school.</p>\n<br>\n\n<p>All children have the right to feel happy and safe in school. Children and families are made aware of the steps that will be taken by staff if they report bullying and understand our Children\u2019s Anti Bullying policy.</p>\n<br>\n\n<p>Bullying is never accepted and will be dealt with quickly.</p>",
             "attendanceManagement": "<p>We want to ensure that all children are in school every day and on time, learning well and feeling happy. We work hard at making the learning relevant and engaging in a supportive and exciting environment.</p>\n<br>\n\n<p>Our dedicated federation Child & Family Support Worker and Pastoral Care team work closely with families to support regular attendance. Breakfast club, extra-curricular activities, and a broad enrichment programme ensure all pupils\u2019 interests and needs are met.</p>\n<br>\n\n<p>Every minute matters!</p>"
         },
@@ -1231,7 +1231,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022065_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022065_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -1249,8 +1249,8 @@
             "wherePupilsGoAfter": "<p>Brecknock School offers a tailored transition programme, that meets each child's unique needs in order to set up pupils to thrive as they transition to their new school. Brecknock emphasizes academic excellence, personal growth, and life skills through a dynamic curriculum that integrates STEAM, The Arts, oracy, and sustainability.</p>\n<br>\n\n<p>Pupils at Brecknock are taught how to be confident in their communication and take ownership of their learning, in order to have the requisite skills to be a lifelong learner. By fostering resilience, communication, and responsibility, Brecknock equips pupils to succeed in the next stage of their education and beyond, empowering them to be creative, critical thinkers and engaged, responsible citizens.</p>"
         },
         "SEND": {
-            "sendSupportInfo": "<p>Children across our school have a range of needs and we put inclusion at the heart of our practice. Staff are well trained to support children with additional needs, and we are proud to offer a high level of universal provision and communication-friendly classrooms.</p>\n<br>\n\n<p>All children receive the high-quality support they need, and staff have high expectations of their learning. Provision is shaped and adapted according to needs.</p>\n<br>\n\n<p>We work in partnership with parents and professionals. We value their input, with regular opportunities to feedback through inclusion forums, fairs, and coffee mornings.</p>\n<br>\n\n<p>Torriano has a Language Resource Base where children with identified communication and language needs receive specialist speech and language support, both within the base and their class.</p>",
-            "inclusivePracticeInfo": "<p>We strive to provide a high-quality education and promote success for all. Our collective mission is for all children to have a future of choice and opportunity.</p>\n<br>\n\n<p>Torriano is committed to ensuring all children make rapid progress, \u2018no child will be missed and no child will fall behind\u2019. We embody and promote equality and equity, through an inclusive approach.</p>\n<br>\n\n<p>We are a UNICEF Gold Rights Respecting school where rights are at the forefront of learning and practice. With a strong focus on anti-racism, gender equality, and climate justice, our curriculum is underpinned by the Sustainable Development Goals.</p>\n<br>\n\n<p>We continue to learn, innovate, and contribute to building an anti-racist community and implement a highly representative curriculum. We believe every effort must be made to ensure that individuals within our school are valued and have the opportunity to develop their potential within a context of mutual respect, justice, and fairness.</p>"
+            "sendSupportInfo": "<p>Children across our school have a range of needs and we put inclusion at the heart of our practice. Staff are well trained to support children with additional needs, and we are proud to offer a high level of universal provision and communication-friendly classrooms.</p>\n<br>\n\n<p>All children receive the high-quality support they need, and staff have high expectations of their learning. Provision is shaped and adapted according to needs.</p>\n<br>\n\n<p>We work in partnership with parents and professionals. We value their input, with regular opportunities to feedback through inclusion forums, fairs, and coffee mornings.</p>\n<br>\n\n<p>Brecknock has a Language Resource Base where children with identified communication and language needs receive specialist speech and language support, both within the base and their class.</p>",
+            "inclusivePracticeInfo": "<p>We strive to provide a high-quality education and promote success for all. Our collective mission is for all children to have a future of choice and opportunity.</p>\n<br>\n\n<p>Brecknock is committed to ensuring all children make rapid progress, \u2018no child will be missed and no child will fall behind\u2019. We embody and promote equality and equity, through an inclusive approach.</p>\n<br>\n\n<p>We are a UNICEF Gold Rights Respecting school where rights are at the forefront of learning and practice. With a strong focus on anti-racism, gender equality, and climate justice, our curriculum is underpinned by the Sustainable Development Goals.</p>\n<br>\n\n<p>We continue to learn, innovate, and contribute to building an anti-racist community and implement a highly representative curriculum. We believe every effort must be made to ensure that individuals within our school are valued and have the opportunity to develop their potential within a context of mutual respect, justice, and fairness.</p>"
         }
     },
     {
@@ -1515,7 +1515,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023323_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023323_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -1808,7 +1808,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022842_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022842_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -1828,6 +1828,295 @@
         "SEND": {
             "sendSupportInfo": "<p><b>26%</b> of our pupils have <b>SEND</b> (<b>3%</b> with an <b>Education Health and Care Plan</b> & <b>23%</b> on <b>SEN Support</b>). We prioritise high quality class teaching and ensure all teachers can adapt their practice so <b>all pupils make progress</b>. Pupils learn in <b>mixed attainment</b> groups as we have <b>high expectations</b> for all.</p>\n\n<p>If a child needs <b>additional help</b> with an area of learning, support is provided through <b>small group pre-teaching</b> of key knowledge. This helps pupils to engage successfully in lessons.</p>\n\n<p>For some pupils, <b>specific interventions</b> and more significant adaptations may be required. Our <b>SENDCo</b> works in partnership with <b>parents</b> and <b>specialist agencies</b> to plan these.</p><p><a href=\"https://www.chrishatton.camden.sch.uk/docs/Equality_policy_and_plan_2023_25.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
             "inclusivePracticeInfo": "<p>We ensure standards and progress are <b>consistently high for all groups of pupils</b>: girls and boys; pupils of all ethnicities, pupils with SEND and those from disadvantaged backgrounds. This is the result of our <b>inclusive practices</b> and a curriculum that reflects the <b>diversity</b> of our community.</p>\n\n<p>Teaching effective <b>communication skills</b>, an <b>inclusive ethos</b> and the creation of a <b>safe and welcoming learning environment</b> are central to ensuring all pupils can thrive.</p><p><a href=\"https://www.chrishatton.camden.sch.uk/Our-School/Policies/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
+        "schoolId": 2022184,
+        "schoolName": "Edith Neville Primary School",
+        "isPrimary": true,
+        "shortSlogan": "We are an outstanding school with a values-led curriculum in the heart of Somers Town. ",
+        "descriptionTitle": "We are an outstanding school with a values-led curriculum in the heart of Somers Town. ",
+        "description": "<p>Edith Neville is the community primary school of Somers Town in the London Borough of Camden. It is a one-form entry school with a Nursery and Family Centre. The school serves a diverse local community and is highly inclusive.</p>\n<br>\n\n<p>The school prides itself on encouraging aspiration, supporting every child according to his or her needs, setting high standards and nurturing wellbeing. Our well-established Family Centre works alongside the school to help families and empower parents to support their children's learning and overall development.</p>",
+        "schoolLogo": "../assets/imgs/school/2022184_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100013",
+        "churchLink": "",
+        "websiteLink": "https://www.edithneville.camden.sch.uk ",
+        "type": "Primary inc. Nursery",
+        "gender": "Mixed",
+        "entryForms": 1,
+        "ageRange": [
+            "3",
+            "11"
+        ],
+        "address": "85 Polygon Road",
+        "lat": 51.532372,
+        "long": -0.130665,
+        "formsEntry": 1,
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW1 1HQ",
+        "facilities": [
+            "Art and Music studio",
+            " Family Centre",
+            " Climbing wall",
+            " Trampolines",
+            " Outdoor space for every classroom",
+            " RIBA award-winning building"
+        ],
+        "activities": [
+            "Free Breakfast Club",
+            "Universal Breakfast Provision",
+            "Homework Clubs",
+            "Daily Sports Clubs (Before And After School)",
+            "Dance Club",
+            "Art Club",
+            "Tutoring"
+        ],
+        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the website below:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions?gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1jUJZ8-OuDiukJLcJ0tosaz95rlun0cmZQLcYatpceEWfkofyTFpqUaApmzEALw_wcB\" target=\"_blank\">Camden Primary Admissions</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2022184_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils and their families have a deep affection for Edith Neville Primary School.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "We have such a safe and welcoming space for children to come and learn.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "The school community lives and breathes the shared values identified by leaders. For example, leaders and staff consistently encourage pupils to be empathetic and to collaborate. This helps pupils build and sustain strong relationships and behave very thoughtfully. There is an aura of positivity. Pupils love coming to school and feel extremely safe. Bullying almost never occurs. Pupils trust staff to deal with any rare instances.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "We have team spirit and an emphasis on staff and children\u2019s wellbeing.",
+                    "author": "School Staff"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "As a result of the school\u2019s culture, pupils\u2019 behaviour is exemplary. The youngest children learn the language they need to describe their feelings by listening to stories. This is built upon as pupils learn to recognise and respond to their feelings. Staff help pupils to reflect meaningfully after rare incidents of emotional upset. Pupils consider what they could do differently next time and how other people may have felt. The school\u2019s values drive both strong behaviour and learning. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Our curriculum isn't just about academic achievement. It's about nurturing well rounded individuals so they can thrive as children and adults. ",
+                    "author": "School Staff"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Due to an extremely well-thought-through curriculum, pupils remember what they have learned in the long term. Their work across the whole curriculum is first class.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "There is a real team spirit and emphasis on staff and children\u2019s wellbeing.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "We are so grateful for the support of the school. They go above and beyond to help the parents and families all the time. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I like all the trips we go on, especially residential. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I come each week to the Family Centre and I am always made welcome. I have learnt so much about how to help and support my child. Everyone here is like my family.  ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "The school is calm and purposeful. There is almost no low-level disruption, and teachers are quick to intervene in any instances that do occur to ensure that classes can continue working.",
+                    "author": "Other"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Through our curriculum we help our children see the relevance of their learning and inspire them to become active and informed citizens. ",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Staff have good relationships and support each other to ensure children are the main priority.",
+                    "author": "School Staff"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Children were learning within calm, purposeful learning environments and behaviour for learning was observed to be very good. Children were polite and happy to share what they were learning in the maths and English lessons that were visited. (Camden CPP)",
+                    "author": "Other"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2022184_1.jpg",
+                "../assets/imgs/school/2022184_2.jpg",
+                "../assets/imgs/school/2022184_3.jpg",
+                "../assets/imgs/school/2022184_4.jpg",
+                "../assets/imgs/school/2022184_5.jpg",
+                "../assets/imgs/school/2022184_6.jpg",
+                "../assets/imgs/school/2022184_7.jpg",
+                "../assets/imgs/school/2022184_8.jpg",
+                "../assets/imgs/school/2022184_9.jpg",
+                "../assets/imgs/school/2022184_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "Our well established Family Centre works alongside the school to empower parents to support their children's learning and overall development. Daily sessions aim to address the needs of the local community. We offer adult sessions such as ESOL, sewing, Zumba and daily drop-ins for parents with young children. ",
+                    "link": "/schoolContext/index.html?schoolId=2022184"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "We pride ourselves on equipping children with the knowledge and understanding of how to support their own wellbeing. This is a whole school theme every September. There are weekly wellbeing assemblies and additional therapeutic support provided within the school day where needed. ",
+                    "link": "/support/index.html?schoolId=2022184"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "Our children with SEND make excellent progress. We have strong relationships with external professionals to ensure staff are aware of how to support children's individual needs. ",
+                    "link": "/SEND/index.html?schoolId=2022184"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "Children at Edith Neville make outstanding progress from Nursery to Year 6. Our standards in Year 6 are consistently above the national average. ",
+                    "link": "/achievement/index.html?schoolId=2022184"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Our curriculum helps pupils make sense of the world in which they live, and allows them to think of solutions to problems they currently face. Our six overarching themes are explored through all areas of the curriculum and actively seek opportunities to not only develop our children\u2019s understanding of global issues and the wider world, but to enthuse, encourage and empower them to take action.",
+                    "link": "/curriculum/index.html?schoolId=2022184"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Writing across the curriculum",
+                    "description": "To ensure meaningful opportunities for writing across the whole curriculum lead to improved writing outcomes for all children, including those with additional needs."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "SEND provision for children with profound needs",
+                    "description": "To meet the needs of all children."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "To improve standards of oracy throughout the school ",
+                    "description": "This year we are focusing on our groupings to ensure they facilitate meaningful opportunities for talk across the curriculum ."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 209,
+            "ethnicGroupsNum": 6,
+            "languagesNum": 6,
+            "SENDPercent": 33.0,
+            "BMEPercent": 97.1,
+            "disadvantagedPupilsPercent": 54.2,
+            "englishAdditionalLangPercent": 87.6,
+            "absencePercent": 7.0,
+            "persistentAbsenteesPercent": 27.4,
+            "specificLanguages": [
+                "English",
+                "Bengali",
+                "Somali",
+                "Turkish",
+                "Cantonese",
+                "Arabic"
+            ],
+            "specificEthnicities": [
+                "Bangladeshi",
+                "Somali",
+                "White British ",
+                "Turkish",
+                "Chinese",
+                "Algerian"
+            ],
+            "specificSEND": [
+                "Social, emotional and mental health",
+                "Speech, language and communication needs"
+            ],
+            "qualifiedTeachersPercent": 100,
+            "pupilAdultRatio": 8.8,
+            "financialReserves": "\u00a3332,700",
+            "changeYearReserves": "-\u00a3400"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>Our spiralling curriculum is based around six themes, which children learn about each year. These are: Wellbeing, Diversity and Inclusion, Local Citizens, Global Citizens, Looking after the Planet, and Aspirations. All these themes run through all of our learning across the year, but a half-termly focus gives us a chance to explore each theme in depth through linked core texts.</p>\n<br>\n<p>We see our curriculum as a tool to respond to the needs of children and the community. We have looked at what we need to teach our children so they can become productive citizens. Whole-school projects help bring the school community together and are led by the School Council.</p><p><a href=\"https://www.edithneville.camden.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Our curriculum is meaningful and links to problems children see and face in their daily lives.",
+                "Through our curriculum we aim to empower our children to make changes in the world they live in. ",
+                "We expose our children to high quality texts which lead to high quality outcomes in writing and oracy. "
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>At Edith Neville, we are rigorous in our commitment to ensuring our children are safe. We also prioritise children's mental health and wellbeing, and actively teach children how to look after their own mental health.</p>\n<br>\n\n<p>This is achieved through a half-termly focus, weekly wellbeing assemblies, and external support where needed.</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/edith-neville/UploadedDocument/3c23ac2e-4b84-42ee-8b3c-ae1b2706b99c/enps-cp-and-safeguarding-policy-sept-24.doc.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>The school believes in justice for all and works to protect the rights of every child equally. Children learn to respect others through being treated with respect themselves and by seeing adults setting a good example.</p>\n<br>\n<p>If there is bullying in our community, it affects us all. We must work together to solve the problem. Bullying behaviour can be changed, but not by force. The school tries to create an environment where children who are bullied know that the school will deal with this; they can seek help and restore their sense of feeling safe and supported.</p>\n<br>\n<p>The school is also a place where children who are bullying can change, be forgiven, and become trusted members of our community.</p><p><a href=https://primarysite-prod-sorted.s3.amazonaws.com/edith-neville/UploadedDocument/f5ec435b-6c6f-4b94-9662-2015305dcf43/edith-neville-primary-school-anti-bullying-policy.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>We want to ensure that all pupils receive an education which maximises opportunities, attainment, well-being, and wider life chances for everybody to realise their potential. We aim for an environment which enables and encourages all members of the school community to strive for excellence and enjoyment in education.</p>\n<br>\n<p>For our children to gain the greatest benefit from their education, it is vital that they attend regularly and punctually.</p>\n<br>\n<p>At Edith Neville Primary School, our objectives are to develop an ethos which demonstrates to children, parents/carers, and the wider community the importance of good attendance and punctuality.</p>\n<br>\n<p>Regular and punctual attendance is essential for effective learning, and children should be at school, on time, every day the school is open unless the reason for the absence is unavoidable.</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/edith-neville/UploadedDocument/28845a02-387e-4975-91ec-efb1bc9ce747/enps-attendance-policy-2024-25.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>Through a meaningful curriculum and strong relationships across the school, we make sure school is a motivating and exciting place to learn. Our staff are well trained and we prioritise consistency across the school.</p>\n<br>\n<p>Additional teaching and learning support is available for children who need it. Barriers to progress are addressed through specialist support and interventions.</p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2022184_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022184_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2022184_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022184_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>Strong outcomes at the end of Year 6 mean children are ready for the secondary school curriculum. One of our half termly themes each year is 'Aspirations'. We focus both on careers children may be interested in and the values and attributes they would like to show.</p>\n<br>\n<p>We ensure children are exposed to role models who will inspire them to reach their potential.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>At Edith Neville Primary School, we support and value the abilities of all our pupils. We see them as individuals and aim to provide equal opportunities for every child in our care, within a safe and supportive learning environment.</p>\n<br>\n<p>Children with special educational needs may require special or different provision to be made so that they can reach their full potential.</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/edith-neville/UploadedDocument/da6d2ce0-8aba-4d22-9337-340470b85df4/edith-neville-primary-school-send-policy.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>Our school makes all members of our community feel welcome and valued. Our vision and values promote inclusion and equality and tackle discrimination. We have high expectations for all our pupils irrespective of race, gender or disability.</p>\n<br>\n<p>Our equalities statement is guided by some core principles:</p>\n<ul>\n  <li>All learners are of equal value</li>\n  <li>We recognise and respect difference</li>\n  <li>We foster positive attitudes and relationships and a shared sense of community and belonging</li>\n  <li>We observe good practice in recruitment, retention and staff development</li>\n  <li>We aim to reduce and challenge barriers to equality that already exist.</li>\n</ul><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/edith-neville/UploadedDocument/6109159d-b485-49ea-bffe-979e74354779/enps-equalities-statement-23-24.pdf\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     },
     {
@@ -2098,7 +2387,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022841_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022841_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -2398,7 +2687,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023340_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023340_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -2670,7 +2959,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022797_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022797_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -2964,7 +3253,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022219_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022219_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -3272,7 +3561,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022775_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022775_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -3582,7 +3871,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023352_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023352_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -4200,7 +4489,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023361_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023361_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -4496,7 +4785,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023359_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023359_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -4811,7 +5100,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022002_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022002_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -5124,7 +5413,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022843_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022843_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -5208,7 +5497,7 @@
             "Fencing",
             "Creative Writing"
         ],
-        "admissionProcess": "<p>The governing body is responsible for the admission of up to 120 girls to Year 7 each year. Applications are welcome from girls of all backgrounds and denominations.</p>\n\n<br>\n\n<p>For more information, visit our</p>\n\n<br>\n\n<p><a href=\"https://www.lasainteunion.org.uk/Admissions/Admissions-Appeals/\" target=\"_blank\">Admissions Policy Link</a></p>",
+        "admissionProcess": "<p>The governing body is responsible for the admission of up to 120 girls to Year 7 each year. Applications are welcome from girls of all backgrounds and denominations.</p>\n\n<br>\n\n<p>For more information, visit our website below:</p>\n\n<br>\n\n<p><a href=\"https://www.lasainteunion.org.uk/Admissions/Admissions-Appeals/\" target=\"_blank\">Admissions Policy Link</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -5218,7 +5507,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "Pupils explained clearly what they likes best about the school - their teachers, the large grounds and the diversity of the community.",
+                    "text": "Pupils explained clearly what they like best about the school - their teachers, the large grounds and the diversity of the community.",
                     "author": "Ofsted"
                 },
                 {
@@ -5229,15 +5518,15 @@
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "#64007e",
+                    "bgcolor": "",
                     "text": "Students are happy, confident, and feel valued by the school.",
-                    "author": "SIAMS"
+                    "author": "CSI"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "#64007e",
+                    "bgcolor": "",
                     "text": "Relationships between staff and students are strong: students told inspectors they view the school as a place of safety in which they are well cared for.",
-                    "author": "SIAMS"
+                    "author": "CSI"
                 },
                 {
                     "type": "quote",
@@ -5290,7 +5579,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#ed6c26",
-                    "text": "I love that La Sainte Union has a diverse community and offers abroad range of subjects as well as clubs for all interests.",
+                    "text": "I love that La Sainte Union has a diverse community and offers a broad range of subjects as well as clubs for all interests.",
                     "author": "Child"
                 },
                 {
@@ -6083,7 +6372,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022436_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022436_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -6698,7 +6987,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022475_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022475_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -7315,7 +7604,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022502_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022502_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -7611,7 +7900,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022507_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022507_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -7916,7 +8205,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023391_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023391_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -7944,7 +8233,7 @@
         "isPrimary": true,
         "shortSlogan": "A village school in the heart of London. High aspirations for every pupil, in every year group, at every point of their primary journey.",
         "descriptionTitle": "A village school in the heart of London. High aspirations for every pupil, in every year group, at every point of their primary journey.",
-        "description": "<p>St. Alban's is a vibrant, welcoming school where students from diverse backgrounds come together to learn and grow. It has three large playgrounds and spacious classrooms that are equipped with modern technology.</p>\n<br>\n\n<p>Teachers are supportive and passionate about helping pupils to flourish, both academically and personally. There are various clubs and extracurricular activities, ranging from arts to sports, allowing pupils to explore their individual interests.</p>\n<br>\n\n<p>St. Alban's encourages a culture of respect, collaboration, and creativity, making it an environment for both learning and self-discovery. A village school community in the centre of London.</p>",
+        "description": "<p>St. Alban's is a vibrant, welcoming school where students from diverse backgrounds come together to learn and grow. It has three large playgrounds and spacious classrooms that are equipped with modern technology.</p>\n<br>\n\n<p>Teachers are supportive and passionate about helping pupils to flourish, both academically and personally. There is a wide range of after school enrichment opportunities, ranging from arts to sports, allowing pupils to explore their individual interests.</p>\n<br>\n\n<p>St. Alban's encourages a culture of respect, collaboration, and creativity, making it an environment for both learning and self-discovery. A village school community in the centre of London.</p>",
         "schoolLogo": "../assets/imgs/school/2023398_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100036",
         "churchLink": "https://www.stalbanscamden.co.uk/siams-report-1/",
@@ -8098,7 +8387,7 @@
                 {
                     "bgcolor": "#e50059",
                     "title": "School & community context",
-                    "description": "A welcoming and supportive child centred community ",
+                    "description": "A welcoming and supportive child-centred community.",
                     "link": "/schoolContext/index.html?schoolId=2023398"
                 },
                 {
@@ -8110,7 +8399,7 @@
                 {
                     "bgcolor": "#64007e",
                     "title": "SEND & inclusion",
-                    "description": "The school swiftly identifies any SEND and puts appropriate help in place to support pupils effectively. Pupils\u2019 needs are accurately identified and planned for in order for them to access the same learning as their peers.! ",
+                    "description": "The school swiftly identifies any SEND and puts appropriate help in place to support pupils effectively. Pupils\u2019 needs are accurately identified and planned for in order for them to access the same learning as their peers.",
                     "link": "/SEND/index.html?schoolId=2023398"
                 },
                 {
@@ -8130,12 +8419,12 @@
                 {
                     "bgcolor": "#e50059",
                     "title": "Early Years Foundation Stage ",
-                    "description": "\nContinue to ensure children make good or better progress in their learning and development, relative to their starting points, ensuring they are prepared for the next stage of their education."
+                    "description": "Continue to ensure children make good or better progress in their learning and development, relative to their starting points, ensuring they are prepared for the next stage of their education."
                 },
                 {
                     "bgcolor": "#ed6c26",
                     "title": "Subject Leadership - Curriculum progression ",
-                    "description": "To ensure consistency in Implementation of the Intent in foundation subjects. Pupils are ready for the next stage of education, employment or training  - they have achieved or exceeded national curriculum outcomes\n"
+                    "description": "To ensure consistency in Implementation of the Intent in foundation subjects. Pupils are ready for the next stage of education, employment or training  - they have achieved or exceeded national curriculum outcomes.\n"
                 },
                 {
                     "bgcolor": "#4764ff",
@@ -8179,7 +8468,7 @@
             "curriculumStrengths": [
                 "Broadening Life Experiences and Aspirations",
                 "Building Character and Resilience for Life",
-                "Creative Immersion Through University Project."
+                "Creative Immersion through University Project"
             ],
             "topSubjects": [
                 ""
@@ -8205,7 +8494,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023398_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023398_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -8224,7 +8513,7 @@
         },
         "SEND": {
             "sendSupportInfo": "<p>All the teachers in the school are teachers of children with Special Educational Needs. As such, St Alban\u2019s adopts a 'whole school approach' to SEND that involves all staff adhering to a model of good practice. This is based on Quality First Teaching, specific 1:1 and small group intervention programmes, and outside agency support (when and where appropriate).</p>\n\n<p>The staff of the school are committed to identifying and providing for the needs of all children in a wholly inclusive environment. Inclusion is given a high priority in this policy, in line with the policies of Camden Local Authority. The SENDCo works closely with Camden SEND team, professional agencies, and parents to ensure the best possible outcomes for pupils with SEND.</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/stalbans-cepans-redesign/UploadedDocument/c833d8c3-9847-41e3-9be7-214c731a15bb/send-policy-nov-2024.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
-            "inclusivePracticeInfo": "<p>Our vision underpins our approach to inclusion at St. Alban\u2019s CE Primary School. We are rigorous in ensuring that all our students, and especially those who are most vulnerable, are supported to achieve their full potential and be the best examples of themselves.</p>\n\n<p>St Alban\u2019s is committed to providing a tailored, creative, and high-quality education to all the children in our school that is delivered through our vision of Faith, Hope, and Love without exception of exclusion.</p>\n\n<p>We believe that all children have a common entitlement to a broad and balanced academic and social curriculum, which is accessible to them, and to be fully included in all aspects of school life.</p><p><a href=\"https://www.stalbanscamden.co.uk/policies-1/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+            "inclusivePracticeInfo": "<p>Our vision underpins our approach to inclusion at St. Alban\u2019s CE Primary School. We are rigorous in ensuring that all our students, and especially those who are most vulnerable, are supported to achieve their full potential and be the best examples of themselves.</p>\n\n<p>St Alban\u2019s is committed to providing a tailored, creative, and high-quality education to all the children in our school that is delivered through our vision of Faith, Hope, and Love without exception of exclusion.</p>\n\n<p>We believe that all children have a common entitlement to a broad and balanced academic and social curriculum, which is accessible to them, and to be fully included in all aspects of school life.</p>"
         }
     },
     {
@@ -8503,7 +8792,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023441_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023441_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -8803,7 +9092,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023521_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023521_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -9105,7 +9394,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023517_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023517_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -9400,7 +9689,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023568_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023568_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
@@ -9789,6 +10078,324 @@
         }
     },
     {
+        "schoolId": 2022603,
+        "schoolName": "Torriano Primary School",
+        "isPrimary": true,
+        "shortSlogan": "A school that builds the capacities of children to work together, to collaborate, to transform themselves, their communities, and the wider world.",
+        "descriptionTitle": "A school that builds the capacities of children to work together, to collaborate, to transform themselves, their communities, and the wider world.",
+        "description": "<p>Torriano is a vibrant, inclusive, and welcoming school. We foster a nurturing environment where creativity, curiosity, and academic excellence thrive.</p>\n<br>\n\n<p>We teach our children to be knowledgeable learners, confident communicators, and active citizens. We focus on providing a well-rounded education that emphasises academic, personal, and physical development.</p>\n<br>\n\n<p>Children are encouraged to grow confidently, respect others, and embrace diversity.</p>\n<br>\n\n<p>We are proud to be an EEF Research School, leading the North London Research Alliance, committed to evidence-informed practice and innovation in teaching and learning.</p>\n<br>\n\n<p>We offer excellent teaching, strong leadership, and a curriculum that prepares children to be informed global citizens.</p>",
+        "schoolLogo": "../assets/imgs/school/2022603_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100023",
+        "churchLink": "",
+        "websiteLink": "https://www.torriano.camden.sc.uk",
+        "type": "Primary inc. Nursery",
+        "gender": "Mixed",
+        "entryForms": 2,
+        "ageRange": [
+            "3",
+            "11"
+        ],
+        "address": "Torriano Avenue, Kentish Town",
+        "lat": 51.549672,
+        "long": -0.13284,
+        "formsEntry": 2,
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW5 2SJ",
+        "facilities": [
+            "STEAM Lab",
+            " Performing Arts Centre",
+            " Scientist in Residence",
+            " Artist in Residence",
+            " Sensory spaces",
+            " Astroturf multi-sport pitch",
+            " Earth Kitchen",
+            " Radio Room",
+            " 3 Active Spaces playgrounds",
+            " Early Years extended provision",
+            " 2 libraries",
+            " "
+        ],
+        "activities": [
+            "Extended Hours for Nursery & Reception children",
+            "Breakfast Club for all",
+            "Gymnastics",
+            "Pottery",
+            "Chess",
+            "Wheelchair basketball",
+            "Jazz band",
+            "Dodgeball",
+            "Girls and boys football",
+            "Mandarin",
+            "Choir",
+            "Federation holiday camps",
+            "Cricket",
+            "Dance",
+            "Drama",
+            "Multi-sports",
+            "Fencing",
+            "After school play centre collection with Camden Square",
+            "Orchestra"
+        ],
+        "admissionProcess": "<p>We follow the Camden admissions procedure: <a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>\n<br>\n\n<p>Admissions into Reception are managed by Camden Education Authority. Apply directly to the school for in-year and Nursery admissions.</p>\n<br>\n\n<p>Nursery admissions are handled internally by the school, following Camden\u2019s admissions criteria. A Nursery place does not guarantee you a place in Reception.</p>\n<br>\n\n<p>The school admissions policy can be found here: <a href=\"https://torriano.camden.sch.uk/2021/09/28/admissions/\" target=\"_blank\">Torriano Admissions Policy</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2022603_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "(The school has) Passionate and confident pupils who are clear on the importance of rights and are empowered to drive change locally and globally. The children are enjoying their learning and applying it to solve environmental and social challenges. UNICEF RRS Report",
+                    "author": "Other"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils said that...they are in the company of adults who \u2018genuinely care for us\u2019. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "The curriculum is delivered exceptionally well. Teaching is enhanced by staff's strong subject knowledge.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "We are taught to be changemakers. Oracy has helped me to use my voice to talk about things I care about. At school, I have talked about climate change and our future.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Torriano Primary School is a diverse, energetic and exciting environment for my children. The staff are ambitious for every child, ensuring that each individual pupil is nurtured as well as challenged, according to their own specific needs. My kids come home bursting with ideas and equipped with the tools and confidence to express them in the wider world. I feel so lucky that they have been given this start in life.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "We feel lucky every day to be at such a fantastically supportive school.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Expert practice and commitment to disadvantage (is) so clearly woven expertly through everything you do. (EEF)",
+                    "author": "Other"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Pupils, staff and parents truly appreciate the school and have confidence in the leaders to actively promote and design an inclusive community. ",
+                    "author": "Other"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": " Pupils like that the school encourages them to\nexpress themselves and is inclusive of everyone. They behave impeccably, both in and out\nof lessons.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "High aspiration is fully and consistently realised. Pupils achieve exceptionally well across subjects.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "At my school I feel safe to share my thoughts freely. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I love learning at Torriano, especially science where we meet inspirational scientists and we do thrilling experiments. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I love this school. The teachers are really inclusive and they adapt to what you need. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The whole school is very passionate about learning, especially books! The teachers all know how to help us learn. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "Torriano children are not bystanders, but active citizens. We learn important information and facts before putting things into action and are proud to be changemakers. ",
+                    "author": "Child"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2022603_1.jpg",
+                "../assets/imgs/school/2022603_2.jpg",
+                "../assets/imgs/school/2022603_3.jpg",
+                "../assets/imgs/school/2022603_4.jpg",
+                "../assets/imgs/school/2022603_5.jpg",
+                "../assets/imgs/school/2022603_6.jpg",
+                "../assets/imgs/school/2022603_7.jpg",
+                "../assets/imgs/school/2022603_8.jpg",
+                "../assets/imgs/school/2022603_9.jpg",
+                "../assets/imgs/school/2022603_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "We place ourselves at the heart of our community, valuing parental and local partnerships. With a thriving PTA and an abundance of community events, we welcome and value the diversity of our locality. Our Pastoral Care Team work tirelessly to connect the school and families. ",
+                    "link": "/schoolContext/index.html?schoolId=2022603"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "All staff have trusting, supportive relationships with our children. We prioritise the mental health and wellbeing of all. We offer comprehensive support through a Pastoral Care Lead, Child & Family Support Worker, ELSA trained staff and a dedicated Mental Health Lead.\n",
+                    "link": "/support/index.html?schoolId=2022603"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "Our school is highly inclusive and supports the educational needs of all children. Through high-quality, adaptive teaching, we ensure equity in meeting the individual needs of all. Children attending the Language Resource Base receive specialist support for language and social communication. ",
+                    "link": "/SEND/index.html?schoolId=2022603"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "The school is dedicated to ensuring all children progress rapidly, regardless of their starting point. Provision is adapted to each child's needs. Pupils achieve exceptionally well across subjects, consistently achieving significantly better than national figures in reading, writing and mathematics. ",
+                    "link": "/achievement/index.html?schoolId=2022603"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Our ambitious curriculum, which reflects our community, is exceptionally taught and carefully designed. We are a Voice 21 Oracy Centre of Excellence, and we have expert maths and science leads accredited by NCETM and PSQM, leading learning. ",
+                    "link": "/curriculum/index.html?schoolId=2022603"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Effectiveness of Leadership and Management",
+                    "description": "To implement our Federation Teaching and Learning Principles through professional development including instructional coaching."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Teaching and Learning - Writing",
+                    "description": "To develop feedback strategies to further improve outcomes in writing. "
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Early Years - Continuous Provision",
+                    "description": "To maximise the power of play to support children\u2019s learning and development in the Early Years."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 446,
+            "ethnicGroupsNum": 9,
+            "languagesNum": 13,
+            "SENDPercent": 20.2,
+            "BMEPercent": 67.3,
+            "disadvantagedPupilsPercent": 42.8,
+            "englishAdditionalLangPercent": 41.3,
+            "absencePercent": 5.2,
+            "persistentAbsenteesPercent": 16.4,
+            "specificLanguages": [
+                "English",
+                "Albanian /Shqip",
+                "Arabic",
+                "Bengali",
+                "Chinese",
+                "Dutch/Flemish",
+                "French",
+                "German",
+                "Italian",
+                "Russian",
+                "Somali",
+                "Spanish",
+                "Turkish"
+            ],
+            "specificEthnicities": [
+                "Bangladeshi",
+                "Black African",
+                "Black Somali",
+                "White British",
+                "White Asian",
+                "White and Black African",
+                "White and Black Caribbean",
+                "White Other",
+                "Other Mixed Background"
+            ],
+            "specificSEND": [
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 100,
+            "pupilAdultRatio": 11.0,
+            "financialReserves": "\u00a3424,300",
+            "changeYearReserves": "-\u00a3190,100"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>Our ambitious curriculum aims to enable all children to flourish in their academic and personal development. It promotes deep understanding of knowledge, skills, and critical thinking, all underpinned by developing children\u2019s oracy skills.</p>\n<br>\n\n<p>Our curriculum is created with purpose and taught with passion. There is a strong emphasis on ethical purpose, through a global lens, with learning leading to collective action projects in our community.</p>\n<br>\n\n<p>In order to ensure our curriculum is current, relevant, and inspiring, we enrich learning through varied experiences and reciprocal partnerships with a range of educators, expert organisations, future employers, and creative networks.</p>\n<br>\n\n<p>At Torriano, we place a strong emphasis on creativity with a spotlight on performing and visual arts. We have an extensive and inclusive physical education provision, accessing many competitions and sporting festivals.</p>\n<br>\n\n<p>We offer an enriched curriculum where the children\u2019s heritage is valued and celebrated.</p><p><a href=\"https://torriano.camden.sch.uk/2022/05/10/curriculum-intent/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Maths",
+                "Science",
+                "Physical Education"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>The culture of Torriano ensures that every child is known well and valued. As a UNICEF Gold Rights Respecting School, we not only teach about rights but, in addition, we are role models for each other: securing the highest levels of success and self-esteem for each individual child.</p>\n<br>\n\n<p>Our whole school question, \u2018Who do I want to be?\u2019 is underpinned by our values; we encourage our children to be empathetic, caring, and respectful. We reinforce positive behaviours to develop children\u2019s attitudes to learning and self-regulation.</p>\n<br>\n\n<p>Our school is a safe and stimulating environment for learning, playing, and growing where children know their voices are valued.</p>",
+            "bullyingProtection": "<p>Through our curriculum and behaviour policy, we promote the values of respect, tolerance, and kindness towards others. With a clear Rights Respecting School ethos, children are given agency and the tools to navigate friendships and address conflicts, with the help of adults in the school.</p>\n<br>\n\n<p>All children have the right to feel happy and safe in school. Children and families are made aware of the steps that will be taken by staff if they report bullying and understand our Children\u2019s Anti Bullying policy.</p>\n<br>\n\n<p>Bullying is never accepted and will be dealt with quickly.</p><p><a href=https://torriano.camden.sch.uk/2022/10/03/behaviour-policy-2021-22/ target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>We want to ensure that all children are in school every day and on time, learning well and feeling happy. We work hard at making the learning relevant and engaging in a supportive and exciting environment.</p>\n<br>\n\n<p>Our dedicated federation Child & Family Support Worker and Pastoral Care team work closely with families to support regular attendance. Breakfast club, extra-curricular activities, and a broad enrichment programme ensure all pupils\u2019 interests and needs are met.</p>\n<br>\n\n<p>Every minute matters!</p><p><a href=\"https://torriano.camden.sch.uk/2023/02/28/attendance-policy-2/\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>At Torriano, we understand that consistent, high-quality teaching is the most powerful tool for learning. We ensure every child has access to an excellent education through expert teaching, targeted academic support, and inclusive strategies that promote success for all learners.</p>\n<br>\n\n<p>Our evidence-informed approach develops passionate, reflective teachers who continually strive to enhance their expertise. We focus on fostering effective learning behaviours, expert instruction, and opportunities for children to practice, overlearn, and build independence.</p>\n<br>\n\n<p>Learning is carefully modelled and scaffolded to support understanding and progress, with high-quality talk embedded as a powerful tool for learning. We value strong parent-school partnerships to support children\u2019s education and encourage collaboration.</p>\n<br>\n\n<p>This collective effort ensures we continually refine and improve our teaching practices, delivering the best outcomes for our pupils.</p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2022603_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022603_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2022603_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022603_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>Through our curriculum, we want the children to see themselves, pathways to higher education, and the workplaces of the future. Torriano has a long-standing commitment to careers education and is part of the Camden STEAM programme.</p>\n<br>\n\n<p>We nurture STEAM-ready attributes, such as competence in technology, creativity, and critical thinking, underpinned with an ethical purpose. The school has many partnerships with universities and businesses, contributing to inspiring and relevant curriculum projects in the STEAM disciplines.</p>\n<br>\n\n<p>Our children access diverse role models and expert input from the world of work. Our oracy-rich curriculum and pedagogy prepare children to use their voice, building confidence and agency in their further studies and careers.</p>\n<br>\n\n<p>We have a carefully planned secondary transition programme, supporting Year 6 children and families in the move to local secondary schools.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>Children across our school have a range of needs and we put inclusion at the heart of our practice. Staff are well trained to support children with additional needs, and we are proud to offer a high level of universal provision and communication-friendly classrooms.</p>\n<br>\n\n<p>All children receive the high-quality support they need, and staff have high expectations of their learning. Provision is shaped and adapted according to needs.</p>\n<br>\n\n<p>We work in partnership with parents and professionals. We value their input, with regular opportunities to feedback through inclusion forums, fairs, and coffee mornings.</p>\n<br>\n\n<p>Torriano has a Language Resource Base where children with identified communication and language needs receive specialist speech and language support, both within the base and their class.</p>",
+            "inclusivePracticeInfo": "<p>We strive to provide a high-quality education and promote success for all. Our collective mission is for all children to have a future of choice and opportunity.</p>\n<br>\n\n<p>Torriano is committed to ensuring all children make rapid progress, \u2018no child will be missed and no child will fall behind\u2019. We embody and promote equality and equity, through an inclusive approach.</p>\n<br>\n\n<p>We are a UNICEF Gold Rights Respecting school where rights are at the forefront of learning and practice. With a strong focus on anti-racism, gender equality, and climate justice, our curriculum is underpinned by the Sustainable Development Goals.</p>\n<br>\n\n<p>We continue to learn, innovate, and contribute to building an anti-racist community and implement a highly representative curriculum. We believe every effort must be made to ensure that individuals within our school are valued and have the opportunity to develop their potential within a context of mutual respect, justice, and fairness.</p>"
+        }
+    },
+    {
         "schoolId": 2022036,
         "schoolName": "West Hampstead Primary School",
         "isPrimary": true,
@@ -10074,7 +10681,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022036_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022036_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1."
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
                 }
             ],
             "chartsProm": [
