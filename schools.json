@@ -845,18 +845,18 @@
             "schoolPriorities": [
                 {
                     "bgcolor": "#e50059",
-                    "title": "Parents as partners",
-                    "description": "Work in close partnership with parents so that all parents feel enabled to actively support their child's attendance, engagement and learning."
+                    "title": "Teaching & Learning ",
+                    "description": "Embed Outstanding Teaching & Learning in all classes and across the curriculum"
                 },
                 {
                     "bgcolor": "#ed6c26",
-                    "title": "Literacy and Maths",
-                    "description": "Ensure that all pupils make excellent progress relative to their starting points."
+                    "title": "Writing Progress",
+                    "description": "Improve attainment in Writing so that it is at least in line with national standards (at the expected standard and at greater depth)"
                 },
                 {
                     "bgcolor": "#4764ff",
-                    "title": "Distributed leadership",
-                    "description": "Increase the school's capacity to grow and improve."
+                    "title": "Effective School Practices",
+                    "description": "Re-enforce clear Processes and Procedures so that there is clear guidance for staff, pupils and parents and consistency of effective practice in all aspects of school life."
                 }
             ]
         },
@@ -1259,7 +1259,7 @@
         "isPrimary": true,
         "shortSlogan": "<b>A village school in London, inspiring life in all its fullness.</b>",
         "descriptionTitle": "<b>A village school in London, inspiring life in all its fullness.</b>",
-        "description": "<p>We are a highly <b>inclusive</b> and cohesive Church of England primary school, serving the diverse and international community of Hampstead.</p>\n\n<br>\n\n<p>Our strengths include our feeling of <b>togetherness</b> and <b>community</b>, our focus on <b>positive relationships</b> for everyone, and our uncompromising ambition for <b>academic excellence</b> for all.</p>\n\n<br>\n\n<p>The breadth and <b>creativity</b> of our curriculum, the <b>enrichment opportunities</b> that run alongside our high-quality classroom teaching, and our innovative <b>personal development</b> and <b>well-being work</b> support all <b>children</b> and <b>families</b>.</p>",
+        "description": "<p>We are a highly <b>inclusive</b> and cohesive Church of England primary school, serving the diverse and international community of Hampstead.</p>\n\n<br>\n\n<p>Our strengths include our feeling of <b>togetherness</b> and <b>community</b>, our focus on <b>positive relationships</b> for everyone, and our uncompromising ambition for <b>academic excellence</b> for all.</p>\n\n<br>\n\n<p>The breadth and <b>creativity</b> of our curriculum, the <b>enrichment opportunities</b> that run alongside our high-quality classroom teaching, and our innovative <b>personal development</b> and <b>well-being work</b> support all <b>children</b> and <b>families</b> in their goals.</p>",
         "schoolLogo": "../assets/imgs/school/2023323_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100028",
         "churchLink": "https://christchurchschool.co.uk/home-page/inspection-reports/",
@@ -8016,9 +8016,9 @@
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "#64007e",
+                    "bgcolor": "",
                     "text": "Strong relationships in school ensure that pupils feel safe and secure and staff feel valued.",
-                    "author": "Other"
+                    "author": "Catholic School Inspectorate"
                 },
                 {
                     "type": "quote",
@@ -8109,7 +8109,7 @@
                 {
                     "bgcolor": "#4764ff",
                     "title": "Curriculum, teaching & learning",
-                    "description": "We offer a broad and balanced curriculum with a range of specialist teachers including Music, Computing and PE. Every opportunity to enrich children's learning through bringing to curriculum to life is embraced. Kagan Structures foster positive learning behaviours while building essential social skills, encouraging collaboration, communication, and teamwork among children.\n\n\n\n\n\n",
+                    "description": "We offer a broad and balanced curriculum with a range of specialist teachers including Music, Computing and PE. Every opportunity to enrich children's learning through bringing the curriculum to life is embraced. Kagan Structures foster positive learning behaviours while building essential social skills, encouraging collaboration, communication, and teamwork among children.\n\n\n\n\n\n",
                     "link": "/curriculum/index.html?schoolId=2023391"
                 }
             ],
@@ -10653,9 +10653,9 @@
         "curriculum": {
             "curriculumAim": "<p>At WHPS, we provide a broad and balanced curriculum that develops the individual child according to their age and ability. Our curriculum is designed to:</p>\n\n<ol>\n    <li>Ensure the children have a broad, balanced, and secure knowledge and understanding of the world.</li>\n    <li>Ensure high levels of competence in the core subjects of English and maths.</li>\n    <li>Teach our pupils to live well in a diverse world, as confident, responsible citizens.</li>\n    <li>Teach our pupils to learn well and to love learning.</li>\n    <li>Teach our pupils how to lead happy, healthy, and constructive lives, in which they can aspire and experience success.</li>\n</ol><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=OUR+CURRICULUM&pid=184\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
             "curriculumStrengths": [
-                " Maths Mastery Curriculum",
-                "Rich Understanding of History and Geography",
-                "Harness curiosity & Uniqueness"
+                "Our mastery approach to maths. ",
+                "Our engaging & enriched History and Geography.",
+                "Our innovative Early Years outdoor learning."
             ],
             "topSubjects": [
                 ""
