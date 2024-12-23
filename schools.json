@@ -5486,7 +5486,7 @@
             "Gold Leaf Gilding ",
             "Leathermaking workshop ",
             "Baking ",
-            "Anti-homophobic, -bi and -transphobic bullying committee ",
+            "Anti-homophobic, anti-biphobic and anti-transphobic bullying committee",
             "Hero Club",
             "Reading Mentors ",
             "Badminton",
@@ -6290,17 +6290,17 @@
                 {
                     "bgcolor": "#e50059",
                     "title": "Improving outcomes in communication: spoken, written and early mark making",
-                    "description": "Our aim here is to empower children to be confident oral and written communicators"
+                    "description": "Our aim here is to empower children to be confident oral and written communicators."
                 },
                 {
                     "bgcolor": "#ed6c26",
                     "title": "Developing great teaching",
-                    "description": "Through carefully planned professional development, our aim is to support teachers to enable pupils to retrieve prior knowledge and make learning stick"
+                    "description": "Through carefully planned professional development, our aim is to support teachers to enable pupils to retrieve prior knowledge and make learning stick."
                 },
                 {
                     "bgcolor": "#4764ff",
                     "title": "Maximising impact on children",
-                    "description": "We are developing strategies that will support children to become independent learners; adults give just the right amount of help to enable this"
+                    "description": "We are developing strategies that will support children to become independent learners; adults give just the right amount of help to enable this."
                 }
             ]
         },
