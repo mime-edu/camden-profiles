@@ -646,7 +646,7 @@
                     "chartTitle": "Progress 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024285_chart_ks4_p8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024285_chart_ks4_p8.png",
-                    "chartDescription": "A Progress 8 score of -0.3 means Acland Burghley pupils achieved close to half a grade lower than similar pupils across the country."
+                    "chartDescription": "0"
                 }
             ],
             "chartsProm": [
@@ -1871,7 +1871,7 @@
             "Art Club",
             "Tutoring"
         ],
-        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the website below:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions?gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1jUJZ8-OuDiukJLcJ0tosaz95rlun0cmZQLcYatpceEWfkofyTFpqUaApmzEALw_wcB\" target=\"_blank\">Camden Primary Admissions</a></p>",
+        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the website below:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -4206,7 +4206,7 @@
                     "chartTitle": "Progress 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024104_chart_ks4_p8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024104_chart_ks4_p8.png",
-                    "chartDescription": "A Progress 8 score of -0.2 means Haverstock pupils achieved a grade slightly lower than similar pupils across the country."
+                    "chartDescription": "Progress 8 measures how much progress students make between the end of primary school and their GCSEs, compared to the national average for students with similar scores in KS2 Reading and Writing.\nA Progress 8 score of -0.2 means Haverstock pupils achieved a grade slightly lower than similar pupils across the country."
                 }
             ],
             "chartsProm": [
@@ -5786,7 +5786,7 @@
                     "chartTitle": "Progress 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2025401_chart_ks4_p8.png",
                     "chartComparationImg": "../assets/imgs/charts/2025401_chart_ks4_p8.png",
-                    "chartDescription": "A Progress 8 score of 0.18 means La Sainte Union pupils achieved a grade slightly higher than similar pupils across the country."
+                    "chartDescription": "Progress 8 measures how much progress students make between the end of primary school and their GCSEs, compared to the national average for students with similar scores in KS2 Reading and Writing.\nA Progress 8 score of 0.18 means La Sainte Union pupils achieved a grade slightly higher than similar pupils across the country."
                 }
             ],
             "chartsProm": [
@@ -6131,7 +6131,7 @@
                     "chartTitle": "Progress 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024652_chart_ks4_p8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024652_chart_ks4_p8.png",
-                    "chartDescription": "A Progress 8 score of -0.58 means Maria Fidelis pupils achieved over half a grade lower than similar pupils across the country."
+                    "chartDescription": "Progress 8 measures how much progress students make between the end of primary school and their GCSEs, compared to the national average for students with similar scores in KS2 Reading and Writing.\nA Progress 8 score of -0.58 means Maria Fidelis pupils achieved over half a grade lower than similar pupils across the country."
                 }
             ],
             "chartsProm": [
@@ -6705,7 +6705,7 @@
                     "chartTitle": "Progress 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024166_chart_ks4_p8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024166_chart_ks4_p8.png",
-                    "chartDescription": "A Progress 8 score of 0.5 means Parliament Hill pupils achieved over half a grade higher than similar pupils across the country."
+                    "chartDescription": "Progress 8 measures how much progress students make between the end of primary school and their GCSEs, compared to the national average for students with similar scores in KS2 Reading and Writing.\nA Progress 8 score of 0.5 means Parliament Hill pupils achieved over half a grade higher than similar pupils across the country."
                 }
             ],
             "chartsProm": [
@@ -7311,7 +7311,7 @@
                     "chartTitle": "Progress 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024196_chart_ks4_p8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024196_chart_ks4_p8.png",
-                    "chartDescription": "A Progress 8 score of -0.27 means Regent High pupils achieved close to half a grade lower than similar pupils across the country."
+                    "chartDescription": "Progress 8 measures how much progress students make between the end of primary school and their GCSEs, compared to the national average for students with similar scores in KS2 Reading and Writing.\nA Progress 8 score of -0.27 means Regent High pupils achieved close to half a grade lower than similar pupils across the country."
                 }
             ],
             "chartsProm": [
@@ -8046,9 +8046,9 @@
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "#64007e",
+                    "bgcolor": "",
                     "text": "Pupils know that they have a responsibility to care for the most vulnerable in society choosing charities to help them respond to those in need.",
-                    "author": "Other"
+                    "author": "Catholic School Inspectorate"
                 },
                 {
                     "type": "quote",
@@ -8812,6 +8812,291 @@
         "SEND": {
             "sendSupportInfo": "<p>We recognise that at different times during their school life a child may have a special need or disability. Staff identify all pupils requiring Special Educational Needs and Disabilities provision as early as possible in their school career to make sure that appropriate support is put in place without delay.</p>\n\n<p>Whilst many factors contribute to the range of difficulties experienced by some children, we believe that these can be overcome by parents, teachers and pupils working together. Parents of pupils with SEND are kept fully informed of their child\u2019s progress and attainment through regular meetings with both the SENDCo and the class teacher.</p><p><a href=\"https://www.stgeorge.camden.sch.uk/page/?title=Policies&pid=31\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
             "inclusivePracticeInfo": "<p>We believe that every child can be successful and achieve during their time at our school and beyond. We value each individual pupil and are committed to inclusive education, equal opportunities, and respect for all.</p>\n\n<p>Staff are ambitious for all pupils and adapt the curriculum so that it is appropriate to individual pupils' needs. Ofsted noted that pupils thrive in our nurturing and supportive school and that they are proud of its inclusive ethos.</p>\n\n<p>As a result, pupils achieve exceptionally well.</p><p><a href=\"https://www.stgeorge.camden.sch.uk/page/?title=Policies&pid=31\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
+        "schoolId": 2023482,
+        "schoolName": "St Joseph's Catholic Primary School",
+        "isPrimary": true,
+        "shortSlogan": "Go Shine in the World",
+        "descriptionTitle": "Go Shine in the World",
+        "description": "<p>St Joseph\u2019s provides a caring, stable, intellectually and creatively stimulating environment for children.</p>\n\n<p>Our staff are committed to ensuring that your child\u2019s time at school is inspiring and productive, so that they can move confidently to the next stage of their education.</p>\n\n<p>We work closely with:</p>\n<ul>\n    <li>Parents</li>\n    <li>Children</li>\n    <li>Governors</li>\n    <li>Staff</li>\n    <li>Our partnership schools</li>\n</ul>\n\n<p>Our goal is to ensure that each and every child is given the best possible start on their educational journey.</p>",
+        "schoolLogo": "../assets/imgs/school/2023482_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100041",
+        "churchLink": "https://www.stjosephs.camden.sch.uk/catholic-inspection-report/",
+        "websiteLink": "https://www.stjosephs.camden.sch.uk/",
+        "type": "Primary inc. Nursery",
+        "gender": "Mixed",
+        "entryForms": 1,
+        "ageRange": [
+            "3",
+            "11"
+        ],
+        "address": "Macklin Street, Covent Garden",
+        "lat": 51.516189,
+        "long": -0.121858,
+        "formsEntry": 1,
+        "prevYearCatchmentRadius": null,
+        "postCode": "WC2B 5NA",
+        "facilities": [
+            "Breakfast club",
+            " After school enrichment clubs",
+            " Specialist music teacher",
+            " Specialist PE teacher",
+            " Specialist Spanish teacher",
+            " Instrument lessons",
+            " Class libraries"
+        ],
+        "activities": [
+            "Chess Club",
+            "Multi-Sports",
+            "Arts and Crafts Club",
+            "Book Club",
+            "Football Club",
+            "Lego Club",
+            "Maths Challenge Club",
+            "Instrument lessons",
+            "Puzzles and Games Club",
+            "Technology Club",
+            "Music Concerts",
+            "Camden Choir Festival",
+            "Inter School Sports Tournaments",
+            "Athletic tournament",
+            "After school play centre at Coram's Fields",
+            "After school play centre at Drangon's Hall",
+            "Camden Music Festival at The Royal Albert Hall"
+        ],
+        "admissionProcess": "<p>We are delighted that you are considering St Joseph's for your child. To take things further, please read our admissions policy, complete the application form, and bring it to the school office.</p>\n\n<p>You will find the admissions policy and application form in the policies section of the school's website.</p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2023482_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils at this school love to come to school each day. . Pupils are very proud of their school. Their behaviour in lessons and around the school is exemplary.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Parents and carers described the school as at the heart of their community.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "St. Joseph's is such a caring and supportive school. My child is thriving here!",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "At St. Joseph's every child is supported to explore, learn and grow and to develop excellence in all areas.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "The school has the highest ambitions for what pupils can achieve. Pupils study a broad range of subjects. They routinely study concepts that go beyond what might be expected for their age.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The dedicated staff at St. Joseph's help build pupils' confidence and develop a love of learning.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils with special educational needs and/or disabilities (SEND) receive exceptional support to access the curriculum alongside their peers. All pupils achieve highly here.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "You should come to our school because it is amazing and you learn about so many different things. The visits we go on are so exciting and we meet scientists from the Crick Institute",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "\nMy favourite part of the day is my phonics lesson. Miss helps me get better every day!",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The teachers are not only knowledgeable but also genuinely caring, creating a nurturing environment where every child feels valued. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "The dedication of our staff and the enthusiasm of our pupils make this school a truly special place to teach and learn.",
+                    "author": "Teacher"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2023482_1.jpg",
+                "../assets/imgs/school/2023482_2.jpg",
+                "../assets/imgs/school/2023482_3.jpg",
+                "../assets/imgs/school/2023482_4.jpg",
+                "../assets/imgs/school/2023482_5.jpg",
+                "../assets/imgs/school/2023482_6.jpg",
+                "../assets/imgs/school/2023482_7.jpg",
+                "../assets/imgs/school/2023482_8.jpg",
+                "../assets/imgs/school/2023482_9.jpg",
+                "../assets/imgs/school/2023482_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "St Joseph\u2019s serves the local community by welcoming children from all faiths and children with no faith background. We value and respect the diversity of our community. We work closely with parents, children, governors,\u00a0staff and our partnership schools to ensure that each and every\u00a0child is\u00a0given the best possible start on their educational journey.",
+                    "link": "/schoolContext/index.html?schoolId=2023482"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "St Joseph\u2019s provides a caring, stable, intellectually and creatively stimulating environment for children. \nAll pupils are supported to be the best that they can be.",
+                    "link": "/support/index.html?schoolId=2023482"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "We ensure that there are no barriers to allowing all pupils to learn successfully. There are clear systems in place to identify and support pupils who need additional support. This allows them to access our outstanding curriculum.",
+                    "link": "/SEND/index.html?schoolId=2023482"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "The school has the highest ambitions for what pupils can achieve. Pupils study a broad range of subjects. Pupils make excellent progress through the school to achieve very well. They are well prepared for the next stage of their education.",
+                    "link": "/achievement/index.html?schoolId=2023482"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Our curriculum equips our children with the knowledge and skills  that they need to succeed in life. We provide a broad and balanced curriculum which is enriched by a careful programme of visits and visitors.  Teachers are experts at guiding pupils to gain a deep knowledge of the subjects they study. ",
+                    "link": "/curriculum/index.html?schoolId=2023482"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "High expectations of attendance",
+                    "description": "Continue to promote and celebrate pupils attending school evry day so that no learning opportunities are missed."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Reading",
+                    "description": "Continue to prioritise developing both a love of reading and  reading fluency, dedicating additional adult support to ensure no child falls behind."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Confidence and emotional well being",
+                    "description": "Continue to support pupils to be both confident and emotionally resilient."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 165,
+            "ethnicGroupsNum": 12,
+            "languagesNum": 9,
+            "SENDPercent": 16.4,
+            "BMEPercent": 64.2,
+            "disadvantagedPupilsPercent": 44.6,
+            "englishAdditionalLangPercent": 48.5,
+            "absencePercent": 8.3,
+            "persistentAbsenteesPercent": 23.8,
+            "specificLanguages": [
+                "English",
+                "Tigrinya",
+                "Chinese",
+                "Italian",
+                "Pashto",
+                "Spanish",
+                "Polish",
+                "French",
+                "Filipino"
+            ],
+            "specificEthnicities": [
+                "White British",
+                "White Irish",
+                "Any Other Black Background",
+                "Any Other White Playground",
+                "Chinese",
+                "Filipino",
+                "White and Asian",
+                "Other Black African",
+                "White and Black Caribbean",
+                "Black Caribbean",
+                "Any Other Asian Background",
+                "White Eastern European"
+            ],
+            "specificSEND": [
+                "Social, emotional and mental health",
+                "Speech, language and communication needs"
+            ],
+            "qualifiedTeachersPercent": 100,
+            "pupilAdultRatio": 12.6,
+            "financialReserves": "-\u00a3267,500",
+            "changeYearReserves": "-\u00a330,900"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>With our curriculum, we aim to provide ambitious learning opportunities, promoting achievement in every area and nurturing social, emotional, and spiritual well-being.</p>\n\n<p>Our curriculum equips our children with the knowledge, skills, and cultural capital that they need to succeed in life. We aim to instil a lifelong love for learning by making education engaging, challenging, and relevant.</p>\n\n<p>We strive to promote confidence and independence, encouraging students to take initiative and responsibility for their learning. Importantly, we work to foster a sense of community and responsible citizenship, preparing students to contribute positively to society.</p>\n\n<h3>Strong Academic Foundation</h3>\n<p>Our curriculum lays the groundwork for essential academic skills in reading, writing, and mathematics. This strong foundation is crucial for children's future learning and academic success.</p>\n\n<h3>Building Character</h3>\n<p>We focus on helping our children to grow and develop character, resilience, and inner discipline through making choices, taking responsibility, and being honest with themselves and others.</p>\n\n<p>In order to achieve this, we have incorporated opportunities for building character into our curriculum, including:</p>\n<ul>\n    <li>Sport</li>\n    <li>Creativity</li>\n    <li>Performing</li>\n    <li>The world of work</li>\n    <li>Membership</li>\n</ul>\n\n<p>This provides pupils with the inner resources and confidence to tackle the frustrations and setbacks that are part and parcel of life.</p>\n\n<p>As our children gain confidence, knowledge, and skills, we hope that they will go on to become compassionate, well-balanced lifelong learners. We support them in taking their place in society as active citizens, economically independent, exemplifying the British Values of equality, tolerance, democracy, individual liberty, and rule of law.</p>\n\n<h3>Enriching Experiences</h3>\n<p>Our carefully planned programme of visits and visitors enhances learning in the classroom by providing students with real-world experiences and insights. These opportunities help to bring the curriculum to life, making learning more engaging and relevant.</p>\n\n<p>Visits include:</p>\n<ul>\n    <li>The Houses of Parliament</li>\n    <li>Local theatres</li>\n    <li>Local art galleries</li>\n    <li>Nature reserves</li>\n</ul>\n\n<p>These visits, among many others, broaden pupils' horizons and make their learning truly memorable.</p><p><a href=\"https://st-josephs.islington.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Strong foundation for success",
+                "Building character, resilience, and values",
+                "Real-world experiences enhance learning."
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>At St. Joseph's, we are committed to providing a safe and stimulating learning environment for every child.</p>\n\n<p>Ofsted state, \"The school is a calm and peaceful place where pupils can focus on their learning. The school establishes positive routines for behaviour right from the early years.\"</p>\n\n<p>Pupils thrive here.</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/st-josephs-catholic-primary-school-london/UploadedDocument/5a209de9-ca95-4609-8ed8-f82c23ea66c1/st-josephs-schools-cp-and-safeguarding-policy.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>We are vigilant for signs of bullying and always take reports of incidents seriously. We teach pupils what bullying is and what to do if they see or experience it.</p>\n\n<p>Staff act swiftly and thoroughly to resolve any incidents of bullying. A robust anti-bullying policy is in place, which encourages pupils to be 'upstanders' rather than bystanders, promoting a culture of kindness and respect.</p><p><a href=https://primarysite-prod-sorted.s3.amazonaws.com/st-josephs-catholic-primary-school-london/UploadedDocument/ef32abb6-fe56-48a8-b704-4f4020c4c4aa/behaviour-and-anti-bullying-policy-updated-10.05.24.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>At St Joseph's, we are committed to fostering a positive and engaging learning environment that encourages regular attendance, ensuring every child has the opportunity they deserve to succeed and thrive.</p>\n\n<p>Clear and consistent communication is maintained with pupils and parents about attendance policies and expectations. When joining St Joseph's, we ask parents and carers to sign a Home-School Agreement, committing to ensure their child attends school every day and arrives on time.</p>\n\n<p>Senior leaders regularly monitor attendance and punctuality records thoroughly to ensure that any issues are identified early and acted upon swiftly. Actions include:</p>\n<ul>\n    <li>Clear communication about individual attendance rates</li>\n    <li>Inviting parents to meet with senior leaders and an Inclusion Officer to address any barriers to good attendance</li>\n</ul>\n\n<p>We celebrate and reward good attendance with certificates, special assemblies, and various incentives to motivate and recognise excellence.</p><p><a href=\"https://www.stjosephs.camden.sch.uk/policies/\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>We have the highest ambitions for what pupils can achieve here at St Joseph's. Pupils study a broad range of subjects. From Year One, they routinely study concepts that go beyond what might be expected for their age.</p>\n\n<p>Our curriculum, written by expert teachers, provides children with the knowledge, skills, and cultural understanding they need to thrive. We have carefully designed each subject to build knowledge and skills step-by-step, ensuring that learning is organised and builds on what they already know. This helps children remember what they learn and make meaningful connections in their education.</p>\n\n<p>Ofsted have stated, \"Teachers are experts at guiding pupils to gain a deep knowledge of the subjects they study. As a result, pupils make sophisticated links between different pieces of learning.\"</p>\n\n<p>We have a strong programme of continual professional development that ensures our staff are always improving their skills and effectiveness.</p>\n\n<p>As we are situated in central London, we use London as our classroom, providing pupils with a very wide range of off-site visits and visitors to enhance their learning.</p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2023482_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2023482_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2023482_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2023482_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>At St Joseph's, we lay a strong foundation for our pupils' future success. We focus on developing essential skills, such as critical thinking, problem-solving, and effective communication, which are crucial for their continued education and beyond.</p>\n\n<p>Our nurturing environment encourages curiosity and a love for learning, helping pupils become confident and independent thinkers. Conscious of the need to broaden our pupils\u2019 life experiences and to raise their aspirations, we introduce them to a wealth of local and national cultural experiences.</p>\n\n<p>This introduction to the best that has been thought and said helps our pupils to engender an appreciation of human creativity and achievement, widening their horizons and building the confidence they need for the next phase in their education.</p>\n\n<p>Our programme of visits and visitors exposes our pupils to the many aspirational professions on offer to them and enables them to have a strong understanding of financial literacy, British values (including democracy), and more.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>We are dedicated to providing a supportive and inclusive environment for children with special educational needs and disabilities.</p>\n\n<p>In partnership with governors, parents, and the local community, we strive to deliver a broad and balanced curriculum that promotes high achievement for all children, developing within the individual:</p>\n<ul>\n    <li>Self-confidence</li>\n    <li>Motivation</li>\n    <li>Aspiration</li>\n    <li>The ability to work with others</li>\n</ul>\n\n<p>We offer a range of support for children with special educational needs so that they can thrive academically, socially, and emotionally. Staff work closely with pupils and parents to develop support plans that cater to a child's unique needs and strengths.</p>\n\n<p>We collaborate and actively involve parents, teachers, and other specialists in the planning and implementation of these support plans.</p>\n\n<p>OFSTED agree that at St Joseph's, \"Pupils with special educational needs and/or disabilities (SEND) receive exceptional support to access the curriculum alongside their peers. All pupils achieve highly here.\"</p><p><a href=\"https://www.stjosephs.camden.sch.uk/policies/\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>We ensure that all pupils have access to a broad and balanced curriculum and provide an adapted curriculum appropriate to the individual\u2019s needs and ability.</p>\n\n<p>Early identification of pupils requiring SEND provision is our priority. Pupils with SEND take as full a part as possible in all school activities, and parents of pupils with SEND are kept fully informed of their child\u2019s progress and attainment.</p>\n\n<p>Where practicable, we ensure that pupils with SEND are involved in decisions affecting their future SEND provision.</p><p><a href=\"https://www.stjosephs.camden.sch.uk/policies/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     },
     {
@@ -9655,8 +9940,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 9.3,
-            "financialReserves": "\u00a3127,400",
-            "changeYearReserves": "\u00a319,400"
+            "financialReserves": "127400",
+            "changeYearReserves": "19400"
         },
         "curriculum": {
             "curriculumAim": "<p>Our curriculum has its origins in the National Curriculum for schools in England. The school offers a broad and balanced curriculum with a clear focus on subjects as discrete units. Units of work ensure sequential, layered knowledge acquisition, with each piece of learning in different subjects building on previous ones.</p>\n\n<p>St Paul's Primary School is a literacy rich learning environment that celebrates and encourages oracy in the early years and beyond. We recognise reading as the gateway to pupil learning and so we place a strong focus on early reading and vocabulary development from the beginning of a child's career in school. Over the next year we will be putting greater emphasis into our curriculum for all classes on looking after our environment and gardening.</p><p><a href=\"https://www.stpauls.camden.sch.uk/Learning/Integrated-curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -10055,7 +10340,7 @@
                     "chartTitle": "Progress 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024000_chart_ks4_p8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024000_chart_ks4_p8.png",
-                    "chartDescription": "A Progress 8 score of -0.17 means The UCL Academy pupils achieved a grade slightly lower than similar pupils across the country."
+                    "chartDescription": "Progress 8 measures how much progress students make between the end of primary school and their GCSEs, compared to the national average for students with similar scores in KS2 Reading and Writing.\nA Progress 8 score of -0.17 means The UCL Academy pupils achieved a grade slightly lower than similar pupils across the country."
                 }
             ],
             "chartsProm": [
@@ -10443,7 +10728,7 @@
             "Newspaper Team",
             "Chess Club"
         ],
-        "admissionProcess": "<p>We strictly abide by the admissions of Camden Local Authority. Details can be found on the websites below:</p>\n\n<ul>\n    <li><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></li>\n    <li><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">Camden In-Year School Admissions</a></li>\n</ul>",
+        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below:</p>\n\n<ul>\n    <li><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></li>\n    <li><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">Camden In-Year School Admissions</a></li>\n</ul>",
         "tabs": {
             "schoolViews": [
                 {
@@ -11059,7 +11344,7 @@
                     "chartTitle": "Progress 8 (2024 provisional):",
                     "chartImg": "../assets/imgs/charts/2024688_chart_ks4_p8.png",
                     "chartComparationImg": "../assets/imgs/charts/2024688_chart_ks4_p8.png",
-                    "chartDescription": "A Progress 8 score of -0.17 means William Ellis pupils achieved a grade slightly lower than similar pupils across the country."
+                    "chartDescription": "Progress 8 measures how much progress students make between the end of primary school and their GCSEs, compared to the national average for students with similar scores in KS2 Reading and Writing.\nA Progress 8 score of -0.17 means William Ellis pupils achieved a grade slightly lower than similar pupils across the country."
                 }
             ],
             "chartsProm": [
