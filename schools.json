@@ -3894,6 +3894,368 @@
         }
     },
     {
+        "schoolId": 2024275,
+        "schoolName": "Hampstead School",
+        "isPrimary": false,
+        "shortSlogan": "We are a creative and ambitious school, with community roots and global connections.",
+        "descriptionTitle": "We are a creative and ambitious school, with community roots and global connections.",
+        "description": "<p>When Zeba chose to apply for the JP Morgan apprenticeship scheme, she knew there were over 10,000 candidates vying for a handful of places. As she clicked 'send', she thought 'I'm from Hampstead, I'm different'\u2026and she was right. Through everyday actions, Zeba epitomised our values; she knows how important it is to Think Big, Work Hard and Be Kind.</p>\n<br>\n<p>Hampstead School is Zeba managing money in Canary Wharf, Shania designing beautiful buildings at the Bartlett School of Architecture, Kayden pushing himself in a Year 11 revision class, Dean testing a hypothesis in a Year 7 science lesson. Our students - and their ambition, curiosity, effort and integrity - define who we are.</p>",
+        "schoolLogo": "../assets/imgs/school/2024275_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100052",
+        "churchLink": "",
+        "websiteLink": "https://www.hampsteadschool.org.uk/",
+        "type": "Secondary",
+        "gender": "Mixed",
+        "entryForms": 7,
+        "ageRange": [
+            "11",
+            "18"
+        ],
+        "address": "Westbere Road, Hampstead",
+        "lat": 51.555614,
+        "long": -0.207047,
+        "formsEntry": 7,
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW2 3RT",
+        "facilities": [
+            "1900s buildings",
+            " Beautiful library",
+            " Historic swimming pool",
+            " Brand new science labs",
+            " Professional kitchen",
+            " Full-sized Sports Hall",
+            " 'Eye-in-the-Sky' Sixth Form Centre",
+            " UCL sports facilities"
+        ],
+        "activities": [
+            "Chess club",
+            "Police cadets",
+            "Swimming",
+            "Coding",
+            "Cooking",
+            "Basketball",
+            "Football",
+            "Table tennis",
+            "Textiles & Fashion",
+            "Instrument lessons",
+            "Panto Project",
+            "Art/Anime",
+            "Gardening",
+            "First Story",
+            "Axiom Maths",
+            "Photography",
+            "Rugby League",
+            "Dance",
+            "Badminton",
+            "Dodgeball"
+        ],
+        "admissionProcess": "<p>Please visit the Hampstead School website to view our Admissions Policy. This can be viewed via the link below:</p>\n<br>\n<a href=\"https://www.hampsteadschool.org.uk/admissions\" target=\"_blank\">Hampstead School Admissions</a>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2024275_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils at this school benefit from a welcoming and inclusive ethos. Leaders have established a calm and purposeful learning environment where pupils are encouraged to 'think big, work hard and be kind'.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The teachers have helped me, 100%. I never dreamed I would get the grades to do the Sixth Form courses that I like, but now I am and my future is being shaped.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "This single, vulnerable mum is grateful beyond words for the inspiration you have given to my daughter. If you are ever having a bad day, feel free to grab Daisy for a tea and a chat and she will wax on for an hour or so about how good your school is.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "There is something intangibly addictive about the place, its energy, the people. I would not want to work anywhere else.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils behave well in lessons and around school, and they show respect to each other and to adults. Diversity is celebrated and unkind or discriminatory behaviour is not tolerated.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I'm from Hampstead, I'm different.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Every parent wants to make the right choice for their child going to secondary school\u2026 if any parent is considering Hampstead\u2026 please tell them about my child's journey and how she is now going to university.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "100% of staff agree or strongly agree that 'students are safe at this school'.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "A dedicated safeguarding team ensures that there is a strong culture of safeguarding across the school. Leaders are tenacious in securing support for vulnerable pupils.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Your transition programme has worked to make my daughter feel safe and successful within a few short weeks. She has thrived in her different lessons, particularly loving Food Tech, DT, English and Geography. She has learnt in every way and through the unlimited interactions she has had with adults and children throughout the school. I can see her developing into a discerning, brave and thoughtful student.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The teachers really care about us and how we learn, they don't just give an instruction, they see where things are not working well with a student and do something about it, whether it is a mental health need or an academic need.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "I would like you to know that, of all the schools I interviewed with last week, I was most impressed with Hampstead School. All the staff were friendly, helpful and informative. I noticed little details in the head's office - like the affirmative messages and the pottery handburger - that indicated a good balance of professionalism with the perfect pinch of levity. This is a culture I can thrive in.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Leaders have made sure that the curriculum is ambitious and broad\u2026 pupils choose from a wide range of subjects.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "We wish to thank the school for the best years in our son\u2019s academic life, and especially for putting in so much effort during these hard times. Lockdowns may have stopped schools opening but it didn\u2019t stop learning, all thanks to the teachers and the school\u2019s management. We are forever grateful. May our three remaining children continue to strive and thrive with Hampstead School.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I feel cared for and safe in school; everyone is so kind and thoughtful, and the teachers really care about my education.",
+                    "author": "Child"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2024275_1.jpg",
+                "../assets/imgs/school/2024275_2.jpg",
+                "../assets/imgs/school/2024275_3.jpg",
+                "../assets/imgs/school/2024275_4.jpg",
+                "../assets/imgs/school/2024275_5.jpg",
+                "../assets/imgs/school/2024275_6.jpg",
+                "../assets/imgs/school/2024275_7.jpg",
+                "../assets/imgs/school/2024275_8.jpg",
+                "../assets/imgs/school/2024275_9.jpg",
+                "../assets/imgs/school/2024275_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "Our school is at the heart of the local community, and our amazing student body represents our diverse and creative area of London. The children who attend Hampstead School feel proud; of themselves, their heritage, and their school community.",
+                    "link": "/schoolContext/index.html?schoolId=2024275"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "We know that if students feel safe and happy they will achieve, and we invest significant resource to make this happen. We have a highly skilled pastoral team, who work tirelessly to make sure students are given the appropriate support.",
+                    "link": "/support/index.html?schoolId=2024275"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "Our Achievement Support Faculty works to help students with SEND access a broad curriculum, adjusted for their needs but not reduced or simplified.  Their ambitious, inclusive approach reflects the ethos of the school.",
+                    "link": "/SEND/index.html?schoolId=2024275"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "Every year, our students achieve the highest academic standards and go on to inspiring destinations. Strong links with Russell Group universities and creative colleges have been complemented by expertise in the best apprenticeship schemes. Our students go places!",
+                    "link": "/achievement/index.html?schoolId=2024275"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Our students learn about lots of interesting and important things in engaging and exciting ways. Music, Drama, Food Technology, Computing, Dance are all part of our KS3 offer, and we offer an unrivalled amount of choice at KS4 and KS5.",
+                    "link": "/curriculum/index.html?schoolId=2024275"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Every lesson will foster high participation and hard thinking.",
+                    "description": "We have excellent practitioners who teach excellent lessons, but we can always improve. We want to maximise cognitive activity in every classroom."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Every interaction will foster high standards and a sense of belonging.",
+                    "description": "We have high expectations of our students, and high expectations of ourselves. We want everyone to feel part of this ambitious, inclusive community."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Every student will achieve outcomes that maximise their life chances.",
+                    "description": "Examination grades are not everything, but they really do help. We want every student to achieve educational outcomes that open doors. "
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 1287,
+            "ethnicGroupsNum": 19,
+            "languagesNum": 20,
+            "SENDPercent": 14.7,
+            "BMEPercent": 80.7,
+            "disadvantagedPupilsPercent": 50.2,
+            "englishAdditionalLangPercent": 33.1,
+            "absencePercent": 6.7,
+            "persistentAbsenteesPercent": 17.9,
+            "specificLanguages": [
+                "English",
+                "Arabic",
+                "Somali",
+                "Bengali",
+                "Urdu",
+                "Albanian/Shqip",
+                "Portuguese",
+                "Pashto/Pakhto",
+                "Kurdish",
+                "Farsi/Persian (Any Other)",
+                "Romanian*",
+                "Spanish",
+                "French",
+                "Bulgarian",
+                "Tagalog/Filipino",
+                "Dari Persian",
+                "Ukrainian",
+                "Gujarati",
+                "Polish",
+                "Chinese"
+            ],
+            "specificEthnicities": [
+                "White - British",
+                "Other ethnic group",
+                "Black - Somali",
+                "Any other Asian background",
+                "White Other",
+                "Any other mixed background",
+                "Black Caribbean",
+                "Bangladeshi",
+                "White European",
+                "Pakistani",
+                "White and Black Caribbean",
+                "Indian",
+                "Any other Black background",
+                "Other Black African",
+                "White and Black African",
+                "White and Asian",
+                "Kosovan",
+                "Black - Nigerian",
+                "Kurdish"
+            ],
+            "specificSEND": [
+                "Specific learning difficulty",
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Physical disability",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 97,
+            "pupilAdultRatio": 11.0,
+            "financialReserves": "\u00a31,007,700",
+            "changeYearReserves": "\u00a3137,500"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>The Hampstead School curriculum \u2013 the total educational experience of our students \u2013 embodies our values. It fosters sophisticated critical thought and an understanding of the crucial importance of effort, within a safe, ambitious and inclusive environment. It enables learners to Think Big, Work Hard and Be Kind.</p>\n<br>\n<p>Like the community we serve, our curriculum is diverse and creative. It grows passionate, life-long learners, equipped with the skills, knowledge and confidence necessary to thrive in modern society. It provides our young people with the extracurricular opportunities, personalised guidance and necessary currency to make informed, aspirational choices about their futures.</p>\n<br>\n<p>Our curriculum celebrates our differences and what we have in common. An ever-developing understanding of equity, diversity and inclusion is complemented by universally high expectations; all of our students have an entitlement to an outstanding education, personalised to their needs.</p>\n<br>\n<p>Our curriculum is never finished. It grows and changes as we grow and change.</p><p><a href=\"https://www.hampsteadschool.org.uk/curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Comprehensively reviewed yearly",
+                "Broad curriculum at all levels",
+                "Expert leaders"
+            ],
+            "topSubjects": [
+                "Chemistry",
+                "Media Studies",
+                "Psychology",
+                "Computer Science",
+                "Criminology",
+                "Music",
+                "Geography",
+                "Business",
+                "Spanish",
+                "Finance",
+                "Physics",
+                "Drama & Theatre Studies",
+                "History",
+                "Core Maths",
+                "ICT",
+                "Film Studies",
+                "Economics",
+                "French",
+                "Biology",
+                "Photography",
+                "Maths",
+                "English Language & Literature",
+                "Health & Social Care",
+                "Sport & Physical Activity",
+                "Art & Design",
+                "Government & Politics",
+                "Sociology",
+                "English Literature",
+                "Further Maths"
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>Our recent Ofsted report was full of praise for our safeguarding practices. It recognised that 'a dedicated safeguarding team ensures that there is a strong culture of safeguarding across the school' and that 'the safeguarding team are tenacious in securing support for vulnerable pupils'.</p>\n<br>\n<p>In a recent staff survey, 100% of respondents agreed that students are safe in this school. We are never complacent in this regard, keeping our procedures under continuous review and communicating closely with students and families about their school experience.</p>\n<br>\n<p>The fact we are a safe school is crucial to our students' happiness, something that is achieved through personalised provision, strong friendships, a culture of kindness and ambitious and engaging learning.</p><p><a href=\"https://www.hampsteadschool.org.uk/_site/data/files/policies/42A6E995BFC855B1334E040533EBB934.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>We have a proactive approach to bullying; our PSHCE curriculum, anti-bullying events and emphasis on kindness reduce the chance of it taking place. Nevertheless, as with all schools, it can sometimes happen.</p>\n<br>\n<p>When it does, we are able to deal with it quickly because we learn about it quickly; a range of reporting methods - form tutors, online forms, peer mentors and trusted adults - mean that victims are less likely to suffer alone.</p>\n<br>\n<p>Our response then combines significant sanctions with the appropriate support to reduce the chance of it happening again.</p><p><a href=https://www.hampsteadschool.org.uk/_site/data/files/policies/2021/C5437E6FBA213FDDE08145D396923AB6.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>Our attendance is higher than national and local averages because our students see our school as a safe, reassuring and rewarding place to be.</p>\n<br>\n<p>If students do struggle, we have a dedicated Educational Welfare Officer who works with families to address the underlying reasons for the poor attendance. A school counsellor and well-resourced pastoral team support with targeted interventions, and clear communications help keep parents and carers fully informed.</p><p><a href=\"https://www.hampsteadschool.org.uk/_site/data/files/policies/2021/315090E414DEECFF87FDCC341CA3E5FA.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "At Hampstead School, we champion academic success for all pupils through a holistic approach. Our dedicated and passionate teachers tailor learning experiences to individual needs, ensuring each student receives the support they need to thrive. We foster a nurturing environment where students feel safe, valued, and motivated to excel. This is supported by a comprehensive Behaviour for Learning Policy.\n\nOur curriculum is robust, engaging, and inclusive, emphasising critical thinking, creativity, and real-world application. We offer a wide range of extracurricular activities, from sports to arts, to help students discover and develop their passions.\n\nRegular assessments and feedback ensure continuous improvement, while our strong home-school partnerships involve parents in their child\u2019s learning journey. Through personalised learning plans, we address diverse learning styles and needs, promoting both academic and personal growth. Together, we build a community where every student can reach their full potential.<p><a href=\"https://www.hampsteadschool.org.uk/_site/data/files/policies/2021/0B5F50AE7A6C4667AB75E8732FB809C7.pdf\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "Attainment 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2024275_chart_ks4_att8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2024275_chart_ks4_att8.png",
+                    "chartDescription": "An Attainment 8 score of 41.2 means Hampstead pupils averaged just above a grade 4 across their eight best GCSE-level subjects."
+                },
+                {
+                    "chartTitle": "Progress 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2024275_chart_ks4_p8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2024275_chart_ks4_p8.png",
+                    "chartDescription": "Progress 8 measures how much progress students make between the end of primary school and their GCSEs, compared to the national average for students with similar scores in KS2 Reading and Writing.\nA Progress 8 score of -0.46 means Hampstead pupils achieved close to half a grade lower than similar pupils across the country."
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "After Key Stage 4 (2024):",
+                    "chartImg": "../assets/imgs/charts/2024275_chart_ks4_dest.png",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "After Key Stage 5 (2023):",
+                    "chartImg": "../assets/imgs/charts/2024275_chart_ks5_dest.png",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "In Year 11 students participate in 'Futures Week' with a week long programme aimed at supporting students to consider their progression post-16 and prepare for their next steps.  All students in Y11 and Y12 have progression conversations with the Sixth Form Team with access to our careers advisor to consider the most appropriate next steps.  Y12 students have a PSHCRE programme that offers access to a variety of professionals with expertise in apprenticeships, universities, the applications process, student finance and careers.  In Y10 and Y12, students also participate in a week long work experience placement to build employability skills.  We have connections with a range of fantastic employers across a range of exciting industries.   The Hampstead Advanced Programme provides specific tailored support to students in Y11 and Y12 aspiring to Oxbridge and Russell Group Universities.  This runs alongside a dedicated alumni programme which offers bespoke support to aspiring medics and dentists"
+        },
+        "SEND": {
+            "sendSupportInfo": "At Hampstead School, we are committed to fostering an inclusive learning environment where every child, including those with additional needs, has access to the support they need to thrive. Our priority is to ensure that all students make progress, achieve their full potential, and feel safe, supported, and valued.\n\nWe place great emphasis on building strong, collaborative relationships with parents/carers, students, and staff. This partnership ensures that we can provide the tailored support each child requires to succeed.\n\nOur dedicated Achievement Support Faculty is well-equipped to support students, including the Assistant Head for Inclusion and SEND, the Deputy SENDCo, SEND teachers, Higher-Level Teaching Assistants, and Teaching Assistants. In addition, we have an on-site school counsellor and collaborate closely with a visiting Mental Health Support Team, Educational Psychologist, and Speech and Language Therapist. Together, we ensure that all students receive the comprehensive support they need to succeed in a nurturing and inclusive environment.<p><a href=\"https://www.hampsteadschool.org.uk/_site/data/files/policies/60E28A6EB27F402AB3EE29326C692989.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "How Hampstead School ensures inclusion is at the very centre of our work with students:\n\u2022\tA whole-School Approach: We adopt a school-wide strategy to support students with SEND, engaging all staff in fostering an inclusive learning environment. \n\u2022\tAn inclusive approach to teaching: We invest in ongoing professional development, empowering teachers with the skills to adapt lessons and ensure every student can succeed and make progress.\n\u2022\tPartnership with Parents: We actively involve parents and carers.\n\u2022\tExpert Support: We provide targeted resources and specialist support for students with SEND, involving specialist services where necessary.\n\u2022\tMental Health and Wellbeing: We place a strong emphasis on the mental health and wellbeing of all students, creating a safe and nurturing environment for learning.\n\u2022\tRestorative Practices: Our staff are trained in restorative practices to respond effectively to the emotional needs of students,\n<p><a href=\"https://www.hampsteadschool.org.uk/_site/data/files/policies/032A07E06C2A824D4D0CCDE99FCBB89A.pdf\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
         "schoolId": 2024104,
         "schoolName": "Haverstock School",
         "isPrimary": false,
@@ -5012,8 +5374,8 @@
             ],
             "qualifiedTeachersPercent": 88,
             "pupilAdultRatio": 7.2,
-            "financialReserves": "373000",
-            "changeYearReserves": "260700"
+            "financialReserves": "\u00a3373,000",
+            "changeYearReserves": "\u00a3260,700"
         },
         "curriculum": {
             "curriculumAim": "Pupils follow an ambitious curriculum at Kentish Town CE Primary. The key knowledge that pupils need to learn is identified precisely and set out coherently. Pupils build a strong understanding and develop a problem-solving approach. For example, in mathematics pupils can draw on their knowledge of number facts to convert and simplify fractions. The  curriculum is broad so that pupils can make connections and build a strong understanding of the world around them.\nOur curriculum is ambitious and very well sequenced ensuring all children make strong progress and enjoy their learning. Children of all abilities excel across the range of their studies.\nOur curriculum is enriched by trips and visitors to the school. Key experiences include: dance projects with The Place, a project wand performance with the Primary Shakespeare Company, a trip to paris and a week long residential trip in Y6.\nOur curriculum is well adapted to meet the needs of a range of learners, including those who are pre - verbal and have complex additional needs.<p><a href=\"https://www.kentishtown.camden.sch.uk/curriculum-and-ethos/curriculum-statement/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -9911,8 +10273,8 @@
             ],
             "qualifiedTeachersPercent": 92,
             "pupilAdultRatio": 8.9,
-            "financialReserves": "493300",
-            "changeYearReserves": "113700"
+            "financialReserves": "\u00a3493,300",
+            "changeYearReserves": "\u00a3113,700"
         },
         "curriculum": {
             "curriculumAim": "<p>Our distinctive school Vision and Values inform all aspects of our work. Underpinned by high expectations, our bespoke curriculum is carefully crafted and aspirational; providing all children with the opportunity to attain high academic standards and develop the secure personal skills and attributes necessary to become life-long learners.</p>\n\n<p>Reading is the cornerstone of the broader curriculum and from the Early Years, children develop a secure body of knowledge and skills across every subject, including Spanish, enabling them to be very well prepared for every next step in their education.</p>\n\n<p>We deliver comprehensive religious education and PSHE programmes, ensuring children learn how to stay safe, make sensible choices, and be good citizens.</p>\n\n<p>We are highly ambitious for pupils with SEND and offer carefully considered bespoke support. Our children enjoy coming to school to benefit from the wide range of exciting activities the school provides.</p><p><a href=\"https://www.stmp.camden.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -10213,8 +10575,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 12.3,
-            "financialReserves": "11700",
-            "changeYearReserves": "-27500"
+            "financialReserves": "\u00a311,700",
+            "changeYearReserves": "-\u00a327,500"
         },
         "curriculum": {
             "curriculumAim": "<p>Our well-sequenced curriculum equips our children with the knowledge, skills and cultural capital that they need to succeed in life.</p>\n<br>\n\n<p>In addition, each term we pause the usual curriculum for a week in order for everyone to take part in a Whole School Project Studies. In the recent past these have included Looking After Our World Studies, Equality Studies, Social Justice Studies and Keeping Safe Studies.</p>\n<br>\n\n<p>These special studies weeks enable pupils to develop a deeper understanding and awareness of current issues and topics encouraging them to think about citizenship and their own contribution to society.</p><p><a href=\"https://www.stmarykilburn.camden.sch.uk/page/?title=Curriculum&pid=9\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
