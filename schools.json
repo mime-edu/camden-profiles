@@ -1254,6 +1254,310 @@
         }
     },
     {
+        "schoolId": 2022078,
+        "schoolName": "Brookfield Primary School",
+        "isPrimary": true,
+        "shortSlogan": "We foster creativity, curiosity, and care; inspiring confident, risk-taking students who ask questions, embrace challenges, and achieve their best.",
+        "descriptionTitle": "We foster creativity, curiosity, and care; inspiring confident, risk-taking students who ask questions, embrace challenges, and achieve their best.",
+        "description": "<p>At Brookfield Primary School, we are dedicated to nurturing creativity, curiosity, and care in every child. We inspire our students to explore their passions, embrace challenges, and grow into confident, thoughtful individuals who are unafraid to ask questions and take bold steps in their learning journey.</p>\n<br>\n<p>Our supportive and stimulating environment encourages students to strive for their personal best, fostering a love for discovery and resilience that prepares them for the future. Through a blend of imaginative teaching and compassionate guidance, we develop children who are not only academically equipped but empowered to make a positive impact in the world.</p>",
+        "schoolLogo": "../assets/imgs/school/2022078_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100011",
+        "churchLink": "",
+        "websiteLink": "https://www.brookfield.camden.sch.uk/",
+        "type": "Primary inc. Nursery",
+        "gender": "Mixed",
+        "entryForms": 2,
+        "ageRange": [
+            "2",
+            "11"
+        ],
+        "address": "Chester Road",
+        "lat": 51.563391,
+        "long": -0.145062,
+        "formsEntry": 2,
+        "prevYearCatchmentRadius": null,
+        "postCode": "N19 5DH",
+        "facilities": [
+            "Breakfast Club",
+            " Afterschool Club",
+            " Trapeze And Gymnastics Club",
+            " Forest School",
+            " Gardening Club",
+            " Debate",
+            " Philosophy",
+            " Library",
+            " Music Room",
+            " Specialist Drumming Teacher",
+            " Artist In Residence"
+        ],
+        "activities": [
+            "Gymnastics",
+            "Aerial trapeze",
+            "Specialist clubs with Channing and Highgate schools",
+            "Football ",
+            "Drumming and Jamming Club",
+            "Choirs",
+            "Spanish",
+            "French",
+            "After school club provision",
+            "Gardening Club"
+        ],
+        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the website below:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2022078_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Parents and carers are very positive about the school. They shared how the school feels like a family, with pupils at the heart of the school\u2019s work. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Staff have high expectations of pupils\u2019 learning. Leaders have designed a broad and balanced curriculum, which helps pupils to build a deep knowledge\nover time, including in early years. Across the school, pupils behave well and enjoy their\nlearning. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "There are above average levels of attainment and progress which are testimony to the quality of teaching and learning in the school. ",
+                    "author": "Challenge Partners"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Brookfield school is built on a foundation of mutual respect, where a supportive community uplifts and values each individual.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Brookfield Primary is a very welcoming and inclusive school where the teachers have a very good relationship with the children and its academic curriculum is centred on bringing up the best in children by fostering their skills as well as helping them develop their talents.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Brookfield is a school which prides itself on creativity and community. It is a warm and welcoming place to work, with a wonderful team who care deeply about the children.\u00a0",
+                    "author": "School Staff"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Leaders encourage pupils to take on responsibilities. For instance, the school council redesigned the lunch hall, created a playground behaviour charter and led assemblies. Pupils can become reading and art ambassadors, or playground champions.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Leaders have embedded a purposeful vision for the pupils where everyone connected with the school endeavours to \u201cinspire the best in everyone through achievement, kindness and responsibility.\u201d The school is proud to have achieved\na number of nationally recognised awards including the Platinum Artsmark Award and Eco-Schools Green Flag.",
+                    "author": "Challenge Partners"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I love Brookfield because the teachers are really great and we get involved in so many things, especially sports!",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "There's so many options to meet lots of people like when we go on trips and have authors come in to visit - it's always fun and the teachers are so helpful with our learning.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "It's a very creative school and everyone I so nice!",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I love Brookfield because there are loads of amazing opportunities and lots of different facilities that we all have access to.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "At our school the teachers are kind, they respect everyone and celebrate our differences - they are LGBTQ friendly as well!",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "All the teachers are nice and Amazing. They are helpful, patient and our friends are supportive and help us when things go wrong.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Brookfield is a dynamic, nurturing and creative school. My son looks forward to coming to school everyday and has an outstanding relationship with his teachers - they really get him, support him & enthuse him to learn. In particular he loves Maths, History and the FAB projects, and he loves part of the Eco Committee!  Every time I come in to Brookfield there's always a lovely warm buzz -  great learning, chats with all members of staff, and just general kindness! ",
+                    "author": "Parent"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2022078_1.jpg",
+                "../assets/imgs/school/2022078_2.jpg",
+                "../assets/imgs/school/2022078_3.jpg",
+                "../assets/imgs/school/2022078_4.jpg",
+                "../assets/imgs/school/2022078_5.jpg",
+                "../assets/imgs/school/2022078_6.jpg",
+                "../assets/imgs/school/2022078_7.jpg",
+                "../assets/imgs/school/2022078_8.jpg",
+                "../assets/imgs/school/2022078_9.jpg",
+                "../assets/imgs/school/2022078_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "We are an inclusive community that celebrates diversity and cherishes each individual\u2019s unique qualities. Our commitment to valuing differences strengthens our bonds, fostering a caring and supportive environment where every child feels valued, respected, and empowered to thrive.",
+                    "link": "/schoolContext/index.html?schoolId=2022078"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "Pupil well-being is central to all we do. We focus on nurturing confident, secure children through a supportive environment, empowering them to grow emotionally, socially, and academically, ensuring they feel valued, understood, and ready to thrive.",
+                    "link": "/support/index.html?schoolId=2022078"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "We are dedicated to inclusive education, providing ambitious support for children with SEND. We tailor our approach to empower every child, ensuring they achieve and thrive. Our commitment fosters growth, resilience, and confidence, enabling all students to reach their potential.",
+                    "link": "/SEND/index.html?schoolId=2022078"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "Pupils achieve above the national average through aspirational, adaptive teaching strategies, support, and challenge. Our dedicated approach ensures every child is encouraged to reach their potential, fostering a culture of excellence and continuous growth in learning.",
+                    "link": "/achievement/index.html?schoolId=2022078"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "We offer an ambitious curriculum enriched with specialist teaching in philosophy, forest school, art, design, and music. With a knowledge-rich approach in foundation subjects and exciting long-term projects, we challenge all pupils, fostering real-world learning and impactful outcomes.",
+                    "link": "/curriculum/index.html?schoolId=2022078"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Knowledge-Rich Curriculum",
+                    "description": "Developing a curriculum which prioritises children acquiring key knowledge and vocabulary in a carefully sequenced curriculum which incorporates history, geography, science and religion and worldviews."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Outstanding Learning Environments",
+                    "description": "We are overhauling our learning spaces to be inclusive outstanding classrooms where all of our children feel confident, secure and ready to learn."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Improved SEND provision",
+                    "description": "Ensuring all of our new processes for identifying barriers to learning, offering support and implementing interventions are robust and transparent."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 397,
+            "ethnicGroupsNum": 10,
+            "languagesNum": 7,
+            "SENDPercent": 18.4,
+            "BMEPercent": 49.9,
+            "disadvantagedPupilsPercent": 29.1,
+            "englishAdditionalLangPercent": 17.6,
+            "absencePercent": 5.5,
+            "persistentAbsenteesPercent": 19.3,
+            "specificLanguages": [
+                "English",
+                "Bengali",
+                "Pashto",
+                "Turkish",
+                "Ukrainian",
+                "Russian",
+                "Dari/Persian"
+            ],
+            "specificEthnicities": [
+                "Afghan",
+                "Bangladeshi",
+                "White British",
+                "White and Asian",
+                "White and Black African",
+                "White and Black Caribbean",
+                "White European",
+                "White Eastern European",
+                "White Other",
+                "Other Asian background"
+            ],
+            "specificSEND": [
+                "Specific learning difficulty",
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 95,
+            "pupilAdultRatio": 9.7,
+            "financialReserves": "\u00a349,600",
+            "changeYearReserves": "-\u00a366,100"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>Our curriculum is designed to cultivate creative, curious, and critical thinkers who are compassionate, knowledgeable, and engaged in their learning and the world around them. We focus on developing well-rounded learners by fostering creativity, curiosity, critical thinking, and care.</p><br>\n\n<p>Our curriculum includes enriching programs such as Forest School, Philosophy for Children, and an Artist in Residence, offering hands-on learning and creative expression. We also emphasize oracy skills, debate, and project-based learning to build confidence and communication. With a knowledge-rich and inclusive approach, we support all students, nurturing their unique strengths while fostering a love of learning. Through strong partnerships with external organizations, we broaden horizons and inspire aspirations, preparing children to be resilient, confident, and caring individuals ready for the future.</p><br>\n\n<p>In Maths, we use creative approaches such as problem-solving challenges, interactive games, and puzzles to deepen understanding. We incorporate real-world scenarios to make abstract concepts more relatable, fostering critical thinking and a love for problem-solving. Maths lessons often include collaborative group work, where students tackle tasks in dynamic, creative ways, encouraging peer learning and engagement.</p><br>\n\n<p>In English, we utilize a range of imaginative strategies, such as immersive storytelling, role-play, and drama to bring texts to life. Our literacy curriculum is enriched with creative writing tasks, debates, and class discussions. We also integrate visual arts and multimedia projects to support writing, allowing students to express ideas through different mediums and boosting their confidence as communicators.</p><br>\n\n<p>At Brookfield Primary, we use a knowledge-rich approach to the humanities that ensures children not only remember more but also engage deeply with the content. Our curriculum is carefully sequenced to build on prior knowledge, helping students make connections across topics and remember key facts and concepts. By focusing on a deep understanding of historical events, geographical concepts, and cultural studies, we encourage students to ask richer, more thoughtful questions. The use of engaging, immersive activities\u2014such as project-based learning, field trips, and role-play\u2014further excites children about their learning. This approach fosters curiosity, allowing students to explore topics in depth, think critically, and develop a genuine interest in the humanities. Through a structured yet stimulating curriculum, we ensure that every child not only retains knowledge but also sees the relevance and excitement in exploring the world around them.</p><br>\n\n<p>Our PSHE curriculum, along with assemblies and responsive planning, places children's well-being and personal development at the heart of our education. Through a carefully designed PSHE program, we focus on building emotional intelligence, resilience, and self-awareness, ensuring children develop a strong sense of identity and confidence. Our assemblies celebrate values such as kindness, empathy, and positive role models, reinforcing these messages. Philosophy for Children further enhances this by fostering abstract thinking, encouraging curiosity, and promoting empathy. By engaging with complex ideas and exploring different perspectives, children develop critical thinking skills and a deeper understanding of others. Responsive planning ensures that we adapt to the evolving needs of our students, offering support and challenges as needed. This holistic approach empowers children to take ownership of their learning, fostering confident, compassionate learners who believe in their ability to make a positive impact on the world.</p><p><a href=\"https://www.brookfield.camden.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Creative and dynamic maths and English lessons",
+                "Knowledge-rich approach to humanities",
+                "Building emotional intelligence and wellbeing in PSHE and assemblies"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>At Brookfield Primary, keeping children safe and happy is our priority, fostering a school that feels like a supportive family. Our committed staff know each child exceptionally well, creating a warm, inclusive environment where every student feels valued and secure.</p>\n<br>\n<p>We prioritize children\u2019s well-being in class and at play through initiatives such as ELSA (Emotional Literacy Support Assistant) sessions and the Zones of Regulation, which help children manage emotions and build resilience. Our well-structured, staggered playtimes offer space for busy, active play and quieter areas for calm, reflective activities, allowing children to engage in ways that suit their needs. This approach promotes positive interactions, emotional growth, and well-being.</p>\n<br>\n<p>Central to all of this is our unwavering commitment to safeguarding. We have robust safeguarding practices in place, ensuring that every child is protected and supported as they learn, play, and develop within our nurturing school community.</p><p><a href=\"https://www.brookfield.camden.sch.uk/wordpress/wp-content/uploads/2023/09/Brookfield-cp-and-safeguarding-policy-3.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>We take a firm stance against bullying through our robust anti-bullying policy, ensuring a safe and respectful environment for all. We proactively address any incidents by working closely with both families and children to understand and resolve issues swiftly and effectively.</p>\n<br>\n<p>Our approach includes open communication, restorative practices, and targeted support, fostering empathy and understanding among students. We educate children on recognizing and preventing bullying through assemblies and classroom discussions, promoting kindness and inclusion.</p>\n<br>\n<p>By maintaining a collaborative and transparent approach, we ensure every child feels secure, valued, and empowered in our school community.</p><p><a href=https://www.brookfield.camden.sch.uk/wordpress/wp-content/uploads/2022/07/Brookfield-Primary-School-Anti-Bullying-Policy-2022.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>We promote great attendance by supporting both children and families with a welcoming, inclusive approach. We make school a safe, engaging place where students feel excited to learn and grow.</p>\n<br>\n<p>Our vibrant assemblies celebrate achievements and foster a sense of community, making attendance rewarding and enjoyable. Staff work closely with families to address any challenges, ensuring that every child feels supported and valued.</p>\n<br>\n<p>This commitment helps maintain high attendance and positive student experiences throughout the school.</p><p><a href=\"https://www.brookfield.camden.sch.uk/wordpress/wp-content/uploads/2022/09/Attendance-policy-2022_23.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>At Brookfield Primary, we secure academic success by inspiring all pupils to achieve their best through high-quality teaching and learning. Our planning is informed by an in-depth knowledge of each pupil, ensuring lessons are tailored to their needs and strengths.</p>\n<br>\n<p>We foster creativity, curiosity, and the courage to challenge themselves. In subjects like maths, we engage students with problem-solving, puzzles, and games, while our literacy curriculum includes rich, creative tasks grounded in exciting, immersive texts.</p>\n<br>\n<p>In our wider curriculum, we immerse students in places and times with engaging resources and storytelling to bring all our subjects to life. This approach encourages pupils to become articulate, engaged, and confident lifelong learners, prepared to stretch their abilities and thrive.</p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2022078_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022078_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2022078_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022078_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>We prepare children to prosper after they leave us by providing a range of opportunities that challenge them to grow both academically and personally. Through a program of project-based learning with real-world outcomes, we help children develop problem-solving, teamwork, and critical thinking skills.</p>\n<br>\n<p>Additionally, we offer ample opportunities for leadership through roles such as school council members, well-being mentors, reading and maths ambassadors, and eco-committee representatives. These experiences empower children to take ownership of their learning, build confidence, and become adaptable, articulate young people.</p>\n<br>\n<p>By fostering leadership, resilience, and a passion for learning, we equip students with the skills they need to succeed in the next stages of their educational journeys and beyond.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>We support children with SEND through quality first teaching and strong, nurturing relationships. Our in-depth understanding of each child's needs enables a rigorous approach to setting targets and identifying barriers to progress.</p>\n<br>\n<p>We collaborate closely with parents to create a unified support system. Adaptive teaching strategies, small group interventions, and pre-teaching sessions are integral to boosting children's learning and confidence.</p>\n<br>\n<p>This comprehensive approach ensures every child is empowered to thrive academically, socially, and emotionally within our inclusive environment.</p><p><a href=\"https://cindex.camden.gov.uk/kb5/camden/cd/localoffer.page?localofferchannel=0\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>We ensure inclusive practice through ongoing training delivered by our SENDCo and external experts. This helps us implement best practices, adjusting teaching methods and resources to meet diverse needs.</p>\n<br>\n<p>Strong relationships with students allow us to understand their interests, challenges, and optimal support strategies, fostering great outcomes.</p>"
+        }
+    },
+    {
         "schoolId": 2023323,
         "schoolName": "Christ Church Primary School, Hampstead",
         "isPrimary": true,
