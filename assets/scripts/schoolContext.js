@@ -10,11 +10,13 @@ document.addEventListener("DOMContentLoaded", async function () {
 		schoolId = 0;
 		location.href = `${location.origin}`;
 	}
-	let school = ref(
-		schools.find((el) => {
-			return el.schoolId == schoolId;
-		})
-	);
+	let school = ref(schools.find((el) => el.schoolId == schoolId) || null);
+
+	if (!school.value) {
+		schoolId = 0;
+		location.href = `${location.origin}`;
+	}
+
 	let showComparisonsInfo = ref(false);
 	let currentInfoBlock = ref(1);
 

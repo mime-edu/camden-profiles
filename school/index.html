@@ -15,6 +15,7 @@
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 		<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js" defer></script>
+		<script src="../assets/scripts/libs/qrcode.min.js" defer></script>
 		<script type="module" src="../assets/scripts/schoolPage.js" defer></script>
 
 		<title>School</title>
@@ -36,7 +37,7 @@
 					<div class="hero__content">
 						<div class="hero-title__block">
 							<h1 class="hero__title">{{school.schoolName}}</h1>
-							<!-- <div class="hero_share"><span>Share</span><img src="../assets/imgs/share.png" alt="" /></div> -->
+							<div open-share-popup class="hero_share"><span>Share</span><img src="../assets/imgs/share.png" alt="" /></div>
 						</div>
 						<p class="hero__address">{{school.address}} {{school.postCode}}</p>
 						<p class="hero__description" v-html="school.shortSlogan"></p>
@@ -343,5 +344,23 @@
 				</div>
 			</div>
 		</footer>
+
+		<div class="popup-wrapper hidden">
+			<div class="popup share-popup">
+				<button close-popup class="popup__close-btn"><img src="../assets/imgs/close.svg" alt=""></button>
+				<h5 class="popup__title">Share this School</h5>
+				<p class="popup__description">Copy the link or share the QR code to share this school’s profile.</p>
+				<div class="share-block">
+					<label for="share-link">Tap to copy</label>
+					<div class="share-link-wrapper">
+						<input id="share-link" type="text" disabled :value="`https://camden.schoolreport.org.uk/school/?schoolId=${school.schoolId}`">
+						<button><img src="../assets/imgs/copy.svg" alt="copy"></button>
+					</div>
+				</div>
+				<div class="popup__qrcode">
+					 
+				</div>
+			</div>
+		</div>
 	</body>
 </html>
