@@ -22,4 +22,27 @@ document.addEventListener("DOMContentLoaded", async function () {
 			return { school };
 		},
 	}).mount("#supportPage");
+
+	// popup
+	let openPopupButton = document.querySelector("button[open-popup]");
+	openPopupButton.addEventListener("click", function () {
+		let popupwrapper = document.querySelector(".popup-wrapper");
+		if (popupwrapper) {
+			popupwrapper.classList.remove("hidden");
+			popupwrapper.classList.add("active");
+		}
+	});
+
+	let popupwrapper = document.querySelector(".popup-wrapper");
+	let popup = popupwrapper.querySelector(".popup");
+	if (popup) {
+		let closePopupButton = document.querySelector("button[close-popup]");
+		if (closePopupButton) {
+			closePopupButton.addEventListener("click", (e) => {
+				e.preventDefault();
+				popupwrapper.classList.add("hidden");
+				popupwrapper.classList.remove("active");
+			});
+		}
+	}
 });
