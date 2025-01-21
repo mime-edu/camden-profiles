@@ -2,6 +2,9 @@ import { createTab } from "./modules/tabs.js";
 const { createApp, ref } = Vue;
 
 document.addEventListener("DOMContentLoaded", async function () {
+	const currentUrl = new URL(window.location.href);
+	const baseURL = `${currentUrl.origin}`;
+
 	const response = await fetch("./../schools.json");
 
 	let schools = await response.json();
@@ -17,6 +20,8 @@ document.addEventListener("DOMContentLoaded", async function () {
 		schoolId = 0;
 		location.href = `${location.origin}`;
 	}
+
+	school.value.schoolLink = `${baseURL}/school/?schoolId=${school.value.schoolId}`;
 
 	// Vue.js app initialization
 	createApp({
@@ -126,7 +131,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 
 		// generate qr code
 		const popupQRcode = new QRCode(sharePopup.querySelector(".popup__qrcode"), {
-			text: `https://camden.schoolreport.org.uk/school/?schoolId=${school.schoolId}`,
+			text: school.value.schoolLink,
 			colorDark: "#ed4d8b",
 			colorLight: "#ffffff",
 		});
