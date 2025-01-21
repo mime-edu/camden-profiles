@@ -134,6 +134,8 @@ document.addEventListener("DOMContentLoaded", async function () {
 			text: school.value.schoolLink,
 			colorDark: "#ed4d8b",
 			colorLight: "#ffffff",
+			width: 170,
+			height: 170,
 		});
 	}
 });
