@@ -25,24 +25,52 @@ document.addEventListener("DOMContentLoaded", async function () {
 
 	// popup
 	let openPopupButton = document.querySelector("button[open-popup]");
-	openPopupButton.addEventListener("click", function () {
-		let popupwrapper = document.querySelector(".popup-wrapper");
-		if (popupwrapper) {
-			popupwrapper.classList.remove("hidden");
-			popupwrapper.classList.add("active");
-		}
-	});
+	if (openPopupButton) {
+		openPopupButton.addEventListener("click", function () {
+			let popupwrapper = document.querySelector(".popup-wrapper");
+			if (popupwrapper) {
+				popupwrapper.classList.remove("hidden");
+				popupwrapper.classList.add("active");
+			}
+		});
+	}
 
 	let popupwrapper = document.querySelector(".popup-wrapper");
-	let popup = popupwrapper.querySelector(".popup");
-	if (popup) {
-		let closePopupButton = document.querySelector("button[close-popup]");
-		if (closePopupButton) {
-			closePopupButton.addEventListener("click", (e) => {
-				e.preventDefault();
-				popupwrapper.classList.add("hidden");
-				popupwrapper.classList.remove("active");
-			});
+	if (popupwrapper) {
+		let popup = popupwrapper.querySelector(".popup");
+		if (popup) {
+			let closePopupButton = document.querySelector("button[close-popup]");
+			if (closePopupButton) {
+				closePopupButton.addEventListener("click", (e) => {
+					e.preventDefault();
+					popupwrapper.classList.add("hidden");
+					popupwrapper.classList.remove("active");
+				});
+			}
 		}
 	}
+
+	// tooltips
+	document.querySelectorAll(".info-tag").forEach((tag) => {
+		tag.addEventListener("mouseenter", function () {
+			const tooltip = this.querySelector(".tooltip");
+			if (!tooltip) {
+				return;
+			}
+			tooltip.classList.remove("left", "right");
+
+			const tooltipRect = tooltip.getBoundingClientRect();
+			const viewportWidth = window.innerWidth;
+
+			if (tooltipRect.left < 0) {
+				tooltip.classList.add("right");
+				tooltip.classList.remove("left");
+			} else if (tooltipRect.right > viewportWidth) {
+				tooltip.classList.add("left");
+				tooltip.classList.remove("right");
+			} else {
+				tooltip.classList.remove("left", "right");
+			}
+		});
+	});
 });

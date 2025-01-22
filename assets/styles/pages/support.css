@@ -20,3 +20,50 @@
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
+
+.info-tag {
+	position: relative;
+	display: inline-block;
+	/* margin: 10px; */
+}
+
+.tooltip {
+	visibility: hidden;
+	opacity: 0;
+	position: absolute;
+	text-align: center;
+	padding: 7px 7px;
+	border-radius: 7px;
+	width: max-content;
+	max-width: 240px;
+	bottom: 120%;
+	left: 0;
+	/* transform: translateX(-50%); */
+	transition: opacity 0.3s;
+	z-index: 10;
+	font-size: 14px;
+	white-space: normal;
+	text-wrap: wrap;
+	color: #fff;
+	background-color: #d63271;
+}
+.tooltip a {
+	text-decoration: underline;
+}
+
+.info-tag:hover .tooltip {
+	visibility: visible;
+	opacity: 1;
+}
+
+.tooltip.left {
+	left: auto;
+	right: 0;
+	/* transform: translateX(0%); */
+}
+
+.tooltip.right {
+	left: 0;
+	right: auto;
+	/* transform: translateX(0%); */
+}
