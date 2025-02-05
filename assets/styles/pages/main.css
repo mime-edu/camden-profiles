@@ -436,3 +436,12 @@
 .filter-overlay__button.button-with-bg {
 	padding: 15px 15px;
 }
+
+.intro-list {
+	padding: 10px 30px;
+
+}
+
+.intro-list li {
+    list-style-type: disc;
+}
