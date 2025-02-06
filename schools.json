@@ -12,7 +12,7 @@
         "websiteLink": "https://www.abacus.anthemtrust.uk/",
         "type": "Primary",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "4",
             "11"
@@ -20,7 +20,7 @@
         "address": "Jubilee Waterside Centre, 105 Camley Street",
         "lat": 51.537812,
         "long": -0.130658,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "N1C 4PF",
         "facilities": [
@@ -308,7 +308,7 @@
         "websiteLink": "https://www.aclandburghley.camden.sch.uk/",
         "type": "Secondary",
         "gender": "Mixed",
-        "entryForms": 6,
+        "entryForms": "6",
         "ageRange": [
             "11",
             "18"
@@ -316,7 +316,7 @@
         "address": "Burghley Road",
         "lat": 51.557418,
         "long": -0.139624,
-        "formsEntry": 6,
+        "formsEntry": "6",
         "prevYearCatchmentRadius": null,
         "postCode": "NW5 1UJ",
         "facilities": [
@@ -681,7 +681,7 @@
         "websiteLink": "https://www.argyle.camden.sch.uk",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "3",
             "11"
@@ -689,7 +689,7 @@
         "address": "Tonbridge Street",
         "lat": 51.52875,
         "long": -0.124037,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "WC1H 9EG",
         "facilities": [
@@ -953,7 +953,7 @@
         "websiteLink": "https://www.brecknock.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1.5",
         "ageRange": [
             "2",
             "11"
@@ -961,7 +961,7 @@
         "address": "Cliff Villas, Camden",
         "lat": 51.547483,
         "long": -0.127871,
-        "formsEntry": 1,
+        "formsEntry": "1.5",
         "prevYearCatchmentRadius": null,
         "postCode": "NW1 9AL",
         "facilities": [
@@ -1266,7 +1266,7 @@
         "websiteLink": "https://www.brookfield.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 2,
+        "entryForms": "2",
         "ageRange": [
             "2",
             "11"
@@ -1274,7 +1274,7 @@
         "address": "Chester Road",
         "lat": 51.563391,
         "long": -0.145062,
-        "formsEntry": 2,
+        "formsEntry": "2",
         "prevYearCatchmentRadius": null,
         "postCode": "N19 5DH",
         "facilities": [
@@ -1570,7 +1570,7 @@
         "websiteLink": "https://christchurchschool.co.uk/",
         "type": "Primary",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "4",
             "11"
@@ -1578,7 +1578,7 @@
         "address": "Christ Church Hill",
         "lat": 51.559254,
         "long": -0.176622,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW3 1JH",
         "facilities": [
@@ -1854,7 +1854,7 @@
         "websiteLink": "https://www.chrishatton.camden.sch.uk",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "3",
             "11"
@@ -1862,7 +1862,7 @@
         "address": "38 Laystall Street",
         "lat": 51.522741,
         "long": -0.112694,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "EC1R 4PQ",
         "facilities": [
@@ -2147,7 +2147,7 @@
         "websiteLink": "https://www.edithneville.camden.sch.uk ",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "3",
             "11"
@@ -2155,7 +2155,7 @@
         "address": "85 Polygon Road",
         "lat": 51.532372,
         "long": -0.130665,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW1 1HQ",
         "facilities": [
@@ -2436,7 +2436,7 @@
         "websiteLink": "https://www.eleanorpalmer.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "3",
             "11"
@@ -2444,7 +2444,7 @@
         "address": "Lupton Street, Tufnell Park",
         "lat": 51.554367,
         "long": -0.139096,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW5 2JA",
         "facilities": [
@@ -2726,7 +2726,7 @@
         "websiteLink": "https://www.emmanuel.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "3",
             "11"
@@ -2734,7 +2734,7 @@
         "address": "152-158 Mill Lane, West Hampstead",
         "lat": 51.551837,
         "long": -0.194549,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW6 1TF",
         "facilities": [
@@ -3026,7 +3026,7 @@
         "websiteLink": "http://www.fitzjohns.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "3",
             "11"
@@ -3034,7 +3034,7 @@
         "address": "86A Fitzjohn's Avenue",
         "lat": 51.553397,
         "long": -0.175861,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW3 6NP",
         "facilities": [
@@ -3298,7 +3298,7 @@
         "websiteLink": "http://www.fleet.camden.sch.uk",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "3",
             "11"
@@ -3306,7 +3306,7 @@
         "address": "Fleet Road",
         "lat": 51.553461,
         "long": -0.160943,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW3 2QT",
         "facilities": [
@@ -3592,7 +3592,7 @@
         "websiteLink": "http://www.gospeloak.camden.sch.uk",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 2,
+        "entryForms": "2",
         "ageRange": [
             "3",
             "11"
@@ -3600,7 +3600,7 @@
         "address": "Mansfield Road",
         "lat": 51.554622,
         "long": -0.152963,
-        "formsEntry": 2,
+        "formsEntry": "2",
         "prevYearCatchmentRadius": null,
         "postCode": "NW3 2JB",
         "facilities": [
@@ -3900,7 +3900,7 @@
         "websiteLink": "https://hampsteadprimary.co.uk/term-dates/",
         "type": "Primary",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "4",
             "11"
@@ -3908,7 +3908,7 @@
         "address": "Hampstead Parochial School , Holly Bush Vale, Hampstead",
         "lat": 51.556441,
         "long": -0.179028,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW3 6TX",
         "facilities": [
@@ -4210,7 +4210,7 @@
         "websiteLink": "https://www.hampsteadschool.org.uk/",
         "type": "Secondary",
         "gender": "Mixed",
-        "entryForms": 7,
+        "entryForms": "7",
         "ageRange": [
             "11",
             "18"
@@ -4218,7 +4218,7 @@
         "address": "Westbere Road, Hampstead",
         "lat": 51.555614,
         "long": -0.207047,
-        "formsEntry": 7,
+        "formsEntry": "7",
         "prevYearCatchmentRadius": null,
         "postCode": "NW2 3RT",
         "facilities": [
@@ -4572,7 +4572,7 @@
         "websiteLink": "https://www.haverstock.camden.sch.uk/",
         "type": "Secondary",
         "gender": "Mixed",
-        "entryForms": 4,
+        "entryForms": "4",
         "ageRange": [
             "11",
             "18"
@@ -4580,7 +4580,7 @@
         "address": "24 Haverstock Hill, Chalk Farm",
         "lat": 51.544794,
         "long": -0.153999,
-        "formsEntry": 4,
+        "formsEntry": "4",
         "prevYearCatchmentRadius": null,
         "postCode": "NW3 2BQ",
         "facilities": [
@@ -4895,6 +4895,246 @@
         }
     },
     {
+        "schoolId": 2022290,
+        "schoolName": "Hawley Primary School",
+        "isPrimary": true,
+        "shortSlogan": "We are a community school where children achieve excellence, have a sense of belonging and develop a love of learning. ",
+        "descriptionTitle": "We are a community school where children achieve excellence, have a sense of belonging and develop a love of learning. ",
+        "description": "Hawley is a one-form entry school in the heart of Camden. We have a strong sense of community and strive to celebrate the achievements of all children. From Nursery through to Year 6, children experience a rich and varied curriculum with a topic focus that links learning. As well as engaging learning in class, classes experience enrichment in every term through trips and visitors. Our families are warmly welcomed in to the school and we work collaboratively to ensure that every child achieves their best.",
+        "schoolLogo": "../assets/imgs/school/2022290_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100015",
+        "churchLink": "",
+        "websiteLink": "https://www.hawley.camden.sch.uk",
+        "type": "Primary inc. Nursery",
+        "gender": "Mixed",
+        "entryForms": "1",
+        "ageRange": [
+            "3",
+            "11"
+        ],
+        "address": "Hawley Road",
+        "lat": 51.542718,
+        "long": -0.143829,
+        "formsEntry": "1",
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW1 8RP",
+        "facilities": [
+            "Nursery and Reception playground",
+            " Breakfast Club",
+            " Library",
+            " Music Room",
+            " Food Technology Kitchen"
+        ],
+        "activities": [
+            "Multisports",
+            "Football",
+            "Art",
+            "Sewing",
+            "Gymnastics",
+            "Yoga",
+            "French",
+            "Playcentre with PACE - Fairfields "
+        ],
+        "admissionProcess": "We follow the London Borough of Camden's school admissions policy. ",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2022290_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Hawley Primary School is a hub in the local community. Parents, carers, pupils and staff are happy here. This is a place where everyone is valued, and difference is championed.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Pupils benefit from the wealth of opportunities which are available locally to enhance their\nexperience and understanding of the world around them. This has complemented the\nplanned curriculum and led to pupils experiencing a real sense of adventure in their\nlearning.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Children are safe and happy here. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Children get off to a strong start in early years. ",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Pupils behave well in lessons; the enjoy learning and try hard. ",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Pupils with SEND are well supported to learn effectively. ",
+                    "author": "Teacher"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2022290_1.jpg",
+                "../assets/imgs/school/2022290_2.jpg",
+                "../assets/imgs/school/2022290_3.jpg",
+                "../assets/imgs/school/2022290_4.jpg",
+                "../assets/imgs/school/2022290_5.jpg",
+                "../assets/imgs/school/2022290_6.jpg",
+                "../assets/imgs/school/2022290_7.jpg",
+                "../assets/imgs/school/2022290_8.jpg",
+                "../assets/imgs/school/2022290_9.jpg",
+                "../assets/imgs/school/2022290_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "We are a school at the heart of our community in which all children develop a sense of belonging. We welcome families from a wide range backgrounds, and over 30 different languages are spoken. ",
+                    "link": "/schoolContext/index.html?schoolId=2022290"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "At Hawley, we prioritise nurturing strong relationships. Children feel safe here, and are able to share their views and feelings in order to continually improve our provision. ",
+                    "link": "/support/index.html?schoolId=2022290"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "Hawley has high expectations and aspirations for all. Our experienced team work hard to know and support children individually, recognising achievements in all areas and ensuring that all children feel included and successful. ",
+                    "link": "/SEND/index.html?schoolId=2022290"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "Our pupils are given the tools that they need to progress and achieve in all areas. Our team ensure that high quality teaching meets the needs of all learners, developing both children's academic ability and key life skills. ",
+                    "link": "/achievement/index.html?schoolId=2022290"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Hawley follows a topic based curriculum in which children's learning is enriched through carefully planned trips and visits. Teachers craft lessons that build on previous knowledge, in order to ensure that all children experience success and make progress in their learning. ",
+                    "link": "/curriculum/index.html?schoolId=2022290"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Language and Communication",
+                    "description": "We strive to enrich the vocabulary of all of our children, creating confident and articulate speakers that enjoy a wide range of opportunities.  "
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Problem Solving and Reasoning",
+                    "description": "Our children encounter mathematical reasoning throughout all of their lessons, developing a sense of resilience, collaboration and curiosity. "
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Attendance",
+                    "description": "Our classrooms and learning are irresistible, and we want to support our families to ensure that their children are enjoying school every day. "
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 223,
+            "ethnicGroupsNum": 6,
+            "languagesNum": 10,
+            "SENDPercent": 20.6,
+            "BMEPercent": 79.4,
+            "disadvantagedPupilsPercent": 41.9,
+            "englishAdditionalLangPercent": 62.8,
+            "absencePercent": 6.8,
+            "persistentAbsenteesPercent": 24.4,
+            "specificLanguages": [
+                "English",
+                "Bengali",
+                "Polish",
+                "Portuguese",
+                "Albanian",
+                "Somali",
+                "Arabic",
+                "Kurdish",
+                "Pashto",
+                "Persian"
+            ],
+            "specificEthnicities": [
+                "White British",
+                "Kosovan",
+                "White European",
+                "White and Black Caribbean",
+                "Bangladeshi",
+                "Black Somali"
+            ],
+            "specificSEND": [
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 100,
+            "pupilAdultRatio": 12.3,
+            "financialReserves": "\u00a321,200",
+            "changeYearReserves": "-\u00a338,100"
+        },
+        "curriculum": {
+            "curriculumAim": "At Hawley, we have a rich and varied curriculum that follows a topic-led approach. These are driven by history and geography, linked closely to other areas including English, art and DT. The curriculum is carefully designed to revisit previous learning, enabling children to build on previous success and create meaningful links with a depth of understanding. Other subject areas are taught discretely, including maths, science and computing, with some areas taught by specialist teachers across the school (PE, music and French). We understand that children in our community learn best through first hand experience, and offer a wide range of purposeful experiences to enrich their learning. We aim to build resilience, challenging children throughout all areas, with a particular focus on personal development and leadership. <p><a href=\"https://www.hawley.camden.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Phonics",
+                "Reading",
+                "Maths"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "Hawley ensures that all pupils know how to stay safe. Our small community means that staff get to know children individually, making sure that each of them feels recognised, safe and happy. We build relationships based on trust and mutual respect where children share their views and feelings. Children are welcome to come to school for a free breakfast and are offered fruit at break. Playtime is carefully structured to ensure that all children have the space to play freely, with staff engaged in games and activities, and accessible quiet spaces. Safeguarding is at the heart of everything we do, and all members of staff receive up to date training to recognise and meet the needs of all children. We work with a range of external professionals, including the Camden Mental Health Support Team, to ensure that children are well supported in all areas of their wellbeing. <p><a href=\"Phonics\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "All pupils at Hawley have the right to learn in a safe and welcoming environment; bullying in any form is never acceptable. As a school, we take a pro-active approach in which all children are involved, taking their views and opinions on how to make Hawley an even better place to be. Close relationships mean that staff are able to spot and support children to understand the effects of their actions and ensure that they have a positive school day. We work closely with parents so that they feel able to discuss any concerns. Children are taught to behave with respect and empathy throughout our curriculum. ",
+            "attendanceManagement": "As a school, Hawley strives to make learning irresistible - we want children to love learning and have a desire to be in school every day.  We work closely to support families to overcome any barriers to attendance in a supportive way. We know that every minute in school counts, and regular celebrate children's successes. As such, no term time holidays are permitted. "
+        },
+        "achievement": {
+            "academicChildSuccess": "The teaching at Hawley is built to ensure success for all. We want everyone to have a love of learning, achieving excellent in a wide range of areas. Teachers use their extensive knowledge of the children and curriculum to create lessons that are engaging and purposeful, enabling all children to make progress every day. A range of resources are used to scaffold learning for children where needed, including supportive use of adults and IT, aiming for all children to reach their full potential. Effective practices inform teacher's knowledge and understanding of children's achievements, and our small size means that classes are able to move at the right pace for all. ",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2022290_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022290_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2022290_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022290_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "At Hawley, we know that children are most successful in the future if they have a love of learning; this is our aim for all. Our Hawley Habits develop transferable skills including resilience, curiosity and collaboration, that are developed throughout everything that we do. We aim for children to see that the sky is the limit, maximising our excellent location to show children a wide range of careers that they can aspire to. We welcome visitors from the community and ensure that we make the most of all that London has to offer so that children have high aspirations for their futures. "
+        },
+        "SEND": {
+            "sendSupportInfo": "Hawley is an inclusive school in which every child feels a sense of belonging. Staff work to recognise and meet the needs of all learners, whether this is through whole class, small group or individual support. We have an experienced team of teachers and support staff who ensure that all children are able to access the learning, making progress in all areas of the curriculum and celebrating every achievement. We prioritise high quality teaching to ensure that every child in a class is able to feel included, with support put in place where children need it. We work with a wide range of professionals to develop targeted provision, including Speech and Language Therapists, Occupational Therapists and Educational Psychologists. Currently, 20% of pupils have SEN, with 7.2% of these accessing the support of specific funding (EHCP/ENG).  ",
+            "inclusivePracticeInfo": "At Hawley, expectations are high for all. We recognise that children learn in a variety of different ways, and work to get to know all children individually to ensure that we are best able to meet their learning needs. All children have a sense of belonging within their class, and access the full breadth of the curriculum tailored to meet the age and stage of their development. Staff work tirelessly to recognise children's successes in all areas. "
+        }
+    },
+    {
         "schoolId": 2023361,
         "schoolName": "Holy Trinity and Saint Silas CofE Primary School, NW1",
         "isPrimary": true,
@@ -4907,7 +5147,7 @@
         "websiteLink": "https://www.holytrinitynw1.camden.sch.uk/",
         "type": "Primary",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "4",
             "11"
@@ -4915,7 +5155,7 @@
         "address": "Hartland Road",
         "lat": 51.544545,
         "long": -0.145222,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW1 8DE",
         "facilities": [
@@ -5190,7 +5430,7 @@
         "websiteLink": "https://www.holytrinitynw3.co.uk/",
         "type": "Primary",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "4",
             "11"
@@ -5198,7 +5438,7 @@
         "address": "Trinity Walk, Maresfield Gardens",
         "lat": 51.546251,
         "long": -0.178155,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW3 5SQ",
         "facilities": [
@@ -5486,7 +5726,7 @@
         "websiteLink": "https://www.kentishtown.camden.sch.uk",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "3",
             "11"
@@ -5494,7 +5734,7 @@
         "address": "Islip Street",
         "lat": 51.549721,
         "long": -0.139271,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW5 2TU",
         "facilities": [
@@ -5678,8 +5918,8 @@
             ],
             "qualifiedTeachersPercent": 88,
             "pupilAdultRatio": 7.2,
-            "financialReserves": "\u00a3373,000",
-            "changeYearReserves": "\u00a3260,700"
+            "financialReserves": "373000",
+            "changeYearReserves": "260700"
         },
         "curriculum": {
             "curriculumAim": "Pupils follow an ambitious curriculum at Kentish Town CE Primary. The key knowledge that pupils need to learn is identified precisely and set out coherently. Pupils build a strong understanding and develop a problem-solving approach. For example, in mathematics pupils can draw on their knowledge of number facts to convert and simplify fractions. The  curriculum is broad so that pupils can make connections and build a strong understanding of the world around them.\nOur curriculum is ambitious and very well sequenced ensuring all children make strong progress and enjoy their learning. Children of all abilities excel across the range of their studies.\nOur curriculum is enriched by trips and visitors to the school. Key experiences include: dance projects with The Place, a project wand performance with the Primary Shakespeare Company, a trip to paris and a week long residential trip in Y6.\nOur curriculum is well adapted to meet the needs of a range of learners, including those who are pre - verbal and have complex additional needs.<p><a href=\"https://www.kentishtown.camden.sch.uk/curriculum-and-ethos/curriculum-statement/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -5747,7 +5987,7 @@
         "websiteLink": "https://www.kingscrossacademy.org.uk",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 2,
+        "entryForms": "2",
         "ageRange": [
             "3",
             "11"
@@ -5755,7 +5995,7 @@
         "address": "Plimsoll Building, 4 Wollstonecraft Street",
         "lat": 51.537452,
         "long": -0.127057,
-        "formsEntry": 2,
+        "formsEntry": "2",
         "prevYearCatchmentRadius": null,
         "postCode": "N1C 4BT",
         "facilities": [
@@ -6062,7 +6302,7 @@
         "websiteLink": "https://www.kingsgateprimaryschool.org.uk/indexHome.php",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 3,
+        "entryForms": "3",
         "ageRange": [
             "3",
             "11"
@@ -6070,7 +6310,7 @@
         "address": "Kingsgate Road",
         "lat": 51.543469,
         "long": -0.196766,
-        "formsEntry": 3,
+        "formsEntry": "3",
         "prevYearCatchmentRadius": null,
         "postCode": "NW6 4LB",
         "facilities": [
@@ -6375,7 +6615,7 @@
         "websiteLink": "https://www.lasainteunion.org.uk/",
         "type": "Secondary",
         "gender": "Girls",
-        "entryForms": 4,
+        "entryForms": "4",
         "ageRange": [
             "11",
             "18"
@@ -6383,7 +6623,7 @@
         "address": "Highgate Road",
         "lat": 51.559998,
         "long": -0.149441,
-        "formsEntry": 4,
+        "formsEntry": "4",
         "prevYearCatchmentRadius": null,
         "postCode": "NW5 1RP",
         "facilities": [
@@ -6748,7 +6988,7 @@
         "websiteLink": "https://www.mariafidelis.camden.sch.uk/",
         "type": "Secondary",
         "gender": "Mixed",
-        "entryForms": 5,
+        "entryForms": "5",
         "ageRange": [
             "11",
             "18"
@@ -6756,7 +6996,7 @@
         "address": "1 - 39 Drummond Crescent",
         "lat": 51.529787,
         "long": -0.13325,
-        "formsEntry": 5,
+        "formsEntry": "5",
         "prevYearCatchmentRadius": null,
         "postCode": "NW1 1LY",
         "facilities": [
@@ -7092,7 +7332,7 @@
         "websiteLink": "https://www.netley.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 2,
+        "entryForms": "2",
         "ageRange": [
             "2",
             "11"
@@ -7100,7 +7340,7 @@
         "address": "74 Stanhope Street, Camden",
         "lat": 51.52771,
         "long": -0.140616,
-        "formsEntry": 2,
+        "formsEntry": "2",
         "prevYearCatchmentRadius": null,
         "postCode": "NW1 3EX",
         "facilities": [
@@ -7333,7 +7573,7 @@
         "websiteLink": "https://www.newend.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "3",
             "11"
@@ -7341,7 +7581,7 @@
         "address": "Streatley Place, Hampstead",
         "lat": 51.558138,
         "long": -0.176537,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW3 1HU",
         "facilities": [
@@ -7641,7 +7881,7 @@
         "websiteLink": "https://www.parliamenthill.camden.sch.uk/",
         "type": "Secondary",
         "gender": "Girls",
-        "entryForms": 6,
+        "entryForms": "6",
         "ageRange": [
             "11",
             "18"
@@ -7649,7 +7889,7 @@
         "address": "Highgate Road",
         "lat": 51.558445,
         "long": -0.149649,
-        "formsEntry": 6,
+        "formsEntry": "6",
         "prevYearCatchmentRadius": null,
         "postCode": "NW5 1RL",
         "facilities": [
@@ -7974,7 +8214,7 @@
         "websiteLink": "https://www.primrosehill.camden.sch.uk",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 2,
+        "entryForms": "2",
         "ageRange": [
             "2",
             "11"
@@ -7982,7 +8222,7 @@
         "address": "Princess Road",
         "lat": 51.539173,
         "long": -0.1518,
-        "formsEntry": 2,
+        "formsEntry": "2",
         "prevYearCatchmentRadius": null,
         "postCode": "NW1 8JL",
         "facilities": [
@@ -8256,7 +8496,7 @@
         "websiteLink": "https://www.regenthighschool.org.uk/",
         "type": "Secondary",
         "gender": "Mixed",
-        "entryForms": 5,
+        "entryForms": "5",
         "ageRange": [
             "11",
             "18"
@@ -8264,7 +8504,7 @@
         "address": "Chalton Street, Camden",
         "lat": 51.53278,
         "long": -0.132944,
-        "formsEntry": 5,
+        "formsEntry": "5",
         "prevYearCatchmentRadius": null,
         "postCode": "NW1 1RX",
         "facilities": [
@@ -8580,7 +8820,7 @@
         "websiteLink": "https://www.rhylprim.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 2,
+        "entryForms": "2",
         "ageRange": [
             "2",
             "11"
@@ -8588,7 +8828,7 @@
         "address": "Rhyl Street",
         "lat": 51.547714,
         "long": -0.150589,
-        "formsEntry": 2,
+        "formsEntry": "2",
         "prevYearCatchmentRadius": null,
         "postCode": "NW5 3HB",
         "facilities": [
@@ -8873,7 +9113,7 @@
         "websiteLink": "https://www.rcobden.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 2,
+        "entryForms": "2",
         "ageRange": [
             "3",
             "11"
@@ -8881,7 +9121,7 @@
         "address": "Camden Street",
         "lat": 51.535595,
         "long": -0.13639,
-        "formsEntry": 2,
+        "formsEntry": "2",
         "prevYearCatchmentRadius": null,
         "postCode": "NW1 0LL",
         "facilities": [
@@ -9169,7 +9409,7 @@
         "websiteLink": "https://www.rosary.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1.5",
         "ageRange": [
             "3",
             "11"
@@ -9177,7 +9417,7 @@
         "address": "238 Haverstock Hill, Hampstead",
         "lat": 51.551617,
         "long": -0.166081,
-        "formsEntry": 1,
+        "formsEntry": "1.5",
         "prevYearCatchmentRadius": null,
         "postCode": "NW3 2AE",
         "facilities": [
@@ -9473,7 +9713,7 @@
         "websiteLink": "https://www.stalbanscamden.co.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "3",
             "11"
@@ -9481,7 +9721,7 @@
         "address": "Baldwins Gardens, Holborn",
         "lat": 51.520172,
         "long": -0.111172,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "EC1N 7SD",
         "facilities": [
@@ -9762,7 +10002,7 @@
         "websiteLink": "https://www.stgeorge.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "3",
             "11"
@@ -9770,7 +10010,7 @@
         "address": "John's Mews",
         "lat": 51.521998,
         "long": -0.116257,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "WC1N 2NX",
         "facilities": [
@@ -10060,7 +10300,7 @@
         "websiteLink": "https://www.stjosephs.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "3",
             "11"
@@ -10068,7 +10308,7 @@
         "address": "Macklin Street, Covent Garden",
         "lat": 51.516189,
         "long": -0.121858,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "WC2B 5NA",
         "facilities": [
@@ -10345,7 +10585,7 @@
         "websiteLink": "http://www.stmp.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "3",
             "11"
@@ -10353,7 +10593,7 @@
         "address": "81 Werrington Street",
         "lat": 51.532372,
         "long": -0.134446,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW1 1QP",
         "facilities": [
@@ -10504,13 +10744,13 @@
                 {
                     "bgcolor": "#ed6c26",
                     "title": "Pupil support & wellbeing",
-                    "description": "Safeguarding and pastoral care for our children and families is second to non; relationships with parents are very strong. Children learn how to make safe choices and stay physically, spiritually and mentally healthy.",
+                    "description": "Safeguarding and pastoral care for our children and families is second to none; relationships with parents are very strong. Children learn how to make safe choices and stay physically, spiritually and mentally healthy.",
                     "link": "/support/index.html?schoolId=2023521"
                 },
                 {
                     "bgcolor": "#64007e",
                     "title": "SEND & inclusion",
-                    "description": "We are a truly inclusive school and highly ambitious for pupils with SEND. We are 'trauma-informed', practice restorative justice and applying for the national award of Inclusion Quality Mark to celebrate our ambitious and effective practice.",
+                    "description": "We are a truly inclusive school and highly ambitious for pupils with SEND. We are 'trauma-informed', practise restorative justice and applying for the national award of Inclusion Quality Mark to celebrate our ambitious and effective practice.",
                     "link": "/SEND/index.html?schoolId=2023521"
                 },
                 {
@@ -10645,7 +10885,7 @@
         "websiteLink": "https://www.stmarykilburn.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "3",
             "11"
@@ -10653,7 +10893,7 @@
         "address": "Quex Road, Kilburn",
         "lat": 51.540368,
         "long": -0.193355,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW6 4PG",
         "facilities": [
@@ -10947,7 +11187,7 @@
         "websiteLink": "https://www.stpauls.camden.sch.uk",
         "type": "Primary",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "4",
             "11"
@@ -10955,7 +11195,7 @@
         "address": "Elsworthy Road, Primrose Hill",
         "lat": 51.541383,
         "long": -0.163738,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW3 3DS",
         "facilities": [
@@ -11173,8 +11413,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 9.3,
-            "financialReserves": "\u00a3127,400",
-            "changeYearReserves": "\u00a319,400"
+            "financialReserves": "127400",
+            "changeYearReserves": "19400"
         },
         "curriculum": {
             "curriculumAim": "<p>Our curriculum has its origins in the National Curriculum for schools in England. The school offers a broad and balanced curriculum with a clear focus on subjects as discrete units. Units of work ensure sequential, layered knowledge acquisition, with each piece of learning in different subjects building on previous ones.</p>\n\n<p>St Paul's Primary School is a literacy rich learning environment that celebrates and encourages oracy in the early years and beyond. We recognise reading as the gateway to pupil learning and so we place a strong focus on early reading and vocabulary development from the beginning of a child's career in school. Over the next year we will be putting greater emphasis into our curriculum for all classes on looking after our environment and gardening.</p><p><a href=\"https://www.stpauls.camden.sch.uk/Learning/Integrated-curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -11242,7 +11482,7 @@
         "websiteLink": "https://uclacademy.co.uk/",
         "type": "Secondary",
         "gender": "Mixed",
-        "entryForms": 8,
+        "entryForms": "8",
         "ageRange": [
             "11",
             "18"
@@ -11250,7 +11490,7 @@
         "address": "Adelaide Road",
         "lat": 51.541735,
         "long": -0.171871,
-        "formsEntry": 8,
+        "formsEntry": "8",
         "prevYearCatchmentRadius": null,
         "postCode": "NW3 3AQ",
         "facilities": [
@@ -11608,7 +11848,7 @@
         "websiteLink": "https://www.torriano.camden.sc.uk",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 2,
+        "entryForms": "2",
         "ageRange": [
             "3",
             "11"
@@ -11616,7 +11856,7 @@
         "address": "Torriano Avenue, Kentish Town",
         "lat": 51.549672,
         "long": -0.13284,
-        "formsEntry": 2,
+        "formsEntry": "2",
         "prevYearCatchmentRadius": null,
         "postCode": "NW5 2SJ",
         "facilities": [
@@ -11926,7 +12166,7 @@
         "websiteLink": "https://www.westhampstead.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
-        "entryForms": 2,
+        "entryForms": "2",
         "ageRange": [
             "3",
             "11"
@@ -11934,7 +12174,7 @@
         "address": "Dornfell Street, West Hampstead",
         "lat": 51.550753,
         "long": -0.199482,
-        "formsEntry": 2,
+        "formsEntry": "2",
         "prevYearCatchmentRadius": null,
         "postCode": "NW6 1QL",
         "facilities": [
@@ -12234,7 +12474,7 @@
         "websiteLink": "https://www.williamellis.camden.sch.uk/",
         "type": "Secondary",
         "gender": "Boys",
-        "entryForms": 5,
+        "entryForms": "5",
         "ageRange": [
             "11",
             "18"
@@ -12242,7 +12482,7 @@
         "address": "Highgate Road",
         "lat": 51.558701,
         "long": -0.150262,
-        "formsEntry": 5,
+        "formsEntry": "5",
         "prevYearCatchmentRadius": null,
         "postCode": "NW5 1RN",
         "facilities": [
@@ -12612,7 +12852,7 @@
         "websiteLink": "https://www.robsonhouse.org.uk/",
         "type": "Primary",
         "gender": "Mixed",
-        "entryForms": 1,
+        "entryForms": "1",
         "ageRange": [
             "5",
             "11"
@@ -12620,7 +12860,7 @@
         "address": "Robson House, Netley Campus, 74 Stanhope Street",
         "lat": 51.52771,
         "long": -0.140616,
-        "formsEntry": 1,
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW1 3EX",
         "facilities": [
