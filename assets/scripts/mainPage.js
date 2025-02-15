@@ -6,6 +6,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 	const staticSchools = await response.json();
 	let schools = ref(staticSchools);
 	let filterOverlayData = ref(getFiltersFields(staticSchools));
+
 	// Vue.js app initialization
 	createApp({
 		setup() {
@@ -19,26 +20,25 @@ document.addEventListener("DOMContentLoaded", async function () {
 		createTab(mainPageTabItem);
 	}
 
+	// view settings
+
+	handleViewChange(staticSchools);
+
+	window.addEventListener("popstate", () => {
+		staticSchools(staticSchools);
+	});
+
 	// Main page navigation button (change list to map)
 	let navButton = document.querySelector(".navigation__button");
 	if (navButton) {
-		let mapBlock = document.querySelector(".schools-info__map");
-		let listBlock = document.querySelector(".schools-info__list");
 		navButton.addEventListener("click", function () {
-			if (navButton.classList.contains("map")) {
-				navButton.classList.remove("map");
-				navButton.classList.add("list");
-				mapBlock.classList.add("_hidden");
-				listBlock.classList.remove("_hidden");
-				navButton.innerHTML = `<img src="./assets/imgs/map-icon.png" alt="" /><span>Map</span>`;
-			} else if (navButton.classList.contains("list")) {
-				navButton.classList.add("map");
-				navButton.classList.remove("list");
-				mapBlock.classList.remove("_hidden");
-				listBlock.classList.add("_hidden");
-				navButton.innerHTML = `<img src="./assets/imgs/list-icon.png" alt="" /><span>List</span>`;
-				drawMap(staticSchools);
-			}
+			const urlParams = new URLSearchParams(window.location.search);
+			let newView = navButton.classList.contains("map") ? "list" : "map";
+			urlParams.set("view", newView);
+
+			window.history.pushState({}, "", `${window.location.pathname}?${urlParams.toString()}`);
+
+			handleViewChange(staticSchools);
 		});
 	}
 
@@ -88,6 +88,30 @@ document.addEventListener("DOMContentLoaded", async function () {
 		});
 	}
 });
+
+function handleViewChange(staticSchools) {
+	const urlParams = new URLSearchParams(window.location.search);
+	let viewType = urlParams.get("view") || "list";
+
+	let navButton = document.querySelector(".navigation__button");
+	let mapBlock = document.querySelector(".schools-info__map");
+	let listBlock = document.querySelector(".schools-info__list");
+
+	if (viewType === "map") {
+		navButton.classList.add("map");
+		navButton.classList.remove("list");
+		mapBlock.classList.remove("_hidden");
+		listBlock.classList.add("_hidden");
+		navButton.innerHTML = `<img src="./assets/imgs/list-icon.png" alt="" /><span>List</span>`;
+		drawMap(staticSchools);
+	} else {
+		navButton.classList.remove("map");
+		navButton.classList.add("list");
+		mapBlock.classList.add("_hidden");
+		listBlock.classList.remove("_hidden");
+		navButton.innerHTML = `<img src="./assets/imgs/map-icon.png" alt="" /><span>Map</span>`;
+	}
+}
 
 // Close filter overlay function
 function closeFilterOverlay() {
