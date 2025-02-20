@@ -1,6 +1,7 @@
 [
     {
         "schoolId": 2022001,
+        "schoolURN": 139837,
         "schoolName": "Abacus Belsize Primary School",
         "isPrimary": true,
         "shortSlogan": "Abacus is a school where every child THRIVEs.",
@@ -297,6 +298,7 @@
     },
     {
         "schoolId": 2024285,
+        "schoolURN": 100053,
         "schoolName": "Acland Burghley School",
         "isPrimary": false,
         "shortSlogan": "Creating Excellence Together",
@@ -670,6 +672,7 @@
     },
     {
         "schoolId": 2022019,
+        "schoolURN": 100008,
         "schoolName": "Argyle Primary School",
         "isPrimary": true,
         "shortSlogan": "<b>Join the Argyle Adventure!</b>",
@@ -942,6 +945,7 @@
     },
     {
         "schoolId": 2022065,
+        "schoolURN": 100010,
         "schoolName": "Brecknock Primary School",
         "isPrimary": true,
         "shortSlogan": "We offer a caring, creative and stimulating environment for all our children to learn together, grow and succeed as active citizens.",
@@ -1255,6 +1259,7 @@
     },
     {
         "schoolId": 2022078,
+        "schoolURN": 100011,
         "schoolName": "Brookfield Primary School",
         "isPrimary": true,
         "shortSlogan": "We foster creativity, curiosity, and care; inspiring confident, risk-taking students who ask questions, embrace challenges, and achieve their best.",
@@ -1559,6 +1564,7 @@
     },
     {
         "schoolId": 2023323,
+        "schoolURN": 100028,
         "schoolName": "Christ Church Primary School, Hampstead",
         "isPrimary": true,
         "shortSlogan": "<b>A village school in London, inspiring life in all its fullness.</b>",
@@ -1843,6 +1849,7 @@
     },
     {
         "schoolId": 2022842,
+        "schoolURN": 130342,
         "schoolName": "Christopher Hatton Primary School",
         "isPrimary": true,
         "shortSlogan": "<strong>We want our pupils to become informed, articulate and empowered citizens.</strong>",
@@ -2136,6 +2143,7 @@
     },
     {
         "schoolId": 2022184,
+        "schoolURN": 100013,
         "schoolName": "Edith Neville Primary School",
         "isPrimary": true,
         "shortSlogan": "We are an outstanding school with a values-led curriculum in the heart of Somers Town. ",
@@ -2425,6 +2433,7 @@
     },
     {
         "schoolId": 2022841,
+        "schoolURN": 100027,
         "schoolName": "Eleanor Palmer Primary School",
         "isPrimary": true,
         "shortSlogan": "A happy, ambitious school where all pupils belong, love learning and achieve excellence. ",
@@ -2715,6 +2724,7 @@
     },
     {
         "schoolId": 2023340,
+        "schoolURN": 100030,
         "schoolName": "Emmanuel Church of England Primary School",
         "isPrimary": true,
         "shortSlogan": "A nurturing school community in the Christian tradition, which rejoices in diversity, has high academic aspirations and encourages all children to 'live life in all its fullness'.",
@@ -3015,6 +3025,7 @@
     },
     {
         "schoolId": 2022797,
+        "schoolURN": 100026,
         "schoolName": "Fitzjohn's Primary School",
         "isPrimary": true,
         "shortSlogan": "To be a community where everyone loves to learn and feels they belong.",
@@ -3287,6 +3298,7 @@
     },
     {
         "schoolId": 2022219,
+        "schoolURN": 100014,
         "schoolName": "Fleet Primary School",
         "isPrimary": true,
         "shortSlogan": "Empowering confident, curious and creative learners within a diverse and nurturing community",
@@ -3581,6 +3593,7 @@
     },
     {
         "schoolId": 2022775,
+        "schoolURN": 100025,
         "schoolName": "Gospel Oak Primary School",
         "isPrimary": true,
         "shortSlogan": "This is a fun, happy, hardworking and successful school. We are proud of the breadth of educational and extra-curricular opportunities we offer.\n",
@@ -3889,6 +3902,7 @@
     },
     {
         "schoolId": 2023352,
+        "schoolURN": 100031,
         "schoolName": "Hampstead Parochial Church of England Primary School",
         "isPrimary": true,
         "shortSlogan": "A leading school in London and the UK, with over 160 years of history, we are proud to produce well-rounded children who excel both academically and socially.",
@@ -4199,6 +4213,7 @@
     },
     {
         "schoolId": 2024275,
+        "schoolURN": 100052,
         "schoolName": "Hampstead School",
         "isPrimary": false,
         "shortSlogan": "We are a creative and ambitious school, with community roots and global connections.",
@@ -4561,6 +4576,7 @@
     },
     {
         "schoolId": 2024104,
+        "schoolURN": 100049,
         "schoolName": "Haverstock School",
         "isPrimary": false,
         "shortSlogan": "Haverstock School: empowering every student to achieve, excel, and thrive in a supportive, inclusive community.",
@@ -4896,6 +4912,7 @@
     },
     {
         "schoolId": 2022290,
+        "schoolURN": 100015,
         "schoolName": "Hawley Primary School",
         "isPrimary": true,
         "shortSlogan": "We are a community school where children achieve excellence, have a sense of belonging and develop a love of learning. ",
@@ -5136,6 +5153,7 @@
     },
     {
         "schoolId": 2023361,
+        "schoolURN": 100033,
         "schoolName": "Holy Trinity and Saint Silas CofE Primary School, NW1",
         "isPrimary": true,
         "shortSlogan": "A small Christian school with a warm heart that fosters care, courage and co-operation.  ",
@@ -5419,6 +5437,7 @@
     },
     {
         "schoolId": 2023359,
+        "schoolURN": 100032,
         "schoolName": "Holy Trinity CE Primary School",
         "isPrimary": true,
         "shortSlogan": "A small school with a big heart.",
@@ -5715,6 +5734,7 @@
     },
     {
         "schoolId": 2023370,
+        "schoolURN": 100034,
         "schoolName": "Kentish Town Church of England Primary School",
         "isPrimary": true,
         "shortSlogan": "\u201cExcellent Teaching, Excellent Effort, Excellent Progress:\u00a0Every Child, Every Lesson, Every Day.\u201d",
@@ -5918,11 +5938,11 @@
             ],
             "qualifiedTeachersPercent": 88,
             "pupilAdultRatio": 7.2,
-            "financialReserves": "373000",
-            "changeYearReserves": "260700"
+            "financialReserves": "\u00a3373,000",
+            "changeYearReserves": "\u00a3260,700"
         },
         "curriculum": {
-            "curriculumAim": "Pupils follow an ambitious curriculum at Kentish Town CE Primary. The key knowledge that pupils need to learn is identified precisely and set out coherently. Pupils build a strong understanding and develop a problem-solving approach. For example, in mathematics pupils can draw on their knowledge of number facts to convert and simplify fractions. The  curriculum is broad so that pupils can make connections and build a strong understanding of the world around them.\nOur curriculum is ambitious and very well sequenced ensuring all children make strong progress and enjoy their learning. Children of all abilities excel across the range of their studies.\nOur curriculum is enriched by trips and visitors to the school. Key experiences include: dance projects with The Place, a project wand performance with the Primary Shakespeare Company, a trip to paris and a week long residential trip in Y6.\nOur curriculum is well adapted to meet the needs of a range of learners, including those who are pre - verbal and have complex additional needs.<p><a href=\"https://www.kentishtown.camden.sch.uk/curriculum-and-ethos/curriculum-statement/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumAim": "<p>Pupils follow an ambitious curriculum at Kentish Town CE Primary. The key knowledge that pupils need to learn is identified precisely and set out coherently. Pupils build a strong understanding and develop a problem-solving approach. For example, in mathematics, pupils can draw on their knowledge of number facts to convert and simplify fractions. The curriculum is broad so that pupils can make connections and build a strong understanding of the world around them.</p>\n<br>\n<p>Our curriculum is ambitious and very well sequenced, ensuring all children make strong progress and enjoy their learning. Children of all abilities excel across the range of their studies. Our curriculum is enriched by trips and visitors to the school. Key experiences include dance projects with The Place, a project and performance with the Primary Shakespeare Company, a trip to Paris, and a week-long residential trip in Y6. Our curriculum is well adapted to meet the needs of a range of learners, including those who are pre-verbal and have complex additional needs.</p><p><a href=\"https://www.kentishtown.camden.sch.uk/curriculum-and-ethos/curriculum-statement/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
             "curriculumStrengths": [
                 "Ambitious and well-sequenced",
                 "Enriched by trips and visitors",
@@ -5976,6 +5996,7 @@
     },
     {
         "schoolId": 2022002,
+        "schoolURN": 140686,
         "schoolName": "King's Cross Academy",
         "isPrimary": true,
         "shortSlogan": "A creative, supportive and stimulating school in the heart of the King's Cross Estate, guided by the motto: 'love learning together'. ",
@@ -6291,6 +6312,7 @@
     },
     {
         "schoolId": 2022843,
+        "schoolURN": 132245,
         "schoolName": "Kingsgate Primary School",
         "isPrimary": true,
         "shortSlogan": "Kingsgate is a vibrant, ambitious school, where children make excellent academic progress and learn to be articulate and confident.",
@@ -6604,6 +6626,7 @@
     },
     {
         "schoolId": 2025401,
+        "schoolURN": 100059,
         "schoolName": "La Sainte Union Catholic Secondary School",
         "isPrimary": false,
         "shortSlogan": "Bright Women Bold Futures: an all-girls' Catholic school nurturing young women to find their true vocation in life, through the pursuit of excellence and care for others.",
@@ -6977,6 +7000,7 @@
     },
     {
         "schoolId": 2024652,
+        "schoolURN": 100055,
         "schoolName": "Maria Fidelis Catholic School FCJ",
         "isPrimary": false,
         "shortSlogan": "Growing together through Christ with courage, confidence and dignity.",
@@ -7321,6 +7345,7 @@
     },
     {
         "schoolId": 2022436,
+        "schoolURN": 100018,
         "schoolName": "Netley Primary School",
         "isPrimary": true,
         "shortSlogan": "Netley is a happy, rights respecting school. Everyone takes steps to better themselves and their community as they become responsible, global citizens.",
@@ -7562,6 +7587,7 @@
     },
     {
         "schoolId": 2022438,
+        "schoolURN": 100019,
         "schoolName": "New End Primary School",
         "isPrimary": true,
         "shortSlogan": "New End - A truly diverse community school in the heart of Hampstead Village where everyone is included and welcomed",
@@ -7870,6 +7896,7 @@
     },
     {
         "schoolId": 2024166,
+        "schoolURN": 100050,
         "schoolName": "Parliament Hill School",
         "isPrimary": false,
         "shortSlogan": "High achieving and happy', we are a girls\u2019 school with a feminist mission to empower every student to make their mark on the world.",
@@ -8203,6 +8230,7 @@
     },
     {
         "schoolId": 2022475,
+        "schoolURN": 100020,
         "schoolName": "Primrose Hill School",
         "isPrimary": true,
         "shortSlogan": "A happy school where children thrive with a balance of academic rigour and holistic care.",
@@ -8485,6 +8513,7 @@
     },
     {
         "schoolId": 2024196,
+        "schoolURN": 100051,
         "schoolName": "Regent High School",
         "isPrimary": false,
         "shortSlogan": "Regent High School, in the heart of London's Knowledge Quarter, is founded on our values of ambition, inspiration and opportunity.",
@@ -8809,6 +8838,7 @@
     },
     {
         "schoolId": 2022502,
+        "schoolURN": 100021,
         "schoolName": "Rhyl Community Primary School",
         "isPrimary": true,
         "shortSlogan": "Nurturing, valuing and empowering every child and the community to have the highest aspirations for a successful future",
@@ -9102,6 +9132,7 @@
     },
     {
         "schoolId": 2022507,
+        "schoolURN": 100022,
         "schoolName": "Richard Cobden Primary School",
         "isPrimary": true,
         "shortSlogan": "A nurturing and inclusive school in the heart of Camden Town. We have a strong focus on the well-being and achievement of every child.",
@@ -9398,6 +9429,7 @@
     },
     {
         "schoolId": 2023391,
+        "schoolURN": 100035,
         "schoolName": "Rosary Catholic Primary School",
         "isPrimary": true,
         "shortSlogan": "Rosary - a warm, caring school in the heart of NW3 where children are loved, valued and challenged.",
@@ -9702,6 +9734,7 @@
     },
     {
         "schoolId": 2023398,
+        "schoolURN": 100036,
         "schoolName": "St Alban's Church of England Primary School",
         "isPrimary": true,
         "shortSlogan": "A village school in the heart of London. High aspirations for every pupil, in every year group, at every point of their primary journey.",
@@ -9746,7 +9779,7 @@
             "After school play centre collection with Coram's Fields ",
             "Choir and Orchestra"
         ],
-        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below:</p>\n\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\">Camden Primary Admissions</a></p>\n\n<p><a href=\"https://www.stalbanscamden.co.uk/admissions-to-our-school/\">St Albans School Admissions</a></p>",
+        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below:</p>\n\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\">Camden Primary Admissions</a></p>\n\n<p><a href=\"https://www.stalbanscamden.co.uk/admissions-to-our-school/\">St Alban's School Admissions</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -9756,37 +9789,37 @@
                 {
                     "type": "quote",
                     "bgcolor": "#e50059",
-                    "text": "It is one of the Best Schools in Camden. The teachers and all staff members are very professional and friendly. The head teacher is an amazing leader with vision. The children are all very polite and well behaved and full of enthusiasm to learn. Our daughter travels from zone 5 to the school in zone 1 and just loves the school.",
+                    "text": "It is one of the best schools in Camden. The teachers and all staff members are very professional and friendly. The head teacher is an amazing leader with vision. The children are all very polite and well behaved and full of enthusiasm to learn. Our daughter travels from zone 5 to the school in zone 1 and just loves the school.",
                     "author": "Parent"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "\u201cThe evidence gathered suggests that the inspection grade might be outstanding if a graded (section 5) inspection were carried out now. The school\u2019s next inspection will be a graded inspection.\u201d",
+                    "text": "The evidence gathered suggests that the inspection grade might be outstanding if a graded (section 5) inspection were carried out now. The school\u2019s next inspection will be a graded inspection.",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#ed6c26",
-                    "text": "\u201cPupils described their school as a \u2018family\u2019 and a \u2018caring community\u2019. They enjoy attending and they are kept safe.\u201d",
+                    "text": "Pupils described their school as a \u2018family\u2019 and a \u2018caring community\u2019. They enjoy attending and they are kept safe.",
                     "author": "Child"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "\u201cPupils\u2019 behaviour is excellent. They are thoughtful and caring, treating one another with respect.\u201d",
+                    "text": "Pupils\u2019 behaviour is excellent. They are thoughtful and caring, treating one another with respect.",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "\u201cTeachers look for any gaps in pupils\u2019 prior learning or misconceptions that they may have. They deal with them immediately. As a result, pupils gain an excellent understanding of what they have studied and are ready for the next steps in their learning.\u201d",
+                    "text": "Teachers look for any gaps in pupils\u2019 prior learning or misconceptions that they may have. They deal with them immediately. As a result, pupils gain an excellent understanding of what they have studied and are ready for the next steps in their learning.",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#e50059",
-                    "text": "Our daughter has loved her time at St Albans. She has benefitted from great teaching, an inclusive ethos and a focus on kindness and respect between the children in her class. The residential trips are brilliant and there are great performing arts and sports opportunities too",
+                    "text": "Our daughter has loved her time at St Alban's. She has benefitted from great teaching, an inclusive ethos and a focus on kindness and respect between the children in her class. The residential trips are brilliant and there are great performing arts and sports opportunities too",
                     "author": "Parent"
                 },
                 {
@@ -9816,7 +9849,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "\u201cThe school makes sure that all pupils follow a programme of study that matches the breadth and richness of the national curriculum. The school also extends pupils\u2019 learning beyond this in several subject areas.\u201d",
+                    "text": "The school makes sure that all pupils follow a programme of study that matches the breadth and richness of the national curriculum. The school also extends pupils\u2019 learning beyond this in several subject areas.",
                     "author": "Ofsted"
                 },
                 {
@@ -9834,7 +9867,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#ed6c26",
-                    "text": "Thank you for helping me become the person who I am today. I hope that one day I am able to visit an relive all my primary school days! ",
+                    "text": "Thank you for helping me become the person who I am today. I hope that one day I am able to visit and relive all my primary school days! ",
                     "author": "Child"
                 },
                 {
@@ -9878,7 +9911,7 @@
                 {
                     "bgcolor": "#93c467",
                     "title": "Pupils' achievement",
-                    "description": "Our curriculum extends beyond our academic successes. Our children have performed at Royal Academy of Music and RAH, published a book, have had their artwork showcased at Central St. Martin's and regularly participate in Camden Sport Competitions. ",
+                    "description": "Our curriculum extends beyond our academic successes. Our children have performed at the Royal Academy of Music and the Royal Albert Hall, published a book, have had their artwork showcased at Central St. Martin's and regularly participate in Camden Sport Competitions. ",
                     "link": "/achievement/index.html?schoolId=2023398"
                 },
                 {
@@ -9950,9 +9983,9 @@
             "strengths": "temp"
         },
         "support": {
-            "childSafetyAndHappiness": "<p>Safeguarding underpins everything we do at St. Alban's. We have clear policies and procedures that ensure pupils' safety and well-being are of the highest priority.</p>\n\n<p>We provide a Mental Health practitioner on site and our PSHE curriculum is designed to help pupils develop and support their mental health and well-being. Staff are trained in how to recognise and offer support to any pupil who needs it.</p>\n\n<p>St. Alban's has a well-developed culture of respect and inclusivity which fosters feelings of connection and belonging to a community. Pupils feel secure, valued, and supported in all stages of their education.</p><p><a href=\"https://www.stalbanscamden.co.uk/policies-1/\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
-            "bullyingProtection": "<p>St. Alban's has a Zero Tolerance to bullying. Any incidents of bullying are quickly identified and dealt with according to school policy. Governors monitor any bullying and harassment issues with rigour. There is also a Governor allocated to specifically analysing behaviour in a link governor role.</p><p><a href=https://www.stalbanscamden.co.uk/policies-1/ target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
-            "attendanceManagement": "<p>Classes with the best punctuality and attendance are celebrated weekly in our Collective Worship with our Attendance Bear and Early Bird. Pupils with 100% receive termly rewards and badges. We work closely with parents to support 96% attendance for every child.</p><p><a href=\"https://www.stalbanscamden.co.uk/policies-1/\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+            "childSafetyAndHappiness": "<p>Safeguarding underpins everything we do at St. Alban's. We have clear policies and procedures that ensure pupils' safety and well-being are of the highest priority.</p>\n\n<p>We provide a Mental Health practitioner on site and our PSHE curriculum is designed to help pupils develop and support their mental health and well-being. Staff are trained how to recognise and offer support to any pupils who need it.</p>\n\n<p>St. Alban's has a well-developed culture of respect and inclusivity which fosters feelings of connection and belonging to a community. Pupils feel secure, valued, and supported in all stages of their education.</p><p><a href=\"https://www.stalbanscamden.co.uk/policies-1/\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>St. Alban's has a Zero Tolerance policy to bullying. Any incidents of bullying are quickly identified and dealt with according to school policy. Governors monitor any bullying and harassment issues with rigour. There is also a Governor allocated to specifically analysing behaviour in a link governor role.</p><p><a href=https://www.stalbanscamden.co.uk/policies-1/ target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>Classes with the best punctuality and attendance are celebrated weekly in our Collective Worship with our Attendance Bear and Early Bird. Pupils with 100% receive termly rewards and badges. We work closely with parents and our Camden Schools Inclusion Support Officer to support 96% attendance for every child.</p><p><a href=\"https://www.stalbanscamden.co.uk/policies-1/\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
         },
         "achievement": {
             "academicChildSuccess": "<p>At St. Alban's, we prioritise the intellectual, creative, and emotional needs of our pupils to ensure academic success for all our pupils. The Principles of Direct Instruction used by teachers help pupils to develop strong, readily available background knowledge.</p>\n\n<p>Teachers ensure that pupils efficiently acquire, rehearse, and connect background knowledge by providing much instructional support. Teachers activate pupils\u2019 relevant prior knowledge through regular retrieval practice, teaching new material in small amounts, modelling processes, guiding pupil practice to the point of independent practice, all to ensure a high success rate, and providing immediate feedback to help pupils when they make errors.</p>\n\n<p>Learning is tailored to the pupils' individual learning needs and success is supported through regular conferencing, tutoring, and communication. All pupils understand the importance of a positive growth mindset on their learning, and this is fully embedded in our school.</p><p><a href=\"https://www.stalbanscamden.co.uk/policies-1/\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
@@ -9986,11 +10019,313 @@
         },
         "SEND": {
             "sendSupportInfo": "<p>All the teachers in the school are teachers of children with Special Educational Needs. As such, St Alban\u2019s adopts a 'whole school approach' to SEND that involves all staff adhering to a model of good practice. This is based on Quality First Teaching, specific 1:1 and small group intervention programmes, and outside agency support (when and where appropriate).</p>\n\n<p>The staff of the school are committed to identifying and providing for the needs of all children in a wholly inclusive environment. Inclusion is given a high priority in this policy, in line with the policies of Camden Local Authority. The SENDCo works closely with Camden SEND team, professional agencies, and parents to ensure the best possible outcomes for pupils with SEND.</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/stalbans-cepans-redesign/UploadedDocument/c833d8c3-9847-41e3-9be7-214c731a15bb/send-policy-nov-2024.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
-            "inclusivePracticeInfo": "<p>Our vision underpins our approach to inclusion at St. Alban\u2019s CE Primary School. We are rigorous in ensuring that all our students, and especially those who are most vulnerable, are supported to achieve their full potential and be the best examples of themselves.</p>\n\n<p>St Alban\u2019s is committed to providing a tailored, creative, and high-quality education to all the children in our school that is delivered through our vision of Faith, Hope, and Love without exception of exclusion.</p>\n\n<p>We believe that all children have a common entitlement to a broad and balanced academic and social curriculum, which is accessible to them, and to be fully included in all aspects of school life.</p>"
+            "inclusivePracticeInfo": "<p>Our vision underpins our approach to inclusion at St. Alban\u2019s CE Primary School. We are rigorous in ensuring that all our students, and especially those who are most vulnerable, are supported to achieve their full potential and be the best examples of themselves.</p>\n\n<p>St. Alban's is committed to providing a tailored, creative, and high-quality education to all the children in our school. This is delivered through our vision of Faith, Hope, and Love without exception.</p>\n\n<p>We believe that all children have a common entitlement to a broad and balanced academic and social curriculum, which is accessible to them, and to be fully included in all aspects of school life.</p>"
+        }
+    },
+    {
+        "schoolId": 2023649,
+        "schoolURN": 100047,
+        "schoolName": "St Eugene de Mazenod Roman Catholic Primary School",
+        "isPrimary": true,
+        "shortSlogan": "Go Shine in the World.",
+        "descriptionTitle": "Go Shine in the World.",
+        "description": "<p>St Eugene's is a warm, welcoming Catholic primary school that provides a caring, stable and intellectually stimulating environment for children. Our staff are committed to ensuring that your child\u2019s time at school is inspiring and productive, so that they can move confidently on to the next stage of their education.</p>\n<br>\n<p>We work closely with children, parents, governors, staff and our partnership schools to ensure that each and every child is given the best possible start on their educational journey. We serve our diverse local community by welcoming children of all faiths and those with no faith background: all are welcome.</p>",
+        "schoolLogo": "../assets/imgs/school/2023649_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100047",
+        "churchLink": "https://www.steugene.camden.sch.uk/catholic-inspection-report/",
+        "websiteLink": "https://www.steugene.camden.sch.uk/",
+        "type": "Primary",
+        "gender": "Mixed",
+        "entryForms": "7",
+        "ageRange": [
+            "4",
+            "11"
+        ],
+        "address": "Mazenod Avenue",
+        "lat": 51.541151,
+        "long": -0.193804,
+        "formsEntry": "7",
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW6 4LS",
+        "facilities": [
+            "Breakfast Club.  After School Enrichment Clubs.  Links to after school play schemes.  Specialist Music Teacher.  Peripatetic Music Teachers.  Specialist Spanish Teacher (all year groups). Specialist PE Coach.  Class libraries (every class).  Termly football tournament."
+        ],
+        "activities": [
+            "martial arts",
+            "book club",
+            "maths challenge club",
+            "chess and board games club",
+            "Spanish club",
+            "football club",
+            "cricket and rounders club",
+            "arts and crafts club",
+            "homework club",
+            "dance club",
+            "athletics club",
+            "individual and group musical instrument lessons",
+            "Camden music festivals at The Royal Albert Hall",
+            "Termly music concerts in school",
+            "PTFA Family Discos x 2 a year",
+            "PTFA BBQ ",
+            "Christmas Carol Service ",
+            "Christmas Parties ",
+            "Movie Night"
+        ],
+        "admissionProcess": "<p>We are delighted that you are considering St Eugene's for your child. To take things further, please read our admissions policy, complete the school supplementary information form (SIF), and bring it to the school office or send it to us via email.</p>\n<br>\n<p>You will find the admissions policy and application form in the policies section of the school's website below. Our Head of School runs parent tours from September to January. Please call the office to book yourself onto a tour and take a look around. If you have any queries, do give us a call\u2014we are happy to help.</p>\n<br>\n<p><a href=\"https://www.steugene.camden.sch.uk/policies/\" target=\"_blank\">Policies page</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2023649_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "This is an amazing, nurturing school that takes pride in its values and brings out the very best in each child.  My child has thrived at St Eugene's and has had a wonderful, positive experience.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "One of the most special things about St Eugene's is our bond with the teachers.  They really help you to understand things that you are not sure of and give you confidence.  I am proud of my achievements at St Eugene's.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I am consistently impressed by the standard of education at St Eugene's.  My three kids love going to school and are learning loads.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I especially love music lessons and art.  We learn amazing things.  Our music concerts are great fun, we have some fantastic singers and other people play instruments in the band.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Our child is a wellspring of energy and enthusiasm.  St Eugene's provides the structure and environment that enable him to thrive academically.  On a personal level, we couldn't be happier!",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Staff and pupils have very positive relationships. Pupils trust staff to help them if they have any worries and, therefore, they feel safe. Staff have consistently high expectations of pupils\u2019 behaviour. As a result, pupils\u2019 behaviour is excellent, both in and out of lessons.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I marvel regularly at how well they know, understand and care for my child, as an individual, not just another student.  Staff members regularly go above and beyond to help him feel happy at school.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "What I particularly like is how the kids are friendly and kind.  We have lots of fun events like BBQ and discos and loads of trips and visitors.  These are exciting days of learning.  I love how we have amazing teachers.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "We are so happy that we have chosen such a strongly academic and caring school.  Our daughter is thriving and enjoying school.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "Something I love about our school is our school values.  It helps me to be a better person.  I love helping people.  When I was new to the school, I was very shy, but I felt very welcomed. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I love the PTFA (Parent, Teacher and Friends Association) activities.  They really provide an opportunity for the entire school to come together.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils, including those with special educational needs and/or disabilities (SEND), respond very positively to the high expectations of their learning and behaviour. Consequently, they work hard and achieve exceptionally well across the curriculum.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "Ofsted said our school is outstanding in every area and it is!  Everyone is fair.  We are all in a community and support each other when we are downhearted.  I have so many friends who are kind.  We have lots of fun activities like trips.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The school is excellent.  I can see my daughter thriving there.  The staff are lovely and the teachers highly experienced.  We are very happy with St Eugene's and would recommend it to anyone.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "This school has excellent teachers who know how to do the best for my child and care about their well being.  ",
+                    "author": "Parent"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2023649_1.jpg",
+                "../assets/imgs/school/2023649_2.jpg",
+                "../assets/imgs/school/2023649_3.jpg",
+                "../assets/imgs/school/2023649_4.jpg",
+                "../assets/imgs/school/2023649_5.jpg",
+                "../assets/imgs/school/2023649_6.jpg",
+                "../assets/imgs/school/2023649_7.jpg",
+                "../assets/imgs/school/2023649_8.jpg",
+                "../assets/imgs/school/2023649_9.jpg",
+                "../assets/imgs/school/2023649_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "We value and respect the diversity of our local Kilburn community.  We have strong links with the Church, but also welcome children from all faiths and children with no faith background.  We have a wonderful PTFA (Parent, Teacher, Friends Association) who organise memorable community events for the children.  We work in partnership with parents to ensure the best for every child.",
+                    "link": "/schoolContext/index.html?schoolId=2023649"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "St Eugene\u2019s provides a caring, stable, creatively stimulating environment for children. \nAll pupils are supported to be the best that they can be. We teach children about feelings and emotions, so that they can be emotionally resilient.  We know that being a healthy human is to manage a range of emotions every day. ",
+                    "link": "/support/index.html?schoolId=2023649"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "We welcome pupils with SEND.  We ensure that there are no barriers to allowing all pupils to learn successfully. There are clear systems in place to identify and support pupils who need additional support. This allows them to access our outstanding curriculum.",
+                    "link": "/SEND/index.html?schoolId=2023649"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "St Eugene's has the highest ambition and expectation for every pupil. The children study a broad range of subjects. Pupils make excellent progress through the school to achieve very well. We ensure that children are well prepared for the next stage of their education and confident in their knowledge and skills.",
+                    "link": "/achievement/index.html?schoolId=2023649"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Our curriculum equips our children with the knowledge and skills that they need to succeed in life. We provide a broad and balanced curriculum which is enriched by a well thought out programme of visits and visitors.  Teachers are experts at guiding pupils to gain a deep knowledge of the subjects they study.",
+                    "link": "/curriculum/index.html?schoolId=2023649"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Reading",
+                    "description": "Continue to prioritise developing both a love of reading and  reading fluency, dedicating additional adult support to ensure that no child falls behind."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Mathematics",
+                    "description": "Continue to foster confidence and fluency in mathematical knowledge and skills for every pupil."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Emotional well being and resilience",
+                    "description": "Continue to teach and support children's well being and emotional resilience."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 196,
+            "ethnicGroupsNum": 6,
+            "languagesNum": 10,
+            "SENDPercent": 17.3,
+            "BMEPercent": 76.0,
+            "disadvantagedPupilsPercent": 42.9,
+            "englishAdditionalLangPercent": 50.5,
+            "absencePercent": 5.1,
+            "persistentAbsenteesPercent": 17.0,
+            "specificLanguages": [
+                "Albanian",
+                "Amharic",
+                "Arabic",
+                "English",
+                "French",
+                "Italian",
+                "Konkani",
+                "Portuguese",
+                "Tagalog",
+                "Tigrinya"
+            ],
+            "specificEthnicities": [
+                "White British",
+                "White Other",
+                "Black African",
+                "Mixed/ Dual Background",
+                "Black British/ Black Other",
+                "Asian / Asian British"
+            ],
+            "specificSEND": [
+                "Social, emotional and mental health",
+                "Speech, language and communication needs"
+            ],
+            "qualifiedTeachersPercent": 100,
+            "pupilAdultRatio": 12.9,
+            "financialReserves": "-\u00a3154,400",
+            "changeYearReserves": "-\u00a327,400"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>Our curriculum is ambitious and engaging. We routinely teach children from Year 1 and upwards content that is beyond and above the National Curriculum in ambition and content. Some of the curriculum written for our children is specifically tailored to their needs and socio-economic context. Ofsted stated that the curriculum is, \"Outstanding.\" Lead teachers from our partnership write and regularly update the lesson plans that the teachers use. For example, our Keeping Safe curriculum is much wider than the National Curriculum because the children are living in the centre of Kilburn and must learn to keep themselves safe. Our Equalities curriculum is wide-ranging, so that the children can understand that they have a voice and can make a difference in the world. Our Social Justice work in the curriculum supports the children to understand that social mobility is available to them.</p>\n<br>\n<p>Our curriculum is well planned and written by experts in our school partnership. We take what is in the National Curriculum and plan sequences of lessons which build week by week and year by year to enable the children to learn, to remember, and to feel proud and clever with what they know. The curriculum is enriched with practical activities and discussions. Our lessons include skills that can be developed. For example, in art, children have a series of lessons each year that enable them to practice skills in sculpture, drawing, or painting and build up their confidence so that they can have the brilliant outcome of a fabulous sculpture or wonderful drawing. Nothing is left to chance; planning and reviewing are a regular part of what we do well. Pupils make sophisticated links between different pieces of learning. We have a strong programme of continual professional development that ensures our teachers are always improving their skills and effectiveness.</p>\n<br>\n<p>Our curriculum is fun and engaging. We consider London to be our classroom. We include at least six visits and visitors for every class each year that link to our curriculum learning. In this way, our curriculum is enriched, and the learning is memorable for the children. We take every opportunity to teach the children the best of what is thought and said. For example, in music, they learn about Mozart but also Stormzy; in art, about Van Gogh but also O'Keeffe. Our pupils learn to make sophisticated links between different pieces of learning.</p>\n<br>\n<p>Our teachers take every opportunity to expand the general knowledge and vocabulary of our pupils. For example, in art, they will study Picasso's <i>Guernica</i>, but also discuss and debate the themes of suffering and war linked to World War I and II. The children will study a range of male and female artists from different cultures, time periods, and backgrounds. Every teacher takes every opportunity to explain and discuss vocabulary and general knowledge. This develops children's knowledge and helps them to explain their own thinking. For example, in mathematics, when learning the 8 times table in Year 3, the teacher will simply but effectively explain the prefix \"oct,\" as in octopus, octagon, and October. Our aim is to enable our pupils to articulate their thoughts and stand up for themselves and their ideas in an appropriate way. We believe that these things are important for children's future life chances.</p><p><a href=\"https://www.steugene.camden.sch.uk/topic/our-curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Well-planned and written by experts",
+                "At least six visits and visitors for every class each year",
+                "Enable our pupils to articulate their thoughts and stand up for themselves"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>We are committed to providing a safe, nurturing, and stimulating learning environment for every child. Ofsted state (October 2023): \"Staff and pupils have very positive relationships. Pupils trust staff to help them if they have any worries and, therefore, they feel safe.\" We hold Safeguarding as our highest priority. All staff are vigilant about keeping children safe. Our school leaders regularly talk to groups of pupils about how they feel about issues such as bullying. We foster good behaviour that keeps everyone safe through our teaching of the values of our school.</p>\n<br>\n<p>The Christian Values are modelled by our teaching staff, and every child can explain how they Go Shine in the World. We go beyond the National Curriculum when we teach children Keeping Safe Studies. Through discussion and practical lessons, the children in every class are taught about: road safety, first aid, online safety, and keeping myself safe.</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/st-eugene-de-mazenod-catholic-primary-school/UploadedDocument/b515c8a3-5cc2-4b78-8145-fc518b21bf30/cp-and-safeguarding-policy.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>Good behaviour in school is essential to a good education. We work in partnership with parents to foster positive behaviour and grow good citizens of the future, who will treat others with respect and kindness. We teach about good behaviour, promote and reinforce it. Ofsted states: \"Staff have consistently high expectations of pupils\u2019 behaviour. As a result, pupils\u2019 behaviour is excellent, both in and out of lessons.\"</p>\n<br>\n<p>We have a simple, clear, and effective Behaviour and Anti-Bullying Policy which outlines how we deal effectively with bullying. We are vigilant about bullying and will always tackle it, working with both the target and the perpetrator to ensure that the bullying stops and stays stopped. We are clear with children about all elements of unacceptable behaviour but also teach what is and what is not bullying. Parents and carers are always informed, and we work in partnership with them to address bullying.</p><p><a href=https://primarysite-prod-sorted.s3.amazonaws.com/st-eugene-de-mazenod-catholic-primary-school/UploadedDocument/c8fcbb9b-5fbe-43fe-9e99-a3ca62a5c233/behaviour-and-anti-bullying-poli target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>At St Eugene's, we are committed to fostering a positive and engaging learning environment that encourages regular attendance, ensuring that every child has the opportunity they deserve to succeed and thrive. Clear and consistent communication is maintained with pupils and parents about attendance policies and expectations.</p>\n<br>\n<p>When joining St Eugene's, we ask parents and carers to sign a Home-School Agreement, committing to ensure their child attends school every day and arrives on time. Senior leaders regularly monitor attendance and punctuality records thoroughly to ensure that any issues are identified early and acted upon swiftly.</p>\n<br>\n<p>Actions include clear communication about individual attendance rates, and where necessary, parents are invited to meet with senior leaders and with an Inclusion Officer so that any barriers to good attendance can be overcome and support can be offered. We celebrate and reward good attendance with certificates, special assemblies, and badges.</p>\n<br>\n<p>We know that every school day counts in order for children to have the best attainment, progress, and well-being.</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/st-eugene-de-mazenod-catholic-primary-school/UploadedDocument/89da907c-3a6c-4d54-a5fd-f8c2dcc2f264/attendance-policy-2024-25-updated-4.11.24-web-version.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>At St Eugene's, we know that academic attainment influences future life chances for children, so this is a priority. Year on year, our Year 6 SAT results show that our pupils attain highly. The attainment in reading, writing, and mathematics for our pupils has been significantly above national figures for the last three years. These figures include pupils of disadvantage and those with SEND.</p>\n<br>\n<p>This is due to outstanding teaching and excellent support for the pupils in our care. We teach our teachers how to teach: we have consistency in a very clear, fun, engaging way of teaching that promotes confidence and supports the children to learn well. We have an outstanding curriculum that is carefully planned and sequenced to capture the children's curiosity and promote confident learning.</p>\n<br>\n<p>Our children are proud of what they know and persevere to attain highly, including those with SEND.</p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2023649_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2023649_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2023649_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2023649_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>We know that high attainment is a vital part of future success and life chances, but so are social skills and attitude. We have a vigilance around fostering good manners and good social skills as we want our children to be able to stand up for themselves and to express their thoughts and ideas in an appropriate way.</p>\n<br>\n<p>We do this through positive modelling of good manners, e.g. noticing when children greet us in the morning or say thank-you for their lunch and praising them specifically for this. Our daily and weekly work on vocabulary, including Word Aware Day, gives the children every chance to expand their knowledge of the words that they know, understand, and have confidence in using.</p>\n<br>\n<p>We have a well-established programme of transition work for the pupils in Year 6 to ensure that they have a smooth and successful move to secondary school. They often come back and visit us and tell us how well they are doing. We are always pleased to see our past pupils.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>We are dedicated to providing a supportive and inclusive environment for children with special educational needs and disabilities. In partnership with parents, governors, and the local community, we strive to deliver a broad and balanced curriculum that promotes high achievement for all children, including those with SEND.</p>\n<br>\n<p>We aim to foster individual self-confidence, motivation, aspiration, and the ability to work with others. We offer a range of support for children with special educational needs so that they can thrive academically, socially, and emotionally. Trained staff work closely with pupils and parents to develop support plans that cater to a child's unique needs and strengths. We collaborate and actively involve parents, teachers, and other specialists in the planning and implementation of these SEND support plans.</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/st-eugene-de-mazenod-catholic-primary-school/UploadedDocument/0299d291-f056-482a-8b9f-127ef56a79ab/st-e-send-policy.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>We ensure that all pupils have access to a broad and balanced curriculum and provide an adapted curriculum if needed and appropriate to the child's individual needs and ability. Early identification of pupils requiring SEND provision is a priority.</p>\n<br>\n<p>Pupils with SEND take as full a part as possible in all school activities. Parents of pupils with SEND are kept fully informed of their child\u2019s progress and attainment by regular meetings with the class teacher and SENDCO.</p>\n<br>\n<p>Where practicable, we ensure that pupils with SEND are involved in decisions affecting their future SEND provision, their progress, and their targets. We listen to the views of the individual pupils and include their thoughts and ideas wherever possible in their plans.</p>"
         }
     },
     {
         "schoolId": 2023441,
+        "schoolURN": 100040,
         "schoolName": "St George the Martyr Church of England Primary School",
         "isPrimary": true,
         "shortSlogan": "Go Shine in the World",
@@ -10289,6 +10624,7 @@
     },
     {
         "schoolId": 2023482,
+        "schoolURN": 100041,
         "schoolName": "St Joseph's Catholic Primary School",
         "isPrimary": true,
         "shortSlogan": "Go Shine in the World",
@@ -10574,6 +10910,7 @@
     },
     {
         "schoolId": 2023521,
+        "schoolURN": 100043,
         "schoolName": "St Mary and St Pancras Church of England Primary School",
         "isPrimary": true,
         "shortSlogan": "With the highest ambition for each unique child to flourish, we strive for excellence in all that we do.",
@@ -10874,6 +11211,7 @@
     },
     {
         "schoolId": 2023517,
+        "schoolURN": 100042,
         "schoolName": "St Mary's Kilburn Church of England Primary School",
         "isPrimary": true,
         "shortSlogan": "\"Go shine in the world\"",
@@ -11175,7 +11513,308 @@
         }
     },
     {
+        "schoolId": 2023560,
+        "schoolURN": 100045,
+        "schoolName": "St Patrick's Catholic Primary School",
+        "isPrimary": true,
+        "shortSlogan": "Go Shine in the World!",
+        "descriptionTitle": "Go Shine in the World!",
+        "description": "<p>At St. Patrick\u2019s, we offer a nurturing and secure environment that fosters both intellectual and personal growth and creativity for children. Every day, our pupils learn the skills they need to become successful, well-balanced young people.</p>\n<br>\n<p>Our dedicated staff strive to make your child\u2019s school experience engaging and rewarding, helping them progress confidently to the next phase of their education. We collaborate closely with parents, students, governors, staff, and our successful partnership schools to ensure that every child receives the best possible foundation for their educational journey.</p>",
+        "schoolLogo": "../assets/imgs/school/2023560_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100045",
+        "churchLink": "https://www.stpatricks.camden.sch.uk/page/?title=Catholic+inspection+report&pid=79",
+        "websiteLink": "https://www.stpatricks.camden.sch.uk/",
+        "type": "Primary inc. Nursery",
+        "gender": "Mixed",
+        "entryForms": "1",
+        "ageRange": [
+            "3",
+            "11"
+        ],
+        "address": "Holmes Road",
+        "lat": 51.549201,
+        "long": -0.142812,
+        "formsEntry": "1",
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW5 3AH",
+        "facilities": [
+            "Breakfast club",
+            " After school enrichment clubs",
+            " Specialist music teacher",
+            " Specialist PE teacher",
+            " Specialist Spanish teacher",
+            " Instrument lessons",
+            " Class libraries"
+        ],
+        "activities": [
+            "Book Club",
+            "Multi-Sports",
+            "Arts and Crafts (Sewing) Club",
+            "Coding Club",
+            "Football Club",
+            "Lego Club",
+            "Maths Challenge Club",
+            "Instrument lessons",
+            "Puzzles and Games Club",
+            "Music Concerts",
+            "Camden Choir Festival",
+            "Camden Art Biennale Exhibition",
+            "Inter School Sports Tournaments",
+            "Partnership Football Tournament",
+            "After school play centre at Camden Square",
+            "After school play centre at NW5",
+            "Camden Music Festival at The Royal Albert Hall",
+            "Y6 Booster Classes",
+            "Choir and School Band"
+        ],
+        "admissionProcess": "<p>We are delighted that you are considering St Patrick's for your child. If you would like to visit for a tour of the school with the headteacher, please call the office on 02072671200. For more information, please read our admissions policy, complete the application form and bring it to the school office.</p>\n<br>\n<p>You will find the admissions policy and application form in the policies section of the school's website below:</p>\n<br>\n<p><a href=\"https://www.stpatricks.camden.sch.uk/page/?title=Policies&pid=148\">St Patrick's Policies</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2023560_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils at St Patrick\u2019s Catholic Primary School benefit from a nurturing and inclusive environment where they feel safe, happy and valued. The school\u2019s strong sense of community is rooted in its ethos, which inspires pupils to show kindness and respect to others.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "The school is a calm and purposeful place where pupils work hard and show enthusiasm for their learning.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Playtimes are calm and joyful. Pupils play together happily, supported by the well-organised activities in the playground. They show care for each other, ensuring that everyone is included in activities.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils flourish because they are supported socially and emotionally. The school introduces pupils to a wealth of cultural experiences. Teachers are skilled in delivering the curriculum.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "The school\u2019s approach to early reading is strong. Staff are well trained in phonics, delivering the school\u2019s chosen approach with consistency. Pupils who need extra help are quickly identified and supported to catch up.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Children in early years access a rich environment that encourages exploration and curiosity. Adults introduce new vocabulary effectively, helping children to build language and prepare for Year 1. Routines are well established, and children play and learn together harmoniously.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Our experience at this school has been nothing short of amazing. The teachers are dedicated, the curriculum is engaging, and the school has created a warm, nurturing environment for my child to thrive. My son looks forward to going to school every day, and we\u2019ve seen a noticeable improvement in his confidence and academic performance.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "What really stands out about this school is the emphasis on kindness, respect, and fostering a love of learning. My child has grown so much here, not only academically but also as a person. It\u2019s a fantastic school with a real sense of community.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "St. Patrick\u2019s has been an amazing choice for our family. We are so grateful for the care and attention the staff at this school provide. They are approachable and always make time for parents to discuss any concerns. Academically, our children are excelling, and it\u2019s clear that the teaching is of a very high standard. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The children here are polite, well-behaved, and engaged, which speaks volumes about the school\u2019s positive atmosphere and strong values.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "As a parent, it\u2019s reassuring to know that our child is in such good hands. The leadership team and teachers are incredibly supportive and always ready to help with any questions. We\u2019re also very impressed by how well-behaved the children are, which reflects the positive influence of the school\u2019s staff and environment.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "I feel incredibly proud to work at St. Patrick's School. The sense of community here is truly special, and our dedicated team works tirelessly to create the best possible experiences and outcomes for every child. The children are at the heart of everything we do. ",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "My school is amazing! I love learning new things every day, and the trips we go on are so much fun. The after-school clubs are my favourite part \u2013 I get to try new things and have loads of fun with my friends!",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "My school is great because I know I can always trust the teachers and grown-ups here. They listen to me, help me when I need it, and make sure I feel safe and happy every day!",
+                    "author": "Child"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2023560_1.jpg",
+                "../assets/imgs/school/2023560_2.jpg",
+                "../assets/imgs/school/2023560_3.jpg",
+                "../assets/imgs/school/2023560_4.jpg",
+                "../assets/imgs/school/2023560_5.jpg",
+                "../assets/imgs/school/2023560_6.jpg",
+                "../assets/imgs/school/2023560_7.jpg",
+                "../assets/imgs/school/2023560_8.jpg",
+                "../assets/imgs/school/2023560_9.jpg",
+                "../assets/imgs/school/2023560_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "St Patrick\u2019s serves the local community by welcoming children from all faiths and children with no faith background. We value and respect the diversity of our community. We work closely with parents, children, governors,\u00a0staff and our successful partnership schools to ensure that each and every\u00a0child is\u00a0given the best possible start on their educational journey.",
+                    "link": "/schoolContext/index.html?schoolId=2023560"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "St Patrick\u2019s provides a caring, stable, intellectually and creatively stimulating environment for children. \nAll pupils are supported to be the best that they can be.",
+                    "link": "/support/index.html?schoolId=2023560"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "We ensure that there are no barriers to allowing all pupils to learn successfully. There are clear systems in place to identify and support pupils who need additional support. This allows them to access our outstanding curriculum.",
+                    "link": "/SEND/index.html?schoolId=2023560"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "The school has the highest ambitions for what pupils can achieve. Pupils study a broad range of subjects. Pupils make excellent progress through the school to achieve very well. They are well prepared for the next stage of their education.",
+                    "link": "/achievement/index.html?schoolId=2023560"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Our curriculum equips our children with the knowledge and skills that they need to succeed in life. We provide a broad and balanced curriculum which is enriched by a careful programme of trips and visitors.  Teachers are experts at guiding pupils to gain a deep knowledge of the subjects they study. ",
+                    "link": "/curriculum/index.html?schoolId=2023560"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "High expectations of attendance",
+                    "description": "Continue to promote and celebrate pupils attending school every day so that no learning opportunities are missed."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Reading",
+                    "description": "Continue to prioritise developing both a love of reading and  reading fluency, dedicating additional adult support to ensure no child falls behind."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Confidence and emotional well-being",
+                    "description": "Continue to support pupils to be both confident and emotionally resilient."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 144,
+            "ethnicGroupsNum": 8,
+            "languagesNum": 6,
+            "SENDPercent": 24.3,
+            "BMEPercent": 74.3,
+            "disadvantagedPupilsPercent": 57.8,
+            "englishAdditionalLangPercent": 50.0,
+            "absencePercent": 6.7,
+            "persistentAbsenteesPercent": 22.0,
+            "specificLanguages": [
+                "English",
+                "Spanish",
+                "French",
+                "Amharic",
+                "Portuguese",
+                "Tigrinya"
+            ],
+            "specificEthnicities": [
+                "White - British",
+                "White - Irish Traveller",
+                "Black - African",
+                "Any other mixed background",
+                "Other - Black African ",
+                "White and Black Caribbean",
+                "Black Caribbean",
+                "Other Black African"
+            ],
+            "specificSEND": [
+                "Moderate learning difficulty",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 100,
+            "pupilAdultRatio": 10.3,
+            "financialReserves": "\u00a3135,200",
+            "changeYearReserves": "-\u00a354,500"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>Our curriculum is broad and balanced. We aim to provide ambitious learning opportunities, promoting achievement in every area and nurturing social, emotional and spiritual well-being.</p>\n<br>\n<p>Our curriculum equips our children with the knowledge, skills and cultural capital that they need to succeed in life. We aim to instil a lifelong love for learning by making education engaging, challenging and relevant.</p>\n<br>\n<p>We strive to promote confidence and independence, encouraging students to take initiative and responsibility for their learning. Importantly, we work to promote a sense of community and responsible citizenship, preparing students to contribute positively to society.</p>\n<br>\n<p>Our curriculum lays the groundwork for essential academic skills in reading, writing, and mathematics. This strong foundation is crucial for children's future learning and academic success.</p>\n<br>\n<p>We focus on helping our children to grow and develop character, resilience and inner discipline through making choices, taking responsibility and being honest with themselves and others. In order to achieve this, we have incorporated opportunities for building character into our curriculum, including: sport, creativity, performing, the world of work and membership. This provides pupils with the inner resources and confidence to tackle the frustrations and setbacks that are part and parcel of life.</p>\n<br>\n<p>As our children gain confidence, knowledge and skills we hope that they will go on to become compassionate, well-balanced life-long learners. We support them in taking their place in society as active citizens, economically independent, exemplifying the British Values of equality, tolerance, democracy, individual liberty and rule of law.</p>\n<br>\n<p>Our carefully planned programme of visits and visitors enhances learning in the classroom by providing students with real-world experiences and insights. These opportunities help to bring the curriculum to life, making learning more engaging and relevant. Visits include The Houses of Parliament, local theatres, local art galleries and nature reserves to name just a few.</p><p><a href=\"https://www.stpatricks.camden.sch.uk/page/?title=Our+Curriculum&pid=174\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Strong academic Foundation",
+                "Building character",
+                "Enriching experiences"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>St. Patrick's prioritises the safety and happiness of every child. We create a warm, welcoming environment where every child feels valued and cared for. Our staff are trained to identify and respond to any concerns, and we maintain open communication with parents to ensure we\u2019re all working together for the child\u2019s well-being. We have clear rules, a strong anti-bullying policy, and regular check-ins with pupils to ensure they feel safe and supported.</p><p><a href=\"https://www.stpatricks.camden.sch.uk/attachments/download.asp?file=542&type=pdf \" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>We are vigilant for signs of bullying and always take reports of incidents seriously. We educate pupils regularly about what bullying is and how to respond if they encounter it. Staff act swiftly and thoroughly to resolve any incidents of bullying. A robust anti-bullying policy is in place which encourages pupils to be 'upstanders' rather than bystanders, promoting a culture of kindness and respect.</p><p><a href=https://www.stpatricks.camden.sch.uk/attachments/download.asp?file=542&type=pdf  target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>At St Patrick's, we are committed to fostering a positive and engaging learning environment that encourages regular attendance, ensuring every child has the opportunity they deserve to succeed and thrive. Therefore, clear and consistent communication is maintained with pupils and parents about attendance policies and expectations.</p>\n<br>\n<p>When joining St Patrick's, we ask parents and carers to sign a Home-School Agreement, committing to ensure their child attends school every day and arrives on time. Senior leaders regularly monitor attendance and punctuality records thoroughly to ensure that any issues are identified early and acted upon swiftly. Actions include clear communication about individual attendance rates and where necessary, parents are invited to meet with senior leaders and with an Attendance Officer so that any barriers to good attendance can be overcome.</p>\n<br>\n<p>We celebrate and reward good attendance with certificates, special assemblies and various incentives to motivate and recognise excellence.</p><p><a href=\"https://www.stpatricks.camden.sch.uk/attachments/download.asp?file=396&type=pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>At St Patrick\u2019s, we set the highest expectations for what our pupils can achieve. Students explore a wide variety of subjects, and from Year One, they engage with concepts that challenge and extend their learning beyond typical expectations for their age.</p>\n<br>\n<p>Our curriculum, crafted by expert teachers, equips children with the knowledge, skills, and cultural insights necessary to succeed. Each subject is carefully structured to build knowledge and skills progressively, ensuring that learning is well-organized and reinforces prior knowledge. This approach helps children retain information and form meaningful connections throughout their education.</p>\n<br>\n<p>As Ofsted noted, \u201cThe school has an ambitious and carefully designed curriculum that builds pupils\u2019 knowledge and skills over time. The school has worked to ensure that the curriculum is broad and engaging. In subjects such as mathematics and English, what is taught is particularly well sequenced, helping pupils to build strong foundations in their learning and progress confidently through the curriculum.\u201d</p>\n<br>\n<p>We also offer a robust programme of continuous professional development, ensuring our staff are always improving their skills and effectiveness. Located in central London, we use the city as an extension of our classroom, offering a wide range of off-site visits and inviting guest speakers to further enrich our pupils\u2019 learning experiences.</p><p><a href=\"https://stpatricks.ovw2.juniperwebsites.co.uk/page/?title=Our+Curriculum&pid=9\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2023560_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2023560_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2023560_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2023560_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>At St Patrick's, we lay a strong foundation for our pupils' future success. We focus on developing essential skills, such as critical thinking, problem-solving, and effective communication, which are crucial for their continued education and beyond.</p>\n<br>\n<p>Our nurturing environment encourages curiosity and a love for learning, helping pupils become confident and independent thinkers. Aware of the importance of expanding our pupils\u2019 life experiences and raising their aspirations, we provide them with a wealth of local and national cultural opportunities.</p>\n<br>\n<p>By introducing them to the finest ideas and achievements, we foster an appreciation for human creativity and success, broadening their perspectives and helping them build the confidence they need for the next stage of their education.</p>\n<br>\n<p>Our programme of visits and guest speakers exposes students to a variety of aspirational careers and ensures they gain a solid understanding of financial literacy, British values (including democracy), and more.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>We are dedicated to providing a supportive and inclusive environment for children with special educational needs and disabilities. In partnership with governors, parents, and the local community, we strive to deliver a broad and balanced curriculum that promotes high achievement for all children, developing within the individual self-confidence, motivation, aspiration, and the ability to work with others.</p>\n<br>\n<p>We offer a range of support for children with special educational needs so that they can thrive academically, socially, and emotionally. Staff work closely with pupils and parents to develop support plans that cater to a child's unique needs and strengths. We collaborate and actively involve parents, teachers, and other specialists in the planning and implementation of these support plans.</p>\n<br>\n<p>Ofsted agree that at St Patrick's, \u201cPupils with special educational needs and/or disabilities (SEND) benefit from tailored support. Teachers and leaders work closely with families to understand each pupil\u2019s needs and ensure that pupils can access the full curriculum.\u201d</p><p><a href=\"https://www.stpatricks.camden.sch.uk/policies/\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>We ensure that all pupils have access to a broad and balanced curriculum and provide an adapted curriculum appropriate to the individual\u2019s needs and ability. Early identification of pupils requiring SEND provision is our priority.</p>\n<br>\n<p>Pupils with SEND take as full a part as possible in all school activities, and parents of pupils with SEND are kept fully informed of their child\u2019s progress and attainment throughout the year.</p><p><a href=\"https://www.stpatricks.camden.sch.uk/policies/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
         "schoolId": 2023568,
+        "schoolURN": 100046,
         "schoolName": "St Paul's Church of England Primary School",
         "isPrimary": true,
         "shortSlogan": "\"Shining as lights in the world.\"",
@@ -11413,8 +12052,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 9.3,
-            "financialReserves": "127400",
-            "changeYearReserves": "19400"
+            "financialReserves": "\u00a3127,400",
+            "changeYearReserves": "\u00a319,400"
         },
         "curriculum": {
             "curriculumAim": "<p>Our curriculum has its origins in the National Curriculum for schools in England. The school offers a broad and balanced curriculum with a clear focus on subjects as discrete units. Units of work ensure sequential, layered knowledge acquisition, with each piece of learning in different subjects building on previous ones.</p>\n\n<p>St Paul's Primary School is a literacy rich learning environment that celebrates and encourages oracy in the early years and beyond. We recognise reading as the gateway to pupil learning and so we place a strong focus on early reading and vocabulary development from the beginning of a child's career in school. Over the next year we will be putting greater emphasis into our curriculum for all classes on looking after our environment and gardening.</p><p><a href=\"https://www.stpauls.camden.sch.uk/Learning/Integrated-curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -11471,6 +12110,7 @@
     },
     {
         "schoolId": 2024000,
+        "schoolURN": 137181,
         "schoolName": "The UCL Academy",
         "isPrimary": false,
         "shortSlogan": "Students at The UCL Academy  experience an inspirational  world class education built on a culture of academic excellence, social responsibility and a transformational curriculum.",
@@ -11837,6 +12477,7 @@
     },
     {
         "schoolId": 2022603,
+        "schoolURN": 100023,
         "schoolName": "Torriano Primary School",
         "isPrimary": true,
         "shortSlogan": "A school that builds the capacities of children to work together, to collaborate, to transform themselves, their communities, and the wider world.",
@@ -12155,6 +12796,7 @@
     },
     {
         "schoolId": 2022036,
+        "schoolURN": 100009,
         "schoolName": "West Hampstead Primary School",
         "isPrimary": true,
         "shortSlogan": "<p>Together, We Achieve! Our values of Community, Aspiration, Consideration, Resilience, and Responsibility are at the heart of all we do.</p>",
@@ -12463,6 +13105,7 @@
     },
     {
         "schoolId": 2024688,
+        "schoolURN": 100056,
         "schoolName": "William Ellis School",
         "isPrimary": false,
         "shortSlogan": "Nurturing successful students and good citizens through strong relationships, where there are many ways to be a boy.",
@@ -12841,6 +13484,7 @@
     },
     {
         "schoolId": 2021101,
+        "schoolURN": 100007,
         "schoolName": "Robson House",
         "isPrimary": true,
         "shortSlogan": "A specialist school, where children\u2019s emotional needs and well-being are nurtured so they thrive and grow as learners and individuals.",
