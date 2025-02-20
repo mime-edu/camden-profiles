@@ -1,11 +1,15 @@
 import { createTab } from "./modules/tabs.js";
 const { createApp, ref } = Vue;
 
+let map = null;
+let schoolMarkers = [];
+
 document.addEventListener("DOMContentLoaded", async function () {
 	const response = await fetch("./schools.json");
 	const staticSchools = await response.json();
 	let schools = ref(staticSchools);
 	let filterOverlayData = ref(getFiltersFields(staticSchools));
+
 	// Vue.js app initialization
 	createApp({
 		setup() {
@@ -19,33 +23,34 @@ document.addEventListener("DOMContentLoaded", async function () {
 		createTab(mainPageTabItem);
 	}
 
+	// init view state
+	handleViewChange(staticSchools);
+	schools.value = handleFilters(staticSchools);
+
+	// add listener on search line to change view and filters
+	window.addEventListener("popstate", () => {
+		handleViewChange(staticSchools);
+		schools.value = handleFilters(staticSchools);
+	});
+
 	// Main page navigation button (change list to map)
 	let navButton = document.querySelector(".navigation__button");
 	if (navButton) {
-		let mapBlock = document.querySelector(".schools-info__map");
-		let listBlock = document.querySelector(".schools-info__list");
 		navButton.addEventListener("click", function () {
-			if (navButton.classList.contains("map")) {
-				navButton.classList.remove("map");
-				navButton.classList.add("list");
-				mapBlock.classList.add("_hidden");
-				listBlock.classList.remove("_hidden");
-				navButton.innerHTML = `<img src="./assets/imgs/map-icon.png" alt="" /><span>Map</span>`;
-			} else if (navButton.classList.contains("list")) {
-				navButton.classList.add("map");
-				navButton.classList.remove("list");
-				mapBlock.classList.remove("_hidden");
-				listBlock.classList.add("_hidden");
-				navButton.innerHTML = `<img src="./assets/imgs/list-icon.png" alt="" /><span>List</span>`;
-				drawMap(staticSchools);
-			}
+			const urlParams = new URLSearchParams(window.location.search);
+			let newView = navButton.classList.contains("map") ? "list" : "map";
+			urlParams.set("view", newView);
+
+			window.history.pushState({}, "", `${window.location.pathname}?${urlParams.toString()}`);
+
+			handleViewChange(staticSchools);
 		});
 	}
 
 	// search by name or post code
-
 	document.getElementById("searchSchoolInput")?.addEventListener("input", (event) => {
 		schools.value = findSchools(event.target.value, staticSchools);
+		drawMap(schools.value);
 	});
 
 	// FilterOverlay setup
@@ -88,6 +93,48 @@ document.addEventListener("DOMContentLoaded", async function () {
 		});
 	}
 });
+
+// change view
+function handleViewChange(staticSchools) {
+	const urlParams = new URLSearchParams(window.location.search);
+	let viewType = urlParams.get("view") || "list";
+
+	let navButton = document.querySelector(".navigation__button");
+	let mapBlock = document.querySelector(".schools-info__map");
+	let listBlock = document.querySelector(".schools-info__list");
+
+	if (viewType === "map") {
+		navButton.classList.add("map");
+		navButton.classList.remove("list");
+		mapBlock.classList.remove("_hidden");
+		listBlock.classList.add("_hidden");
+		navButton.innerHTML = `<img src="./assets/imgs/list-icon.png" alt="" /><span>List</span>`;
+		drawMap(staticSchools);
+	} else {
+		navButton.classList.remove("map");
+		navButton.classList.add("list");
+		mapBlock.classList.add("_hidden");
+		listBlock.classList.remove("_hidden");
+		navButton.innerHTML = `<img src="./assets/imgs/map-icon.png" alt="" /><span>Map</span>`;
+	}
+}
+
+function handleFilters(schools) {
+	const urlParams = new URLSearchParams(window.location.search);
+	let phase = urlParams.get("phase") || null;
+
+	if (phase == "primary") {
+		return schools.filter((school) => {
+			return school.isPrimary == true;
+		});
+	} else if (phase == "secondary") {
+		return schools.filter((school) => {
+			return school.isPrimary == false;
+		});
+	} else {
+		return schools;
+	}
+}
 
 // Close filter overlay function
 function closeFilterOverlay() {
@@ -171,9 +218,6 @@ function filterSchools(schools) {
 			ageMatch = true;
 		}
 
-		console.log(ageMatch);
-		console.log(ageRangeValue, minSchoolsAge);
-
 		const facilitiesMatch = facilitiesValues.length === 0 || facilitiesValues.some((type) => school.facilities.includes(type));
 		const genderMatch = genderValues.length === 0 || genderValues.includes(school.gender);
 		const schoolTypeMatch = schoolTypeValues.length === 0 || schoolTypeValues.includes(school.type);
@@ -198,17 +242,26 @@ function findSchools(query, schools) {
 }
 
 function drawMap(staticSchools) {
-	let map = L.map("map", {
-		zoomControl: false,
-		attributionControl: false,
-	}).setView([51.50603, -0.12285], 11);
+	if (!map) {
+		map = L.map("map", {
+			zoomControl: false,
+			attributionControl: false,
+		}).setView([51.50603, -0.12285], 11);
 
-	L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-		attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-	}).addTo(map);
+		L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+			attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+		}).addTo(map);
+	}
+
+	redrawSchools(staticSchools);
+}
+
+function redrawSchools(staticSchools) {
+	schoolMarkers.forEach((marker) => map.removeLayer(marker));
+	schoolMarkers = [];
 
 	staticSchools.forEach((school) => {
-		L.circleMarker([school.lat, school.long], {
+		let marker = L.circleMarker([school.lat, school.long], {
 			color: "white",
 			fillColor: "#ff0077",
 			fillOpacity: 1,
@@ -216,33 +269,36 @@ function drawMap(staticSchools) {
 		})
 			.bindPopup(
 				`<div class="schools-list_item school-item school-item-as-popup">
-					<div class="school-item__header">
-						<img src="${school.schoolLogo}" alt="school-logo" />
-						<h4 class="school-item__name">${school.schoolName}</h4>
-					</div>
-					<p class="school-itemy__description">${school.shortSlogan}</p>
-					<div class="school-item__info-row info-row">
-						<div class="info-row__item">
-							<p>Age Range</p>
-							<span>${school.ageRange}</span>
-						</div>
-						<div class="info-row__item">
-							<p>School Type</p>
-							<span>${school.type}</span>
-						</div>
-						<div class="info-row__item">
-							<p>Sex</p>
-							<span>${school.gender}</span>
-						</div>
-					</div>
-					<div class="school-item__footer">
-						<a class="link" href="/school?schoolId=${school.schoolId}"
-							><span>View school details</span> <img src="./assets/imgs/arrow-outward.png" alt="arrow"
-						/></a>
-					</div>
-				</div>`
+                    <div class="school-item__header">
+                        <img src="${school.schoolLogo}" alt="school-logo" />
+                        <h4 class="school-item__name">${school.schoolName}</h4>
+                    </div>
+                    <p class="school-itemy__description">${school.shortSlogan}</p>
+                    <div class="school-item__info-row info-row">
+                        <div class="info-row__item">
+                            <p>Age Range</p>
+                            <span>${school.ageRange}</span>
+                        </div>
+                        <div class="info-row__item">
+                            <p>School Type</p>
+                            <span>${school.type}</span>
+                        </div>
+                        <div class="info-row__item">
+                            <p>Sex</p>
+                            <span>${school.gender}</span>
+                        </div>
+                    </div>
+                    <div class="school-item__footer">
+                        <a class="link" href="/school?schoolId=${school.schoolId}">
+                            <span>View school details</span> 
+                            <img src="./assets/imgs/arrow-outward.png" alt="arrow" />
+                        </a>
+                    </div>
+                </div>`
 			)
 			.addTo(map);
+
+		schoolMarkers.push(marker);
 	});
 }
 
