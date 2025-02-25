@@ -24,13 +24,13 @@ document.addEventListener("DOMContentLoaded", async function () {
 	}
 
 	// init view state
-	handleViewChange(staticSchools);
 	schools.value = handleFilters(staticSchools);
+	handleViewChange(schools.value);
 
 	// add listener on search line to change view and filters
 	window.addEventListener("popstate", () => {
-		handleViewChange(staticSchools);
 		schools.value = handleFilters(staticSchools);
+		handleViewChange(schools.value);
 	});
 
 	// Main page navigation button (change list to map)
@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 
 			window.history.pushState({}, "", `${window.location.pathname}?${urlParams.toString()}`);
 
-			handleViewChange(staticSchools);
+			handleViewChange(schools.value);
 		});
 	}
 
@@ -241,7 +241,7 @@ function findSchools(query, schools) {
 	return filteredSchools;
 }
 
-function drawMap(staticSchools) {
+function drawMap(schools) {
 	if (!map) {
 		map = L.map("map", {
 			zoomControl: false,
@@ -253,14 +253,14 @@ function drawMap(staticSchools) {
 		}).addTo(map);
 	}
 
-	redrawSchools(staticSchools);
+	redrawSchools(schools);
 }
 
-function redrawSchools(staticSchools) {
+function redrawSchools(schools) {
 	schoolMarkers.forEach((marker) => map.removeLayer(marker));
 	schoolMarkers = [];
 
-	staticSchools.forEach((school) => {
+	schools.forEach((school) => {
 		let marker = L.circleMarker([school.lat, school.long], {
 			color: "white",
 			fillColor: "#ff0077",
