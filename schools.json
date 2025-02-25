@@ -51,7 +51,7 @@
             "A chance to be a member of the school council or a Timi Champion",
             "Take part in a poetry competition"
         ],
-        "admissionProcess": "<p>Reception admissions: If the School is oversubscribed, after the admission of pupils with an Education and Health Care Plan (EHCP), priority for admission will be given to those children who meet the criteria, in the following order:</p>\n\n<br>\n\n<ol>\n  <li>Looked after children and all previously looked after children.</li>\n  <li>Children with a sibling attending the school at the time of application.</li>\n  <li>Children of staff at the School.</li>\n  <li>Children from within the existing catchment area.</li>\n  <li>Children living outside the catchment.</li>\n</ol>\n\n<br>\n\n<p>For in-year admissions, please contact the school directly. For more information, including our admissions policy, visit our</p>\n\n<br>\n\n<p><a href=\"https://www.abacus.anthemtrust.uk/admissions\" target=\"_blank\">Admissions Policy Link</a></p>",
+        "admissionProcess": "<p>Reception admissions: If the School is oversubscribed, after the admission of pupils with an Education and Health Care Plan (EHCP), priority for admission will be given to those children who meet the criteria, in the following order:</p>\n<br>\n<ol>\n  <li>Looked after children and all previously looked after children.</li>\n  <li>Children with a sibling attending the school at the time of application.</li>\n  <li>Children of staff at the School.</li>\n  <li>Children from within the existing catchment area.</li>\n  <li>Children living outside the catchment.</li>\n</ol>\n<br>\n<p>For in-year admissions, please contact the school directly. For more information, including our admissions policy, visit our page below:</p>\n<p><a href=\"https://www.abacus.anthemtrust.uk/admissions\" target=\"_blank\">Abacus Admissions</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -274,7 +274,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022001_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022001_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -715,7 +715,7 @@
             "Cooking Club",
             "Catch up Club"
         ],
-        "admissionProcess": "<p>\nReception places are allocated by Camden admissions. Applications for spaces in other year groups are made by applying directly to the school.\n</p>\n<br>\n<p>\nFor more information, visit <a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a>.\n</p>\n<br>\n<p>\nVisit <a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">In-Year School Admissions</a>.\n</p>",
+        "admissionProcess": "<p>Reception places are allocated by Camden admissions. Applications for spaces in other year groups are made by applying directly to the school.</p>\n<p>For more information, visit:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>\n<p> <a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">In-Year School Admissions</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -921,7 +921,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022019_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022019_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -1005,7 +1005,7 @@
             "Jazz Ensemble",
             "Somali Club"
         ],
-        "admissionProcess": "<p>We follow the Camden admissions procedure: <a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>\n<br>\n\n<p>Admissions into Reception are managed by Camden Education Authority. Apply directly to the school for in-year and Nursery admissions.</p>\n<br>\n\n<p>Nursery admissions are handled internally by the school, following Camden\u2019s admissions criteria. A Nursery place does not guarantee you a place in Reception.</p>\n<br>\n\n<p>The school admissions policy can be found here: <a href=\"https://brecknock.camden.sch.uk/2021/09/28/admissions/\">Brecknock Admissions Policy</a></p>",
+        "admissionProcess": "<p>We follow the Camden admissions procedure: <a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>\n<br>\n<p>Admissions into Reception are managed by Camden Education Authority. Apply directly to the school for in-year and Nursery admissions.</p>\n<br>\n<p>Nursery admissions are handled internally by the school, following Camden\u2019s admissions criteria. A Nursery place does not guarantee you a place in Reception.</p>\n<br>\n<p>The school admissions policy can be found here: <a href=\"https://brecknock.camden.sch.uk/2021/09/28/admissions/\" target=\"_blank\">Brecknock Admissions Policy</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -1235,7 +1235,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022065_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022065_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -1540,7 +1540,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022078_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022078_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -1598,7 +1598,7 @@
             "Sports teams, with the opportunity to compete in Camden tournaments",
             "Choir"
         ],
-        "admissionProcess": "Our children are drawn from both the church community at Christ Church, Hampstead, and from our immediate local area.<br>\nPlease see our <a href=\"https://christchurchschool.co.uk/key-information/admissions/\"> Admissions Policy</a>.",
+        "admissionProcess": "Our children are drawn from both the church community at Christ Church, Hampstead, and from our immediate local area.</p>\nPlease see our <a href=\"https://christchurchschool.co.uk/key-information/admissions/\" target=\"_blank\"> Admissions Policy</a>.",
         "tabs": {
             "schoolViews": [
                 {
@@ -1825,7 +1825,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023323_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023323_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -1890,7 +1890,7 @@
             "Multi sport",
             "After school play centre collection with Coram's Fields"
         ],
-        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below.</p>\n<p><a href=\"https://www.chrishatton.camden.sch.uk/Parents/Admissions/\" target=\"_blank\">Christopher Hatton Admissions</a>\n<br></p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions?gad_source=1&gclid=EAIaIQobChMI_pzt5NHMiQMVq5NQBh2Cxwr8EAAYASAAEgLfLfD_BwE\" target=\"_blank\">Camden Local Authority Primary School Admissions Policy</a></p>",
+        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below:</p>\n<p><a href=\"https://www.chrishatton.camden.sch.uk/Parents/Admissions/\" target=\"_blank\">Christopher Hatton Admissions</a></p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions?gad_source=1&gclid=EAIaIQobChMI_pzt5NHMiQMVq5NQBh2Cxwr8EAAYASAAEgLfLfD_BwE\" target=\"_blank\">Camden Local Authority Primary School Admissions Policy</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -2119,7 +2119,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022842_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022842_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -2409,7 +2409,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022184_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022184_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -2471,7 +2471,7 @@
             "National Engineering Competition",
             "Gardening"
         ],
-        "admissionProcess": "<p>Admissions into our Reception class are managed by Camden Education Authority. We manage our own Nursery admissions for 26 full time places (9am-3:30pm) and we strictly abide by Camden\u2019s admissions criteria. We regularly host visits for prospective families; please contact us to arrange a visit or with any admission queries. Further details of admissions can be found here:</p>\n\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Admissions Policy Link</a></p>\n<p><a href=\"https://www.eleanorpalmer.camden.sch.uk/school-info/admissions/\" target=\"_blank\">Eleanor Palmer Admissions Policy Link</a></p>",
+        "admissionProcess": "<p>Admissions into our Reception class are managed by Camden Education Authority. We manage our own Nursery admissions for 26 full time places (9am-3:30pm) and we strictly abide by Camden\u2019s admissions criteria. We regularly host visits for prospective families; please contact us to arrange a visit or with any admission queries. Further details of admissions can be found here:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Admissions Policy Link</a></p>\n<p><a href=\"https://www.eleanorpalmer.camden.sch.uk/school-info/admissions/\" target=\"_blank\">Eleanor Palmer Admissions Policy Link</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -2700,7 +2700,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022841_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022841_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -2772,7 +2772,7 @@
             "School Council",
             "Worship reps"
         ],
-        "admissionProcess": "<p>Our children are drawn from both the Church community at Emmanuel Church and from our immediate local area in West Hampstead.</p>\n\n<p>Please see our admissions policy for further details:<br>\n<a href=\"https://www.emmanuel.camden.sch.uk/page/?title=Admissions&pid=40\">Admissions Policy Link</a></p>",
+        "admissionProcess": "<p>Our children are drawn from both the Church community at Emmanuel Church and from our immediate local area in West Hampstead.</p>\n<p>Please see our admissions policy for further details:</p>\n<a href=\"https://www.emmanuel.camden.sch.uk/page/?title=Admissions&pid=40\" target=\"_blank\">Admissions Policy Link</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -3001,7 +3001,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023340_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023340_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -3077,7 +3077,7 @@
             "Individual music tuition",
             "Please contact the school for the full list."
         ],
-        "admissionProcess": "<p>We abide by the admissions criteria of Camden Local Authority. Details can be found on the websites linked below:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\">Camden Primary Admissions</a></p>\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">In-Year School Admissions Policy</a></p>",
+        "admissionProcess": "<p>We abide by the admissions criteria of Camden Local Authority. Details can be found on the websites linked below:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">In-Year School Admissions Policy</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -3274,7 +3274,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022797_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022797_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -3340,7 +3340,7 @@
             "Chess",
             "Multi-Sports"
         ],
-        "admissionProcess": "<p>We follow the London Borough of Camden's school admissions policy. See our admissions page on the website for more information:</p>\n\n<br>\n\n<p><a href=\"https://www.fleet.camden.sch.uk/parents/admissions\" target=\"_blank\">Fleet Admissions Page</a></p>",
+        "admissionProcess": "<p>We follow the London Borough of Camden's school admissions policy. See our admissions page on the website for more information:</p>\n<p><a href=\"https://www.fleet.camden.sch.uk/parents/admissions\" target=\"_blank\">Fleet Admissions Page</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -3569,7 +3569,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022219_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022219_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -3640,7 +3640,7 @@
             "Turkish Club",
             "Homework Club"
         ],
-        "admissionProcess": "<p>We follow the London Borough of Camden's school admissions policy:</p>\n<p><a href=\"https://docs.google.com/document/d/1IquDkI7J2fVI_KbMtN6HH6MeOBUjYXo_zSzmL7DBGj8/edit\">Camden School Admissions Policy</a></p>",
+        "admissionProcess": "<p>We follow the London Borough of Camden's school admissions policy:</p>\n<p><a href=\"https://docs.google.com/document/d/1IquDkI7J2fVI_KbMtN6HH6MeOBUjYXo_zSzmL7DBGj8/edit\" target=\"_blank\">Camden School Admissions Policy</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -3878,7 +3878,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022775_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022775_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -3963,7 +3963,7 @@
             "Key Stage 2 Coding Club",
             "Arts & Craft Club"
         ],
-        "admissionProcess": "<p>Hampstead Parochial is a one-form entry school with 30 available places for each academic year group. Where the number of applicants exceeds the number of available places, the governors will use the listed criteria.</p>\n<br>\n\n<p>For entry to Hampstead Parochial, in the first instance places will be offered to 'Looked After Children' (Children in the care of a Local Authority).</p>\n<br>\n\n<p>All subsequent available places will then be distributed equally between Foundation and Open places with the priority given to siblings as described below. 50% of the available places will be allocated under Foundation (Church) Criteria and 50% under Open Criteria (based on proximity to school).</p>",
+        "admissionProcess": "<p>Hampstead Parochial is a one-form entry school with 30 available places for each academic year group. Where the number of applicants exceeds the number of available places, the governors will use the listed criteria.</p>\n<br>\n<p>For entry to Hampstead Parochial, in the first instance places will be offered to 'Looked After Children' (Children in the care of a Local Authority).</p>\n<br>\n<p>All subsequent available places will then be distributed equally between Foundation and Open places with the priority given to siblings. 50% of the available places will be allocated under Foundation (Church) Criteria and 50% under Open Criteria (based on proximity to school).</p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -4189,7 +4189,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023352_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023352_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -4268,7 +4268,7 @@
             "Badminton",
             "Dodgeball"
         ],
-        "admissionProcess": "<p>Please visit the Hampstead School website to view our Admissions Policy. This can be viewed via the link below:</p>\n<br>\n<a href=\"https://www.hampsteadschool.org.uk/admissions\" target=\"_blank\">Hampstead School Admissions</a>",
+        "admissionProcess": "<p>Please visit the Hampstead School website to view our Admissions Policy. This can be viewed via the link below:</p>\n<p><a href=\"https://www.hampsteadschool.org.uk/admissions\" target=\"_blank\">Hampstead School Admissions</a><p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -4632,7 +4632,7 @@
             "Drama Club",
             "Cards and Colouring Club"
         ],
-        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below.</p>\n\n<p><a href=\"https://www.camden.gov.uk/secondary-school-admissions\">View Camden secondary admissions process</a></p>\n\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\">View Camden in-year admissions process</a></p>",
+        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below:</p>\n<p><a href=\"https://www.camden.gov.uk/secondary-school-admissions\" target=\"_blank\">Camden Secondary Admissions Process</a></p>\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">Camden In-Year Admissions Process</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -4952,7 +4952,7 @@
             "French",
             "Playcentre with PACE - Fairfields "
         ],
-        "admissionProcess": "We follow the London Borough of Camden's school admissions policy. ",
+        "admissionProcess": "<p>We follow the London Borough of Camden's school admissions policy. Details can be found on the website below:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -5129,7 +5129,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022290_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022290_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -5194,7 +5194,7 @@
             "Running club",
             "Pick from school to extended childcare at Talacre after school centre"
         ],
-        "admissionProcess": "<p>While we follow the Camden application process and prioritise key groups, 60% our school places are offered on any Christian church attendance with 40% being open to those that live the closest.</p>\n<br>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>",
+        "admissionProcess": "<p>While we follow the Camden application process and prioritise key groups, 60% of our school places are offered on any Christian church attendance with 40% being open to those that live the closest.</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -5413,7 +5413,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023361_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023361_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -5479,7 +5479,7 @@
             "Ukulele Club",
             "Robotics with ASL"
         ],
-        "admissionProcess": "<p>Applications for Reception places should be made to the local authority. However, parents should also complete Holy Trinity's Supplementary Form and return it to the school.</p>\n\n<p>In-year admissions - parents should apply directly to the school. The supplementary form can be found <a href=\"https://www.holytrinitynw3.co.uk/about-us/admissions-2/\">here</a>.</p>\n\n<p>Admissions for pupils with EHCPs - There is a different procedure for pupils with EHCPs who want to move schools. If you live in Camden, Camden SEND will support you. Email <a href=\"mailto:sen.enquiries@camden.gov.uk\">sen.enquiries@camden.gov.uk</a>.</p>",
+        "admissionProcess": "<p>Applications for Reception places should be made to the local authority. However, parents should also complete Holy Trinity's Supplementary Form and return it to the school.</p>\n<br>\n<p>In-year admissions - parents should apply directly to the school. The supplementary form can be found <a href=\"https://www.holytrinitynw3.co.uk/about-us/admissions-2/\" target=\"_blank\">here</a></p>\n<br>\n<p>Admissions for pupils with EHCPs - There is a different procedure for pupils with EHCPs who want to move schools. If you live in Camden, Camden SEND will support you. Email <a href=\"mailto:sen.enquiries@camden.gov.uk\" target=\"_blank\">sen.enquiries@camden.gov.uk</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -5710,7 +5710,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023359_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023359_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -5785,7 +5785,7 @@
             "Drama Club",
             "Sports Leagues"
         ],
-        "admissionProcess": "<p>Please see our admissions policy below:</p>\n<br>\n<p><a href=\"https://www.kentishtown.camden.sch.uk/wp-content/uploads/2024/03/Criteria-for-Admissions-2025-2026.pdf\" target=\"_blank\">Criteria for Admissions 2025-2026</a></p>",
+        "admissionProcess": "<p>Please see our admissions policy below:</p>\n<p><a href=\"https://www.kentishtown.camden.sch.uk/wp-content/uploads/2024/03/Criteria-for-Admissions-2025-2026.pdf\" target=\"_blank\">Criteria for Admissions 2025-2026</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -5972,7 +5972,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023370_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023370_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -6051,7 +6051,7 @@
             "Chess",
             "British Sign Language"
         ],
-        "admissionProcess": "<p>Admissions at Kings Cross Academy are open to students of all backgrounds, with a focus on creating an inclusive and diverse learning community.</p>\n\n<p>Prospective families are encouraged to visit the school during open days to meet staff, tour the facilities, and learn more about the academy's ethos. The Headteacher does a tour of the school each Friday morning.</p>\n\n<p>The school follows Camden's admissions protocol for Reception admissions and manages admissions for Nursery and in-year admission internally. More information can be found on the academy website.</p>\n\n<p><a href=\"https://kingscrossacademy.org.uk/admissions\" target=\"_blank\">Kings Cross Admissions Policy Link</a></p>",
+        "admissionProcess": "<p>Admissions at Kings Cross Academy are open to students of all backgrounds, with a focus on creating an inclusive and diverse learning community.</p>\n<br>\n<p>Prospective families are encouraged to visit the school during open days to meet staff, tour the facilities, and learn more about the academy's ethos. The Headteacher does a tour of the school each Friday morning.</p>\n<br>\n<p>The school follows Camden's admissions protocol for Reception admissions and manages admissions for Nursery and in-year admission internally. More information can be found on the academy website:</p>\n<p><a href=\"https://kingscrossacademy.org.uk/admissions\" target=\"_blank\">Kings Cross Admissions Policy Link</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -6288,7 +6288,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022002_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022002_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -6602,7 +6602,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022843_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022843_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -6687,7 +6687,7 @@
             "Fencing",
             "Creative Writing"
         ],
-        "admissionProcess": "<p>The governing body is responsible for the admission of up to 120 girls to Year 7 each year. Applications are welcome from girls of all backgrounds and denominations.</p>\n\n<br>\n\n<p>For more information, visit our website below:</p>\n\n<br>\n\n<p><a href=\"https://www.lasainteunion.org.uk/Admissions/Admissions-Appeals/\" target=\"_blank\">Admissions Policy Link</a></p>",
+        "admissionProcess": "<p>The governing body is responsible for the admission of up to 120 girls to Year 7 each year. Applications are welcome from girls of all backgrounds and denominations.</p>\n<br>\n<p>For more information, visit our website below:</p>\n<p><a href=\"https://www.lasainteunion.org.uk/Admissions/Admissions-Appeals/\" target=\"_blank\">Admissions Policy Link</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -6697,13 +6697,13 @@
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "Pupils explained clearly what they like best about the school - their teachers, the large grounds and the diversity of the community.",
+                    "text": "The school has high expectations of pupils\u2019 achievement. Pupils are keen to do well, and they are ambitious for their futures. Their successes are reflected in the outcomes they achieve.",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "Leaders expect all pupils to achieve their best. Pupils respond well to their teachers' expectations.",
+                    "text": "Pupils demonstrate kindness towards each other. Bullying is rare, and typically staff are effective in dealing with incidents if they occur. Pupils are kept safe and taught how to stay safe.",
                     "author": "Ofsted"
                 },
                 {
@@ -6763,7 +6763,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "There is a strong drive for social justice among the school community.",
+                    "text": "The programme for personal development is well considered. (\u2026) Additionally, pupils are taught to appreciate and respect difference. (\u2026) This means that pupils are well prepared for life in modern society.",
                     "author": "Ofsted"
                 },
                 {
@@ -7389,7 +7389,7 @@
             " The Royal Academy of Music",
             " Orchestra of the Age of Enlightenment"
         ],
-        "admissionProcess": "<p>Netley abides by the admissions criteria of Camden Council. Please refer to the booklet 'Starting School in Camden' which can be obtained from the council.</p>\n<br>\n\n<p>The school manages its own admissions to Early Education for Two year-olds and the Nursery for Three year-olds. Please note that attendance at two year-old provision guarantees a place in Nursery, if places are available. However, attendance at our Nursery does not guarantee admission to the Reception class.</p>\n<br>\n\n<p>Children who attend Nursery at any Camden school need to apply for a Reception class place through Camden's Central Admissions Website. <a href=\"https://www.eadmissions.org.uk/\" target=\"_blank\">eAdmissions</a>.</p>\n<br>\n\n<p>Admissions to Woodlands need an EHCP in place and is strictly through consultation with the Camden SEND team. We are unable to admit any child into our centre via the Netley admissions criteria.</p>",
+        "admissionProcess": "<p>Netley abides by the admissions criteria of Camden Council. Please refer to the booklet 'Starting School in Camden' which can be obtained from the council.</p>\n<br>\n<p>The school manages its own admissions to Early Education for Two year-olds and the Nursery for Three year-olds. Please note that attendance at two year-old provision guarantees a place in Nursery, if places are available. However, attendance at our Nursery does not guarantee admission to the Reception class.</p>\n<br>\n<p>Children who attend Nursery at any Camden school need to apply for a Reception class place through Camden's Central Admissions Website: <a href=\"https://www.eadmissions.org.uk/\" target=\"_blank\">eAdmissions</a>.</p>\n<br>\n<p>Admissions to Woodlands need an EHCP in place and is strictly through consultation with the Camden SEND team. We are unable to admit any child into our centre via the Netley admissions criteria.</p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -7563,7 +7563,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022436_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022436_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -7872,7 +7872,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022438_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022438_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -8292,7 +8292,7 @@
             "Multi-Sports",
             "Residential Trips in Year 5 and Year 6"
         ],
-        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below.</p>\n\n<br>\n\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions Policy Link</a></p>\n\n<br>\n\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">Camden In-Year Admissions Policy Link</a></p>",
+        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions Policy Link</a></p>\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">Camden In-Year Admissions Policy Link</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -8489,7 +8489,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022475_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022475_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -8569,7 +8569,7 @@
             "Art Club",
             "Duke of Edinburgh Award"
         ],
-        "admissionProcess": "<p>We abide by the admissions criteria of Camden Local Authority. Details can be found on the websites linked below:</p>\n\n<ul>\n  <li><a href=\"https://www.camden.gov.uk/secondary-school-admissions\">Camden Secondary School Admissions Policy</a></li>\n  <li><a href=\"https://www.camden.gov.uk/inyearschooladmissions\">Camden In-Year School Admissions Policy</a></li>\n</ul>",
+        "admissionProcess": "<p>We abide by the admissions criteria of Camden Local Authority. Details can be found on the websites linked below:</p>\n<p><a href=\"https://www.camden.gov.uk/secondary-school-admissions\" target=\"_blank\">Camden Secondary School Admissions Policy</a></p>\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">Camden In-Year School Admissions Policy</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -8893,7 +8893,7 @@
             "Family Learning sessions",
             "Inclusive sports KS2"
         ],
-        "admissionProcess": "<p>We follow Camden Admissions criteria. Details can be found on the school website here: <a href=\"https://www.rhylprim.camden.sch.uk/school-info/admissions/\">Rhyl Primary School Admissions Policy</a>.</p>",
+        "admissionProcess": "<p>We follow Camden Admissions criteria. Details can be found on the school website here:</p>\n<p><a href=\"https://www.rhylprim.camden.sch.uk/school-info/admissions/\" target=\"_blank\">Rhyl Primary School Admissions Policy</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -9108,7 +9108,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022502_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022502_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -9173,7 +9173,7 @@
             "Storytelling Club",
             "After school playcentre collection with Fairfield and Plot 10"
         ],
-        "admissionProcess": "<p>Richard Cobden School abides by the admissions criteria of Camden Local Authority. Details can be found on the websites linked below:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\">Camden Primary Admissions</a></p>\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">In-Year School Admissions Policy</a></p>",
+        "admissionProcess": "<p>Richard Cobden School abides by the admissions criteria of Camden Local Authority. Details can be found on the websites linked below:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">In-Year School Admissions Policy</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -9405,7 +9405,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022507_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022507_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -9477,7 +9477,7 @@
             "Animation",
             "Gymnastics"
         ],
-        "admissionProcess": "<p>Everyone is welcome at Rosary! We hold regular open mornings and encourage you to come along and see for yourself whether our wonderful school is the right fit for you and your child.</p>\n<br>\n<p><a href=\"https://www.rosary.camden.sch.uk/wp-content/uploads/2024/11/ROSARY-CATHOLIC-PRIMARY-SCHOOL-ADMISSIONS-POLICY-2025-2026.pdf\">Rosary Admissions Policy 2025-2026</a></p>",
+        "admissionProcess": "<p>Everyone is welcome at Rosary! We hold regular open mornings and encourage you to come along and see for yourself whether our wonderful school is the right fit for you and your child.</p>\n<p><a href=\"https://www.rosary.camden.sch.uk/wp-content/uploads/2024/11/ROSARY-CATHOLIC-PRIMARY-SCHOOL-ADMISSIONS-POLICY-2025-2026.pdf\" target=\"_blank\">Rosary Admissions Policy 2025-2026</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -9710,7 +9710,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023391_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023391_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -9779,7 +9779,7 @@
             "After school play centre collection with Coram's Fields ",
             "Choir and Orchestra"
         ],
-        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below:</p>\n\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\">Camden Primary Admissions</a></p>\n\n<p><a href=\"https://www.stalbanscamden.co.uk/admissions-to-our-school/\">St Alban's School Admissions</a></p>",
+        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>\n<p><a href=\"https://www.stalbanscamden.co.uk/admissions-to-our-school/\" target=\"_blank\">St Alban's School Admissions</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -10000,7 +10000,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023398_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023398_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -10048,25 +10048,33 @@
         "prevYearCatchmentRadius": null,
         "postCode": "NW6 4LS",
         "facilities": [
-            "Breakfast Club.  After School Enrichment Clubs.  Links to after school play schemes.  Specialist Music Teacher.  Peripatetic Music Teachers.  Specialist Spanish Teacher (all year groups). Specialist PE Coach.  Class libraries (every class).  Termly football tournament."
+            "Breakfast Club",
+            " After School Enrichment Clubs",
+            " Links to after school play schemes",
+            " Specialist music teacher",
+            " Peripatetic music teachers",
+            " Specialist Spanish teacher (all year groups)",
+            " Specialist PE coach",
+            " Class libraries (every class)",
+            " Termly football tournament"
         ],
         "activities": [
-            "martial arts",
-            "book club",
-            "maths challenge club",
-            "chess and board games club",
-            "Spanish club",
-            "football club",
-            "cricket and rounders club",
-            "arts and crafts club",
-            "homework club",
-            "dance club",
-            "athletics club",
-            "individual and group musical instrument lessons",
-            "Camden music festivals at The Royal Albert Hall",
-            "Termly music concerts in school",
-            "PTFA Family Discos x 2 a year",
-            "PTFA BBQ ",
+            "Martial Arts",
+            "Book Club",
+            "Maths Challenge Club",
+            "Chess And Board Games Club",
+            "Spanish Club",
+            "Football Club",
+            "Cricket And Rounders Club",
+            "Arts And Crafts Club",
+            "Homework Club",
+            "Dance Club",
+            "Athletics Club",
+            "Individual And Group Musical Instrument Lessons",
+            "Camden Music Festivals At The Royal Albert Hall",
+            "Termly Music Concerts In School",
+            "Ptfa Family Discos X 2 A Year",
+            "Ptfa Bbq ",
             "Christmas Carol Service ",
             "Christmas Parties ",
             "Movie Night"
@@ -10285,7 +10293,7 @@
         },
         "support": {
             "childSafetyAndHappiness": "<p>We are committed to providing a safe, nurturing, and stimulating learning environment for every child. Ofsted state (October 2023): \"Staff and pupils have very positive relationships. Pupils trust staff to help them if they have any worries and, therefore, they feel safe.\" We hold Safeguarding as our highest priority. All staff are vigilant about keeping children safe. Our school leaders regularly talk to groups of pupils about how they feel about issues such as bullying. We foster good behaviour that keeps everyone safe through our teaching of the values of our school.</p>\n<br>\n<p>The Christian Values are modelled by our teaching staff, and every child can explain how they Go Shine in the World. We go beyond the National Curriculum when we teach children Keeping Safe Studies. Through discussion and practical lessons, the children in every class are taught about: road safety, first aid, online safety, and keeping myself safe.</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/st-eugene-de-mazenod-catholic-primary-school/UploadedDocument/b515c8a3-5cc2-4b78-8145-fc518b21bf30/cp-and-safeguarding-policy.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
-            "bullyingProtection": "<p>Good behaviour in school is essential to a good education. We work in partnership with parents to foster positive behaviour and grow good citizens of the future, who will treat others with respect and kindness. We teach about good behaviour, promote and reinforce it. Ofsted states: \"Staff have consistently high expectations of pupils\u2019 behaviour. As a result, pupils\u2019 behaviour is excellent, both in and out of lessons.\"</p>\n<br>\n<p>We have a simple, clear, and effective Behaviour and Anti-Bullying Policy which outlines how we deal effectively with bullying. We are vigilant about bullying and will always tackle it, working with both the target and the perpetrator to ensure that the bullying stops and stays stopped. We are clear with children about all elements of unacceptable behaviour but also teach what is and what is not bullying. Parents and carers are always informed, and we work in partnership with them to address bullying.</p><p><a href=https://primarysite-prod-sorted.s3.amazonaws.com/st-eugene-de-mazenod-catholic-primary-school/UploadedDocument/c8fcbb9b-5fbe-43fe-9e99-a3ca62a5c233/behaviour-and-anti-bullying-poli target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "bullyingProtection": "<p>Good behaviour in school is essential to a good education. We work in partnership with parents to foster positive behaviour and grow good citizens of the future, who will treat others with respect and kindness. We teach about good behaviour, promote and reinforce it. Ofsted states: \"Staff have consistently high expectations of pupils\u2019 behaviour. As a result, pupils\u2019 behaviour is excellent, both in and out of lessons.\"</p>\n<br>\n<p>We have a simple, clear, and effective Behaviour and Anti-Bullying Policy which outlines how we deal effectively with bullying. We are vigilant about bullying and will always tackle it, working with both the target and the perpetrator to ensure that the bullying stops and stays stopped. We are clear with children about all elements of unacceptable behaviour but also teach what is and what is not bullying. Parents and carers are always informed, and we work in partnership with them to address bullying.</p><p><a href=https://primarysite-prod-sorted.s3.amazonaws.com/st-eugene-de-mazenod-catholic-primary-school/UploadedDocument/c8fcbb9b-5fbe-43fe-9e99-a3ca62a5c233/behaviour-and-anti-bullying-policy-updated-23.01.25.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
             "attendanceManagement": "<p>At St Eugene's, we are committed to fostering a positive and engaging learning environment that encourages regular attendance, ensuring that every child has the opportunity they deserve to succeed and thrive. Clear and consistent communication is maintained with pupils and parents about attendance policies and expectations.</p>\n<br>\n<p>When joining St Eugene's, we ask parents and carers to sign a Home-School Agreement, committing to ensure their child attends school every day and arrives on time. Senior leaders regularly monitor attendance and punctuality records thoroughly to ensure that any issues are identified early and acted upon swiftly.</p>\n<br>\n<p>Actions include clear communication about individual attendance rates, and where necessary, parents are invited to meet with senior leaders and with an Inclusion Officer so that any barriers to good attendance can be overcome and support can be offered. We celebrate and reward good attendance with certificates, special assemblies, and badges.</p>\n<br>\n<p>We know that every school day counts in order for children to have the best attainment, progress, and well-being.</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/st-eugene-de-mazenod-catholic-primary-school/UploadedDocument/89da907c-3a6c-4d54-a5fd-f8c2dcc2f264/attendance-policy-2024-25-updated-4.11.24-web-version.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
         },
         "achievement": {
@@ -10301,7 +10309,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023649_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023649_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -10374,7 +10382,7 @@
             "After-School Playcentre at Coram's Fields",
             "Camden Music Festival at The Royal Albert Hall"
         ],
-        "admissionProcess": "<p>We are delighted that you are considering St George the Martyr for your child. To take things further, please read our admissions policy, complete the application form, and bring it to the school office.</p>\n\n<p>You will find the admissions policy and application form in the link below:</p>\n\n<p><a href=\"https://www.stgeorge.camden.sch.uk/page/?title=Admissions+Policy+and+Application+Forms&pid=32\" target=\"_blank\">Admissions Policy Link</a></p>",
+        "admissionProcess": "<p>We are delighted that you are considering St George the Martyr for your child. To take things further, please read our admissions policy, complete the application form, and bring it to the school office.</p>\n<p>You will find the admissions policy and application form in the link below:</p>\n<p><a href=\"https://www.stgeorge.camden.sch.uk/page/?title=Admissions+Policy+and+Application+Forms&pid=32\" target=\"_blank\">St George Admissions</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -10600,7 +10608,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023441_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023441_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -10675,7 +10683,7 @@
             "After school play centre at Drangon's Hall",
             "Camden Music Festival at The Royal Albert Hall"
         ],
-        "admissionProcess": "<p>We are delighted that you are considering St Joseph's for your child. To take things further, please read our admissions policy, complete the application form, and bring it to the school office.</p>\n\n<p>You will find the admissions policy and application form in the policies section of the school's website.</p>",
+        "admissionProcess": "<p>We are delighted that you are considering St Joseph's for your child. To take things further, please read our admissions policy, complete the application form, and bring it to the school office.</p>\n<p>You will find the admissions policy and application form in the policies section of the school's website.</p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -10886,7 +10894,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023482_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023482_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -10961,7 +10969,7 @@
             "SEND Parents Coffee Mornings",
             "Year 6 Transition Programme "
         ],
-        "admissionProcess": "<p>Nursery and in-year admissions: apply directly via the school office <a href=\"tel:+442073876117\">0207 387 6117</a> or <a href=\"mailto:admin@stmp.camden.sch.uk\">admin@stmp.camden.sch.uk</a></p>\n\n<p>Reception admissions are via Camden:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions?gad_source=1&gclid=EAIaIQobChMI_pzt5NHMiQMVq5NQBh2Cxwr8EAAYASAAEgLfLfD_BwE\" target=\"_blank\">Camden Admissions Policy Link</a>.</p>",
+        "admissionProcess": "<p>For nursery and in-year admissions, apply directly via the school office:</p>\n<p><a href=\"tel:+442073876117\">0207 387 6117</a> or <a href=\"mailto:admin@stmp.camden.sch.uk\" target=\"_blank\">admin@stmp.camden.sch.uk</a></p>\n<br>\n<p>Reception admissions are via Camden:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions?gad_source=1&gclid=EAIaIQobChMI_pzt5NHMiQMVq5NQBh2Cxwr8EAAYASAAEgLfLfD_BwE\" target=\"_blank\">Camden Admissions Policy</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -11187,7 +11195,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023521_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023521_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -11264,7 +11272,7 @@
             "Camden Music Festival at the Royal Albert Hall",
             "After school play centre at PACE Fortune Green"
         ],
-        "admissionProcess": "<p>We are delighted that you are considering St Mary's for your child. To take things further, please read our admissions policy, complete the application form and bring it to the school office. <a href=\"https://www.stmarykilburn.camden.sch.uk/page/?title=Admissions+policies+and+application+forms&pid=93\">Admissions Policies and Application Forms</a></p>\n<br>\n\n<p>If you are applying for a Reception class place for September, you will need to fill in both the St Mary's application form AND a Local Authority application form.</p>",
+        "admissionProcess": "<p>We are delighted that you are considering St Mary's for your child. To take things further, please read our admissions policy, complete the application form and bring it to the school office: <a href=\"https://www.stmarykilburn.camden.sch.uk/page/?title=Admissions+policies+and+application+forms&pid=93\" target=\"_blank\">Admissions Policies and Application Forms</a></p>\n<br>\n<p>If you are applying for a Reception class place for September, you will need to fill in both the St Mary's application form AND a Local Authority application form.</p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -11490,7 +11498,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023517_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023517_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -11522,7 +11530,7 @@
         "description": "<p>At St. Patrick\u2019s, we offer a nurturing and secure environment that fosters both intellectual and personal growth and creativity for children. Every day, our pupils learn the skills they need to become successful, well-balanced young people.</p>\n<br>\n<p>Our dedicated staff strive to make your child\u2019s school experience engaging and rewarding, helping them progress confidently to the next phase of their education. We collaborate closely with parents, students, governors, staff, and our successful partnership schools to ensure that every child receives the best possible foundation for their educational journey.</p>",
         "schoolLogo": "../assets/imgs/school/2023560_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100045",
-        "churchLink": "https://www.stpatricks.camden.sch.uk/page/?title=Catholic+inspection+report&pid=79",
+        "churchLink": "https://www.stpatricks.camden.sch.uk/page/?title=Catholic+inspection+report&pid=151",
         "websiteLink": "https://www.stpatricks.camden.sch.uk/",
         "type": "Primary inc. Nursery",
         "gender": "Mixed",
@@ -11567,7 +11575,7 @@
             "Y6 Booster Classes",
             "Choir and School Band"
         ],
-        "admissionProcess": "<p>We are delighted that you are considering St Patrick's for your child. If you would like to visit for a tour of the school with the headteacher, please call the office on 02072671200. For more information, please read our admissions policy, complete the application form and bring it to the school office.</p>\n<br>\n<p>You will find the admissions policy and application form in the policies section of the school's website below:</p>\n<br>\n<p><a href=\"https://www.stpatricks.camden.sch.uk/page/?title=Policies&pid=148\">St Patrick's Policies</a></p>",
+        "admissionProcess": "<p>We are delighted that you are considering St Patrick's for your child. If you would like to visit for a tour of the school with the headteacher, please call the office on 02072671200. For more information, please read our admissions policy, complete the application form and bring it to the school office.</p>\n<br>\n<p>You will find the admissions policy and application form in the policies section of the school's website below:</p>\n<p><a href=\"https://www.stpatricks.camden.sch.uk/page/?title=Policies&pid=148\" target=\"_blank\">St Patrick's Policies</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -11773,12 +11781,12 @@
             "strengths": "temp"
         },
         "support": {
-            "childSafetyAndHappiness": "<p>St. Patrick's prioritises the safety and happiness of every child. We create a warm, welcoming environment where every child feels valued and cared for. Our staff are trained to identify and respond to any concerns, and we maintain open communication with parents to ensure we\u2019re all working together for the child\u2019s well-being. We have clear rules, a strong anti-bullying policy, and regular check-ins with pupils to ensure they feel safe and supported.</p><p><a href=\"https://www.stpatricks.camden.sch.uk/attachments/download.asp?file=542&type=pdf \" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
-            "bullyingProtection": "<p>We are vigilant for signs of bullying and always take reports of incidents seriously. We educate pupils regularly about what bullying is and how to respond if they encounter it. Staff act swiftly and thoroughly to resolve any incidents of bullying. A robust anti-bullying policy is in place which encourages pupils to be 'upstanders' rather than bystanders, promoting a culture of kindness and respect.</p><p><a href=https://www.stpatricks.camden.sch.uk/attachments/download.asp?file=542&type=pdf  target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
-            "attendanceManagement": "<p>At St Patrick's, we are committed to fostering a positive and engaging learning environment that encourages regular attendance, ensuring every child has the opportunity they deserve to succeed and thrive. Therefore, clear and consistent communication is maintained with pupils and parents about attendance policies and expectations.</p>\n<br>\n<p>When joining St Patrick's, we ask parents and carers to sign a Home-School Agreement, committing to ensure their child attends school every day and arrives on time. Senior leaders regularly monitor attendance and punctuality records thoroughly to ensure that any issues are identified early and acted upon swiftly. Actions include clear communication about individual attendance rates and where necessary, parents are invited to meet with senior leaders and with an Attendance Officer so that any barriers to good attendance can be overcome.</p>\n<br>\n<p>We celebrate and reward good attendance with certificates, special assemblies and various incentives to motivate and recognise excellence.</p><p><a href=\"https://www.stpatricks.camden.sch.uk/attachments/download.asp?file=396&type=pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+            "childSafetyAndHappiness": "<p>St. Patrick's prioritises the safety and happiness of every child. We create a warm, welcoming environment where every child feels valued and cared for. Our staff are trained to identify and respond to any concerns, and we maintain open communication with parents to ensure we\u2019re all working together for the child\u2019s well-being. We have clear rules, a strong anti-bullying policy, and regular check-ins with pupils to ensure they feel safe and supported.</p><p><a href=\"https://www.stpatricks.camden.sch.uk/attachments/download.asp?file=38&type=pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>We are vigilant for signs of bullying and always take reports of incidents seriously. We educate pupils regularly about what bullying is and how to respond if they encounter it. Staff act swiftly and thoroughly to resolve any incidents of bullying. A robust anti-bullying policy is in place which encourages pupils to be 'upstanders' rather than bystanders, promoting a culture of kindness and respect.</p><p><a href=https://www.stpatricks.camden.sch.uk/attachments/download.asp?file=35&type=pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>At St Patrick's, we are committed to fostering a positive and engaging learning environment that encourages regular attendance, ensuring every child has the opportunity they deserve to succeed and thrive. Therefore, clear and consistent communication is maintained with pupils and parents about attendance policies and expectations.</p>\n<br>\n<p>When joining St Patrick's, we ask parents and carers to sign a Home-School Agreement, committing to ensure their child attends school every day and arrives on time. Senior leaders regularly monitor attendance and punctuality records thoroughly to ensure that any issues are identified early and acted upon swiftly. Actions include clear communication about individual attendance rates and where necessary, parents are invited to meet with senior leaders and with an Attendance Officer so that any barriers to good attendance can be overcome.</p>\n<br>\n<p>We celebrate and reward good attendance with certificates, special assemblies and various incentives to motivate and recognise excellence.</p><p><a href=\"https://www.stpatricks.camden.sch.uk/attachments/download.asp?file=57&type=pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
         },
         "achievement": {
-            "academicChildSuccess": "<p>At St Patrick\u2019s, we set the highest expectations for what our pupils can achieve. Students explore a wide variety of subjects, and from Year One, they engage with concepts that challenge and extend their learning beyond typical expectations for their age.</p>\n<br>\n<p>Our curriculum, crafted by expert teachers, equips children with the knowledge, skills, and cultural insights necessary to succeed. Each subject is carefully structured to build knowledge and skills progressively, ensuring that learning is well-organized and reinforces prior knowledge. This approach helps children retain information and form meaningful connections throughout their education.</p>\n<br>\n<p>As Ofsted noted, \u201cThe school has an ambitious and carefully designed curriculum that builds pupils\u2019 knowledge and skills over time. The school has worked to ensure that the curriculum is broad and engaging. In subjects such as mathematics and English, what is taught is particularly well sequenced, helping pupils to build strong foundations in their learning and progress confidently through the curriculum.\u201d</p>\n<br>\n<p>We also offer a robust programme of continuous professional development, ensuring our staff are always improving their skills and effectiveness. Located in central London, we use the city as an extension of our classroom, offering a wide range of off-site visits and inviting guest speakers to further enrich our pupils\u2019 learning experiences.</p><p><a href=\"https://stpatricks.ovw2.juniperwebsites.co.uk/page/?title=Our+Curriculum&pid=9\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
+            "academicChildSuccess": "<p>At St Patrick\u2019s, we set the highest expectations for what our pupils can achieve. Students explore a wide variety of subjects, and from Year One, they engage with concepts that challenge and extend their learning beyond typical expectations for their age.</p>\n<br>\n<p>Our curriculum, crafted by expert teachers, equips children with the knowledge, skills, and cultural insights necessary to succeed. Each subject is carefully structured to build knowledge and skills progressively, ensuring that learning is well-organized and reinforces prior knowledge. This approach helps children retain information and form meaningful connections throughout their education.</p>\n<br>\n<p>As Ofsted noted, \u201cThe school has an ambitious and carefully designed curriculum that builds pupils\u2019 knowledge and skills over time. The school has worked to ensure that the curriculum is broad and engaging. In subjects such as mathematics and English, what is taught is particularly well sequenced, helping pupils to build strong foundations in their learning and progress confidently through the curriculum.\u201d</p>\n<br>\n<p>We also offer a robust programme of continuous professional development, ensuring our staff are always improving their skills and effectiveness. Located in central London, we use the city as an extension of our classroom, offering a wide range of off-site visits and inviting guest speakers to further enrich our pupils\u2019 learning experiences.</p><p><a href=\"https://www.stpatricks.camden.sch.uk/page/?title=Our+approach+to+teaching+%28pedagogy%29&pid=180\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
             "chartsPerform": [
                 {
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
@@ -11790,7 +11798,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023560_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023560_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -11808,8 +11816,8 @@
             "wherePupilsGoAfter": "<p>At St Patrick's, we lay a strong foundation for our pupils' future success. We focus on developing essential skills, such as critical thinking, problem-solving, and effective communication, which are crucial for their continued education and beyond.</p>\n<br>\n<p>Our nurturing environment encourages curiosity and a love for learning, helping pupils become confident and independent thinkers. Aware of the importance of expanding our pupils\u2019 life experiences and raising their aspirations, we provide them with a wealth of local and national cultural opportunities.</p>\n<br>\n<p>By introducing them to the finest ideas and achievements, we foster an appreciation for human creativity and success, broadening their perspectives and helping them build the confidence they need for the next stage of their education.</p>\n<br>\n<p>Our programme of visits and guest speakers exposes students to a variety of aspirational careers and ensures they gain a solid understanding of financial literacy, British values (including democracy), and more.</p>"
         },
         "SEND": {
-            "sendSupportInfo": "<p>We are dedicated to providing a supportive and inclusive environment for children with special educational needs and disabilities. In partnership with governors, parents, and the local community, we strive to deliver a broad and balanced curriculum that promotes high achievement for all children, developing within the individual self-confidence, motivation, aspiration, and the ability to work with others.</p>\n<br>\n<p>We offer a range of support for children with special educational needs so that they can thrive academically, socially, and emotionally. Staff work closely with pupils and parents to develop support plans that cater to a child's unique needs and strengths. We collaborate and actively involve parents, teachers, and other specialists in the planning and implementation of these support plans.</p>\n<br>\n<p>Ofsted agree that at St Patrick's, \u201cPupils with special educational needs and/or disabilities (SEND) benefit from tailored support. Teachers and leaders work closely with families to understand each pupil\u2019s needs and ensure that pupils can access the full curriculum.\u201d</p><p><a href=\"https://www.stpatricks.camden.sch.uk/policies/\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
-            "inclusivePracticeInfo": "<p>We ensure that all pupils have access to a broad and balanced curriculum and provide an adapted curriculum appropriate to the individual\u2019s needs and ability. Early identification of pupils requiring SEND provision is our priority.</p>\n<br>\n<p>Pupils with SEND take as full a part as possible in all school activities, and parents of pupils with SEND are kept fully informed of their child\u2019s progress and attainment throughout the year.</p><p><a href=\"https://www.stpatricks.camden.sch.uk/policies/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+            "sendSupportInfo": "<p>We are dedicated to providing a supportive and inclusive environment for children with special educational needs and disabilities. In partnership with governors, parents, and the local community, we strive to deliver a broad and balanced curriculum that promotes high achievement for all children, developing within the individual self-confidence, motivation, aspiration, and the ability to work with others.</p>\n<br>\n<p>We offer a range of support for children with special educational needs so that they can thrive academically, socially, and emotionally. Staff work closely with pupils and parents to develop support plans that cater to a child's unique needs and strengths. We collaborate and actively involve parents, teachers, and other specialists in the planning and implementation of these support plans.</p>\n<br>\n<p>Ofsted agree that at St Patrick's, \u201cPupils with special educational needs and/or disabilities (SEND) benefit from tailored support. Teachers and leaders work closely with families to understand each pupil\u2019s needs and ensure that pupils can access the full curriculum.\u201d</p><p><a href=\"https://www.stpatricks.camden.sch.uk/attachments/download.asp?file=41&type=pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>We ensure that all pupils have access to a broad and balanced curriculum and provide an adapted curriculum appropriate to the individual\u2019s needs and ability. Early identification of pupils requiring SEND provision is our priority.</p>\n<br>\n<p>Pupils with SEND take as full a part as possible in all school activities, and parents of pupils with SEND are kept fully informed of their child\u2019s progress and attainment throughout the year.</p><p><a href=\"https://www.stpatricks.camden.sch.uk/attachments/download.asp?file=40&type=pdf\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     },
     {
@@ -11862,7 +11870,7 @@
             "Camden Music Festival",
             "Camden Cross Country"
         ],
-        "admissionProcess": "<p>Our children are drawn from both the immediate local area and the Church community around St Mary's Parish. Families can apply for a foundation/ Church place using the Supplementary Application form.</p>\n\n\n<p>Other applications can be made through Camden School Admissions procedures. <a href=\"https://www.stpauls.camden.sch.uk/Our-School/Admissions/\" target=\"_blank\">Admissions Policy Link</a></p>",
+        "admissionProcess": "<p>Our children are drawn from both the immediate local area and the Church community around St Mary's Parish. Families can apply for a foundation / Church place using the Supplementary Application form. Other applications can be made through Camden School Admissions procedures.</p>\n<p><a href=\"https://www.stpauls.camden.sch.uk/Our-School/Admissions/\" target=\"_blank\">Admissions Policy Link</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -12086,7 +12094,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2023568_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2023568_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -12179,7 +12187,7 @@
             "Trampoline",
             "Volleyball"
         ],
-        "admissionProcess": "<p>We abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below. As an academy we are also able to offer places via our Art Scholars programme.</p>\n\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">Camden Admissions Policy Link</a></p>\n<p><a href=\"https://uclacademy.co.uk/curriculum/art-department\" target=\"_blank\">UCL Admissions Policy Link</a></p>",
+        "admissionProcess": "<p>We abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below. As an academy we are also able to offer places via our Art Scholars programme.</p>\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">Camden Admissions Policy Link</a></p>\n<p><a href=\"https://uclacademy.co.uk/curriculum/art-department\" target=\"_blank\">UCL Admissions Policy Link</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -12535,7 +12543,7 @@
             "After school play centre collection with Camden Square",
             "Orchestra"
         ],
-        "admissionProcess": "<p>We follow the Camden admissions procedure: <a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>\n<br>\n\n<p>Admissions into Reception are managed by Camden Education Authority. Apply directly to the school for in-year and Nursery admissions.</p>\n<br>\n\n<p>Nursery admissions are handled internally by the school, following Camden\u2019s admissions criteria. A Nursery place does not guarantee you a place in Reception.</p>\n<br>\n\n<p>The school admissions policy can be found here: <a href=\"https://torriano.camden.sch.uk/2021/09/28/admissions/\" target=\"_blank\">Torriano Admissions Policy</a></p>",
+        "admissionProcess": "<p>We follow the Camden admissions procedure: <a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>\n<br>\n<p>Admissions into Reception are managed by Camden Education Authority. Apply directly to the school for in-year and Nursery admissions.</p>\n<br>\n<p>Nursery admissions are handled internally by the school, following Camden\u2019s admissions criteria. A Nursery place does not guarantee you a place in Reception.</p>\n<br>\n<p>The school admissions policy can be found here: <a href=\"https://torriano.camden.sch.uk/2021/09/28/admissions/\" target=\"_blank\">Torriano Admissions Policy</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -12772,7 +12780,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022603_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022603_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -12843,7 +12851,7 @@
             "Newspaper Team",
             "Chess Club"
         ],
-        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below:</p>\n\n<ul>\n    <li><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></li>\n    <li><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">Camden In-Year School Admissions</a></li>\n</ul>",
+        "admissionProcess": "<p>We strictly abide by the admissions criteria of Camden Local Authority. Details can be found on the websites below:</p>\n<p><a href=\"https://www.camden.gov.uk/primary-admissions\" target=\"_blank\">Camden Primary Admissions</a></p>\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">Camden In-Year School Admissions</a></p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -13081,7 +13089,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2022036_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2022036_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
@@ -13159,7 +13167,7 @@
             "Student informal bands",
             "Art and museum trips"
         ],
-        "admissionProcess": "<p>All information about admissions can be found at <a href=\"https://www.williamellis.camden.sch.uk/admissions-information\" target=\"_blank\">William Ellis Admissions Information</a>.</p>\n\n<p>We offer priority places to students with siblings at Parliament Hill and La Sainte Union, and up to 10% of places for students who show an aptitude in Music.</p>",
+        "admissionProcess": "<p>All information about admissions can be found at <a href=\"https://www.williamellis.camden.sch.uk/admissions-information\" target=\"_blank\">William Ellis Admissions Information</a></p>\n<br>\n<p>We offer priority places to students with siblings at Parliament Hill and La Sainte Union, and up to 10% of places for students who show an aptitude in Music.</p>",
         "tabs": {
             "schoolViews": [
                 {
@@ -13529,7 +13537,7 @@
             "Camden Square Playcentre",
             "After School Club at Netley"
         ],
-        "admissionProcess": "<p>Robson House has on-site provision for up to 20 children between the ages of 5 and 11. There are four classes taught by a teacher and Children Support Workers. These places are reserved for children who are currently resident in the London Borough of Camden.</p>  \n<br>  \n<p>Children come to Robson House in one of three ways:</p>  \n<br>  \n<ul>\n  <li>As a result of placement by Camden\u2019s Special Educational Needs Team</li>  \n  <li>Through a managed move agreed by Camden\u2019s Primary Inclusion Forum</li>  \n  <li>Following a permanent exclusion from a mainstream school</li>  \n</ul>",
+        "admissionProcess": "<p>Robson House has on-site provision for up to 20 children between the ages of 5 and 11. There are four classes taught by a teacher and Children Support Workers. These places are reserved for children who are currently resident in the London Borough of Camden.</p>  \n<br>  \n<p>Children come to Robson House in one of three ways:</p>  \n<br>  \n<ul>\n  <li>As a result of placement by Camden\u2019s Special Educational Needs Team</li> \n  <li>Through a managed move agreed by Camden\u2019s Primary Inclusion Forum</li>\n  <li>Following a permanent exclusion from a mainstream school</li>\n</ul>",
         "tabs": {
             "schoolViews": [
                 {
@@ -13746,7 +13754,7 @@
                     "chartTitle": "Progress from years 2 to 6 (2023):",
                     "chartImg": "../assets/imgs/charts/2021101_chart_ks2_prog.png",
                     "chartComparationImg": "../assets/imgs/charts/2021101_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
                 }
             ],
             "chartsProm": [
