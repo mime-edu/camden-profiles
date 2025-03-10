@@ -19,6 +19,14 @@
 		<script src="../assets/scripts/schoolContext.js" defer></script>
 		<title>School & Community Context</title>
 	</head>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-B24X174GC7"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-B24X174GC7');
+	</script>
 	<body id="schoolContext" class="schoolPage" v-cloak>
 		<header class="header__school">
 			<div class="header__container">
@@ -184,7 +192,7 @@
 
 							<div class="statistics__navogation statistics-nav">
 								<button currentBlock="1" class="statistics-nav__button active">Our pupils</button>
-								<button currentBlock="2" class="statistics-nav__button">Our workforce</button>
+								<!-- <button currentBlock="2" class="statistics-nav__button">Our workforce</button> -->
 								<button currentBlock="3" class="statistics-nav__button">Our finances</button>
 							</div>
 							<div v-if="currentInfoBlock == 1" class="statistics__block statistics-block">
@@ -200,14 +208,14 @@
 										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>324</span></p>
 									</div> -->
 								</div>
-								<div class="statistics-block__sector stats-sector">
+								<!-- <div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">% Disadvantaged pupils</p>
 									<p class="stats-sector__description">{{school.statistics.disadvantagedPupilsPercent}}%</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>43%</span></p>
 										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>26%</span></p>
 									</div>
-								</div>
+								</div> -->
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">% English as an additional language</p>
 									<p class="stats-sector__description">{{school.statistics.englishAdditionalLangPercent}}%</p>
@@ -217,7 +225,7 @@
 									</div>
 								</div>
 								<div class="statistics-block__sector stats-sector">
-									<p class="stats-sector__name">Specific languages spoken (>10 pupils)</p>
+									<p class="stats-sector__name">Specific languages include</p>
 									<div class="info-tags__block">
 										<div v-for="language in school.statistics.specificLanguages" class="info-tag"><span>{{language}}</span></div>
 										<!-- <div class="info-tag"><span>English</span></div>
@@ -228,16 +236,16 @@
 										<div class="info-tag"><span>Japanese</span></div> -->
 									</div>
 								</div>
-								<div class="statistics-block__sector stats-sector">
+								<!-- <div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">% BME</p>
 									<p class="stats-sector__description">{{school.statistics.BMEPercent}}%</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>76%</span></p>
 										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>74%</span></p>
 									</div>
-								</div>
+								</div> -->
 								<div class="statistics-block__sector stats-sector">
-									<p class="stats-sector__name">Specific ethnicities represented (>10 pupils)</p>
+									<p class="stats-sector__name">Specific ethnicities represented include</p>
 									<div class="info-tags__block">
 										<div v-for="ethnicity in school.statistics.specificEthnicities" class="info-tag">
 											<span>{{ethnicity}}</span>
@@ -256,14 +264,14 @@
 										<div class="info-tag"><span>Other Pakistani</span></div> -->
 									</div>
 								</div>
-								<div class="statistics-block__sector stats-sector">
+								<!-- <div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">Special Educational Needs & Disabilities (SEND)</p>
 									<p class="stats-sector__description">{{school.statistics.SENDPercent}}%</p>
 									<div :class="{'_hidden': !showComparisonsInfo}" class="stats-sector__comparisons">
 										<p>Camden Average: <img src="../assets/imgs/stats-pink.png" alt="" /><span>16%</span></p>
 										<p>London Average: <img src="../assets/imgs/stats-orange.png" alt="" /><span>15%</span></p>
 									</div>
-								</div>
+								</div> -->
 								<div class="statistics-block__sector stats-sector">
 									<p class="stats-sector__name">Specific SEND needs supported (>5 pupils)</p>
 									<div class="info-tags__block">
