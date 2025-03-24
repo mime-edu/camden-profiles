@@ -10027,8 +10027,8 @@
         "schoolURN": 100047,
         "schoolName": "St Eugene de Mazenod Roman Catholic Primary School",
         "isPrimary": true,
-        "shortSlogan": "Go Shine in the World.",
-        "descriptionTitle": "Go Shine in the World.",
+        "shortSlogan": "Come and join St Eugene's, where all are welcome.  A nurturing school, with the highest standards of teaching and learning for every child.",
+        "descriptionTitle": "Come and join St Eugene's, where all are welcome.  A nurturing school, with the highest standards of teaching and learning for every child.",
         "description": "<p>St Eugene's is a warm, welcoming Catholic primary school that provides a caring, stable and intellectually stimulating environment for children. Our staff are committed to ensuring that your child\u2019s time at school is inspiring and productive, so that they can move confidently on to the next stage of their education.</p>\n<br>\n<p>We work closely with children, parents, governors, staff and our partnership schools to ensure that each and every child is given the best possible start on their educational journey. We serve our diverse local community by welcoming children of all faiths and those with no faith background: all are welcome.</p>",
         "schoolLogo": "../assets/imgs/school/2023649_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100047",
@@ -10635,9 +10635,9 @@
         "schoolURN": 100041,
         "schoolName": "St Joseph's Catholic Primary School",
         "isPrimary": true,
-        "shortSlogan": "Go Shine in the World",
-        "descriptionTitle": "Go Shine in the World",
-        "description": "<p>St Joseph\u2019s provides a caring, stable, intellectually and creatively stimulating environment for children.</p>\n\n<p>Our staff are committed to ensuring that your child\u2019s time at school is inspiring and productive, so that they can move confidently to the next stage of their education.</p>\n\n<p>We work closely with:</p>\n<ul>\n    <li>Parents</li>\n    <li>Children</li>\n    <li>Governors</li>\n    <li>Staff</li>\n    <li>Our partnership schools</li>\n</ul>\n\n<p>Our goal is to ensure that each and every child is given the best possible start on their educational journey.</p>",
+        "shortSlogan": "Nurturing Young Minds, Shaping Bright Futures.",
+        "descriptionTitle": "Nurturing Young Minds, Shaping Bright Futures.",
+        "description": "<p>St Joseph\u2019s provides a caring, stable, intellectually and creatively stimulating environment for children.</p>\n\n<p>Our staff are committed to ensuring that your child\u2019s time at school is inspiring and productive, so that they can move confidently to the next stage of their education.</p>\n\n<p>We collaborate closely with parents, students, governors, staff, and our successful partnership schools to ensure that every child receives the best possible foundation for their educational journey</p>\n<p>Our goal is to ensure that each and every child is given the best possible start on their educational journey.</p>",
         "schoolLogo": "../assets/imgs/school/2023482_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100041",
         "churchLink": "https://www.stjosephs.camden.sch.uk/catholic-inspection-report/",
@@ -10914,6 +10914,239 @@
         "SEND": {
             "sendSupportInfo": "<p>We are dedicated to providing a supportive and inclusive environment for children with special educational needs and disabilities.</p>\n\n<p>In partnership with governors, parents, and the local community, we strive to deliver a broad and balanced curriculum that promotes high achievement for all children, developing within the individual:</p>\n<ul>\n    <li>Self-confidence</li>\n    <li>Motivation</li>\n    <li>Aspiration</li>\n    <li>The ability to work with others</li>\n</ul>\n\n<p>We offer a range of support for children with special educational needs so that they can thrive academically, socially, and emotionally. Staff work closely with pupils and parents to develop support plans that cater to a child's unique needs and strengths.</p>\n\n<p>We collaborate and actively involve parents, teachers, and other specialists in the planning and implementation of these support plans.</p>\n\n<p>OFSTED agree that at St Joseph's, \"Pupils with special educational needs and/or disabilities (SEND) receive exceptional support to access the curriculum alongside their peers. All pupils achieve highly here.\"</p><p><a href=\"https://www.stjosephs.camden.sch.uk/policies/\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
             "inclusivePracticeInfo": "<p>We ensure that all pupils have access to a broad and balanced curriculum and provide an adapted curriculum appropriate to the individual\u2019s needs and ability.</p>\n\n<p>Early identification of pupils requiring SEND provision is our priority. Pupils with SEND take as full a part as possible in all school activities, and parents of pupils with SEND are kept fully informed of their child\u2019s progress and attainment.</p>\n\n<p>Where practicable, we ensure that pupils with SEND are involved in decisions affecting their future SEND provision.</p><p><a href=\"https://www.stjosephs.camden.sch.uk/policies/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
+        "schoolId": 2022000,
+        "schoolURN": 136807,
+        "schoolName": "St Luke's Church of England School",
+        "isPrimary": true,
+        "shortSlogan": "Educating through faith, hope & love.",
+        "descriptionTitle": "Educating through faith, hope & love.",
+        "description": "<p>St Luke\u2019s Church of England School serves the whole community, guided by Jesus\u2019 promise: \u201cI came to give life\u2014life in all its fullness\u201d (John 10:10). We believe every child deserves a high-quality education to thrive and lead a meaningful life.</p>\n<br>\n<p>Our pupils develop a love for learning, care for others, and an understanding of spiritual, mental, and physical well-being.</p>\n<br>\n<p>Rooted in Christian belief and practice, we support local children, families, and the community. Each term, we focus on core Christian values that uphold this vision, fostering an inclusive environment where everyone is equally respected and valued.</p>",
+        "schoolLogo": "../assets/imgs/school/2022000_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/136807",
+        "churchLink": "https://www.stlukesschool.org.uk/about-our-school/inspection-reports/",
+        "websiteLink": "https://www.stlukesschool.org.uk/",
+        "type": "Primary",
+        "gender": "Mixed",
+        "entryForms": "0.5",
+        "ageRange": [
+            "4",
+            "11"
+        ],
+        "address": "12 Kidderpore Avenue",
+        "lat": 51.557435,
+        "long": -0.193101,
+        "formsEntry": "0.5",
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW3 7SU",
+        "facilities": [
+            "St Luke's CE school was built into the undercroft of St Luke's Church Hampstead. Although we are small, we try to make the very best use of our setting and its location. We are a short walk from Hampstead Heath and our teachers use its facilities to explore and discover nature while supporting their learning. Our playground was redeveloped in 2020 with areas for the children to engage in play and sports, have outdoor learning sessions and grow their own plants. As a small school, we ask all of our families to support our school lunch programme. This means we do not offer a packed lunch option. Our children share a meal together every day to promote healthy eating."
+        ],
+        "activities": [
+            "Breakfast Club",
+            "Chess Club",
+            "KS2 Choir",
+            "Gardening Club",
+            "Library Club",
+            "Mandarin",
+            "Adventurers (St Luke's Church)",
+            "Karate",
+            "Multi-Sports",
+            "Tech Club",
+            "Walking Bus to Fortune Green PACE for after school care"
+        ],
+        "admissionProcess": "<p>St Luke\u2019s CE School is a half-form entry primary school, with 15 places in Reception Class available each year, before children move into mixed form classes of 30 children. All of our places are determined by distance and are allocated according to the criteria which is set out in our Admissions Policy. See the school website for more information:</p>\n<br>\n<a href=\"https://www.stlukesschool.org.uk/about-our-school/admissions/\" target=\"_blank\">Our School Admissions</a>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2022000_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils enjoy being part of this small and nurturing community. Pupils exemplify the school\u2019s \u2018golden rules\u2019 through their excellent behaviour in lessons and positive attitudes towards learning.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Excellent and compassionate relationships between and among adults and pupils lead to a harmonious learning environment in which pupils can thrive, learn and know that they are valued.",
+                    "author": "SIAMS"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "St Luke\u2019s is a warm, happy and welcoming school, where everyone appears valued and respected\u2026. there is a positive learning atmosphere in all classes.",
+                    "author": "Camden Professional Partner"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "SLS is a very caring school and you get to do different and exciting things \u2013 its fun school learning!",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I love coming to St Luke\u2019s \u2013 school is fun, the work is sometimes hard and sometimes easier\u2026  I like playtime because all the children are nice to play with.",
+                    "author": "Child"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2022000_1.jpg",
+                "../assets/imgs/school/2022000_2.jpg",
+                "../assets/imgs/school/2022000_3.jpg",
+                "../assets/imgs/school/2022000_4.jpg",
+                "../assets/imgs/school/2022000_5.jpg",
+                "../assets/imgs/school/2022000_6.jpg",
+                "../assets/imgs/school/2022000_7.jpg",
+                "../assets/imgs/school/2022000_8.jpg",
+                "../assets/imgs/school/2022000_9.jpg",
+                "../assets/imgs/school/2022000_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "St Luke's opened in 2011 and was the first Church of England free school in the country.                                ",
+                    "link": "/schoolContext/index.html?schoolId=2022000"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "Each term we focus on a different set of core Christian values which supports our vision and helps us to create an environment where everyone is valued equally. We offer weekly mentoring sessions for children in 6 week blocks and make use of Camden's Mental Health Support Team for transition and nurture groups.",
+                    "link": "/support/index.html?schoolId=2022000"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "<p>Our approach to equality is based on the following seven key principles:</p>\n<ul>\n  <li>All learners are of equal value.</li>\n  <li>We recognise, respect, and value difference and understand that diversity is a strength.</li>\n  <li>We foster positive attitudes and relationships.</li>\n  <li>We foster a shared sense of cohesion and belonging.</li>\n  <li>We observe good equalities practice for our staff.</li>\n  <li>We have the highest expectations of all our children.</li>\n  <li>We work to raise standards for all pupils, but especially for the most vulnerable.</li>\n</ul>",
+                    "link": "/SEND/index.html?schoolId=2022000"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "<p>Our children are assessed against a set of nationally agreed criteria, and our pupils\u2019 achievements are compared nationally with all those pupils of the same age and against schools in the local authority and in England.</p>\n<br>\n<p>Every year, children from St Luke\u2019s CE School move on to many different secondary schools \u2013 community, voluntary-aided, and independent \u2013 both within the borough of Camden and further afield.</p>",
+                    "link": "/achievement/index.html?schoolId=2022000"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "<p>As a half-form entry school, our children work in mixed-aged classes. St Luke's CE School teaches a 2-year rolling curriculum which ensures no topics are repeated and children make excellent progress.</p>",
+                    "link": "/curriculum/index.html?schoolId=2022000"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "To maintain the excellence in attainment and progress and to ensure opportunities for greater depth and mastery.",
+                    "description": "We clearly communicate high expectations to our children. We want to challenge our children and provide them with opportunities to apply their new knowledge. We encourage them to analyse their work and make improvements. "
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "To provide and enhance a broad and balanced curriculum that inspires pupils to learn and provides them with wider opportunities to excel.",
+                    "description": "We use subject specialist teachers and links within the wider community to support the high quality teaching of music, P.E and STEM subjects. Our children take part in opportunities each year to perform at the Royal Albert Hall and have links with the Francis Crick Institute to inspire scientific enquiry."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "To ensure that leaders at all levels demonstrate a deep and accurate understanding of the school\u2019s effectiveness.",
+                    "description": "Our leaders engage in termly coaching sessions and continuous professional development opportunities to ensure they are fully equipped to lead their specific subject areas."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 98,
+            "ethnicGroupsNum": 9,
+            "languagesNum": 8,
+            "SENDPercent": 8.2,
+            "BMEPercent": 64.3,
+            "disadvantagedPupilsPercent": 28.0,
+            "englishAdditionalLangPercent": 27.6,
+            "absencePercent": 5.0,
+            "persistentAbsenteesPercent": 13.2,
+            "specificLanguages": [
+                "English",
+                "Arabic",
+                "French",
+                "Italian",
+                "Spanish",
+                "Polish",
+                "Albanian",
+                "Persian/Farsi"
+            ],
+            "specificEthnicities": [
+                "White British",
+                "White European",
+                "Black African",
+                "White and Asian",
+                "White and Black Caribbean",
+                "Indian",
+                "Pakistani",
+                "Other mixed background",
+                "Other white background"
+            ],
+            "specificSEND": [
+                ""
+            ],
+            "qualifiedTeachersPercent": 100,
+            "pupilAdultRatio": 9.9,
+            "financialReserves": null,
+            "changeYearReserves": null
+        },
+        "curriculum": {
+            "curriculumAim": "<p>As a half-form entry school, our children work in mixed-aged classes. St Luke's CE School teaches a 2-year rolling curriculum which ensures no topics are repeated and children make excellent progress.</p>\n<br>\n<p>Although mixed-aged classes can be more challenging for our teachers to plan for, they also have many benefits. Teachers need to consider the support needs and starting points of the different groups of children in their class; they must ensure they know children\u2019s prior learning to build on it effectively.</p>\n<br>\n<p>Children get to build diverse and healthy relationships with friends from the year groups above and below. The older children become role models for the younger children, especially in modelling interpersonal skills, independence, and social skills. When older children work with younger children, they have opportunities to learn nurturing behaviours. In both cases, children can show a notable increase in self-esteem and confidence.</p><p><a href=\"https://www.stlukesschool.org.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Opportunities to recap and reinforce knowledge",
+                "Children have the same teacher over two years so they are familiar with the teacher, their routines and expectations.",
+                "A carefully balanced curriculum planned over two years to ensure secure subject knowledge"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>We want to ensure all members of our school community treat others with the utmost respect and care. Our starting point is always our overarching golden rule: \u201cTreat others as you want them to treat you\u201d (Luke 6:31). To help us achieve this, we all follow the school\u2019s \u2018Golden Rules\u2019.</p><p><a href=\"https://www.stlukesschool.org.uk/parents/policies/\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>In line with our Christian vision, at St Luke\u2019s CE School, staff, parents, and children work together to create a happy and caring learning environment with high expectations and standards of behaviour.</p>\n<br>\n<p>In our school, clear, consistently reinforced boundaries provide a framework for school to be a just place where adults and children are treated fairly. Behaviour which is disruptive or detrimental to others will always be dealt with firmly but with compassion and forgiveness.</p><p><a href=https://www.stlukesschool.org.uk/parents/policies/ target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>At St Luke\u2019s CE School, we want to ensure that all pupils receive a full-time education to maximise opportunities, attainment, well-being, and wider life chances for everybody to realise their potential. We aim for an environment which enables and encourages all members of the school community to strive for excellence and enjoyment in education. For our children to gain the greatest benefit from their education, it is vital that they attend regularly and punctually.</p>\n<br>\n<p>At St Luke\u2019s CE School, our objectives are to develop an ethos which demonstrates to children, parents and carers, and the wider community, the importance of good attendance and punctuality.</p><p><a href=\"https://www.stlukesschool.org.uk/parents/policies/\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>Our children are assessed against a set of nationally agreed criteria, and our pupils\u2019 achievements are compared nationally with all those pupils of the same age and against schools in the local authority and in England.</p>\n<br>\n<p><strong>Early Years Foundation Stage</strong><br>  \nWe monitor how well pupils are achieving and the extent to which they are meeting identified expectations in the Early Years Foundation Stage Profile, which helps to identify those who are achieving a good level of development and those who may need additional help.</p>\n<br>\n<p><strong>The Phonics Screening Test at the end of Year 1</strong><br>  \nThis assesses pupils\u2019 phonic skills as part of early reading.</p>\n<br>\n<p><strong>End of KS1 SATs</strong><br>  \nThese are no longer statutory, and we use them internally as teacher assessments, informed by tests, to measure where the children are at the end of KS1.</p>\n<br>\n<p><strong>End of KS2 SATs</strong><br>  \nThese are externally marked tests and internal teacher assessments that are used to measure progress up to the end of KS2.</p><p><a href=\"https://www.stlukesschool.org.uk/about-our-school/results/\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2022000_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022000_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2022000_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2022000_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>Every year, children from St Luke\u2019s CE School move on to many different secondary schools \u2013 community, voluntary-aided, and independent \u2013 both within the borough of Camden and further afield.</p>\n<br>\n<p>Each September, parents of the new Year 6 children will receive information from their local authority about open evenings in the local secondary schools.</p>\n<br>\n<p>The transition from primary education to secondary education can be a stressful time for both parents and children, and it\u2019s important to us that we limit the disruption as much as possible and make the switch as easy and as relaxed as we can.</p>\n<br>\n<p>In the Autumn Term, we hold an informal meeting to talk through the process of transfer to secondary school with parents. Parents who wish to consider a selective state school for their child are reminded of the need to apply for the selection tests in the Summer term of Year 5.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>St Luke\u2019s CE School is a school with a strong Christian ethos that is truly inclusive and actively celebrates diversity. We believe that all members of our community are of equal worth, and we want this to be the experience of everyone. We demonstrate our commitment to this by prioritising the well-being and progress of every child in our school and by striving to ensure that all members of our community are treated fairly in all situations.</p>\n<br>\n<p>We believe that the Equality Act provides us with a framework to support our commitment to valuing diversity, tackling discrimination, promoting equality, and fostering good relationships between people. It also ensures that we tackle any issues of disadvantage and underachievement of different groups represented in the school.</p><p><a href=\"https://www.stlukesschool.org.uk/parents/policies/\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>Our approach to equality is based on the following seven key principles:</p>\n<ul>\n  <li>All learners are of equal value.</li>\n  <li>We recognise, respect, and value difference and understand that diversity is a strength.</li>\n  <li>We foster positive attitudes and relationships.</li>\n  <li>We foster a shared sense of cohesion and belonging.</li>\n  <li>We observe good equalities practice for our staff.</li>\n  <li>We have the highest expectations of all our children.</li>\n  <li>We work to raise standards for all pupils, but especially for the most vulnerable.</li>\n</ul><p><a href=\"https://www.stlukesschool.org.uk/parents/policies/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     },
     {
