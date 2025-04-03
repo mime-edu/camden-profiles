@@ -1186,8 +1186,8 @@
                 "Black Caribbean",
                 "Other Black African ",
                 "Other Ethnic Group",
-                "white British",
-                "white and black Caribbean",
+                "White British",
+                "White and Black Caribbean",
                 "White European",
                 "White other",
                 "Any other Asian Background",
@@ -11779,7 +11779,7 @@
         "prevYearCatchmentRadius": null,
         "postCode": "NW5 3AH",
         "facilities": [
-            "Breakfast club",
+            "Breakfast Club",
             " After school enrichment clubs",
             " Specialist music teacher",
             " Specialist PE teacher",
@@ -13735,7 +13735,7 @@
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100007",
         "churchLink": "",
         "websiteLink": "https://www.robsonhouse.org.uk/",
-        "type": "Primary",
+        "type": "Specialist",
         "gender": "Mixed",
         "entryForms": "1",
         "ageRange": [
@@ -13978,27 +13978,27 @@
             "academicChildSuccess": "<p>We analyse pupils\u2019 progress on a term-by-term basis and calculate an annual rate of progress, even if a pupil stays with us for less than a year. Our on-going analysis indicates that pupils at Robson House close the gap between their own attainment and the expected national levels of attainment.</p>\n<br>\n<p>This means that on average, they are making progress in their learning at a rate faster than national expectations. Usually, pupils arrive at Robson House achieving below nationally expected academic levels. Once their social, emotional, and mental health needs are met at Robson House, they re-engage with learning and usually make rapid progress.</p>",
             "chartsPerform": [
                 {
-                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
-                    "chartImg": "../assets/imgs/charts/2021101_chart_ks2_rwm.png",
-                    "chartComparationImg": "../assets/imgs/charts/2021101_chart_ks2_rwm_school_only.png",
+                    "chartTitle": "Attainment 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2021101_chart_ks4_att8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2021101_chart_ks4_att8.png",
                     "chartDescription": "* No assessments during Covid-19"
                 },
                 {
-                    "chartTitle": "Progress from years 2 to 6 (2023):",
-                    "chartImg": "../assets/imgs/charts/2021101_chart_ks2_prog.png",
-                    "chartComparationImg": "../assets/imgs/charts/2021101_chart_ks2_prog.png",
-                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19."
+                    "chartTitle": "Progress 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2021101_chart_ks4_p8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2021101_chart_ks4_p8.png",
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
                 {
-                    "chartTitle": "",
-                    "chartImg": "",
+                    "chartTitle": "After Key Stage 4 (2024):",
+                    "chartImg": "../assets/imgs/charts/2021101_chart_ks4_dest.png",
                     "chartDescription": null
                 },
                 {
-                    "chartTitle": "",
-                    "chartImg": "",
+                    "chartTitle": "After Key Stage 5 (2023):",
+                    "chartImg": "../assets/imgs/charts/2021101_chart_ks5_dest.png",
                     "chartDescription": null
                 }
             ],
@@ -14007,6 +14007,529 @@
         "SEND": {
             "sendSupportInfo": "<p>We know that high-quality teaching and well-matched support make a big difference to the progress of children with SEND. We ensure that all teachers and support staff have a clear understanding of the learning needs of the children in their class.</p>  \n<br>  \n<p>Effective teaching and support for children with SEND are provided in a variety of ways, including:</p>  \n<ul>\n  <li>Carefully differentiated planning, which takes account of different needs and ensures that all children are able to make progress.</li>\n  <li>Using a wide variety of teaching approaches, including guiding learning through demonstration.</li>\n  <li>Providing visual support material.</li>\n  <li>Creating a stimulating, rich, and interactive classroom environment.</li>\n  <li>Providing additional adult support from well-trained and well-supervised Children\u2019s Support Workers.</li>\n  <li>Making available specialist equipment and digital technology to support access and participation in learning.</li>\n</ul>",
             "inclusivePracticeInfo": "<p>We know that the only way to truly find out if a child is happy, feeling safe, and taking part in the full life of our community is to ensure that the school listens to the voices of children, especially those most vulnerable. We make it a priority to listen to children in our school and respond to what they say in a number of ways, including:</p>  \n<br>  \n<ul>\n  <li>Supporting children in expressing any worries or concerns they have.</li>\n  <li>Giving children the right to choose a preferred adult to talk to.</li>\n  <li>Talking to children and/or groups of children after lesson observations to understand their experience of the lesson.</li>\n  <li>Inviting children to make personal contributions to their learning.</li>\n  <li>Agreeing individual targets with them.</li>\n  <li>Ensuring that our School Council is inclusive and represents the whole of our community.</li>\n  <li>Maintaining strong safeguarding procedures and ensuring all staff are well trained.</li>\n</ul>"
+        }
+    },
+    {
+        "schoolId": 2027008,
+        "schoolURN": 100091,
+        "schoolName": "Frank Barnes School for Deaf Children",
+        "isPrimary": true,
+        "shortSlogan": "Our pupils Learn, Grow, and Flourish through a bilingual teaching philosophy in British Sign Language and English and develop a positive Deaf identity.",
+        "descriptionTitle": "Our pupils Learn, Grow, and Flourish through a bilingual teaching philosophy in British Sign Language and English and develop a positive Deaf identity.",
+        "description": "We are a dynamic and inclusive primary school with a truly bilingual philosophy where all our pupils have access to a broad and balanced curriculum in both BSL and English, and belong in a rich and vibrant Deaf community. ",
+        "schoolLogo": "../assets/imgs/school/2027008_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100091",
+        "churchLink": "",
+        "websiteLink": "https://www.fbarnes.camden.sch.uk/",
+        "type": "Specialist",
+        "gender": "Mixed",
+        "entryForms": "1",
+        "ageRange": [
+            "2",
+            "11"
+        ],
+        "address": "4 Wollstonecraft Street, Kings Cross",
+        "lat": 51.537452,
+        "long": -0.127057,
+        "formsEntry": "1",
+        "prevYearCatchmentRadius": null,
+        "postCode": "N1C 4BT",
+        "facilities": [
+            "Breakfast club",
+            " Specialist PE coaching",
+            " specialist Music lesson (whole class and individual)",
+            " lunchtime clubs",
+            " weekly swimming lessons",
+            " "
+        ],
+        "activities": [
+            "Singing Choir",
+            "News club",
+            "Bicycle Club",
+            "Running Club",
+            "Scooter Club",
+            "Gardening Club",
+            "Craft Club"
+        ],
+        "admissionProcess": "<p>Our admissions policy is unique to the school and has specific admissions criteria for deaf children.</p>\n\n<p>The policy can be found here: \n<a href=\"https://www.fbarnes.camden.sch.uk/policies/\" target=\"_blank\">Admissions Policy</a>\n</p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2027008_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I love the lunchtime clubs, sleepover and all the trips. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Frank Barnes School is a beacon of bilingualism and Deaf pride, where English and BSL are taught in parallel. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I am so happy with FBS because it is excellent education-wise and the way they look after the kids and encourage them to do well. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I like making friends here at school.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "The school has many strengths including strong management, excellent role models, an engaging and innovative curriculum and high expectations for all students. ",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Inspirational deaf and hearing staff inspire pupils to believe they can achieve anything. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "My child has made great changes and developed very well at this school. ",
+                    "author": "Parent"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2027008_1.jpg",
+                "../assets/imgs/school/2027008_2.jpg",
+                "../assets/imgs/school/2027008_3.jpg",
+                "../assets/imgs/school/2027008_4.jpg",
+                "../assets/imgs/school/2027008_5.jpg",
+                "../assets/imgs/school/2027008_6.jpg",
+                "../assets/imgs/school/2027008_7.jpg",
+                "../assets/imgs/school/2027008_8.jpg",
+                "../assets/imgs/school/2027008_9.jpg",
+                "../assets/imgs/school/2027008_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "Bilingual community school for Deaf children in London",
+                    "link": "/schoolContext/index.html?schoolId=2027008"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "Holistic and child-centred approach",
+                    "link": "/support/index.html?schoolId=2027008"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "Equal opportunties and child-centred approach",
+                    "link": "/SEND/index.html?schoolId=2027008"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "Aspirations for the future and high expectations",
+                    "link": "/achievement/index.html?schoolId=2027008"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Bilingual, dynamic and engaging.",
+                    "link": "/curriculum/index.html?schoolId=2027008"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Raise outcomes in literacy",
+                    "description": "Embed shape-coding to build confidence in writing English. "
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Provide obgoing and robust mentoring for ECTs, TODs and new teachers",
+                    "description": "Support for teachers to ensure high standards of teaching and learning. "
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Develop a culture as a Rights Respecting School",
+                    "description": "Include knowledge and understanding of children's rights in our ethos and curriculum."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 36,
+            "ethnicGroupsNum": 10,
+            "languagesNum": 2,
+            "SENDPercent": 100.0,
+            "BMEPercent": 77.8,
+            "disadvantagedPupilsPercent": 53.1,
+            "englishAdditionalLangPercent": 100.0,
+            "absencePercent": 8.5,
+            "persistentAbsenteesPercent": 35.7,
+            "specificLanguages": [
+                "British Sign Language (BSL)",
+                "English"
+            ],
+            "specificEthnicities": [
+                "Black African",
+                "White British",
+                "White and Black African",
+                "White and Black Caribbean",
+                "Black Caribbean",
+                "Indian",
+                "Bangladeshi",
+                "Greek Cypriot",
+                "White Eastern European",
+                "White European"
+            ],
+            "specificSEND": [
+                "Hearing impairment"
+            ],
+            "qualifiedTeachersPercent": 100,
+            "pupilAdultRatio": 1.8,
+            "financialReserves": "\u00a3474,100",
+            "changeYearReserves": "\u00a360,200"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>Our curriculum is designed to enable all our pupils to learn in a fun, meaningful, and engaging way, ensuring they make progress and achieve their full potential.</p>\n\n<p>The curriculum is delivered in BSL as the children's first and preferred language, with English taught in parallel so that pupils become bilingual in both languages.</p>\n\n<p>The curriculum, based on the National Curriculum and the EYFS Development Guidance, is broad and balanced, cross-curricular, and relevant to pupils' needs and experiences. It provides coverage, content, progression, and structure that is fit for purpose.</p>\n\n<p>Different themes and topics are taught each half term, allowing pupils to make meaningful links between subjects and apply and consolidate their learning.</p>\n\n<p>Individual, personalised learning programmes are designed for specific pupils with more complex needs, using a life-skills-based curriculum to develop language, communication, thinking, self-awareness, knowledge of the world, play, social, and creative skills.</p><p><a href=\"https://www.fbarnes.camden.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Bilingual in BSL and English.",
+                "Flexible, dynamic and evolving",
+                "Broad, balanced and holistic"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>At Frank Barnes, safeguarding pupils is a priority to ensure their emotional, physical, and mental wellbeing.</p>\n\n<p>We have positive Deaf role models and trained Learning Mentors to support all pupils in school.</p>\n\n<p>The Headteacher is the Designated Safeguarding Lead (DSL) who deals with all concerns immediately and takes appropriate action to address these.</p>\n\n<p>We are committed to promoting a safe learning environment that promotes pupil wellbeing to ensure good social and emotional development.</p>\n\n<p>Our PSHE curriculum teaches pupils how to keep themselves safe and build positive and trusting relationships.</p><p><a href=\"https://www.fbarnes.camden.sch.uk/safeguarding \" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>We have a zero-tolerance policy towards bullying and deal quickly with all incidents, no matter how small.</p>\n\n<p>We are an inclusive school where we celebrate diversity and promote equality in our curriculum and school practices.</p>\n\n<p>We reinforce positive behaviour through praise and by teaching respect for others.</p>\n\n<p>We strive to create a safe environment for all our pupils and staff, fostering open communication, trust, and positive relationships.</p><p><a href=http://www.fbarnes.camden.sch.uk/policies target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>Our attendance policy emphasises the importance of pupils attending school regularly to maximise their educational opportunities, attainment, wellbeing, and wider development.</p>\n\n<p>We set attendance targets and promote the importance of coming to school regularly through parent-teacher meetings, newsletters, and assemblies. We also reward pupils with certificates for good attendance.</p>\n\n<p>Regular and punctual attendance is vital for effective learning and social and emotional development.</p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>We deliver a broad and balanced curriculum that meets the needs of all our pupils.</p>\n\n<p>At Frank Barnes, we aim for all our pupils to be bilingual in BSL and English, enabling them to reach their full potential and develop into independent and successful learners with a positive Deaf identity. This ensures they have high levels of self-esteem and confidence to thrive in a dynamic society.</p>\n\n<p>We have high expectations for all pupils, regardless of ability or SEN, and foster a culture of value and respect for everyone.</p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "Attainment 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2027008_chart_ks4_att8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2027008_chart_ks4_att8.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2027008_chart_ks4_p8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2027008_chart_ks4_p8.png",
+                    "chartDescription": ""
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "After Key Stage 4 (2024):",
+                    "chartImg": "../assets/imgs/charts/2027008_chart_ks4_dest.png",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "After Key Stage 5 (2023):",
+                    "chartImg": "../assets/imgs/charts/2027008_chart_ks5_dest.png",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>At Frank Barnes, we have a clear vision and a set of core values to ensure that all our pupils reach their academic and emotional potential. We strive to create a safe environment where they feel motivated and inspired to learn, take on challenges, and achieve\u2014not only during their primary years at Frank Barnes but also throughout secondary school and into adulthood.</p>\n\n<p>We want everyone to feel a sense of belonging in the school and wider community, fostering a positive sense of self-knowledge and self-awareness. We promote mutual respect, learning from each other in a safe environment with clear boundaries and high expectations.</p>\n\n<p>We ensure each child is encouraged to have high aspirations, work towards realistic and achievable goals for the future, and develop resilience by taking risks and learning from mistakes. This, in turn, equips our pupils with the skills, knowledge, and experiences they need as they move"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>All of our pupils have Education, Health, and Care Plans (EHCPs), which set out their communication and interaction, cognition and learning, social, emotional, and mental wellbeing, and physical and sensory needs, along with short- and long-term targets.</p>\n\n<p>Each child also has an individual Provision Map, which details how to meet their needs with agreed strategies and interventions.</p>\n\n<p>We have Teachers of the Deaf, a SENCO, Teaching Assistants, Speech and Language Therapists, occupational and physiotherapists, a school nurse, a learning mentor, an educational psychologist, and other specialist professionals to support our pupils.</p>\n\n<p>Teaching staff receive regular training relevant to pupils' needs. Some pupils requiring additional support may have dedicated one-to-one support.</p><p><a href=\"http://www.fbarnes.camden.sch/sen\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>As a school for deaf children, we are inclusive in the sense that we have pupils with needs additional to their deafness.</p>\n\n<p>We ensure these additional, or sometimes complex, needs are met by providing adaptive teaching approaches, modified resources, or additional adult support.</p>\n\n<p>As a school with a very diverse pupil and staff population, we ensure everyone feels included regardless of need, ability, or background.</p>\n\n<p>We have a positive attitude towards SEN and recognise and praise the achievements of all our pupils. We are committed to ensuring equality of opportunity and outcomes for all.</p><p><a href=\"http://www.fbarnes.camden.sch/sen\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
+        "schoolId": 2021100,
+        "schoolURN": 100006,
+        "schoolName": "Heath School",
+        "isPrimary": true,
+        "shortSlogan": "At Heath School everything we do is to support student transition. We provide a tailored curriculum, bespoke interventions, smaller class sizes and outstanding provision. ",
+        "descriptionTitle": "At Heath School everything we do is to support student transition. We provide a tailored curriculum, bespoke interventions, smaller class sizes and outstanding provision. ",
+        "description": "<p>Heath School is a secondary pupil referral unit near Hampstead Heath. Heath School is welcoming and ambitious. We empower every student to flourish. Our purpose is to unlock students' potential and inspire them with a thirst for life.</p>  \n<br>\n<p>We have a rich and versatile curriculum, and we believe in every single student. Our goal is to equip all students with the skills and knowledge they require to succeed either in mainstream education or at post-16, when they transition from the school.</p>\n<br>\n<p><a href=\"https://www.itv.com/watch/news/camden-pupil-referral-unit-keeps-children-off-the-streets-and-in-education/nq5h6pf\" target=\"_blank\">ITV News: Camden pupil referral unit keeps children off the streets and in education</a></p>",
+        "schoolLogo": "../assets/imgs/school/2021100_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100006",
+        "churchLink": "https://reports.ofsted.gov.uk/provider/22/100006",
+        "websiteLink": "https://heath.h3federation.org.uk/",
+        "type": "Specialist",
+        "gender": "Mixed",
+        "entryForms": "1",
+        "ageRange": [
+            "11",
+            "16"
+        ],
+        "address": "Agincourt Road",
+        "lat": 51.554178,
+        "long": -0.160785,
+        "formsEntry": "1",
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW3 2NY",
+        "facilities": [
+            "Hair and beauty salon",
+            " Music workshop",
+            " Multi-use astro turf pitch",
+            " Small classes",
+            " High staff to student ratio",
+            " Bespoke curriculum offer",
+            " Mentoring and interventions",
+            " Food as a core subject in curriculum offer"
+        ],
+        "activities": [
+            "Active learning built into curriculum",
+            "Tailored work experience opportunities",
+            "Careers advisor onsite fortnightly",
+            "Extra curricular activities at Haverstock Secondary School",
+            "Wide range of vocational subjects",
+            "Whole school community events",
+            "Construction and engineering curriculum through Avalon"
+        ],
+        "admissionProcess": "<p>Heath School has on-site provision for up to 60 pupils between the ages of 11-16. Pupils come to Heath School in one of three ways:</p>  \n<br>  \n<ul>  \n  <li>Acceptance for one term through the Off-Site Direction Panel.</li>  \n  <li>Permanent exclusion from a mainstream school.</li>  \n  <li>Managed move agreed by the school in collaboration with the Camden School Inclusion Team.</li>  \n</ul>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2021100_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "Active learning lets us experience a childhood before it\u2019s too late.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The staff at Heath school are good role models. I like them because they are really good teachers and always happy. ",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils are expected to work hard, achieve their best and behave appropriately, which they do.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Personal development is excellent. The \u2018active learning\u2019 curriculum is a fundamental \npart of the values espoused by Heath School. Through these wide-ranging\nexperiences, pupils\u2019 cultural capital is enriched. They expand their horizons, learn to \ncommunicate with members of the public effectively, take risks, feel successful and \nbuild self-esteem.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils recognise and value the relationships they build with adults. They understand how \nimportant the \u2018character virtues\u2019 are at supporting them to reflect on their behaviour \nand to see what they can really achieve.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils receive helpful support and careers advice so they can be ambitious for their futures. They \nare very keen to gain the necessary qualifications to fulfil these ambitions.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I feel that my granddaughter gets the right support by the school staff. I am extremely grateful to the regular welfare calls and checks we receive when school is closed by the family worker. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The school has provided my daughter with all the support she needs. As a parent I am very happy. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "From the moment you walk into the school you feel the care, compassion, warmth and ambition we have for each of our students.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I like the opportunities I get at Heath School to do different activities.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The school really listens and is giving me chances to do the things I'm interested in when I leave school.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "This school supports me and helps me to grow.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "In this school you have a smaller number of students in your class and you have an in-class support which means you can focus on learning.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The thing that makes it special at the school is that the teachers care about you and do everything that they can to help.",
+                    "author": "Child"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2021100_1.jpg",
+                "../assets/imgs/school/2021100_2.jpg",
+                "../assets/imgs/school/2021100_3.jpg",
+                "../assets/imgs/school/2021100_4.jpg",
+                "../assets/imgs/school/2021100_5.jpg",
+                "../assets/imgs/school/2021100_6.jpg",
+                "../assets/imgs/school/2021100_7.jpg",
+                "../assets/imgs/school/2021100_8.jpg",
+                "../assets/imgs/school/2021100_9.jpg",
+                "../assets/imgs/school/2021100_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "Heath School is a small Pupil Referral Unit which focuses on meeting the specific needs of each individual student, preparing them to transition back to mainstream education or Post-16 education through its bespoke offer. ",
+                    "link": "/schoolContext/index.html?schoolId=2021100"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "Pupils benefit from high staff to student ratio, small class sizes, and targeted interventions to meet the needs of each individual. ",
+                    "link": "/support/index.html?schoolId=2021100"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "All our students have SEND in relation to their social, emotional and mental health. We have a highly skilled staff team who are supported by a network of professionals who work with the school.",
+                    "link": "/SEND/index.html?schoolId=2021100"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "The goal for all students at Heath School is to receive the support they need to successfully transition to mainstream education or be prepared for post-16. All aspects of the school are set up with this overarching goal.",
+                    "link": "/achievement/index.html?schoolId=2021100"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Due to the size of the school, and staff to student ratio, we are able to provide the bespoke interventions required for all students to make good progress from their respective starting points. The curriculum is designed to engage students and provide them with opportunities to succeed. ",
+                    "link": "/curriculum/index.html?schoolId=2021100"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Expand the delivery of our intervention to support those students who struggle with their literacy",
+                    "description": "The one area for improvement from Ofsted inspection June 2024."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Have a wide portfolio of work experience opportunities for all key stage 4 students to attend",
+                    "description": "We believe work experience is an excellent way to reengage students and provide them with a clear direction and focus whilst at school. "
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Accelerate the speed with which we deliver our interventions to support students to return to mainstream education sooner",
+                    "description": "Heath School is an intervention rather than a destination. "
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 20,
+            "ethnicGroupsNum": 8,
+            "languagesNum": null,
+            "SENDPercent": 100.0,
+            "BMEPercent": 60.0,
+            "disadvantagedPupilsPercent": 63.2,
+            "englishAdditionalLangPercent": 30.0,
+            "absencePercent": null,
+            "persistentAbsenteesPercent": null,
+            "specificLanguages": [
+                ""
+            ],
+            "specificEthnicities": [
+                "White British",
+                "Other White Background",
+                "White and Black Caribbean",
+                "White and Asian",
+                "Other Mixed Background",
+                "Bangladeshi",
+                "Caribbean",
+                "Black African"
+            ],
+            "specificSEND": [
+                "Social, emotional and mental health"
+            ],
+            "qualifiedTeachersPercent": 100,
+            "pupilAdultRatio": 4.8,
+            "financialReserves": "\u00a3713,700",
+            "changeYearReserves": "\u00a3488,900"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>The school's curriculum is designed to equip all pupils with what they require to successfully transition to mainstream education or to post-16.</p>\n\n<p>The school focuses on ensuring students have the skills, knowledge and qualifications in maths and English that enable them to be successful in the world.</p>\n\n<p>Access to a wide range of vocational subjects, experiences and qualifications is another area in which the offer differs to that of mainstream education.</p>\n\n<p>We recognise that our students need a curriculum that makes them want to come to school and one where they can feel a sense of success throughout each day to reframe their perspective of education.</p><p><a href=\"https://heath.h3federation.org.uk/237/curriculum-overview?search=curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Engaging - an offer full of opportunities",
+                "Bespoke - tailored to meet individual needs",
+                "Aspirational - support achieving GCSE, Functional Skills and BTEC qualifications"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>Heath School is committed to delivering good outcomes for pupils by providing a safe and calm learning environment that promotes their welfare and helps them develop socially and emotionally, enabling them to make the most of their life chances.</p>\n<br>\n<p>We foster a culture where children feel safe and secure, their viewpoints are valued, and they are encouraged to express themselves and be heard. We provide support and guidance, ensuring that pupils have trusted adults they can confidently approach if they face difficulties. Student feedback is gathered on a half-termly basis and used to inform the planning of the school's leadership team.</p>  <p><a href=\"https://heathschool.s3.amazonaws.com/uploads/key_information/2024-Heath-School-Child-Protection-and-Safeguarding-Policy-September-2024-.pdf?t=1741602289\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>Heath School has a zero-tolerance approach to bullying. Due to the high staff-to-student ratio, students are never left unaccompanied while on-site.</p>  \n<br>  \n<p>When incidents of bullying are reported, targeted support and interventions are implemented for both the recipients and those responsible, ensuring a safe and supportive environment for all students.</p>  <p><a href=https://heathschool.s3.amazonaws.com/uploads/key_information/2024-Heath-School-Child-Protection-and-Safeguarding-Policy-September-2024-.pdf?t=1741602289 target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>We expect all pupils to attend every day, provided they are fit and healthy enough to do so. There is a well-established link between success at school and high attendance, and we actively promote this with our pupils.</p>  \n<br>  \n<p>Our dedicated attendance lead works closely with pupils and families to support consistent attendance, recognizing that a collaborative approach strengthens this effort. To encourage positive attendance decisions, we have a system of reward vouchers. Additionally, our emotionally based school avoidance lead provides targeted support for students struggling with ingrained low attendance.</p>  <p><a href=\"https://heath.h3federation.org.uk/31/attendance-behaviour?search=attendance\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "",
+            "chartsPerform": [
+                {
+                    "chartTitle": "Attainment 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2021100_chart_ks4_att8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2021100_chart_ks4_att8.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2021100_chart_ks4_p8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2021100_chart_ks4_p8.png",
+                    "chartDescription": ""
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "After Key Stage 4 (2024):",
+                    "chartImg": "../assets/imgs/charts/2021100_chart_ks4_dest.png",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "After Key Stage 5 (2023):",
+                    "chartImg": "../assets/imgs/charts/2021100_chart_ks5_dest.png",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>We have meetings with pupils and parents/carers every half-term where we review progress made towards being ready to transition from the school.</p>\n\n<p>The curriculum is set up to equip all pupils with the skills, knowledge and character to successfully navigate life.</p>\n\n<p>The school's careers lead works with each student to develop a bespoke plan for their transition at the end of Year 11 with this including supported visits to college open evenings and with applications.</p>\n\n<p>Transition support is provided for students whilst they are in Year 12 to help them navigate this period of change successfully.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>All students who attend Heath School are identified as having a special educational need related to social, emotional, and mental health. Upon joining, each student undergoes a comprehensive induction process to assess their individual needs. Following this, a bespoke pupil passport is created and shared with all staff to ensure tailored support for every student.</p>  \n<br>  \n<p>We take a whole-school approach to SEND through Quality First Teaching. We recognize that high-quality teaching and well-matched support are the most effective ways to help students make good progress, making these a key focus of our school.</p>  <p><a href=\"https://heath.h3federation.org.uk/36/key-information-policies/category/20/send\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>We understand that true inclusivity requires regular feedback from all stakeholders. To achieve this, we gather and review input through various methods:</p>  \n<br> \n<ul>  \n  <li>Daily check-ins with students</li>  \n  <li>Daily phone calls home to parents/carers</li>  \n  <li>Bespoke mentoring and interventions</li>  \n  <li>Tri-weekly student voice feedback lessons</li>  \n  <li>Half-termly student and parent/carer surveys</li>  \n  <li>Half-termly student review days</li>  \n</ul>  \n<br>  \n<p>By consistently engaging with students, parents, and carers, we ensure that our support remains responsive and effective.</p>  <p><a href=\"https://heath.h3federation.org.uk/36/key-information-policies/category/20/send\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     }
 ]
