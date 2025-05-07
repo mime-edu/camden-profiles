@@ -7895,6 +7895,307 @@
         }
     },
     {
+        "schoolId": 2023655,
+        "schoolURN": 100048,
+        "schoolName": "Our Lady's Roman Catholic Primary School",
+        "isPrimary": true,
+        "shortSlogan": "Go Shine in the World!",
+        "descriptionTitle": "Go Shine in the World!",
+        "description": "<p>Our Lady's is dedicated to providing a supportive and enriching environment for all children, ensuring that they thrive both academically and creatively. Our focus on collaboration with parents, staff, governors, and our partnership schools reflects a commitment to the inclusive development of each child.</p>  \n<br>  \n<p>At Our Lady\u2019s, our emphasis is on creating a strong foundation for children to confidently progress to the next stage of their education.</p>",
+        "schoolLogo": "../assets/imgs/school/2023655_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100048",
+        "churchLink": "https://www.ourladys.camden.sch.uk/catholic-inspection-report/",
+        "websiteLink": "https://www.ourladys.camden.sch.uk/",
+        "type": "Primary inc. Nursery",
+        "gender": "Mixed",
+        "entryForms": "1",
+        "ageRange": [
+            "3",
+            "11"
+        ],
+        "address": "Pratt Street, Camden",
+        "lat": 51.539046,
+        "long": -0.136797,
+        "formsEntry": "1",
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW1 0DP",
+        "facilities": [
+            "Breakfast Club",
+            " After School Enrichment Clubs",
+            " Links to after school play schemes",
+            " Specialist Music Teacher",
+            " Peripatetic Music Teachers",
+            " Specialist Spanish Teacher (all year groups)",
+            " Specialist PE Coach",
+            " Class libraries (every class)",
+            " Termly football tournament"
+        ],
+        "activities": [
+            "Multi-sports club",
+            "Football club",
+            "Arts and crafts",
+            "Puzzles and games",
+            "Camden Wider Opportunities guitar lessons",
+            "Individual guitar and piano lessons",
+            "Camden Music Festival at the Royal Albert Hall",
+            "Termly Music Concerts for Parents",
+            "Summer Family BBQ",
+            "Family Fancy Dress Disco",
+            "Nursery, Early Years and KS1 Nativity Performance",
+            "Christmas Carol Concert",
+            "Class Christmas Parties",
+            "Christmas Pantomime",
+            "Movie Night ",
+            "Own clothes day for Charitable Giving"
+        ],
+        "admissionProcess": "<p>We are delighted that you are considering Our Lady's for your child. To take things further, please read our admissions policy, complete the school supplementary information form (SIF), and bring it to the school office or send it to us via email. You will find the admissions policy and supplementary application form in the policies section of the school's website below.</p>\n<br>  \n<p>Our Head of School runs parent tours from September to January. Please call the office to book yourself onto a tour and take a look around. If you have any queries, do give us a call\u2014we are happy to help.</p>  \n<p><a href=\"https://www.ourladys.camden.sch.uk/policies/\" target=\"_blank\">Our Lady's Policies</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2023655_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils flourish in this highly ambitious and caring school. This is a stimulating and lively place to learn.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Staff are unwavering in their determination for every pupil to succeed.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Leaders motivate pupils to achieve the highest academic standards, alongside an ambitious commitment to pupils\u2019 wider personal development. Pupils excel in a highly inclusive culture.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils have an impressive work ethic. They enjoy learning and take considerable pride in the work that they produce.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils\u2019 musical, sporting and artistic talents are nurtured, valued and celebrated.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils feel happy and safe at school. Pupils look after each other with great care. They are extremely proud to take on extra responsibilities in school.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Lessons make full use of the excellent resources available including IT and art work. The school adapts its chosen scheme of work creatively in order to make it relevant, exciting and challenging for pupils of all abilities.",
+                    "author": "Other"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Communication about my children\u2019s progress, safety and wellbeing is very good and it is easy to get in touch with school leaders.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "My child is making good progress at Our Lady\u2019s and teachers are, \u2018Great at pushing students to the best of their ability\u2019.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Children with specific educational needs are well supported and the school challenges my child through \u2018personalised support\u2019.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Positive and regular communications help every member of staff to be kept up-to-date with what is happening in the school and any plans for the future.",
+                    "author": "School Staff"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils achieve extremely well across the school. From the early years to Year 6, pupils benefit from an exceptionally well-designed curriculum.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The education is very good here. Ever since I came here, I have learnt so much. Teachers are really good at explaining and we share our opinions about things. Everything is challenging so you don\u2019t get bored!",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I like being at Our Lady\u2019s because I learn so much. We do really fun stuff like Art and Science. I\u2019ve been learning about how plants grow and I grew my own plant. I like how the children show kindness to each other and compassion.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "Managing workload is a priority in the school and this helps staff to carry out their jobs well. Support in terms of having high-quality planning which is \u2018detailed, well-structured and adaptable\u2019 was an example given of helping to manage workload.",
+                    "author": "Teacher"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2023655_1.jpg",
+                "../assets/imgs/school/2023655_2.jpg",
+                "../assets/imgs/school/2023655_3.jpg",
+                "../assets/imgs/school/2023655_4.jpg",
+                "../assets/imgs/school/2023655_5.jpg",
+                "../assets/imgs/school/2023655_6.jpg",
+                "../assets/imgs/school/2023655_7.jpg",
+                "../assets/imgs/school/2023655_8.jpg",
+                "../assets/imgs/school/2023655_9.jpg",
+                "../assets/imgs/school/2023655_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "Our Lady\u2019s is focused on inclusivity and fostering a welcoming environment for all children, regardless of their religious background. By respecting diversity, Our Lady\u2019s creates a space where children can learn and grow together, appreciating each other's differences.",
+                    "link": "/schoolContext/index.html?schoolId=2023655"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "Our Lady's provides a supportive and nurturing environment where children are encouraged to grow intellectually and creatively. The focus is on each child's individual potential and overall development.",
+                    "link": "/support/index.html?schoolId=2023655"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "Our Lady\u2019s has a strong commitment to inclusivity and ensuring every student has the opportunity to succeed. Providing clear systems for identifying and supporting children who need additional help is key to making sure all pupils can access the curriculum effectively. We ensure this through tailored lessons, additional resources, or a more personalised approach.",
+                    "link": "/SEND/index.html?schoolId=2023655"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "Our Lady\u2019s is highly focused on academic achievement and providing a strong foundation for its pupils. The school environment prioritises a well-rounded education, encouraging children to excel in a variety of subjects while also ensuring that they are well-equipped for future challenges.",
+                    "link": "/achievement/index.html?schoolId=2023655"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Our curriculum is designed to offer a well-rounded education, prioritising both academic excellence and personal development. By combining deep subject knowledge with real-world experiences, through visits and visitors, we give children valuable opportunities to broaden their perspectives and apply what they learn.",
+                    "link": "/curriculum/index.html?schoolId=2023655"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Reading",
+                    "description": "Continue to prioritise developing both a love of reading and reading fluency, dedicating additional adult support to ensure no child falls behind."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "High expectations of attendance",
+                    "description": "Continue to promote and celebrate pupils attending school every day so that no learning opportunities are missed."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Confidence and emotional well-being",
+                    "description": "Continue to support pupils to be both confident and emotionally resilient."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 238,
+            "ethnicGroupsNum": 6,
+            "languagesNum": 4,
+            "SENDPercent": 23.5,
+            "BMEPercent": 76.1,
+            "disadvantagedPupilsPercent": 67.4,
+            "englishAdditionalLangPercent": 45.0,
+            "absencePercent": 8.3,
+            "persistentAbsenteesPercent": 24.4,
+            "specificLanguages": [
+                "English",
+                "Bengali",
+                "Lingala",
+                "Tigrinya"
+            ],
+            "specificEthnicities": [
+                "White British",
+                "White Other",
+                "Bangladeshi",
+                "Asian Other",
+                "Black African",
+                "Mixed / Dual background"
+            ],
+            "specificSEND": [
+                "Social, emotional and mental health",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 92,
+            "pupilAdultRatio": 8.3,
+            "financialReserves": "\u00a3101,200",
+            "changeYearReserves": "\u00a382,500"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>With our curriculum, we aim to provide ambitious learning opportunities, promoting achievement in every area and nurturing social, emotional and spiritual well-being.</p>\n<br>\n<p>Our curriculum equips our children with the knowledge, skills and cultural capital that they need to succeed in life. We aim to instil a lifelong love for learning by making education engaging, challenging and relevant. We strive to promote confidence and independence, encouraging our pupils to take initiative and responsibility for their learning. Importantly, we work to promote a sense of community and responsible citizenship, preparing pupils to contribute positively to society.</p>\n<br>\n<p>Our curriculum lays the groundwork for essential academic skills in reading, writing, and mathematics. This strong foundation is crucial for children's future learning and academic success.</p>\n<br>\n<p>Our carefully planned programme of visits and visitors enhances learning in the classroom by providing students with real-world experiences and insights. These opportunities help to bring the curriculum to life, making learning more engaging and relevant. Visits include The Houses of Parliament, local theatres, local art galleries and nature reserves to name just a few.</p>\n<br>\n<p>Our teachers take every opportunity to expand the general knowledge and the vocabulary of our pupils.  For example, in art they will study Picasso's Guernica, but also discuss and debate the themes of suffering and war linked to World War 1 and 2. The children will study a range of male and female artists from different cultures, time periods and backgrounds. This develops children's knowledge and helps them to explain their own thinking. Our aim is to enable our pupils to articulate their thoughts and stand up for themselves and their ideas in an appropriate way.  We believe that these things are important for children's future life chances.</p><p><a href=\"https://www.ourladys.camden.sch.uk/topic/our-curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Strong academic foundation",
+                "Enriching experiences",
+                "Expanding general knowledge and vocabulary"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>At Our Lady's, we are committed to providing a safe and stimulating learning environment for every child.</p>  \n<br>  \n<p>Ofsted state \u201cPupils move around school calmly and sensibly. From the early years, children learn how to behave and to take care of each other. They are polite and respectful to each other and to adults. Pupils have an impressive work ethic. They enjoy learning and take considerable pride in the work that they produce.\u201d</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/our-ladys-catholic-primary-school-london/UploadedDocument/aac44881-92d0-49c8-9063-3b0232ed03df/our-ladys-child-protection-and-safeguarding-policy.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>Good behaviour in school is essential to a good education. We work in partnership with parents to foster positive behaviour and grow good citizens of the future, who will treat others with respect and kindness. We teach about good behaviour, promote and reinforce it.</p>  \n<br>\n<p>Ofsted states, \u201cPupils feel happy and safe at school. Leaders take swift and appropriate action to deal with any incidents of bullying should they occur.\u201d</p>  \n<br>\n<p>We have a simple, clear and effective Behaviour and Anti-Bullying Policy which outlines how we deal effectively with bullying. We are vigilant about bullying and will always tackle it and keep working with the target and perpetrator to ensure that the bullying stops and stays stopped. We are clear with children about all elements of unacceptable behaviour, but also teach what is and what is not bullying. Parents and carers are always informed, and we work in partnership with them to address bullying.</p><p><a href=https://primarysite-prod-sorted.s3.amazonaws.com/our-ladys-catholic-primary-school-london/UploadedDocument/d9ea788f-e03d-4bb9-8914-c39e15b0dcd5/behaviour-and-anti-bullying-policy-updated-23.01.25.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>At Our Lady\u2019s, we are committed to fostering a positive and engaging learning environment that encourages regular attendance, ensuring every child has the opportunity they deserve to succeed and thrive. Therefore, clear and consistent communication is maintained with pupils and parents about attendance policies and expectations.</p>  \n<br>\n<p>When joining Our Lady's, we ask parents and carers to sign a Home-School Agreement, committing to ensure their child attends school every day and arrives on time. Senior leaders regularly monitor attendance and punctuality records thoroughly to ensure that any issues are identified early and acted upon swiftly. Actions include clear communication about individual attendance rates and, where necessary, parents are invited to meet with senior leaders and with an Inclusion Officer so that any barriers to good attendance can be overcome.</p>  \n<br>\n<p>We celebrate and reward good attendance with certificates, special assemblies, and various incentives to motivate and recognise excellence.</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/our-ladys-catholic-primary-school-london/UploadedDocument/6e3ad28e-29db-4785-8c73-0d70ed0366ce/attendance-policy-2024-25-updated-4.11.24.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>We have the highest ambitions for what pupils can achieve here at Our Lady's. Pupils study a broad range of subjects. From Year One, they routinely study concepts that go beyond what might be expected for their age. Our curriculum, written by expert teachers, provides children with the knowledge, skills, and cultural understanding they need to thrive.</p>  \n<br>  \n<p>We have carefully designed each subject to build knowledge and skills step-by-step, ensuring that learning is organised and builds on what they already know. This helps children remember what they learn and make meaningful connections in their education. Ofsted have stated, \u201cTeachers deliver the curriculum consistently well. They design learning activities skilfully that inspire pupils. They seek ways to adapt and develop lessons to ensure all pupils can learn very well. Teachers address any misunderstandings and misconceptions immediately. They support pupils\u2019 knowledge and understanding through regular retrieval activities. As a result, pupils\u2019 ability to recall and apply their learning is striking.\u201d</p>  \n<br>  \n<p>We have a strong programme of continual professional development that ensures our staff are always improving their skills and effectiveness. As we are situated in central London, we use London as our classroom, providing pupils with a very wide range of off-site visits and visitors to enhance their learning.</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/our-ladys-catholic-primary-school-london/UploadedDocument/9d3c39d6-495f-421a-bf89-04c7a3a018c6/curriculum-map-updated-18.12.24.pdf\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary:",
+                    "chartImg": "../assets/imgs/charts/2023655_chart_ks2_rwm.png",
+                    "chartComparationImg": "../assets/imgs/charts/2023655_chart_ks2_rwm_school_only.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress from years 2 to 6 (2023):",
+                    "chartImg": "../assets/imgs/charts/2023655_chart_ks2_prog.png",
+                    "chartComparationImg": "../assets/imgs/charts/2023655_chart_ks2_prog.png",
+                    "chartDescription": "These progress scores are calculated by the DfE by comparing the key stage 2 results of pupils at this school with the results of pupils across England who had similar results at the end of key stage 1. A score above zero means pupils made more progress, on average, than pupils who got similar results at the end of key stage 1. Note that progress data doesn't exist in 2024 because of missing key stage 1 assessments during Covid-19"
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "",
+                    "chartImg": "",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>We know that high attainment is a vital part of future success and life chances, but so are social skills and attitude. We have a vigilance around fostering good manners and good social skills as we want our children to be able to stand up for themselves and to express their thoughts and ideas in an appropriate way. We do this through positive modelling of good manners e.g. noticing when children greet us in the morning or say thank-you for their lunch and praising them specifically for this.</p>\n<br>\n<p>Our daily and weekly work on vocabulary, including Word Aware Day, give the children every chance to expand their knowledge of the words that they know, understand, and have confidence in using. We have a well-established programme of transition work for the pupils in Year 6 to ensure that they have a smooth and successful move to secondary school. They often come back and visit us and tell us how well they are doing.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>We are dedicated to providing a supportive and inclusive environment for children with special educational needs and disabilities. In partnership with governors, parents, and the local community, we strive to deliver a broad and balanced curriculum that promotes high achievement for all children, developing within the individual self-confidence, motivation, aspiration, and the ability to work with others.</p>\n<br>\n<p>We offer a range of support for children with special educational needs so that they can thrive academically, socially, and emotionally. Staff work closely with pupils and parents to develop support plans that cater to a child's unique needs and strengths. We collaborate and actively involve parents, teachers, and other specialists in the planning and implementation of these support plans.</p>\n<br>\n<p>OFSTED agree that at Our Lady's, \u201cLeaders have high aspirations for pupils with SEND. They identify and meet the needs of these pupils skilfully. Leaders work closely with staff to remove any barriers which may stop pupils with SEND from learning well. This means that these pupils achieve as highly as their peers.\u201d</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/our-ladys-catholic-primary-school-london/UploadedDocument/fa0c10cb-3495-4aad-9f9e-816805671119/ol-send-policy.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>We ensure that all pupils have access to a broad and balanced curriculum and provide an adapted curriculum appropriate to the individual\u2019s needs and ability. Early identification of pupils requiring SEND provision is our priority.</p>  \n<br>  \n<p>Pupils with SEND take as full a part as possible in all school activities, and parents of pupils with SEND are kept fully informed of their child\u2019s progress and attainment. Where practicable, we ensure that pupils with SEND are involved in decisions affecting their future SEND provision.</p><p><a href=\"https://primarysite-prod-sorted.s3.amazonaws.com/our-ladys-catholic-primary-school-london/UploadedDocument/fa0c10cb-3495-4aad-9f9e-816805671119/ol-send-policy.pdf\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
         "schoolId": 2024166,
         "schoolURN": 100050,
         "schoolName": "Parliament Hill School",
@@ -10336,8 +10637,8 @@
         "schoolURN": 100040,
         "schoolName": "St George the Martyr Church of England Primary School",
         "isPrimary": true,
-        "shortSlogan": "Go Shine in the World",
-        "descriptionTitle": "Go Shine in the World",
+        "shortSlogan": "Go Shine in the World!",
+        "descriptionTitle": "Go Shine in the World!",
         "description": "<p>St George the Martyr CE Primary School provides a caring, stable, intellectually and creatively stimulating environment for children. Our staff are committed to ensuring that your child\u2019s time at school is inspiring and productive, so that they can move confidently to the next stage of their education.</p>\n<br>\n\n<p>St George the Martyr serves the local community by welcoming children from all faiths and children with no faith background. We value and respect the diversity of our community.</p>\n<br>\n\n<p>We work closely with parents, children, governors, staff and our partnership schools to ensure that each and every child is given the best possible start on their educational journey.</p>\n<br>\n\n<p>St George the Martyr is strengthened by working within a partnership.</p>",
         "schoolLogo": "../assets/imgs/school/2023441_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100040",
@@ -10860,8 +11161,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 12.6,
-            "financialReserves": "-\u00a3267,500",
-            "changeYearReserves": "-\u00a330,900"
+            "financialReserves": "-267500",
+            "changeYearReserves": "-30900"
         },
         "curriculum": {
             "curriculumAim": "<p>With our curriculum, we aim to provide ambitious learning opportunities, promoting achievement in every area and nurturing social, emotional, and spiritual well-being.</p>\n\n<p>Our curriculum equips our children with the knowledge, skills, and cultural capital that they need to succeed in life. We aim to instil a lifelong love for learning by making education engaging, challenging, and relevant.</p>\n\n<p>We strive to promote confidence and independence, encouraging students to take initiative and responsibility for their learning. Importantly, we work to foster a sense of community and responsible citizenship, preparing students to contribute positively to society.</p>\n\n<h3>Strong Academic Foundation</h3>\n<p>Our curriculum lays the groundwork for essential academic skills in reading, writing, and mathematics. This strong foundation is crucial for children's future learning and academic success.</p>\n\n<h3>Building Character</h3>\n<p>We focus on helping our children to grow and develop character, resilience, and inner discipline through making choices, taking responsibility, and being honest with themselves and others.</p>\n\n<p>In order to achieve this, we have incorporated opportunities for building character into our curriculum, including:</p>\n<ul>\n    <li>Sport</li>\n    <li>Creativity</li>\n    <li>Performing</li>\n    <li>The world of work</li>\n    <li>Membership</li>\n</ul>\n\n<p>This provides pupils with the inner resources and confidence to tackle the frustrations and setbacks that are part and parcel of life.</p>\n\n<p>As our children gain confidence, knowledge, and skills, we hope that they will go on to become compassionate, well-balanced lifelong learners. We support them in taking their place in society as active citizens, economically independent, exemplifying the British Values of equality, tolerance, democracy, individual liberty, and rule of law.</p>\n\n<h3>Enriching Experiences</h3>\n<p>Our carefully planned programme of visits and visitors enhances learning in the classroom by providing students with real-world experiences and insights. These opportunities help to bring the curriculum to life, making learning more engaging and relevant.</p>\n\n<p>Visits include:</p>\n<ul>\n    <li>The Houses of Parliament</li>\n    <li>Local theatres</li>\n    <li>Local art galleries</li>\n    <li>Nature reserves</li>\n</ul>\n\n<p>These visits, among many others, broaden pupils' horizons and make their learning truly memorable.</p><p><a href=\"https://st-josephs.islington.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -11455,8 +11756,8 @@
         "schoolURN": 100042,
         "schoolName": "St Mary's Kilburn Church of England Primary School",
         "isPrimary": true,
-        "shortSlogan": "\"Go shine in the world\"",
-        "descriptionTitle": "\"Go shine in the world\"",
+        "shortSlogan": "Go shine in the world!",
+        "descriptionTitle": "Go shine in the world!",
         "description": "<p>St Mary's provides a caring, stable, intellectually and creatively stimulating environment for children. Our staff are committed to ensuring that your child\u2019s time at school is inspiring and productive, so that they can move confidently to the next stage of their education.</p>\n<br>\n<p>St Mary's serves the local community by welcoming children from all faiths and children with no faith background. We value and respect the diversity of our community.</p>",
         "schoolLogo": "../assets/imgs/school/2023517_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100042",
@@ -12293,8 +12594,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 9.3,
-            "financialReserves": "\u00a3127,400",
-            "changeYearReserves": "\u00a319,400"
+            "financialReserves": "127400",
+            "changeYearReserves": "19400"
         },
         "curriculum": {
             "curriculumAim": "<p>Our curriculum has its origins in the National Curriculum for schools in England. The school offers a broad and balanced curriculum with a clear focus on subjects as discrete units. Units of work ensure sequential, layered knowledge acquisition, with each piece of learning in different subjects building on previous ones.</p>\n\n<p>St Paul's Primary School is a literacy rich learning environment that celebrates and encourages oracy in the early years and beyond. We recognise reading as the gateway to pupil learning and so we place a strong focus on early reading and vocabulary development from the beginning of a child's career in school. Over the next year we will be putting greater emphasis into our curriculum for all classes on looking after our environment and gardening.</p><p><a href=\"https://www.stpauls.camden.sch.uk/Learning/Integrated-curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -14037,10 +14338,9 @@
         "facilities": [
             "Breakfast club",
             " Specialist PE coaching",
-            " specialist Music lesson (whole class and individual)",
-            " lunchtime clubs",
-            " weekly swimming lessons",
-            " "
+            " Specialist music lesson (whole class and individual)",
+            " Lunchtime clubs",
+            " Weekly swimming lessons"
         ],
         "activities": [
             "Singing Choir",
@@ -14129,7 +14429,7 @@
                 {
                     "bgcolor": "#64007e",
                     "title": "SEND & inclusion",
-                    "description": "Equal opportunties and child-centred approach",
+                    "description": "Equal opportunities and child-centred approach",
                     "link": "/SEND/index.html?schoolId=2027008"
                 },
                 {
@@ -14153,7 +14453,7 @@
                 },
                 {
                     "bgcolor": "#ed6c26",
-                    "title": "Provide obgoing and robust mentoring for ECTs, TODs and new teachers",
+                    "title": "Provide ongoing and robust mentoring for ECTs, TODs and new teachers",
                     "description": "Support for teachers to ensure high standards of teaching and learning. "
                 },
                 {
@@ -14190,7 +14490,7 @@
                 "White European"
             ],
             "specificSEND": [
-                "Hearing impairment"
+                "Deaf"
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 1.8,
@@ -14212,7 +14512,7 @@
         },
         "support": {
             "childSafetyAndHappiness": "<p>At Frank Barnes, safeguarding pupils is a priority to ensure their emotional, physical, and mental wellbeing.</p>\n\n<p>We have positive Deaf role models and trained Learning Mentors to support all pupils in school.</p>\n\n<p>The Headteacher is the Designated Safeguarding Lead (DSL) who deals with all concerns immediately and takes appropriate action to address these.</p>\n\n<p>We are committed to promoting a safe learning environment that promotes pupil wellbeing to ensure good social and emotional development.</p>\n\n<p>Our PSHE curriculum teaches pupils how to keep themselves safe and build positive and trusting relationships.</p><p><a href=\"https://www.fbarnes.camden.sch.uk/safeguarding \" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
-            "bullyingProtection": "<p>We have a zero-tolerance policy towards bullying and deal quickly with all incidents, no matter how small.</p>\n\n<p>We are an inclusive school where we celebrate diversity and promote equality in our curriculum and school practices.</p>\n\n<p>We reinforce positive behaviour through praise and by teaching respect for others.</p>\n\n<p>We strive to create a safe environment for all our pupils and staff, fostering open communication, trust, and positive relationships.</p><p><a href=http://www.fbarnes.camden.sch.uk/policies target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "bullyingProtection": "<p>We have a zero-tolerance policy towards bullying and deal quickly with all incidents, no matter how small.</p>\n\n<p>We are an inclusive school where we celebrate diversity and promote equality in our curriculum and school practices.</p>\n\n<p>We reinforce positive behaviour through praise and by teaching respect for others.</p>\n\n<p>We strive to create a safe environment for all our pupils and staff, fostering open communication, trust, and positive relationships.</p><p><a href=https://www.fbarnes.camden.sch.uk/policies target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
             "attendanceManagement": "<p>Our attendance policy emphasises the importance of pupils attending school regularly to maximise their educational opportunities, attainment, wellbeing, and wider development.</p>\n\n<p>We set attendance targets and promote the importance of coming to school regularly through parent-teacher meetings, newsletters, and assemblies. We also reward pupils with certificates for good attendance.</p>\n\n<p>Regular and punctual attendance is vital for effective learning and social and emotional development.</p>"
         },
         "achievement": {
@@ -14246,8 +14546,8 @@
             "wherePupilsGoAfter": "<p>At Frank Barnes, we have a clear vision and a set of core values to ensure that all our pupils reach their academic and emotional potential. We strive to create a safe environment where they feel motivated and inspired to learn, take on challenges, and achieve\u2014not only during their primary years at Frank Barnes but also throughout secondary school and into adulthood.</p>\n\n<p>We want everyone to feel a sense of belonging in the school and wider community, fostering a positive sense of self-knowledge and self-awareness. We promote mutual respect, learning from each other in a safe environment with clear boundaries and high expectations.</p>\n\n<p>We ensure each child is encouraged to have high aspirations, work towards realistic and achievable goals for the future, and develop resilience by taking risks and learning from mistakes. This, in turn, equips our pupils with the skills, knowledge, and experiences they need as they move"
         },
         "SEND": {
-            "sendSupportInfo": "<p>All of our pupils have Education, Health, and Care Plans (EHCPs), which set out their communication and interaction, cognition and learning, social, emotional, and mental wellbeing, and physical and sensory needs, along with short- and long-term targets.</p>\n\n<p>Each child also has an individual Provision Map, which details how to meet their needs with agreed strategies and interventions.</p>\n\n<p>We have Teachers of the Deaf, a SENCO, Teaching Assistants, Speech and Language Therapists, occupational and physiotherapists, a school nurse, a learning mentor, an educational psychologist, and other specialist professionals to support our pupils.</p>\n\n<p>Teaching staff receive regular training relevant to pupils' needs. Some pupils requiring additional support may have dedicated one-to-one support.</p><p><a href=\"http://www.fbarnes.camden.sch/sen\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
-            "inclusivePracticeInfo": "<p>As a school for deaf children, we are inclusive in the sense that we have pupils with needs additional to their deafness.</p>\n\n<p>We ensure these additional, or sometimes complex, needs are met by providing adaptive teaching approaches, modified resources, or additional adult support.</p>\n\n<p>As a school with a very diverse pupil and staff population, we ensure everyone feels included regardless of need, ability, or background.</p>\n\n<p>We have a positive attitude towards SEN and recognise and praise the achievements of all our pupils. We are committed to ensuring equality of opportunity and outcomes for all.</p><p><a href=\"http://www.fbarnes.camden.sch/sen\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+            "sendSupportInfo": "<p>All of our pupils have Education, Health, and Care Plans (EHCPs), which set out their communication and interaction, cognition and learning, social, emotional, and mental wellbeing, and physical and sensory needs, along with short- and long-term targets.</p>\n\n<p>Each child also has an individual Provision Map, which details how to meet their needs with agreed strategies and interventions.</p>\n\n<p>We have Teachers of the Deaf, a SENCO, Teaching Assistants, Speech and Language Therapists, occupational and physiotherapists, a school nurse, a learning mentor, an educational psychologist, and other specialist professionals to support our pupils.</p>\n\n<p>Teaching staff receive regular training relevant to pupils' needs. Some pupils requiring additional support may have dedicated one-to-one support.</p><p><a href=\"https://www.fbarnes.camden.sch.uk/sen/\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>As a school for deaf children, we are inclusive in the sense that we have pupils with needs additional to their deafness.</p>\n\n<p>We ensure these additional, or sometimes complex, needs are met by providing adaptive teaching approaches, modified resources, or additional adult support.</p>\n\n<p>As a school with a very diverse pupil and staff population, we ensure everyone feels included regardless of need, ability, or background.</p>\n\n<p>We have a positive attitude towards SEN and recognise and praise the achievements of all our pupils. We are committed to ensuring equality of opportunity and outcomes for all.</p><p><a href=\"https://www.fbarnes.camden.sch.uk/policies/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     },
     {
@@ -14498,7 +14798,7 @@
             "attendanceManagement": "<p>We expect all pupils to attend every day, provided they are fit and healthy enough to do so. There is a well-established link between success at school and high attendance, and we actively promote this with our pupils.</p>  \n<br>  \n<p>Our dedicated attendance lead works closely with pupils and families to support consistent attendance, recognizing that a collaborative approach strengthens this effort. To encourage positive attendance decisions, we have a system of reward vouchers. Additionally, our emotionally based school avoidance lead provides targeted support for students struggling with ingrained low attendance.</p>  <p><a href=\"https://heath.h3federation.org.uk/31/attendance-behaviour?search=attendance\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
         },
         "achievement": {
-            "academicChildSuccess": "",
+            "academicChildSuccess": "<p>All students are baselined on entry to the school as part of a rigorous induction process. This means we know what every student\u2019s strengths and areas for improvement are in core subjects.</p>\n\n<p>Through this; small class sizes (on average five students per group); high skilled and experienced teachers; in-class support in each group and bespoke interventions, we give each student an excellent opportunity to succeed academically.</p>",
             "chartsPerform": [
                 {
                     "chartTitle": "Attainment 8 (2024 provisional):",
@@ -14530,6 +14830,522 @@
         "SEND": {
             "sendSupportInfo": "<p>All students who attend Heath School are identified as having a special educational need related to social, emotional, and mental health. Upon joining, each student undergoes a comprehensive induction process to assess their individual needs. Following this, a bespoke pupil passport is created and shared with all staff to ensure tailored support for every student.</p>  \n<br>  \n<p>We take a whole-school approach to SEND through Quality First Teaching. We recognize that high-quality teaching and well-matched support are the most effective ways to help students make good progress, making these a key focus of our school.</p>  <p><a href=\"https://heath.h3federation.org.uk/36/key-information-policies/category/20/send\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
             "inclusivePracticeInfo": "<p>We understand that true inclusivity requires regular feedback from all stakeholders. To achieve this, we gather and review input through various methods:</p>  \n<br> \n<ul>  \n  <li>Daily check-ins with students</li>  \n  <li>Daily phone calls home to parents/carers</li>  \n  <li>Bespoke mentoring and interventions</li>  \n  <li>Tri-weekly student voice feedback lessons</li>  \n  <li>Half-termly student and parent/carer surveys</li>  \n  <li>Half-termly student review days</li>  \n</ul>  \n<br>  \n<p>By consistently engaging with students, parents, and carers, we ensure that our support remains responsive and effective.</p>  <p><a href=\"https://heath.h3federation.org.uk/36/key-information-policies/category/20/send\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
+        "schoolId": 2027201,
+        "schoolURN": 100094,
+        "schoolName": "Royal Free Hospital Children's School",
+        "isPrimary": true,
+        "shortSlogan": "A specialist school for young people who experience Emotionally Based School Avoidance (EBSA) and/or learn with specific medical needs requiring a smaller educational setting. ",
+        "descriptionTitle": "A specialist school for young people who experience Emotionally Based School Avoidance (EBSA) and/or learn with specific medical needs requiring a smaller educational setting. ",
+        "description": "<p>We are a specialist school for students with specific medical needs or Emotionally Based School Avoidance (EBSA). We seek to create a nurturing and supportive learning environment where students are empowered to make great progress against specific learning goals and challenges.</p>\n<br>\n<p>Through high quality pastoral support and excellent teaching, the overwhelming majority of our students achieve significantly improved school attendance, make great academic progress and achieve well during their time with us.</p>\n<br>\n<p>This helps students to move to future destinations that align to their career goals and aspirations, whilst simultaneously improving personal wellbeing and effective coping strategies.</p>",
+        "schoolLogo": "../assets/imgs/school/2027201_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100094",
+        "churchLink": "",
+        "websiteLink": "https://www.royalfree.camden.sch.uk/",
+        "type": "Specialist",
+        "gender": "Mixed",
+        "entryForms": "1",
+        "ageRange": [
+            "5",
+            "16"
+        ],
+        "address": "Floor 6 - 6 West B, Pond Street",
+        "lat": 51.553224,
+        "long": -0.165324,
+        "formsEntry": "1",
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW3 2QG",
+        "facilities": [
+            "Konstam (specialist mental health provision for EBSA students)",
+            " Personalised pathways",
+            " Nurture groups at Key Stage 3 and 4",
+            " GCSE rescue offer for Year 11",
+            " Provision for students admitted to Royal Free Hospital    "
+        ],
+        "activities": [
+            "Play writing",
+            "Podcast creation",
+            "Equine Therapy",
+            "Learning catch-up groups",
+            "Music therapy",
+            "Drama therapy"
+        ],
+        "admissionProcess": "<p>Konstam provision: Referrals are made by mainstream schools and sent via the Camden School Inclusion Panel. Referral forms and further information can be gained by emailing <a href=\"mailto:dylan.buckle@camden.gov.uk\">dylan.buckle@camden.gov.uk</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2027201_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The teachers here just get why I've struggled to attend school in the past. This has helped me to build my confidence and start learning again.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "This school has helped my child to have hope again. It is a great school!",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#4764ff",
+                    "text": "The staff at this school really do care about the progress each of young people make as a result of our work. This contributes to an atmosphere of positivity and optimism, which helps the students to feel safe and achieve great things.",
+                    "author": "Teacher"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Staff have created a safe space, where pupils can learn. Consequently, pupils typically enjoy school and are proud to attend. ",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils\u2019 behaviour is exemplary, both in class and throughout the school. They are polite, welcoming and cooperative.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "A strength of the school is the way it develops pupils\u2019 personal skills and gets them ready for adulthood.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "Royal Free School has a very welcoming, friendly and pleasant atmosphere.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "Royal Free School is very welcoming and kind and I like that the teachers don't pressure me.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I like this school because it's less stressful and I feel more understood.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I like how the school isn't as big as mainstream schools - it feels more personal.",
+                    "author": "Child"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2027201_1.jpg",
+                "../assets/imgs/school/2027201_2.jpg",
+                "../assets/imgs/school/2027201_3.jpg",
+                "../assets/imgs/school/2027201_4.jpg",
+                "../assets/imgs/school/2027201_5.jpg",
+                "../assets/imgs/school/2027201_6.jpg",
+                "../assets/imgs/school/2027201_7.jpg",
+                "../assets/imgs/school/2027201_8.jpg",
+                "../assets/imgs/school/2027201_9.jpg",
+                "../assets/imgs/school/2027201_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "The school has a highly supportive and nurturing atmosphere where students are encouraged and supported to achieve and thrive. Relationships are prioritised to ensure students feel safe and are able to take appropriate risks in order to succeed.",
+                    "link": "/schoolContext/index.html?schoolId=2027201"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "Each student has a Linked Person to whom they are able to discuss any challenge, frustration or difficulty. A pastoral mentor is appointed to each of the schools pathways to ensure student wellbeing is always a priority.",
+                    "link": "/support/index.html?schoolId=2027201"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "As a special school, we pride ourselves on ensuring all learners are an integral part of our community and have their learning needs understood and met by our highly skilled teaching team.",
+                    "link": "/SEND/index.html?schoolId=2027201"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "The overwhelming majority of our students successfully enrol on future education or training courses. For those who experience difficulty, the school continues to provide support and guidance until the point where a sustainable programme is in place.",
+                    "link": "/achievement/index.html?schoolId=2027201"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Students enrol on a suitable curriculum pathway that maximises re-engagement in education and increases the likelihood of great progress. Teachers seek to provide learning experiences suitable to individual needs to ensure great progress can be achieved by all.",
+                    "link": "/curriculum/index.html?schoolId=2027201"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Curriculum design",
+                    "description": "We are currently updating our curriculum offer to increase the focus on personalisation, practical learning and developing student confidence and self-esteem."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Teaching and learning practice",
+                    "description": "Ensuring teachers are continuing to develop their teaching practices to maximise the likelihood of students making great progress, whilst simultaneously developing a love and appreciation of learning in our young people."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Developing the school's outreach offer",
+                    "description": "Improving the experience for learners who are unable to attend the school building due to medical difficulties. This includes formalising the processes by which the school can deliver a home-based learning programme for students who are medically prevented from leaving their home, whilst devising an appropriate re-integration plan back into school when health conditions improve."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 110,
+            "ethnicGroupsNum": null,
+            "languagesNum": null,
+            "SENDPercent": 100.0,
+            "BMEPercent": null,
+            "disadvantagedPupilsPercent": 8.6,
+            "englishAdditionalLangPercent": null,
+            "absencePercent": null,
+            "persistentAbsenteesPercent": null,
+            "specificLanguages": [
+                ""
+            ],
+            "specificEthnicities": [
+                ""
+            ],
+            "specificSEND": [
+                ""
+            ],
+            "qualifiedTeachersPercent": null,
+            "pupilAdultRatio": null,
+            "financialReserves": "\u00a3171,400",
+            "changeYearReserves": "\u00a375,500"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>The first aim of the school's curriculum is to support students to successfully re-engage in learning which, in almost all cases, has suffered significant disruption.</p>\n<br>\n<p>We have a highly personalised approach to curriculum design, which ranges from interest-led strategies to a more formal timetable. Such an approach allows for greater flexibility, which places individual learning preferences at the heart of their school experience.</p>\n<br>\n<p>This increased ownership helps to create a long-term, sustainable plan for re-engagement, which maximises the likelihood of success, in both an academic and wellbeing sense.</p><p><a href=\"https://www.royalfree.camden.sch.uk/page/?title=Curriculum&pid=47\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Personalisation",
+                "Appropriately challenging",
+                "Flexible & student-centred"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>Each student at the school is allocated a \"Link Person\" upon entry who acts as the first port of call for assistance, guidance and advocacy each day.</p>\n<br>\n<p>A weekly tutorial provides a further opportunity for support where a 1:1 discussion takes place around pressing issues of concern or difficulty.</p>\n<br>\n<p>Staff are available throughout the course of a school day to ensure regular wellbeing check-ins take place and parental liaison is made when necessary.</p>",
+            "bullyingProtection": "<p>Bullying incidents at the school are extremely rare and dealt with swiftly by staff if they occur.</p>\n<br>\n<p>Students are regularly consulted as to their personal wellbeing and the student community is overwhelmingly positive about the peer relationships they experience whilst on roll.</p>",
+            "attendanceManagement": "<p>The school adopts a nurturing approach to school attendance and agrees realistic and appropriately challenging timetables for students, which are relative to needs and presentation upon arrival.</p>\n<br>\n<p>This is tenaciously monitored by the school's Safeguarding and Attendance Lead and a range of supportive interventions are put in place where students are unable to meet specific targets.</p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "",
+            "chartsPerform": [
+                {
+                    "chartTitle": "Attainment 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2027201_chart_ks4_att8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2027201_chart_ks4_att8.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2027201_chart_ks4_p8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2027201_chart_ks4_p8.png",
+                    "chartDescription": ""
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "After Key Stage 4 (2024):",
+                    "chartImg": "../assets/imgs/charts/2027201_chart_ks4_dest.png",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "After Key Stage 5 (2023):",
+                    "chartImg": "../assets/imgs/charts/2027201_chart_ks5_dest.png",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>Students have a weekly careers lesson which aims to prepare them for life beyond our school by raising awareness of possible pathways into post-16 education and training.</p>\n<br>\n<p>Visits to colleges and training providers are organised with a robust plan of support in place during the entire period of transition into new schools and colleges. This programme is one the school prides itself on as we passionately believe our students are supported up until the point where they are sufficiently independent to thrive without us, irrespective of when this is.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>Each of our young people receives personalised support based around their specific needs, which ranges from intensive support from Learning Support Assistants or light touch pastoral support where appropriate.</p>\n<br>\n<p>A one page learner profile is generated for each student and a Learning and Wellbeing Plan documents individual learning goals. These are reviewed each half-term and discussed at weekly tutorial sessions.</p>\n<br>\n<p>Parents are invited to attend half-termly review meetings to ensure student progress is driven by great relationships between the school and the family.</p>",
+            "inclusivePracticeInfo": "<p>Student progress and individual needs are discussed in weekly meetings with senior staff. The feedback from these meetings is shared with all teachers and Learning Support Assistants to ensure any necessary changes to practice are made to improve the learning experiences for students.</p>\n<br>\n<p>Students are actively encouraged to provide feedback through their Linked Person and these are advocated with teachers within a feedback culture of openness and honesty.</p>"
+        }
+    },
+    {
+        "schoolId": 2025950,
+        "schoolURN": 100060,
+        "schoolName": "Children's Hospital School at Gt Ormond Street and UCH",
+        "isPrimary": false,
+        "shortSlogan": "<p>At the Children's Hospital School at Great Ormond Street Hospital (GOSH) and University College Hospital (UCLH) we are dedicated to ensuring that children with medical needs, additional needs and disabilities continue their education during hospital stays.</p>\n<br>\n<p>We aim to minimize disruption to academic progress, offering personalised, innovative learning opportunities tailored to each child. We work with families, schools, and healthcare providers, and make sure our pupils have equality of access to education and support.</p>\n<br>\n<p>Our core values are innovation, collaboration, nurturing, and empowerment, they foster a positive, supportive environment that empowers our pupils to achieve and feel a sense of normalcy, achievement, and confidence.</p>",
+        "descriptionTitle": "<p>At the Children's Hospital School at Great Ormond Street Hospital (GOSH) and University College Hospital (UCLH) we are dedicated to ensuring that children with medical needs, additional needs and disabilities continue their education during hospital stays.</p>\n<br>\n<p>We aim to minimize disruption to academic progress, offering personalised, innovative learning opportunities tailored to each child. We work with families, schools, and healthcare providers, and make sure our pupils have equality of access to education and support.</p>\n<br>\n<p>Our core values are innovation, collaboration, nurturing, and empowerment, they foster a positive, supportive environment that empowers our pupils to achieve and feel a sense of normalcy, achievement, and confidence.</p>",
+        "description": "<p>At the Children's Hospital School at Great Ormond Street Hospital (GOSH) and University College Hospital (UCLH) we are dedicated to ensuring that children with medical needs, additional needs and disabilities continue their education during hospital stays.</p>\n<br>\n<p>We aim to minimize disruption to academic progress, offering personalised, innovative learning opportunities tailored to each child. We work with families, schools, and healthcare providers, and make sure our pupils have equality of access to education and support.</p>\n<br>\n<p>Our core values are innovation, collaboration, nurturing, and empowerment, they foster a positive, supportive environment that empowers our pupils to achieve and feel a sense of normalcy, achievement, and confidence.</p>",
+        "schoolLogo": "../assets/imgs/school/2025950_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100060",
+        "churchLink": "",
+        "websiteLink": "https://www.goshschool.org",
+        "type": "Secondary",
+        "gender": "Mixed",
+        "entryForms": "1",
+        "ageRange": [
+            "4",
+            "18"
+        ],
+        "address": "Great Ormond Street, Camden",
+        "lat": 51.52221,
+        "long": -0.119924,
+        "formsEntry": "1",
+        "prevYearCatchmentRadius": null,
+        "postCode": "WC1N 3JH",
+        "facilities": [
+            ""
+        ],
+        "activities": [
+            "Weekly online celebration assembly",
+            "Two separate clubs in addition to main learning"
+        ],
+        "admissionProcess": "<p>Our school teaches school aged pupils who are in-patients at Great Ormond Street Hospital and UCLH. We prioritise patients with the longest stays.</p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2025950_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Staff are extremely, and rightly, proud to work at the school. This is especially evident in their sense of pride in delivering an ambitious and well-considered education in and among the busyness of a hospital ward or during medical treatment.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Parents were talking about how great school has been and we\u2019ve noticed a change in her this week since she\u2019s started school.",
+                    "author": "Other"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I cannot praise the hospital school enough. Being away from home for 6 weeks was tough for our child but it was made so much better by him being able to attend the school. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Brilliant staff! ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "I cannot think of anything that would improve the school as I think they do a fantastic job as it is.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Welcoming and friendly, engaging - my child was keen to attend each day, they catered specifically to my son's interest.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Highly personalised approach excellent teachers. Great communication with his school to keep up with his peers.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "Having the hospital school during my son's treatment gave him reassurance that he wasn't getting behind in his learning and gave him something to look forward to and focus on everyday.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "It was the best time at the worst time.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The school staff were extremely kind, caring, and compassionate to us as parents and provided very helpful insights into our daughter's strengths and challenges as a student. ",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I can work at my own pace.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "School was brilliant especially when I got to do science and meet the athlete Tommy. Teachers were so kind to me. Thank you.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I\u2019ve got real friends who care about me and I\u2019m in a real school it\u2019s not exactly a real school but I\u2019ll get there soon.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Technology at the school was seen to be fantastic. Young people have access to one computer each, and the school can facilitate virtual learning through teaching robots if young people are not well enough to attend the school.",
+                    "author": "Other"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils at this school achieve extremely well. Depending on their medical requirements, pupils may stay at the school for either short or long durations. All staff genuinely care\nabout the pupils and are committed to their success. ",
+                    "author": "Ofsted"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2025950_1.jpg",
+                "../assets/imgs/school/2025950_2.jpg",
+                "../assets/imgs/school/2025950_3.jpg",
+                "../assets/imgs/school/2025950_4.jpg",
+                "../assets/imgs/school/2025950_5.jpg",
+                "../assets/imgs/school/2025950_6.jpg",
+                "../assets/imgs/school/2025950_7.jpg",
+                "../assets/imgs/school/2025950_8.jpg",
+                "../assets/imgs/school/2025950_9.jpg",
+                "../assets/imgs/school/2025950_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "At The Children's Hospital School we build a supportive community by partnering with families, schools, local authorities, and NHS teams.",
+                    "link": "/schoolContext/index.html?schoolId=2025950"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "Our curriculum is highly personalised and tailored to the needs of each of our pupils. We focus on reducing anxiety, fostering friendship, and promoting a sense of achievement, empowering our pupils to thrive academically and emotionally during their hospital stay.",
+                    "link": "/support/index.html?schoolId=2025950"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "Our school is fully inclusive, with teaching staff experienced in supporting pupils with a range of Special Educational Needs and Disabilities (SEND). We provide tailored support, contribute to EHCP reviews, and assist families with the EHCP application process for ongoing support.",
+                    "link": "/SEND/index.html?schoolId=2025950"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "We support each student\u2019s learning journey, ensuring they continue to thrive despite medical challenges, fostering a sense of accomplishment.",
+                    "link": "/achievement/index.html?schoolId=2025950"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "Our curriculum prioritises achievement, continuity, and enjoyment, blending core subjects with arts, humanities, and technology. We personalize learning to meet each pupil's needs, using innovative methods and technology, ensuring pupils stay engaged and progress despite their medical challenges.",
+                    "link": "/curriculum/index.html?schoolId=2025950"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Inpatient rights to education",
+                    "description": "Ensure sustainable strategic partnerships which meet needs of inpatients, the school and its wider national and multi-agency role."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Innovative Digital Approaches",
+                    "description": "Continue to develop technological tools to enhance the educational experience within our adaptable educational model."
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "High Quality Inclusive and personalised Teaching ",
+                    "description": "To develop our staff to meet needs of our changing community ."
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 0,
+            "ethnicGroupsNum": 1,
+            "languagesNum": 1,
+            "SENDPercent": null,
+            "BMEPercent": null,
+            "disadvantagedPupilsPercent": null,
+            "englishAdditionalLangPercent": null,
+            "absencePercent": null,
+            "persistentAbsenteesPercent": null,
+            "specificLanguages": [
+                ""
+            ],
+            "specificEthnicities": [
+                ""
+            ],
+            "specificSEND": [
+                ""
+            ],
+            "qualifiedTeachersPercent": null,
+            "pupilAdultRatio": null,
+            "financialReserves": "\u00a31,362,100",
+            "changeYearReserves": "\u00a3373,500"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>We plan closely with our NHS colleagues to ensure that learning is an integral part of pupils\u2019 admissions and that stress around falling behind at school is minimised. We want pupils to have fun when learning at our school and recognise that engaging in learning and being motivated to achieve educational goals can promote overall well being and be a key part of recovery.</p>\n<br>\n<p>We work both within and beyond the framework of the National Curriculum, helping pupils to continue to make progress in core subjects, whilst also encouraging understanding and appreciation of the arts, humanities and technology and developing their spiritual, moral, cultural and social education. We also mark national events and celebrations that are familiar features of pupils\u2019 home school calendars.</p><p><a href=\"https://www.goshschool.org/assets/Documents/Attachments/SECONDARY-CURRICULUM-OVERVIEW-2024-to-2025.pdf\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Personalised curriculum for pupils\u2019 individual needs and interests",
+                "Continuity and community",
+                "Wellbeing"
+            ],
+            "topSubjects": [
+                ""
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>The Great Ormond Street Hospital \u2018child first and always\u2019 principle is at the heart of all we do. At a time when pupils might be feeling isolated from familiar people and environments, we offer a child-centred approach that allows them to lead the way and take ownership of their learning. We liaise with families and ward teams and use both formal and informal feedback to ensure that children feel safe and happy in their lessons.</p>\n<br>\n<p>Most importantly, we make sure that learning is fun. We offer an innovative and exciting curriculum that brings the outside world in for pupils, making sure they have regular opportunities to connect with peers from both their home school and the hospital school.</p>\n<br>\n<p>We know that children who have a long-term illness and/or disability need a strong focus on emotional well being. We deliver personalised PSHE lessons that focus on emotional literacy, confidence and esteem building and relaxation strategies. We also work closely with colleagues in the Play and Psychology teams to deliver bespoke interventions for those who may be struggling the most.</p>",
+            "bullyingProtection": "<p>Pupils are taught 1:1 at the bedside or in small groups with high adult to child ratios, and children are never unaccompanied when working together meaning that any bullying incident that may occur can be dealt with immediately and in the moment. Parents would be made aware of any incident and action taken on the same day.</p>\n<br>\n<p>Pupils are able to feedback a bullying problem in person with key workers or advocates on their ward, or anonymously through a feedback box.</p>",
+            "attendanceManagement": "<p>We use any and every opportunity to engage pupils with learning and make school an integral part of their admission.</p>\n<br>\n<p>We provide a child-led approach, which supports pupil's who may be struggling to engage, that allows pupils to engage minimally at first - perhaps just 10 minutes a day initially, building up to full lessons over time. We may use games and other activities to engage pupils initially, setting engagement targets and rewarding participation.</p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "",
+            "chartsPerform": [
+                {
+                    "chartTitle": "Attainment 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2025950_chart_ks4_att8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2025950_chart_ks4_att8.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2025950_chart_ks4_p8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2025950_chart_ks4_p8.png",
+                    "chartDescription": ""
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "After Key Stage 4 (2024):",
+                    "chartImg": "../assets/imgs/charts/2025950_chart_ks4_dest.png",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "After Key Stage 5 (2023):",
+                    "chartImg": "../assets/imgs/charts/2025950_chart_ks5_dest.png",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>We work closely with home schools to support re-integration post-discharge. This work begins well in advance of discharge and continues throughout the transition period and beyond, when we continue to offer advocacy and support for those who may require it once they have returned home. For those unable to return to their home school immediately, we work with local authorities across the country to set up appropriate home tuition, aiming to minimise further disruption to a child\u2019s education.</p>\n<br>\n<p>We can support families through the EHCP application process and with finding a new school place if needed. Our teachers attend EHCP reviews and post-discharge education planning meetings when required and will make visits to pupils\u2019 home schools to provide targeted advice and support.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>We are an inclusive school. Our aim is to provide enriching and enjoyable learning opportunities for all our pupils, including those with Special Educational Needs and Disabilities. Our skilled and experienced teaching staff carefully plan and deliver personalised lessons, using resources and strategies tailored to each individual pupil\u2019s needs.</p>\n<br>\n<p>We work with families, the pupil\u2019s home-school, our NHS colleagues and external professionals to enhance learning opportunities during a hospital admission. Each week we celebrate determination, friendship and learning achievements, recognising that each pupil is on their own learning journey.</p>",
+            "inclusivePracticeInfo": ""
         }
     }
 ]
