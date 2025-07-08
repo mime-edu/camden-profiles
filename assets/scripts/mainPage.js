@@ -125,11 +125,15 @@ function handleFilters(schools) {
 
 	if (phase == "primary") {
 		return schools.filter((school) => {
-			return school.isPrimary == true;
+			return school.type == "Primary";
 		});
 	} else if (phase == "secondary") {
 		return schools.filter((school) => {
-			return school.isPrimary == false;
+			return school.type == "Secondary";
+		});
+	} else if (phase == "specialist") {
+		return schools.filter((school) => {
+			return school.type == "Specialist";
 		});
 	} else {
 		return schools;
