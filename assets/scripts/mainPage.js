@@ -125,7 +125,7 @@ function handleFilters(schools) {
 
 	if (phase == "primary") {
 		return schools.filter((school) => {
-			return school.type == "Primary";
+			return school.type == "Primary" || school.type == 'Primary inc. Nursery';
 		});
 	} else if (phase == "secondary") {
 		return schools.filter((school) => {
