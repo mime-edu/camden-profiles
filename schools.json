@@ -1340,12 +1340,6 @@
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "#e50059",
-                    "text": "Brookfield Primary is a very welcoming and inclusive school where the teachers have a very good relationship with the children and its academic curriculum is centred on bringing up the best in children by fostering their skills as well as helping them develop their talents.",
-                    "author": "Parent"
-                },
-                {
-                    "type": "quote",
                     "bgcolor": "#64007e",
                     "text": "Brookfield is a school which prides itself on creativity and community. It is a warm and welcoming place to work, with a wonderful team who care deeply about the children.\u00a0",
                     "author": "School Staff"
@@ -5551,8 +5545,8 @@
             ],
             "qualifiedTeachersPercent": 91,
             "pupilAdultRatio": 1.3,
-            "financialReserves": "-\u00a387,000",
-            "changeYearReserves": "-\u00a3487,600"
+            "financialReserves": "-87000",
+            "changeYearReserves": "-487600"
         },
         "curriculum": {
             "curriculumAim": "<p>At Harmood, we aim to help students become confident young adults by developing both their social and personal skills alongside their academic knowledge. Our goal is for each student to become a successful, active, well-balanced adult who can contribute to their community and secure employment.</p>\n<br>\n<p>Students have access to all national curriculum subjects, with a strong emphasis on Maths, English, Food, and Personal Development. We also provide opportunities for cooking and participating in community activities, including partnerships with Arsenal and Growing Green.</p>\n<br>\n<p>Given the SEMH needs of our students, our curriculum is designed to prioritise emotional and mental wellbeing, where we collaborate with speech and language therapists and educational psychologists to provide targeted support.</p><p><a href=\"https://www.harmood.h3federation.org.uk/279/our-curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -6525,7 +6519,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#e50059",
-                    "text": "A wonderfully welcoming place for parents and children. Behaviour seems to be good and the children learn how to be good friends and supportive of each other. There is a fostering of pupil collaboration not competitiveness. It's great!",
+                    "text": "Great emphasis on visual and performing arts alongside academic learning. Brilliant teachers who are loved and respected by the kids. Strong leadership. Wide range of PE including non-competitive sports. Great level of specialist support for both general learning and mental health of students.",
                     "author": "Parent"
                 },
                 {
@@ -6597,7 +6591,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#e50059",
-                    "text": "Great teachers who support the children in their education and pursuing their passions. The school is caring, welcoming and filled with lots of fun activities that make my children love coming into school every day.",
+                    "text": "HTSS is like a happy village school in the middle of London. Very well organised. Allowing creativity to flourish.",
                     "author": "Parent"
                 },
                 {
@@ -6659,12 +6653,12 @@
                 },
                 {
                     "bgcolor": "#ed6c26",
-                    "title": "Behaviour Practices",
-                    "description": "To embed our behaviour and relationships practices consistently across the school."
+                    "title": "Outdoor play and learning",
+                    "description": "Further develop our playtime offer, working with specialist provider OPAL so as to provide our children with rich opportunities to be creative, collaborative and active in their outdoor play, in an environment that is safe but challenging enough for our children's ongoing development."
                 },
                 {
                     "bgcolor": "#4764ff",
-                    "title": "Curriculum Development",
+                    "title": "Curriculum development",
                     "description": "To embed threads linked to our core values across all subjects that build subject knowledge and experience in a meaningful way."
                 }
             ]
@@ -10071,8 +10065,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 8.7,
-            "financialReserves": "-\u00a323,300",
-            "changeYearReserves": "-\u00a3142,200"
+            "financialReserves": "-23300",
+            "changeYearReserves": "-142200"
         },
         "curriculum": {
             "curriculumAim": "<p>The aim of our curriculum is to produce happy, creative, confident and successful children who are ready for the next stage of their education. We want our children to leave us as lifelong learners with excellent maths and English skills and a broad knowledge of the arts, sciences, humanities and wider curriculum.</p>\n\n<p>We work hard to forge links with local museums and places of interest whilst also making sure that our pupils give back to the community.</p><p><a href=\"https://www.primrosehill.camden.sch.uk/school-information/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -11424,7 +11418,7 @@
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#64007e",
                     "text": "Strong relationships in school ensure that pupils feel safe and secure and staff feel valued.",
                     "author": "Catholic School Inspectorate"
                 },
@@ -11454,7 +11448,7 @@
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
+                    "bgcolor": "#64007e",
                     "text": "Pupils know that they have a responsibility to care for the most vulnerable in society choosing charities to help them respond to those in need.",
                     "author": "Catholic School Inspectorate"
                 },
@@ -13091,7 +13085,13 @@
         "prevYearCatchmentRadius": null,
         "postCode": "NW3 7SU",
         "facilities": [
-            "St Luke's CE school was built into the undercroft of St Luke's Church Hampstead. Although we are small, we try to make the very best use of our setting and its location. We are a short walk from Hampstead Heath and our teachers use its facilities to explore and discover nature while supporting their learning. Our playground was redeveloped in 2020 with areas for the children to engage in play and sports, have outdoor learning sessions and grow their own plants. As a small school, we ask all of our families to support our school lunch programme. This means we do not offer a packed lunch option. Our children share a meal together every day to promote healthy eating."
+            "In the undercroft of St Luke's Church",
+            " Short walk from Hampstead Heath",
+            " Discover nature while supporting learning",
+            " Redeveloped playground with areas for play and sports",
+            " Outdoor learning sessions",
+            " Grow their own plants",
+            " School lunch programme"
         ],
         "activities": [
             "Breakfast Club",
