@@ -5545,8 +5545,8 @@
             ],
             "qualifiedTeachersPercent": 91,
             "pupilAdultRatio": 1.3,
-            "financialReserves": "-87000",
-            "changeYearReserves": "-487600"
+            "financialReserves": "-\u00a387,000",
+            "changeYearReserves": "-\u00a3487,600"
         },
         "curriculum": {
             "curriculumAim": "<p>At Harmood, we aim to help students become confident young adults by developing both their social and personal skills alongside their academic knowledge. Our goal is for each student to become a successful, active, well-balanced adult who can contribute to their community and secure employment.</p>\n<br>\n<p>Students have access to all national curriculum subjects, with a strong emphasis on Maths, English, Food, and Personal Development. We also provide opportunities for cooking and participating in community activities, including partnerships with Arsenal and Growing Green.</p>\n<br>\n<p>Given the SEMH needs of our students, our curriculum is designed to prioritise emotional and mental wellbeing, where we collaborate with speech and language therapists and educational psychologists to provide targeted support.</p><p><a href=\"https://www.harmood.h3federation.org.uk/279/our-curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -5669,7 +5669,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "Leaders have transformed pupils' behaviour. Pupils now have positive attitudes to learning. Throughout the day, they behave in a calm and sensible manner.",
+                    "text": "Pupils are happy in their school. Everyone is made to feel welcome here because pupils treat each other with respect. Pupils value their positive relationships with one another and adults.",
                     "author": "Ofsted"
                 },
                 {
@@ -5711,13 +5711,13 @@
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "Leaders put much emphasis on pupils' welfare, including supporting their welfare, mental health and emotional well-being.",
+                    "text": "Pupils behave well in lessons and around the school. Pupils feel safe in school. They know they can speak to a trusted adult with any concerns they may have.",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "Bullying is rare and should it happen, pupils are confident that staff will deal with effectively.",
+                    "text": "Pupils with special educational needs and/disabilities (SEND) have full access to the curriculum. Teachers know and understand the needs of pupils with SEND well. Teachers use information updates to adapt the learning for individual pupils.",
                     "author": "Ofsted"
                 },
                 {
@@ -5747,7 +5747,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "Teaching is effective and helps all groups of pupils to make good progress.",
+                    "text": "The school has worked diligently to strengthen the ambition of the curriculum and ensured that pupils\u2019 attitudes to learning have improved. As a result, pupils now learn well across the curriculum.",
                     "author": "Ofsted"
                 },
                 {
@@ -6404,8 +6404,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 4.8,
-            "financialReserves": "\u00a3713,700",
-            "changeYearReserves": "\u00a3488,900"
+            "financialReserves": "713700",
+            "changeYearReserves": "488900"
         },
         "curriculum": {
             "curriculumAim": "<p>The school's curriculum is designed to equip all pupils with what they require to successfully transition to mainstream education or to post-16.</p>\n\n<p>The school focuses on ensuring students have the skills, knowledge and qualifications in maths and English that enable them to be successful in the world.</p>\n\n<p>Access to a wide range of vocational subjects, experiences and qualifications is another area in which the offer differs to that of mainstream education.</p>\n\n<p>We recognise that our students need a curriculum that makes them want to come to school and one where they can feel a sense of success throughout each day to reframe their perspective of education.</p><p><a href=\"https://heath.h3federation.org.uk/237/curriculum-overview?search=curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -6688,8 +6688,8 @@
             ],
             "qualifiedTeachersPercent": 92,
             "pupilAdultRatio": 10.9,
-            "financialReserves": "\u00a3132,300",
-            "changeYearReserves": "\u00a334,700"
+            "financialReserves": "132300",
+            "changeYearReserves": "34700"
         },
         "curriculum": {
             "curriculumAim": "<p>It is our intention to provide a broad, inspiring and inclusive curriculum that ensures all children have a wide range of opportunities to explore, question and deepen their thinking over time. Subjects are taught as distinct disciplines that are knowledge-rich and sequenced meaningfully so that, as children move up through the school, they consolidate and develop their subject-specific knowledge over time.</p>\n<br>\n\n<p>Learning is brought to life by making it memorable and engaging, both in the classroom and beyond. We believe that working with drama, art, music and sporting specialists through whole-school projects, performances and competitions enhances our curriculum. These creative, cultural and sporting activities symbolise the holistic and inclusive view of education that runs through our school, with the development of the whole child driving all that we do.</p>\n<br>\n\n<p>Our curriculum supports our children in becoming: caring citizens who show care to each other, the local community and wider world and who know how their actions can help others; courageous communicators who ask questions, speak knowledgeably, extend their vocabulary, take risks, learn from their mistakes and challenge themselves through new experiences; co-operative learners who work well together, negotiate and compromise, share ideas, listen to and support one another.</p><p><a href=\"https://www.holytrinitynw1.camden.sch.uk/parents/day-to-day/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -8838,8 +8838,8 @@
             ],
             "qualifiedTeachersPercent": 96,
             "pupilAdultRatio": 7.3,
-            "financialReserves": "\u00a3807,600",
-            "changeYearReserves": "-\u00a3155,300"
+            "financialReserves": "807600",
+            "changeYearReserves": "-155300"
         },
         "curriculum": {
             "curriculumAim": "<p>We do not simply say that our curriculum is broad and balanced. It truly is. Most importantly, it is designed to inspire a love of learning, meeting the diverse needs of our pupils and providing rich opportunities for personal growth.</p>\n<br>\n\n<p>Longstanding partnerships with organisations such as The Francis Crick Institute, The Royal Academy of Music and the London School of Contemporary Dance broaden the horizons for our children. Our annual events; The Exhibition, Poetry Recital; Talent Show and Careers Fortnight give all children the opportunity to develop their talents to the full.</p><p><a href=\"https://www.netley.camden.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -10065,8 +10065,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 8.7,
-            "financialReserves": "-23300",
-            "changeYearReserves": "-142200"
+            "financialReserves": "-\u00a323,300",
+            "changeYearReserves": "-\u00a3142,200"
         },
         "curriculum": {
             "curriculumAim": "<p>The aim of our curriculum is to produce happy, creative, confident and successful children who are ready for the next stage of their education. We want our children to leave us as lifelong learners with excellent maths and English skills and a broad knowledge of the arts, sciences, humanities and wider curriculum.</p>\n\n<p>We work hard to forge links with local museums and places of interest whilst also making sure that our pupils give back to the community.</p><p><a href=\"https://www.primrosehill.camden.sch.uk/school-information/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -11572,8 +11572,8 @@
             ],
             "qualifiedTeachersPercent": 95,
             "pupilAdultRatio": 11.2,
-            "financialReserves": "\u00a3296,600",
-            "changeYearReserves": "-\u00a335,800"
+            "financialReserves": "296600",
+            "changeYearReserves": "-35800"
         },
         "curriculum": {
             "curriculumAim": "<p>At Rosary, our vision is for children to leave empowered with the knowledge and cultural capital needed to be resilient, successful, and responsible citizens. We offer a broad, balanced curriculum with clear frameworks outlining what children will know, understand, and be able to do by the end of their journey with us. Catholic Social Teaching is integrated throughout our topics, skilfully promoted by our Mini Vinnie Pupil Chaplaincy Team.</p>\n<br>\n\n<p>Our curriculum is designed around subject disciplines, assessing and building on prior learning with clear milestones at the end of each phase. For each subject, we map out key learning objectives, ensuring children acquire essential knowledge by the time they leave our school.</p>\n<br>\n\n<p>We believe that deeper learning occurs through enquiry, first-hand experiences, direct teaching, and enrichment opportunities. Children are encouraged to ask questions, make connections, and engage in cooperative learning through Kagan Structures, which promote collaboration and essential social skills.</p><p><a href=\"https://www.rosary.camden.sch.uk/our-curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -12481,7 +12481,7 @@
         "isPrimary": true,
         "shortSlogan": "Go Shine in the World!",
         "descriptionTitle": "Go Shine in the World!",
-        "description": "<p>St George the Martyr CE Primary School provides a caring, stable, intellectually and creatively stimulating environment for children. Our staff are committed to ensuring that your child\u2019s time at school is inspiring and productive, so that they can move confidently to the next stage of their education.</p>\n<br>\n\n<p>St George the Martyr serves the local community by welcoming children from all faiths and children with no faith background. We value and respect the diversity of our community.</p>\n<br>\n\n<p>We work closely with parents, children, governors, staff and our partnership schools to ensure that each and every child is given the best possible start on their educational journey.</p>\n<br>\n\n<p>St George the Martyr is strengthened by working within a partnership.</p>",
+        "description": "<p>St George the Martyr CE Primary School provides a caring, stable, intellectually and creatively stimulating environment for children. Our staff are committed to ensuring that your child\u2019s time at school is inspiring and productive, so that they can move confidently to the next stage of their education.</p>\n<br>\n\n<p>St George the Martyr serves the local community by welcoming children from all faiths and children with no faith background. We value and respect the diversity of our community.</p>\n<br>\n\n<p>We work closely with parents, children, governors, staff and our partnership schools to ensure that each and every child is given the best possible start on their educational journey.</p>\n<br>\n\n<p>St George the Martyr is strengthened by working within a federation.</p>",
         "schoolLogo": "../assets/imgs/school/2023441_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100040",
         "churchLink": "https://www.stgeorge.camden.sch.uk/page/?title=Anglican+SIAMS+report&pid=37",
@@ -12523,7 +12523,8 @@
             "Inter-School Athletics Tournament",
             "Young Women's Sports Days",
             "After-School Playcentre at Coram's Fields",
-            "Camden Music Festival at The Royal Albert Hall"
+            "Camden Music Festival at The Royal Albert Hall",
+            "Cooking Club"
         ],
         "admissionProcess": "<p>We are delighted that you are considering St George the Martyr for your child. To take things further, please read our admissions policy, complete the application form, and bring it to the school office.</p>\n<p>You will find the admissions policy and application form in the link below:</p>\n<p><a href=\"https://www.stgeorge.camden.sch.uk/page/?title=Admissions+Policy+and+Application+Forms&pid=32\" target=\"_blank\">St George Admissions</a></p>",
         "tabs": {
@@ -12723,9 +12724,9 @@
         "curriculum": {
             "curriculumAim": "<p>Our well-sequenced curriculum equips our children with the knowledge, skills and cultural capital that they need to succeed in life. In addition, each term we pause the usual curriculum for a week in order for everyone to take part in a Whole School Project Studies. In the recent past these have included Looking After Our World Studies, Equality Studies, Social Justice Studies and Keeping Safe Studies.</p>\n\n<p>These special studies weeks enable pupils to develop a deeper understanding and awareness of current issues and topics encouraging them to think about citizenship and their own contribution to society.</p><p><a href=\"https://www.stgeorge.camden.sch.uk/page/?title=Curriculum&pid=9\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
             "curriculumStrengths": [
-                "Focus on Developing Strong Oracy",
-                "Focus on Oracy and Early Reading",
-                "Off Site Visits and Visitors to Enrich Learning."
+                "Ambitious and well-sequenced",
+                "Focus on oracy and early reading",
+                "Off site visits and visitors to enrich learning"
             ],
             "topSubjects": [
                 ""
@@ -15128,8 +15129,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 11.0,
-            "financialReserves": "\u00a3424,300",
-            "changeYearReserves": "-\u00a3190,100"
+            "financialReserves": "424300",
+            "changeYearReserves": "-190100"
         },
         "curriculum": {
             "curriculumAim": "<p>Our ambitious curriculum aims to enable all children to flourish in their academic and personal development. It promotes deep understanding of knowledge, skills, and critical thinking, all underpinned by developing children\u2019s oracy skills.</p>\n<br>\n\n<p>Our curriculum is created with purpose and taught with passion. There is a strong emphasis on ethical purpose, through a global lens, with learning leading to collective action projects in our community.</p>\n<br>\n\n<p>In order to ensure our curriculum is current, relevant, and inspiring, we enrich learning through varied experiences and reciprocal partnerships with a range of educators, expert organisations, future employers, and creative networks.</p>\n<br>\n\n<p>At Torriano, we place a strong emphasis on creativity with a spotlight on performing and visual arts. We have an extensive and inclusive physical education provision, accessing many competitions and sporting festivals.</p>\n<br>\n\n<p>We offer an enriched curriculum where the children\u2019s heritage is valued and celebrated.</p><p><a href=\"https://torriano.camden.sch.uk/2022/05/10/curriculum-intent/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
