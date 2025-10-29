@@ -2400,7 +2400,7 @@
         "isPrimary": true,
         "shortSlogan": "<strong>We want our pupils to become informed, articulate and empowered citizens.</strong>",
         "descriptionTitle": "<strong>We want our pupils to become informed, articulate and empowered citizens.</strong>",
-        "description": "At <strong>Christopher Hatton</strong> we want our pupils to become informed, articulate and empowered citizens. Through our creative curriculum with its emphasis on the Environment and the Rights of the Child, our innovative teaching and the rich opportunities we provide, children develop the knowledge, skills and attitudes to succeed.<br><br>\nWe are a happy, ambitious and inclusive school reflecting the rich diversity of families in our area and are proud to be a beacon of excellence at the heart of our community. Affectionately known as 'Hattoneers,' our children embody high aspirations, mutual respect, and a commitment to making a positive impact. <strong>Our most recent Ofsted report</strong> highlights our school\u2019s continuous growth and success. We are committed to our <strong>school performance</strong> and work in collaboration with <strong>Camden Learning</strong> to ensure the best outcomes for our students, alongside other <strong>Camden schools</strong>",
+        "description": "At <strong>Christopher Hatton</strong> we want our pupils to become informed, articulate and empowered citizens. Our creative curriculum and the unique sense of community they enjoy enable our pupils to do achieve. Innovative teaching and many enriching opportunities mean that children develop the knowledge, skills and attitudes to succeed.<br><br>\nWe are a happy, ambitious and inclusive school reflecting the rich diversity of families in our area and are proud to be a beacon of excellence at the heart of our community. Affectionately known as 'Hattoneers,' our children embody high aspirations, mutual respect, and a commitment to making a positive impact. <strong>Our most recent Ofsted report</strong> highlights our school\u2019s continuous growth and success. We are committed to our <strong>school performance</strong> and work in collaboration with <strong>Camden Learning</strong> to ensure the best outcomes for our students, alongside other <strong>Camden schools.</strong>",
         "schoolLogo": "../assets/imgs/school/2022842_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/130342",
         "churchLink": "",
@@ -10365,8 +10365,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 9.5,
-            "financialReserves": "\u00a31,001,100",
-            "changeYearReserves": "-\u00a3462,900"
+            "financialReserves": "1001100",
+            "changeYearReserves": "-462900"
         },
         "curriculum": {
             "curriculumAim": "<p>Our aim is to develop students who have limitless aspirations and are equipped to be successful in any path they choose. To that end, we offer a broad, balanced curriculum that ensures students master the relevant knowledge, concepts and skills of a wide range of disciplines, whilst fostering a life-long love of learning.</p>\n\n<p>Ours is a responsive and challenging curriculum with sufficient flexibility to meet the needs of all our students and ensure they are given the opportunity to fulfil their potential. Students can expect to receive feedback which enables them to grow, develop resilience and reach the highest standards. They can expect to be challenged and encouraged to be independent and take risks in their learning.</p>\n\n<p>Enrichment opportunities are built into our curriculum to allow our students to experience and participate in a broad range of cultural pursuits, engendering in them an appreciation of human creativity and achievement.</p>\n\n<p>Regent High School places great importance on working closely with the parents and carers of all our students. Our teachers have a responsibility to establish home-school links which we believe assist in each child\u2019s development at school. Families will have opportunities throughout the year to meet with school staff to discuss progress and welfare. The school has also produced family guides to support learning in each year group. These can be accessed here:</p>\n<br>\n<p><a href=\"https://www.regenthighschool.org.uk/Parents/How-Will-I-Know-How-My-Child-is-Getting-on/\" target=\"_blank\">Family guides to learning</a></p><p><a href=\"https://www.regenthighschool.org.uk/Our-curriculum-intent/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -12108,8 +12108,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 5.4,
-            "financialReserves": "49200",
-            "changeYearReserves": "-219400"
+            "financialReserves": "\u00a349,200",
+            "changeYearReserves": "-\u00a3219,400"
         },
         "curriculum": {
             "curriculumAim": "<p>Our curriculum contains the knowledge that we have identified as essential in our school, taking cultural capital into account. These have been carefully crafted for each subject, identifying knowledge and skills and breaking them down to ensure sequential, layered knowledge acquisition.</p>\n\n<p>The curriculum is sequenced and progressive so that children can systematically accumulate knowledge which becomes embedded in their long-term memory and make meaningful connections in their learning.</p>\n\n<p>The promotion of strong oracy skills is a priority for our children. This focus runs throughout our curriculum, because children must be able to talk about what they have learned in a knowledgeable and articulate way, engaging in meaningful, collaborative discussions.</p>\n\n<p>Reading is the gateway to pupils\u2019 learning. To ensure all our pupils are able to access the full curriculum, we therefore place a strong focus on oracy, early reading and vocabulary development right from their points of entry.</p><p><a href=\"https://www.stalbanscamden.co.uk/topic/our-curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -13600,7 +13600,7 @@
         "isPrimary": true,
         "shortSlogan": "Go shine in the world!",
         "descriptionTitle": "Go shine in the world!",
-        "description": "<p>St Mary's provides a caring, stable, intellectually and creatively stimulating environment for children. Our staff are committed to ensuring that your child\u2019s time at school is inspiring and productive, so that they can move confidently to the next stage of their education.</p>\n<br>\n<p>St Mary's serves the local community by welcoming children from all faiths and children with no faith background. We value and respect the diversity of our community.</p>",
+        "description": "<p>St Mary's CE Primary School provides a caring, stable, intellectually and creatively stimulating environment for children. Our staff are committed to ensuring that your child\u2019s time at school is inspiring and productive, so that they can move confidently to the next stage of their education.</p>\n<br>\n<p>St Mary's serves the local community by welcoming children from all faiths and children with no faith background. We value and respect the diversity of our community.</p>\n<br>\n<p>We work closely with parents, children, governors, staff and our partnership schools to ensure that each and every child is given the best possible start on their educational journey.</p>\n<br>\n<p>St Mary's is strengthened by working within a federation.</p>",
         "schoolLogo": "../assets/imgs/school/2023517_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100042",
         "churchLink": "https://www.stmarykilburn.camden.sch.uk/attachments/download.asp?file=43&type=pdf",
@@ -13839,8 +13839,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 12.3,
-            "financialReserves": "\u00a311,700",
-            "changeYearReserves": "-\u00a327,500"
+            "financialReserves": "11700",
+            "changeYearReserves": "-27500"
         },
         "curriculum": {
             "curriculumAim": "<p>Our well-sequenced curriculum equips our children with the knowledge, skills and cultural capital that they need to succeed in life.</p>\n<br>\n\n<p>In addition, each term we pause the usual curriculum for a week in order for everyone to take part in a Whole School Project Studies. In the recent past these have included Looking After Our World Studies, Equality Studies, Social Justice Studies and Keeping Safe Studies.</p>\n<br>\n\n<p>These special studies weeks enable pupils to develop a deeper understanding and awareness of current issues and topics encouraging them to think about citizenship and their own contribution to society.</p><p><a href=\"https://www.stmarykilburn.camden.sch.uk/page/?title=Curriculum&pid=9\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -13856,9 +13856,9 @@
             "strengths": "temp"
         },
         "support": {
-            "childSafetyAndHappiness": "<p>At St Mary's we are committed to providing a safe, inclusive and stimulating environment for every child. Pupils thrive in our nurturing and supportive school. Staff work in very close partnership with parents and carers to develop the best possible experience for all pupils.</p><p><a href=\"https://www.stmarykilburn.camden.sch.uk/attachments/download.asp?file=48&type=pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
-            "bullyingProtection": "<p>We are vigilant for signs of bullying and always take reports of incidents seriously. We teach pupils about understanding what bullying is and help pupils to develop strategies to recognise and report bullying-type behaviour.</p>\n<br>\n\n<p>Senior leaders work closely with parents and pupils where potential bullying is identified until issues are resolved.</p><p><a href=https://www.stmarykilburn.camden.sch.uk/attachments/download.asp?file=48&type=pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
-            "attendanceManagement": "<p>For our children to gain the greatest benefit from their education it is vital that they attend every day and on time. Regular and punctual attendance is essential for effective learning and children should be at school, on time, every day the school is open unless the reason for the absence is unavoidable.</p>\n<br>\n\n<p>We report to parents on their child\u2019s attendance and punctuality and how this relates to their attainment and progress. We celebrate and reward good attendance through individual and class achievements.</p><p><a href=\"https://www.stmarykilburn.camden.sch.uk/attachments/download.asp?file=45&type=pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+            "childSafetyAndHappiness": "<p>At St Mary's we are committed to providing a safe, inclusive and stimulating environment for every child. Pupils thrive in our nurturing and supportive school. Staff work in very close partnership with parents and carers to develop the best possible experience for all pupils.</p><p><a href=\"https://www.stmarykilburn.camden.sch.uk/attachments/download.asp?file=319&type=pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>We are vigilant for signs of bullying and always take reports of incidents seriously. We teach pupils about understanding what bullying is and help pupils to develop strategies to recognise and report bullying-type behaviour.</p>\n<br>\n\n<p>Senior leaders work closely with parents and pupils where potential bullying is identified until issues are resolved.</p><p><a href=https://www.stmarykilburn.camden.sch.uk/attachments/download.asp?file=426&type=pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>For our children to gain the greatest benefit from their education it is vital that they attend every day and on time. Regular and punctual attendance is essential for effective learning and children should be at school, on time, every day the school is open unless the reason for the absence is unavoidable.</p>\n<br>\n\n<p>We report to parents on their child\u2019s attendance and punctuality and how this relates to their attainment and progress. We celebrate and reward good attendance through individual and class achievements.</p><p><a href=\"https://www.stmarykilburn.camden.sch.uk/attachments/download.asp?file=320&type=pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
         },
         "achievement": {
             "academicChildSuccess": "<p>We provide ambitious learning opportunities for all children, promoting achievement in every area. Our curriculum contains the knowledge that we have identified as essential for pupils to learn.</p>\n<br>\n\n<p>Sequences of lessons have been carefully crafted for each subject and teaching is broken down into small steps to build pupils' knowledge and understanding. Teachers check pupils\u2019 understanding regularly, addressing any gaps in knowledge immediately.</p>\n<br>\n\n<p>As a result, pupils make exceptional progress through their time at the school and attain very well for their age by the time they finish in Year 6.</p><p><a href=\"https://www.stmarykilburn.camden.sch.uk/page/?title=Our+curriculum+intent%2C+implementation+and+impact&pid=99\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
@@ -14489,6 +14489,314 @@
         "SEND": {
             "sendSupportInfo": "<p>Regular teacher meetings and communication with our leadership team and SEND highlights and gives the opportunity to discuss the learning needs of individuals.</p><br>\n\n<p>The school employs a range of strategies to support pupils with their individual learning needs ranging from fidget toys and strategies for maintaining focus and attention, IT based interventions like wordshark, adult led strategies such as box clever or other interventions, adult led individual or small group work and tutoring.</p><br>\n\n<p>Pupils with SEND make good progress and the school holds high expectations for all.</p><br>\n\n<p>In partnership with parents our SEND lead works sensitively to develop and support programmes of learning for our SEND learners.</p><br>\n\n<p>We work closely with specialist outside agencies through Camden to support our SEND learners.</p><br><p><a href=\"https://www.stpauls.camden.sch.uk/Learning/Policy-documents/\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
             "inclusivePracticeInfo": "<p>At St Paul's we believe that children are unique, we all have different ways of learning and we all bring different experiences of life into the classroom- adult or child.</p>\n\n<p>Our job is to ensure that every child has the best opportunity they can to succeed with their learning and to make progress.</p>\n\n<p>We have regular meetings to discuss the progress of every child with a focus on those children not making the progress expected. In this way, we ensure we are keeping a focus on all our learners and maintaining inclusive practice.</p><p><a href=\"https://www.stpauls.camden.sch.uk/Learning/Policy-documents/\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
+        "schoolId": 2027205,
+        "schoolURN": 100096,
+        "schoolName": "Swiss Cottage School",
+        "isPrimary": false,
+        "shortSlogan": "Inclusive, nurturing, inspiring - working together to unlock potential.",
+        "descriptionTitle": "Inclusive, nurturing, inspiring - working together to unlock potential.",
+        "description": "<p>We are a Special Educational Needs School privileged to serve 260 pupils with a broad range of needs between the ages of 4 and 19 years old.</p>\n<br>\n<p>We are passionate in ensuring that every pupil is celebrated and supported to achieve their full potential. We work with key stakeholders across the community to ensure each child has access to personalised, high quality learning opportunities that focus on their strengths and interests whilst remaining responsive to their individual needs.</p>\n<br>\n<p>Our dedicated team of professionals are committed to working collaboratively, employing a Professional Learning Community approach that uses regular reflective inquiry to design effective and innovative learning opportunities that ensure the best outcomes for pupils.</p>",
+        "schoolLogo": "../assets/imgs/school/2027205_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100096",
+        "churchLink": "",
+        "websiteLink": "https://swisscottage.camden.sch.uk/",
+        "type": "Secondary",
+        "gender": "Mixed",
+        "entryForms": "1",
+        "ageRange": [
+            "4",
+            "19"
+        ],
+        "address": "80 Avenue Road",
+        "lat": 51.5409,
+        "long": -0.171342,
+        "formsEntry": "1",
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW8 6HX",
+        "facilities": [
+            "Smaller class sizes with high adult to student ratio (not one to one provision)",
+            " Wellbeing Team to support Positive Behaviour Culture and family inclusion",
+            " Weekly Parent Coffee Mornings",
+            " Sensory Rooms",
+            " Soft Play Spaces",
+            " Drama Studio",
+            " Art Rooms",
+            " Rebound Therapy",
+            " Trampolines",
+            " Indoor Gym equipment",
+            " Life skills room",
+            " Music Therapist",
+            " Off site work experience studio",
+            " Onsite Multi-disciplinary team",
+            " Hydrotherapy Pool"
+        ],
+        "activities": [
+            "Swimming",
+            "Horse Riding",
+            "Gymnastics",
+            "Music Lessons",
+            "Heath Hands Projects",
+            "Work Experience ",
+            "Museum and Gallery partnerships ",
+            "KS4 and KS5 Residentials",
+            "Shakespeare for Schools",
+            "Radiate Dance ",
+            "London Zoo",
+            "Art Clubs",
+            "Sports Clubs",
+            "Drama Clubs",
+            "Community Visits "
+        ],
+        "admissionProcess": "<p>Pupils who wish to attend Swiss Cottage School  must have an EHC Plan that names the school. Our admissions are managed through the Local Authority SEND team who will determine the placement by matching each pupil\u2019s complex needs with the specialist provision and resources available within the school. The school is unable to accept direct applications from families.</p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2027205_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I like my school. I am happy and have lots of friends.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I like learning and engaging in activities at school. I am independent and do things by myself. I like helping others.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "My child is always happy to come to school each day.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "The classroom environment and activities support my child's development. I can see the progress he is making which makes us very happy.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "Preparation for adulthood is integrated within each pathway and is informed by pupil voice, choice and advocacy.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Swiss Cottage is a school where WOW moments are part and parcel of everyday provision.",
+                    "author": "Challenge Partners"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Visiting classes, it is evident that very careful care has been taken to ensure that the environment matches pupils' individual SEND. ",
+                    "author": "Challenge Partners"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Pupils' engagement and behaviour is channelled within strong embedded routines and each team's high expectations facilitate pupils to make the most consistent progress they can.",
+                    "author": "Challenge Partners"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Continuous coaching happens through careful questioning and modelling of well-structured tasks allowing pupils' opinions and understanding to be carefully captured.",
+                    "author": "Challenge Partners"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "My son is very happy to come to school each day. We get a good level of communication about his day. He has made great progress at this school.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "My Child is very happy at Swiss Cottage School. He has a fantastic team of teachers and teaching assistants and other adults helping him with his learning, emotions and life skills. He tells me about his fun day at school and about his friends at school.",
+                    "author": "Parent"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "Senior and Middle Leaders understand the individual pupils' strategies.",
+                    "author": "Camden CPP"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "The content and delivery of the lesson promotes increased engagement and if needed, the outside space can be utilised immediately to ensure a pupil can express themselves in an appropriate space and return to learning quickly.",
+                    "author": "Camden CPP"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "There is a widespread knowledge of each pupil's needs in the staffing team which means everyone is working collectively together.",
+                    "author": "Camden CPP"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#e50059",
+                    "text": "It was lovely to see my child happy and playing with their friends. They didn't realise we were there!",
+                    "author": "Parent"
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2027205_1.jpg",
+                "../assets/imgs/school/2027205_2.jpg",
+                "../assets/imgs/school/2027205_3.jpg",
+                "../assets/imgs/school/2027205_4.jpg",
+                "../assets/imgs/school/2027205_5.jpg",
+                "../assets/imgs/school/2027205_6.jpg",
+                "../assets/imgs/school/2027205_7.jpg",
+                "../assets/imgs/school/2027205_8.jpg",
+                "../assets/imgs/school/2027205_9.jpg",
+                "../assets/imgs/school/2027205_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "Our pupils have a range of co-occurring and complex needs across the 4 broad areas of Special Educational Needs, with 5 different curriculum pathways supporting diverse profiles.  ",
+                    "link": "/schoolContext/index.html?schoolId=2027205"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "We prioritise pupil wellbeing, working with families and carers to ensure holistic support for each pupil, and developing pupil voice, choice and autonomy to maximise engagement for learning and preparation for adulthood. ",
+                    "link": "/support/index.html?schoolId=2027205"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "Learning is personalised to pupils' starting points and aspirations. The school works closely with multi-disciplinary partners and families to offer integrated provision, ensuring a full understanding of pupils' profiles and needs with a collective effort to unlock their potential. ",
+                    "link": "/SEND/index.html?schoolId=2027205"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "Swiss Cottage School embraces the Preparing for Adulthood Framework to support pupils to develop their Employability Skills, Independent Living, Relationships, Friends, Community Engagement and Good Health lifestyles. Pupils go on to a range of specialist provisions, colleges and supported internships. ",
+                    "link": "/achievement/index.html?schoolId=2027205"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "At Swiss Cottage School, all our pupils are allocated to one of five curriculum pathways.  Each of the pathways has Communication and Cognition as key pillars and is designed based on pupils' developmental profiles. Learning is highly personalised.  ",
+                    "link": "/curriculum/index.html?schoolId=2027205"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Our local community",
+                    "description": "Swiss Cottage School, Development and Research Centre works with a range of national partners to promote the inclusion agenda across England and beyond. There is additional scope to support our local community of schools."
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Digital literacy and wellbeing",
+                    "description": "Reviewing advancements in technology and how this can support pupil and staff wellbeing, including workload, will inform an updated digital strategy this year. "
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Active play, physical activity and healthy habits",
+                    "description": "Children and young people with Learning Disabilities have less access to play and sporting opportunities, with research showing significantly poorer health outcomes than the rest of the population. The school will work with multi-disciplinary partners to develop additional interventions that promote healthy habits and lifestyles. "
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 259,
+            "ethnicGroupsNum": 7,
+            "languagesNum": 4,
+            "SENDPercent": 100.0,
+            "BMEPercent": 85.3,
+            "disadvantagedPupilsPercent": 50.4,
+            "englishAdditionalLangPercent": 44.8,
+            "absencePercent": 14.1,
+            "persistentAbsenteesPercent": 40.3,
+            "specificLanguages": [
+                "Arabic ",
+                "Bengali",
+                "English",
+                "Somali "
+            ],
+            "specificEthnicities": [
+                "Arab Other ",
+                "Bangladeshi",
+                "Black Somali",
+                "Other Black African",
+                "Other mixed background",
+                "White - English",
+                "White European"
+            ],
+            "specificSEND": [
+                "Severe learning difficulty",
+                "Profound and multiple learning difficulty",
+                "Speech, language and communication needs",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 97,
+            "pupilAdultRatio": 1.8,
+            "financialReserves": "1511000",
+            "changeYearReserves": "-142800"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>Our curriculum is built around our values of Inclusion, Nurture, and Inspiration. It's designed to help our pupils grow in independence, to make choices and self-advocate, and to build a positive sense of who they are through learning that\u2019s personalised, connected and meaningful.</p>\n<br>\n<p>We start with what pupils 'can do' and work in close partnership with parents and families, and with a range of multi-disciplinary colleagues, to promote progress for all pupils.</p>\n<br>\n<p>Our approach is flexible and centred around each pupil\u2019s strengths, interests, and needs. We create a learning environment that encourages exploration, curiosity, perseverance, and resilience. Learning is immersive and meaningful, so that pupils develop communication life skills and have opportunities to practice and generalise this across different contexts.</p>\n<br>\n<p>Swiss Cottage places particular value on pupil health and wellbeing through a Positive Behaviour and trauma informed approach.</p><p><a href=\"https://swisscottage.camden.sch.uk/learning/curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Personalised and pupil-centred ",
+                "Pupil choice, voice and advocacy through Total Communication",
+                "Partnership working and integrated provision"
+            ],
+            "topSubjects": [
+                "AQA and OCR accreditations"
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "We believe that all behaviour is a form of communication and that through high quality support to express and advocate for themselves, pupils develop their sense of self and ability to self-regulate. <p><a href=\"https://swisscottage.camden.sch.uk/our-school/school-policies\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "We take an evidence-informed approach to self-regulation and presenting behaviours, collecting and analysing data on our software system MyConcern, utilising our reflective inquiry framework at class team and whole school/multi-disciplinary level, and working with families to understand the function of behaviour in different contexts. ",
+            "attendanceManagement": "Whole school attendance is closely monitored on a daily basis and weekly cycle. This informs a weekly meeting with the school Wellbeing Team (comprising our Family Inclusion Team and our Positive Behaviour Support Team) to plan supporting actions and referrals for internal or external support. <p><a href=\"https://swisscottage.camden.sch.uk/our-school/school-policies\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "",
+            "chartsPerform": [
+                {
+                    "chartTitle": "Attainment 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2027205_chart_ks4_att8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2027205_chart_ks4_att8.png",
+                    "chartDescription": "* No assessments during Covid-19"
+                },
+                {
+                    "chartTitle": "Progress 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2027205_chart_ks4_p8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2027205_chart_ks4_p8.png",
+                    "chartDescription": ""
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "After Key Stage 4 (2024):",
+                    "chartImg": "../assets/imgs/charts/2027205_chart_ks4_dest.png",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "After Key Stage 5 (2023):",
+                    "chartImg": "../assets/imgs/charts/2027205_chart_ks5_dest.png",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>Pupils go on to a range of placements in line with their and their families' aspirations, and are supported with this transition from Year 9 onwards, including with the support of a Connexions Careers Advisor.</p>\n<br>\n<p>The vast majority of pupils go on to Further Education, both at specialist college or mainstream with an specialist provision. Some pupils go on to supported internships and/or residential placements.</p>\n<br>\n<p>The school maintains an active network of alumni in order to track personalised outcomes.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "All pupils have Education and Health Care Plans, and personalised termly targets. These are reviewed by class teams through a weekly reflective inquiry model, and assessed using a standardised system called Mapping and Assessing Pupil Progress (MAPP). The school works closely with multi-disciplinary colleagues such as different NHS therapists to plan and deliver provision. <p><a href=\"https://files.schudio.com/swiss-cottage-school/files/documents/SEND_Policy_23-24.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "There is a shared understanding of each pupils' unique profile and needs and how to best support and plan for their needs. As well as a holistic understanding of individual barriers, the school also shares an understanding of contextual barriers typically faced by families, such as overcrowded housing, lack of respite support or multiple siblings with SEN/D.<p><a href=\"https://swisscottage.camden.sch.uk/our-school/school-policies\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     },
     {
