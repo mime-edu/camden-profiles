@@ -67,7 +67,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "The quality of teaching is outstanding. It interests, excites and inspires pupils. An early focus on instilling a love of learning and developing a sense of curiosity supports pupils\u2019 achievement well.",
+                    "text": "Pupils enjoy coming to this inclusive school. There are warm and nurturing relationships between adults and pupils. Pupils are safe and well cared for. The school prides itself on giving pupils the opportunities to thrive.",
                     "author": "Ofsted"
                 },
                 {
@@ -109,7 +109,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "Pupils have overwhelmingly positive attitudes to school. One parent explained that her child spends all weekend looking forward to Monday when they can return to school.",
+                    "text": "Pupils\u2019 personal development is exceptional. The school identifies and addresses the social and emotional needs of each pupil effectively. Regular visits to places of worship, museums and galleries enhance pupils\u2019 wider development and independence. The school prepares pupils extremely well for life in modern Britain. Pupils have a deep understanding of fundamental British Values. They demonstrate their understanding of them by the way they display tolerance and respect towards others.",
                     "author": "Ofsted"
                 },
                 {
@@ -139,7 +139,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "Arrangements to support pupils who speak English as an additional language enable them to rapidly improve their communication and language skills so they are better able to access the curriculum. Staff provide creative solutions in order to ensure that pupils with more complex needs flourish at school.",
+                    "text": "Behaviour is exemplary in classrooms and at playtimes. Pupils of all ages play happily together and enjoy a wide range of fun activities. The school maintains strong oversight of pupils\u2019 attendance and attendance is high.",
                     "author": "Ofsted"
                 },
                 {
@@ -196,13 +196,13 @@
             "schoolPriorities": [
                 {
                     "bgcolor": "#e50059",
-                    "title": "Oracy",
-                    "description": "Further developing oracy skills so that children know HOW to talk and use these skills to learn THROUGH talk."
+                    "title": "Maths fluency",
+                    "description": "To further strengthen fluency and confidence in maths with the implementation of the \u2018effective maths\u2019 fluency programme."
                 },
                 {
                     "bgcolor": "#ed6c26",
-                    "title": "Vulnerable children",
-                    "description": "Continued enhancement of the curriculum and personal development offer to meet the needs, support rapid progress and close the gap for vulnerable children."
+                    "title": "Misconceptions",
+                    "description": "To develop precise and effective strategies to address misconceptions and build on knowledge in the wider curriculum."
                 },
                 {
                     "bgcolor": "#4764ff",
@@ -1769,8 +1769,8 @@
             ],
             "qualifiedTeachersPercent": null,
             "pupilAdultRatio": null,
-            "financialReserves": "\u00a31,362,100",
-            "changeYearReserves": "\u00a3373,500"
+            "financialReserves": "1362100",
+            "changeYearReserves": "373500"
         },
         "curriculum": {
             "curriculumAim": "<p>We plan closely with our NHS colleagues to ensure that learning is an integral part of pupils\u2019 admissions and that stress around falling behind at school is minimised. We want pupils to have fun when learning at our school and recognise that engaging in learning and being motivated to achieve educational goals can promote overall well being and be a key part of recovery.</p>\n<br>\n<p>We work both within and beyond the framework of the National Curriculum, helping pupils to continue to make progress in core subjects, whilst also encouraging understanding and appreciation of the arts, humanities and technology and developing their spiritual, moral, cultural and social education. We also mark national events and celebrations that are familiar features of pupils\u2019 home school calendars.</p><p><a href=\"https://www.goshschool.org/assets/Documents/Attachments/SECONDARY-CURRICULUM-OVERVIEW-2024-to-2025.pdf\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -4343,7 +4343,7 @@
             "attendanceManagement": "<p>Our attendance policy emphasises the importance of pupils attending school regularly to maximise their educational opportunities, attainment, wellbeing, and wider development.</p>\n\n<p>We set attendance targets and promote the importance of coming to school regularly through parent-teacher meetings, newsletters, and assemblies. We also reward pupils with certificates for good attendance.</p>\n\n<p>Regular and punctual attendance is vital for effective learning and social and emotional development.</p>"
         },
         "achievement": {
-            "academicChildSuccess": "<p>We deliver a broad and balanced curriculum that meets the needs of all our pupils.</p>\n\n<p>At Frank Barnes, we aim for all our pupils to be bilingual in BSL and English, enabling them to reach their full potential and develop into independent and successful learners with a positive Deaf identity. This ensures they have high levels of self-esteem and confidence to thrive in a dynamic society.</p>\n\n<p>We have high expectations for all pupils, regardless of ability or SEN, and foster a culture of value and respect for everyone.</p>",
+            "academicChildSuccess": "",
             "chartsPerform": [
                 {
                     "chartTitle": "Attainment 8 (2024 provisional):",
@@ -6426,7 +6426,7 @@
             "attendanceManagement": "<p>We expect all pupils to attend every day, provided they are fit and healthy enough to do so. There is a well-established link between success at school and high attendance, and we actively promote this with our pupils.</p>  \n<br>  \n<p>Our dedicated attendance lead works closely with pupils and families to support consistent attendance, recognizing that a collaborative approach strengthens this effort. To encourage positive attendance decisions, we have a system of reward vouchers. Additionally, our emotionally based school avoidance lead provides targeted support for students struggling with ingrained low attendance.</p>  <p><a href=\"https://heath.h3federation.org.uk/31/attendance-behaviour?search=attendance\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
         },
         "achievement": {
-            "academicChildSuccess": "<p>All students are baselined on entry to the school as part of a rigorous induction process. This means we know what every student\u2019s strengths and areas for improvement are in core subjects.</p>\n\n<p>Through this; small class sizes (on average five students per group); high skilled and experienced teachers; in-class support in each group and bespoke interventions, we give each student an excellent opportunity to succeed academically.</p>",
+            "academicChildSuccess": "",
             "chartsPerform": [
                 {
                     "chartTitle": "Attainment 8 (2024 provisional):",
@@ -11289,7 +11289,7 @@
             "attendanceManagement": "<p>We expect all children on roll to attend every day, when the school is in session, as long as they are fit and healthy enough to do so. There is a proven connection between success at school and high attendance.</p>  \n<br>  \n<p>We do all we can to encourage the children to attend, and to put in place appropriate procedures. We believe that the most important factor in promoting good attendance is the development of positive attitudes towards school. To this end, we strive to make our school a happy and rewarding experience for all children.</p>  \n<br>  \n<p>We will reward those children whose attendance is very good. We will also make the best provision we can for those children who, for whatever reason, are prevented from coming to school.</p>"
         },
         "achievement": {
-            "academicChildSuccess": "<p>We analyse pupils\u2019 progress on a term-by-term basis and calculate an annual rate of progress, even if a pupil stays with us for less than a year. Our on-going analysis indicates that pupils at Robson House close the gap between their own attainment and the expected national levels of attainment.</p>\n<br>\n<p>This means that on average, they are making progress in their learning at a rate faster than national expectations. Usually, pupils arrive at Robson House achieving below nationally expected academic levels. Once their social, emotional, and mental health needs are met at Robson House, they re-engage with learning and usually make rapid progress.</p>",
+            "academicChildSuccess": "",
             "chartsPerform": [
                 {
                     "chartTitle": "Attainment 8 (2024 provisional):",
@@ -11818,8 +11818,8 @@
             ],
             "qualifiedTeachersPercent": null,
             "pupilAdultRatio": null,
-            "financialReserves": "171400",
-            "changeYearReserves": "75500"
+            "financialReserves": "\u00a3171,400",
+            "changeYearReserves": "\u00a375,500"
         },
         "curriculum": {
             "curriculumAim": "<p>The first aim of the school's curriculum is to support students to successfully re-engage in learning which, in almost all cases, has suffered significant disruption.</p>\n<br>\n<p>We have a highly personalised approach to curriculum design, which ranges from interest-led strategies to a more formal timetable. Such an approach allows for greater flexibility, which places individual learning preferences at the heart of their school experience.</p>\n<br>\n<p>This increased ownership helps to create a long-term, sustainable plan for re-engagement, which maximises the likelihood of success, in both an academic and wellbeing sense.</p><p><a href=\"https://www.royalfree.camden.sch.uk/page/?title=Curriculum&pid=47\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -13537,8 +13537,8 @@
             ],
             "qualifiedTeachersPercent": 92,
             "pupilAdultRatio": 8.9,
-            "financialReserves": "\u00a3493,300",
-            "changeYearReserves": "\u00a3113,700"
+            "financialReserves": "493300",
+            "changeYearReserves": "113700"
         },
         "curriculum": {
             "curriculumAim": "<p>Our distinctive school Vision and Values inform all aspects of our work. Underpinned by high expectations, our bespoke curriculum is carefully crafted and aspirational; providing all children with the opportunity to attain high academic standards and develop the secure personal skills and attributes necessary to become life-long learners.</p>\n\n<p>Reading is the cornerstone of the broader curriculum and from the Early Years, children develop a secure body of knowledge and skills across every subject, including Spanish, enabling them to be very well prepared for every next step in their education.</p>\n\n<p>Our children learn how to stay safe, make sensible choices, and be good citizens.</p>\n\n<p>We are highly ambitious for pupils with SEND and offer carefully considered bespoke support. Our children enjoy coming to school to benefit from the wide range of exciting activities the school provides.</p><p><a href=\"https://www.stmp.camden.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -13839,8 +13839,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 12.3,
-            "financialReserves": "\u00a311,700",
-            "changeYearReserves": "-\u00a327,500"
+            "financialReserves": "11700",
+            "changeYearReserves": "-27500"
         },
         "curriculum": {
             "curriculumAim": "<p>Our well-sequenced curriculum equips our children with the knowledge, skills and cultural capital that they need to succeed in life.</p>\n<br>\n\n<p>In addition, each term we pause the usual curriculum for a week in order for everyone to take part in a Whole School Project Studies. In the recent past these have included Looking After Our World Studies, Equality Studies, Social Justice Studies and Keeping Safe Studies.</p>\n<br>\n\n<p>These special studies weeks enable pupils to develop a deeper understanding and awareness of current issues and topics encouraging them to think about citizenship and their own contribution to society.</p><p><a href=\"https://www.stmarykilburn.camden.sch.uk/page/?title=Curriculum&pid=9\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -14743,8 +14743,8 @@
             ],
             "qualifiedTeachersPercent": 97,
             "pupilAdultRatio": 1.8,
-            "financialReserves": "\u00a31,511,000",
-            "changeYearReserves": "-\u00a3142,800"
+            "financialReserves": "1511000",
+            "changeYearReserves": "-142800"
         },
         "curriculum": {
             "curriculumAim": "<p>Our curriculum is built around our values of Inclusion, Nurture, and Inspiration. It's designed to help our pupils grow in independence, to make choices and self-advocate, and to build a positive sense of who they are through learning that\u2019s personalised, connected and meaningful.</p>\n<br>\n<p>We start with what pupils 'can do' and work in close partnership with parents and families, and with a range of multi-disciplinary colleagues, to promote progress for all pupils.</p>\n<br>\n<p>Our approach is flexible and centred around each pupil\u2019s strengths, interests, and needs. We create a learning environment that encourages exploration, curiosity, perseverance, and resilience. Learning is immersive and meaningful, so that pupils develop communication life skills and have opportunities to practice and generalise this across different contexts.</p>\n<br>\n<p>Swiss Cottage places particular value on pupil health and wellbeing through a Positive Behaviour and trauma informed approach.</p><p><a href=\"https://swisscottage.camden.sch.uk/learning/curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -14797,6 +14797,359 @@
         "SEND": {
             "sendSupportInfo": "All pupils have Education and Health Care Plans, and personalised termly targets. These are reviewed by class teams through a weekly reflective inquiry model, and assessed using a standardised system called Mapping and Assessing Pupil Progress (MAPP). The school works closely with multi-disciplinary colleagues such as different NHS therapists to plan and deliver provision. <p><a href=\"https://files.schudio.com/swiss-cottage-school/files/documents/SEND_Policy_23-24.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
             "inclusivePracticeInfo": "There is a shared understanding of each pupils' unique profile and needs and how to best support and plan for their needs. As well as a holistic understanding of individual barriers, the school also shares an understanding of contextual barriers typically faced by families, such as overcrowded housing, lack of respite support or multiple siblings with SEN/D.<p><a href=\"https://swisscottage.camden.sch.uk/our-school/school-policies\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+        }
+    },
+    {
+        "schoolId": 2024611,
+        "schoolURN": 100054,
+        "schoolName": "The Camden School for Girls",
+        "isPrimary": false,
+        "shortSlogan": "Camden School for Girls: Empowering Minds, Shaping Futures. Onwards and Upwards!",
+        "descriptionTitle": "Camden School for Girls: Empowering Minds, Shaping Futures. Onwards and Upwards!",
+        "description": "<p>At Camden School for Girls, we believe passionately in the transformative power of education. Our students thrive in an environment where academic rigour is matched by creativity, compassion and a deep commitment to equality.</p>\n<br>\n<p>We nurture independent, enquiring minds and encourage every student to find their voice and use it with confidence. Rooted in a proud tradition of feminist values, we champion ambition and inclusion in everything we do.</p>\n<br>\n<p>Our co-educational Sixth Form reflects the wider world our students will shape, and we prepare them not only for academic success, but to lead with integrity, resilience and purpose.</p>",
+        "schoolLogo": "../assets/imgs/school/2024611_logo.png",
+        "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100054",
+        "churchLink": "",
+        "websiteLink": "https://www.camdengirls.camden.sch.uk/",
+        "type": "Secondary",
+        "gender": "Girls",
+        "entryForms": "4",
+        "ageRange": [
+            "11",
+            "18"
+        ],
+        "address": "Sandall Road",
+        "lat": 51.545988,
+        "long": -0.134693,
+        "formsEntry": "4",
+        "prevYearCatchmentRadius": null,
+        "postCode": "NW5 2DB",
+        "facilities": [
+            "Assembly hall",
+            " Studio",
+            " Music hall with individual tuition rooms",
+            " Gymnasium",
+            " Modern science laboratories",
+            " Art studio",
+            " Photography studio",
+            " Spacious library with full-time librarian",
+            " Environmental garden",
+            " Netball/football court"
+        ],
+        "activities": [
+            "Trampolining",
+            "Dance",
+            "Boxing",
+            "Basketball",
+            "Football",
+            "Netball",
+            "Athletics",
+            "Dodgeball",
+            "School Magazine - Sixth Sense and The Frances",
+            "Sewing Club and DT Makers Club",
+            "Cooking club",
+            "Junior and Chamber Choir",
+            "String, Woodwind and Brass Groups",
+            "Model UN",
+            "Duke of Edinburgh - Bronze, Silver and Gold",
+            "Volleyball",
+            "Symphony Orchestra",
+            "Book Club and Creative Writing Club",
+            "Rock & Pop Bands and Big Band",
+            "Feminist Club"
+        ],
+        "admissionProcess": "<p>We abide by the admissions criteria of Camden Local Authority. Details can be found on the websites linked below:</p>\n<p><a href=\"https://www.camden.gov.uk/secondary-admissions\" target=\"_blank\">Camden Secondary Admissions</a></p>\n<p><a href=\"https://www.camden.gov.uk/inyearschooladmissions\" target=\"_blank\">Camden In-Year School Admissions</a></p>",
+        "tabs": {
+            "schoolViews": [
+                {
+                    "type": "image",
+                    "url": "../assets/imgs/wordCloud/2024611_word_cloud.png"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "The trip to Barcelona was super cool. The four days consisted of visiting the best parts of Barcelona like the Sagrada Familia and the Museo Picasso. Thank you again to Ms Garc\u00eda, Ms Ma\u00f1as and Ms Maggs!",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "My two weeks at J.P Morgan shaped my knowledge of the world of investment banking and significantly strengthened my confidence in sharing and presenting ideas to large groups.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#ed6c26",
+                    "text": "I applied for a place at the United Nations in Geneva. I shadowed people and went to lectures in departments such as the High Commission for Refugees and Human Rights, World Trade Organisation and the International Organisation for Migration... It was undoubtedly the most inspiring and influential week of my life.",
+                    "author": "Child"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#93c467",
+                    "text": "Camden School for Girls is a calm, caring place where pupils aim high. Staff help pupils to develop considerate attitudes and an awareness of the wider world. Leaders are ambitious for all their pupils.",
+                    "author": "Ofsted"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "#64007e",
+                    "text": "People say \u2018what do you know, you\u2019re a young woman?\u2019 But my school taught me a feminist ethos where you don\u2019t let it put you off.",
+                    "author": "Georgia Gould MP - Queens Park and Maida Vale"
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "Coming soon",
+                    "author": ""
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "Coming soon",
+                    "author": ""
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "Coming soon",
+                    "author": ""
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "Coming soon",
+                    "author": ""
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "Coming soon",
+                    "author": ""
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "Coming soon",
+                    "author": ""
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "Coming soon",
+                    "author": ""
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "Coming soon",
+                    "author": ""
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "Coming soon",
+                    "author": ""
+                },
+                {
+                    "type": "quote",
+                    "bgcolor": "",
+                    "text": "Coming soon",
+                    "author": ""
+                }
+            ],
+            "schoolPhotosUrls": [
+                "../assets/imgs/school/2024611_1.jpg",
+                "../assets/imgs/school/2024611_2.jpg",
+                "../assets/imgs/school/2024611_3.jpg",
+                "../assets/imgs/school/2024611_4.jpg",
+                "../assets/imgs/school/2024611_5.jpg",
+                "../assets/imgs/school/2024611_6.jpg",
+                "../assets/imgs/school/2024611_7.jpg",
+                "../assets/imgs/school/2024611_8.jpg",
+                "../assets/imgs/school/2024611_9.jpg",
+                "../assets/imgs/school/2024611_10.jpg"
+            ],
+            "schoolHighlights": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "School & community context",
+                    "description": "Founded in 1871, Camden delivers an inclusive, ambitious curriculum within a secure, caring community, empowering students to become confident, independent, socially\u2011aware change\u2011makers.",
+                    "link": "/schoolContext/index.html?schoolId=2024611"
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Pupil support & wellbeing",
+                    "description": "CSG prioritises safeguarding and mental\u2011health support through a robust policy framework, dedicated pastoral and mental\u2011health leads, open communication channels with staff and trusted adults, and proactive wellbeing initiatives. Smartphones are not allowed at CSG in Year 7 - Year 11.",
+                    "link": "/support/index.html?schoolId=2024611"
+                },
+                {
+                    "bgcolor": "#64007e",
+                    "title": "SEND & inclusion",
+                    "description": "CSG ensures full inclusion by integrating high\u2011quality teaching, personalised interventions, and strong collaboration with parents, professionals, and pupils\u2014offering tailored support in literacy, numeracy, speech, emotional regulation, and access arrangements to help all students flourish.",
+                    "link": "/SEND/index.html?schoolId=2024611"
+                },
+                {
+                    "bgcolor": "#93c467",
+                    "title": "Pupils' achievement",
+                    "description": "CSG consistently excels, with over 50% GCSE grades at 9\u20137 and 20% at Grade 9; A\u2011levels reach ~20% A* and 80% A*\u2013B. Approximately 80% of Year 13 students progress to Russell Group universities. In 2023, 28 students progressed to Oxford or Cambridge. CSG was the number 1 comprehensive school in the UK in 2023 for Oxbridge admissions (The Times). ",
+                    "link": "/achievement/index.html?schoolId=2024611"
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Curriculum, teaching & learning",
+                    "description": "CSG delivers a broad, disciplined curriculum from Year\u202f7\u201313, featuring classics, modern languages and humanities subjects, with expert-led subjects and practical enrichment. It nurtures scholarly rigour, cultural capital and social engagement, empowering students to become informed change\u2011makers.",
+                    "link": "/curriculum/index.html?schoolId=2024611"
+                }
+            ],
+            "schoolPriorities": [
+                {
+                    "bgcolor": "#e50059",
+                    "title": "Coming soon",
+                    "description": ""
+                },
+                {
+                    "bgcolor": "#ed6c26",
+                    "title": "Coming soon",
+                    "description": ""
+                },
+                {
+                    "bgcolor": "#4764ff",
+                    "title": "Coming soon",
+                    "description": ""
+                }
+            ]
+        },
+        "statistics": {
+            "pupilsNum": 1068,
+            "ethnicGroupsNum": 18,
+            "languagesNum": 14,
+            "SENDPercent": 7.9,
+            "BMEPercent": 60.6,
+            "disadvantagedPupilsPercent": 30.1,
+            "englishAdditionalLangPercent": 23.3,
+            "absencePercent": 4.4,
+            "persistentAbsenteesPercent": 7.1,
+            "specificLanguages": [
+                "Albanian/Shqip",
+                "Arabic",
+                "Bengali",
+                "Bengali (Sylheti)",
+                "Chinese (Mandarin/Putonghua)",
+                "English",
+                "French",
+                "German",
+                "Italian",
+                "Russian",
+                "Somali",
+                "Spanish",
+                "Tigrinya",
+                "Ukrainian"
+            ],
+            "specificEthnicities": [
+                "Asian and Chinese",
+                "Bangladeshi",
+                "Black - Somali",
+                "Kosovan",
+                "Other Black African",
+                "Other Mixed Background",
+                "Other White British",
+                "White - English",
+                "White - Irish",
+                "White + Any Other Asian Background",
+                "White and Any Other Ethnic Group",
+                "White and Black African",
+                "White and Black Caribbean",
+                "White and Indian",
+                "White Eastern European",
+                "White European",
+                "White Other",
+                "White Western European"
+            ],
+            "specificSEND": [
+                "Specific learning difficulty",
+                "Social, emotional and mental health",
+                "Physical disability",
+                "Autistic spectrum disorder"
+            ],
+            "qualifiedTeachersPercent": 97,
+            "pupilAdultRatio": 12.6,
+            "financialReserves": "\u00a3394,700",
+            "changeYearReserves": "\u00a3152,800"
+        },
+        "curriculum": {
+            "curriculumAim": "<p>CSG designs its curriculum around three core aims: to provide a strong grounding for all, through a broad mix of subjects at Key Stage 3 ensuring rich cultural capital and transferable skills; to build expertise, as specialist teachers deliver subject disciplines beyond specifications, fostering scholarly rigour and passion; and to inspire change-makers, by embedding social, political and philanthropic engagement so students leave as informed, socially responsible leaders.</p>\n<br>\n<p>In the Sixth Form, pupils enjoy a vastly broad curriculum, offering traditional A\u2011levels (including classics, philosophy, art history) & EPQs, alongside enrichment classes and high-profile lectures. This distinctive mix of academic challenge, cultural depth and real-world engagement\u2014rooted in the school\u2019s heritage\u2014equips young people to flourish at university and beyond.</p><p><a href=\"https://www.camdengirls.camden.sch.uk/page/?title=Curriculum&pid=18\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
+            "curriculumStrengths": [
+                "Exceptional breadth and development of deep subject knowledge and cultural capital",
+                "Specialist-led, rigorous teaching and targeted feedback, enabling progression to top universities",
+                "Enrichment and real-world engagement through a rich extracurricular and enrichment programme"
+            ],
+            "topSubjects": [
+                "Biology",
+                "Chemistry",
+                "Classical Civilisation",
+                "Drama and Theatre Studies",
+                "Economics",
+                "English Literature",
+                "Fine Art",
+                "French",
+                "Further Mathematics",
+                "Geography",
+                "Government and Politics",
+                "History",
+                "History of Art",
+                "Latin",
+                "Mathematics",
+                "Musical and Orchestral Studies",
+                "Philosophy",
+                "Psychology",
+                "Sociology",
+                "Spanish",
+                "Theology and Philosophy of Religion",
+                "Extended Project Qualification (EPQ)",
+                "Physics",
+                "Classical Greek",
+                "Further Maths "
+            ],
+            "topDisciplines": "temp",
+            "strengths": "temp"
+        },
+        "support": {
+            "childSafetyAndHappiness": "<p>Camden maintains a strong safeguarding culture, overseen by a designated lead and governors, with thorough staff training and annual policy reviews to ensure early identification and intervention.</p>\n<br>\n<p>CSG does not allow smartphones in school for all students from Year 7 to Year 11. A whole-school mental health policy, co-designed with pupils, parents and local professionals, fosters resilience through seven key areas\u2014from nurturing supportive relationships to reducing stigma and building coping skills.</p>\n<br>\n<p>The behaviour policy creates a safe, respectful environment using clear expectations, consistent sanctions and rewards, underpinned by community values. Online safety is emphasised via the Acceptable Use Policies, filtered networks and taught digital responsibility, ensuring respectful behaviour both on- and offline.</p>\n<br>\n<p>Additionally, transparent medical and attendance procedures support wellbeing by promptly addressing health needs and encouraging regular, punctual attendance to safeguard students. Together, this framework ensures that pupils learn in a nurturing, secure and inclusive setting.</p>",
+            "bullyingProtection": "<p>CSG promotes a community of tolerance, kindness, and respect, emphasising the importance of a secure and caring environment for all. The school defines bullying as deliberate actions intended to hurt, threaten, or humiliate others, including physical violence, exclusion, offensive messages, and insults based on personal attributes.</p>\n<br>\n<p>Students are encouraged to support victims, report incidents to adults, and assertively disapprove of bullying behaviour. The school investigates accusations thoroughly, interviewing all parties and witnesses, and implements sanctions ranging from warnings to exclusions, depending on the severity and circumstances.</p>\n<br>\n<p>Support is offered to both victims and bullies, with efforts to foster understanding and behavioural change. Victims are reminded of their right to safety and encouraged to seek help from teachers, the Head Girl team, or trusted adults.</p>\n<br>\n<p>The policy underscores the importance of collective action to prevent bullying and create a respectful school environment.</p>",
+            "attendanceManagement": "<p>CSG prioritises regular, punctual attendance to maximise pupils\u2019 learning, well-being and life opportunities. The school has the highest attendance figures locally and significantly above national figures for similar schools. Attendance rates are shared with parents twice a year and achievements are celebrated through certificates and competitions.</p>\n<br>\n<p>The school collaborates with parents, pupils and staff to address barriers to attendance, offering tailored support such as mentoring, action plans and referrals to external services when necessary. Persistent and severely absent pupils are closely tracked and interventions are implemented to improve attendance. Parents are encouraged to communicate promptly about absences and seek support from the school to ensure their child benefits fully from education.</p>"
+        },
+        "achievement": {
+            "academicChildSuccess": "<p>CSG combines exceptional teaching, a rigorous and broad curriculum, and personalised support to raise every student\u2019s achievement. Teachers are subject specialists who use evidence-informed strategies, tailored feedback, and regular progress checks to identify learning gaps and adjust instruction accordingly. Class sizes, especially in Years 12\u201313, are kept small, enabling close attention and academic challenge.</p>\n<br>\n<p>Comprehensive assessment systems\u2014progress checks, profiling, and departmental targets\u2014ensure clear benchmarks and pathways for improvement. Robust Sixth Form teaching fosters high standards, creativity and independence; consistent monitoring of academic performance supports aspirational destinations. Assessment data guides tailored interventions for disadvantaged and SEND students, ensuring equity.</p>\n<br>\n<p>The result is outstanding outcomes: in 2024, 54% of GCSEs were graded 9\u20137 (national 22%), and 78% of A\u2011levels were A*\u2013B, with 78% of leavers going on to Russell Group universities.</p>",
+            "chartsPerform": [
+                {
+                    "chartTitle": "Attainment 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2024611_chart_ks4_att8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2024611_chart_ks4_att8.png",
+                    "chartDescription": "An Attainment 8 score of 65.4 means The Camden School for Girls pupils averaged between a grade 6 and a grade 7 across their eight best GCSE-level subjects."
+                },
+                {
+                    "chartTitle": "Progress 8 (2024 provisional):",
+                    "chartImg": "../assets/imgs/charts/2024611_chart_ks4_p8.png",
+                    "chartComparationImg": "../assets/imgs/charts/2024611_chart_ks4_p8.png",
+                    "chartDescription": "Progress 8 measures how much progress students make between the end of primary school and their GCSEs, compared to the national average for students with similar scores in KS2 Reading and Writing.\nA Progress 8 score of 0.62 means The Camden School for Girls pupils achieved over half a grade higher than similar pupils across the country."
+                }
+            ],
+            "chartsProm": [
+                {
+                    "chartTitle": "After Key Stage 4 (2024):",
+                    "chartImg": "../assets/imgs/charts/2024611_chart_ks4_dest.png",
+                    "chartDescription": null
+                },
+                {
+                    "chartTitle": "After Key Stage 5 (2023):",
+                    "chartImg": "../assets/imgs/charts/2024611_chart_ks5_dest.png",
+                    "chartDescription": null
+                }
+            ],
+            "wherePupilsGoAfter": "<p>CSG equips students for future success through a robust, multi-faceted support system. Every student benefits from Unifrog, a comprehensive digital platform offering guidance on university, apprenticeships and careers.</p>\n<br>\n<p>Throughout Years 12 and 13, pupils attend tailored Higher Education and Careers events\u2014including HE conferences, one-to-one UCAS interviews, employer talks and work-experience weeks\u2014ensuring informed choices and real-world insights.</p>\n<br>\n<p>Results speak volumes: Around 80% of students progress to Russell Group universities, in 2023 CSG students secured 28 Oxbridge places making the school the number 1 comprehensive school nationally for Oxbridge admissions (The Times). 46% of students go onto STEM degrees and English and Classics are very popular university courses.</p>\n<br>\n<p>Typically 25 students progress to art foundation courses and each year a significant number secure places at the most prestigious music conservatoires. Early career exploration begins in Year 10 with work experience placements, followed by progressive guidance through independent careers advisors, curriculum-linked activities and employer engagement aligned to Gatsby benchmarks.</p>\n<br>\n<p>This cohesive, aspirational pathway empowers Camden leavers to flourish in diverse futures.</p>"
+        },
+        "SEND": {
+            "sendSupportInfo": "<p>Camden School for Girls is an inclusive school committed to supporting pupils with special educational needs and/or disabilities (SEND). The school ensures early identification of barriers to learning and provides a broad, balanced curriculum with high-quality teaching and additional support where required. Pupils with SEND are appropriately challenged to fulfil their potential and make progress towards becoming confident individuals who transition successfully into adulthood.</p>\n<br>\n<p>The school adopts a whole-school approach, while fostering collaboration with parents, external agencies, and professionals. The SENDCo, Janet Pringle, oversees the strategic development and day-to-day operation of SEND provision, ensuring tailored support and smooth transitions. Regular reviews of interventions and monitoring of pupils\u2019 progress are conducted to ensure effective provision. The school values community, inclusion, and co-operation, working collaboratively to meet the needs of all pupils with SEND.</p>",
+            "inclusivePracticeInfo": "<p>CSG embeds inclusion at every level. All staff undergo training, and the school consults with pupils, parents and governors to shape policy. The school allocates resources deliberately\u2014covering curriculum, support staff, learning materials and facilities\u2014to ensure equitable access.</p>\n<br>\n<p>Transparent, fair admissions and behaviour frameworks are enforced to eliminate bias, harassment and discrimination. Camden\u2019s Accessibility Plan supports students with disabilities academically and socially, including curriculum adaptations, assistive technologies and enhanced physical access.</p>\n<br>\n<p>Learning Support focuses on high-quality, in-class differentiation, personalisation and close liaison between teachers, SENDCo, parents and external specialists. Inclusive extracurricular activities, PSHE, RSE and assemblies further reinforce respect, identity awareness, equitable participation and community cohesion.</p>\n<br>\n<p>This showcases a truly systemic, whole\u2011school approach to inclusion and equality.</p>"
         }
     },
     {
@@ -15428,8 +15781,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 11.0,
-            "financialReserves": "424300",
-            "changeYearReserves": "-190100"
+            "financialReserves": "\u00a3424,300",
+            "changeYearReserves": "-\u00a3190,100"
         },
         "curriculum": {
             "curriculumAim": "<p>Our ambitious curriculum aims to enable all children to flourish in their academic and personal development. It promotes deep understanding of knowledge, skills, and critical thinking, all underpinned by developing children\u2019s oracy skills.</p>\n<br>\n\n<p>Our curriculum is created with purpose and taught with passion. There is a strong emphasis on ethical purpose, through a global lens, with learning leading to collective action projects in our community.</p>\n<br>\n\n<p>In order to ensure our curriculum is current, relevant, and inspiring, we enrich learning through varied experiences and reciprocal partnerships with a range of educators, expert organisations, future employers, and creative networks.</p>\n<br>\n\n<p>At Torriano, we place a strong emphasis on creativity with a spotlight on performing and visual arts. We have an extensive and inclusive physical education provision, accessing many competitions and sporting festivals.</p>\n<br>\n\n<p>We offer an enriched curriculum where the children\u2019s heritage is valued and celebrated.</p><p><a href=\"https://torriano.camden.sch.uk/2022/05/10/curriculum-intent/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -16078,8 +16431,8 @@
             ],
             "qualifiedTeachersPercent": null,
             "pupilAdultRatio": null,
-            "financialReserves": "657100",
-            "changeYearReserves": "232600"
+            "financialReserves": "\u00a3657,100",
+            "changeYearReserves": "\u00a3232,600"
         },
         "curriculum": {
             "curriculumAim": "<p>At our school, we believe every student deserves an excellent education. Our teachers are subject experts who make learning engaging and accessible for all students. We offer a broad range of subjects and take pride in helping students achieve highly, particularly in core subjects like mathematics, English, science, languages, and humanities.</p>\n\n<p>Our teaching approach ensures students build their knowledge step by step, with regular opportunities to revisit and strengthen their understanding. Teachers carefully check what students have learned and quickly provide extra help if needed. This means no student falls behind.</p>\n\n<p>For sixth form students, we offer a wide choice of both academic A-levels and practical vocational courses. We understand that students develop at different rates, so we also provide foundation year courses to help students prepare for advanced study.</p>\n\n<p>We invest in training our teachers to support all students effectively, including those who need extra help. This means every student, regardless of their starting point, can succeed in their learning.</p><p><a href=\"https://www.williamellis.camden.sch.uk/learning-and-curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
