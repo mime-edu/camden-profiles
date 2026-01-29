@@ -87,7 +87,7 @@
 			<section class="about">
 				<div class="about__container">
 					<div class="about__content">
-						<div v-if="school.type !== 'Specialist'" class="toggle-switch__block about__toggler-block" v-if="school.isPrimary">
+						<div v-if="school.type === 'Primary'" class="toggle-switch__block about__toggler-block" v-if="school.isPrimary">
 							<div class="toggle-switch">
 								<input type="checkbox" id="switch1" />
 								<label for="switch1" class="toggle-switch__slider"></label>
@@ -103,7 +103,8 @@
 							</div>
 						</div>
 						<div class="about-sector" id="success-sector">
-							<h2 class="about__title">How do we give your child the best chance of academic success?</h2>
+							<h2 class="about__title" v-if="school.type !== 'Specialist'">How do we give your child the best chance of academic success?</h2>
+							<h2 class="about__title" v-if="school.type === 'Specialist'">How do we track the achievement and progress of our children?</h2>
 							<p v-html="school.achievement?.academicChildSuccess"></p>
 							<!-- <a href="" class="about__link">View our teaching and learning policy</a> -->
 						</div>
