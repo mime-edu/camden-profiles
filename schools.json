@@ -241,7 +241,7 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 12.3,
-            "financialReserves": "0",
+            "financialReserves": null,
             "changeYearReserves": null
         },
         "curriculum": {
@@ -1770,8 +1770,8 @@
             ],
             "qualifiedTeachersPercent": null,
             "pupilAdultRatio": null,
-            "financialReserves": "1733900",
-            "changeYearReserves": "745200"
+            "financialReserves": "\u00a31,733,900",
+            "changeYearReserves": "\u00a3745,200"
         },
         "curriculum": {
             "curriculumAim": "<p>We plan closely with our NHS colleagues to ensure that learning is an integral part of pupils\u2019 admissions and that stress around falling behind at school is minimised. We want pupils to have fun when learning at our school and recognise that engaging in learning and being motivated to achieve educational goals can promote overall well being and be a key part of recovery.</p>\n<br>\n<p>We work both within and beyond the framework of the National Curriculum, helping pupils to continue to make progress in core subjects, whilst also encouraging understanding and appreciation of the arts, humanities and technology and developing their spiritual, moral, cultural and social education. We also mark national events and celebrations that are familiar features of pupils\u2019 home school calendars.</p><p><a href=\"https://www.goshschool.org/assets/Documents/Attachments/SECONDARY-CURRICULUM-OVERVIEW-2024-to-2025.pdf\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -2338,8 +2338,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 9.0,
-            "financialReserves": "211300",
-            "changeYearReserves": "127000"
+            "financialReserves": "\u00a3211,300",
+            "changeYearReserves": "\u00a3127,000"
         },
         "curriculum": {
             "curriculumAim": "<p>We are proud of our rich, inclusive curriculum at Christ Church. Camden, London and the world are our classrooms and we aim to make good use of them! We are seeking to embrace all that God has created, to learn together and, as our vision statement says, care, learn and work together for God.</p>\n<br>\n<p>We want all our children to understand that through knowledge and learning they will expand their horizons. We aim to create a thirst in all our children to spread their wings and seek further knowledge in everything that they are interested in and are passionate about and to use this understanding for good.</p>\n<br>\n<p>We want them to learn all about themselves, their cultures, their community (past and present), their places of origin and to develop a sense of pride and understanding who they are as Camden, London and world citizens. We want the children to be proud of their British heritage and the associated values. This is also known as \u2018cultural capital\u2019.</p>\n<br>\n<p>We use our six Christian values, Creation, Community, Wisdom, Endurance, Thankfulness, Reconciliation to reinforce and enrich our teaching wherever applicable.</p><p><a href=\"https://www.cchurchnw1.camden.sch.uk/page/?title=Curriculum&pid=8\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -4945,8 +4945,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 11.3,
-            "financialReserves": "-89000",
-            "changeYearReserves": "-169900"
+            "financialReserves": "-\u00a389,000",
+            "changeYearReserves": "-\u00a3169,900"
         },
         "curriculum": {
             "curriculumAim": "<p>We have designed a rich and ambitious curriculum that has pupils\u2019 well-being and different needs at its heart. Staff have clarity about what is taught from early years onwards. By linking our literacy and reading texts to chronologically organised History themes, we ensure that learning is embedded and children are engaged in their learning.</p>\n<br>\n<p>Teaching is carefully broken down into well-organised steps. This helps pupils to build their knowledge and skills progressively.</p><p><a href=\"https://hampsteadprimary.co.uk/curriculum/curriculum-overview/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -5550,8 +5550,8 @@
             ],
             "qualifiedTeachersPercent": 91,
             "pupilAdultRatio": 1.3,
-            "financialReserves": "5900",
-            "changeYearReserves": "-394700"
+            "financialReserves": "\u00a35,900",
+            "changeYearReserves": "-\u00a3394,700"
         },
         "curriculum": {
             "curriculumAim": "<p>At Harmood, we aim to help students become confident young adults by developing both their social and personal skills alongside their academic knowledge. Our goal is for each student to become a successful, active, well-balanced adult who can contribute to their community and secure employment.</p>\n<br>\n<p>Students have access to all national curriculum subjects, with a strong emphasis on Maths, English, Food, and Personal Development. We also provide opportunities for cooking and participating in community activities, including partnerships with Arsenal and Growing Green.</p>\n<br>\n<p>Given the SEMH needs of our students, our curriculum is designed to prioritise emotional and mental wellbeing, where we collaborate with speech and language therapists and educational psychologists to provide targeted support.</p><p><a href=\"https://www.harmood.h3federation.org.uk/279/our-curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -6691,8 +6691,8 @@
             ],
             "qualifiedTeachersPercent": 92,
             "pupilAdultRatio": 10.9,
-            "financialReserves": "136900",
-            "changeYearReserves": "39200"
+            "financialReserves": "\u00a3136,900",
+            "changeYearReserves": "\u00a339,200"
         },
         "curriculum": {
             "curriculumAim": "<p>It is our intention to provide a broad, inspiring and inclusive curriculum that ensures all children have a wide range of opportunities to explore, question and deepen their thinking over time. Subjects are taught as distinct disciplines that are knowledge-rich and sequenced meaningfully so that, as children move up through the school, they consolidate and develop their subject-specific knowledge over time.</p>\n<br>\n\n<p>Learning is brought to life by making it memorable and engaging, both in the classroom and beyond. We believe that working with drama, art, music and sporting specialists through whole-school projects, performances and competitions enhances our curriculum. These creative, cultural and sporting activities symbolise the holistic and inclusive view of education that runs through our school, with the development of the whole child driving all that we do.</p>\n<br>\n\n<p>Our curriculum supports our children in becoming: caring citizens who show care to each other, the local community and wider world and who know how their actions can help others; courageous communicators who ask questions, speak knowledgeably, extend their vocabulary, take risks, learn from their mistakes and challenge themselves through new experiences; co-operative learners who work well together, negotiate and compromise, share ideas, listen to and support one another.</p><p><a href=\"https://www.holytrinitynw1.camden.sch.uk/parents/day-to-day/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -7877,8 +7877,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 10.1,
-            "financialReserves": "1304000",
-            "changeYearReserves": "492200"
+            "financialReserves": "\u00a31,304,000",
+            "changeYearReserves": "\u00a3492,200"
         },
         "curriculum": {
             "curriculumAim": "<p>Our curriculum has been carefully crafted to deliver the essential knowledge that children need. It offers a wide range of rich experiences that will help children to develop into well\u2010rounded individuals who have much to contribute to society. We focus on helping our children to grow and develop confidence, resilience and respect for others.</p>\n\n<p>We have incorporated opportunities for building character into our curriculum: through sport, creativity, performing, and coaching and leadership sessions that teach children good communication, problem solving and responsibility. Underpinning all of this is a relentless commitment to academic excellence for all children.</p>\n\n<p>Ofsted noted that 'The curriculum is highly ambitious. Pupils take part in learning with energy and enthusiasm.'</p><p><a href=\"https://www.kingsgateprimaryschool.org.uk/_schoolInformationCurriculumDocuments.php\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -8838,8 +8838,8 @@
             ],
             "qualifiedTeachersPercent": 96,
             "pupilAdultRatio": 7.3,
-            "financialReserves": "1008900",
-            "changeYearReserves": "46000"
+            "financialReserves": "\u00a31,008,900",
+            "changeYearReserves": "\u00a346,000"
         },
         "curriculum": {
             "curriculumAim": "<p>We do not simply say that our curriculum is broad and balanced. It truly is. Most importantly, it is designed to inspire a love of learning, meeting the diverse needs of our pupils and providing rich opportunities for personal growth.</p>\n<br>\n\n<p>Longstanding partnerships with organisations such as The Francis Crick Institute, The Royal Academy of Music and the London School of Contemporary Dance broaden the horizons for our children. Our annual events; The Exhibition, Poetry Recital; Talent Show and Careers Fortnight give all children the opportunity to develop their talents to the full.</p><p><a href=\"https://www.netley.camden.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -9149,8 +9149,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 11.3,
-            "financialReserves": "148500",
-            "changeYearReserves": "293600"
+            "financialReserves": "\u00a3148,500",
+            "changeYearReserves": "\u00a3293,600"
         },
         "curriculum": {
             "curriculumAim": "<p>The aim of our curriculum is for pupils to have the requisite skills to be successful, independent, and motivated learners in readiness for their next stage of education. It is important that the curriculum considers the development of the whole child and not only concentrates on academic success. The curriculum at New End is designed to provide a broad and balanced education that meets the needs of all pupils and gives them the skills, knowledge, and understanding to prepare them for their next steps.</p>\n<br>\n<p>It ensures that academic success, creativity and problem solving, reliability, responsibility and resilience, as well as physical development, well-being, and mental health are key elements that support the development of the whole child and promote a positive attitude to learning. The curriculum celebrates the diversity of our community and utilises its skills, knowledge and cultural wealth while supporting the pupils\u2019 spiritual, moral, social and cultural development under the umbrella of British Values.</p>\n<br>\n<p>At New End we seek to offer wider enrichment opportunities for all children. We seek to be inclusive in our provision of enrichment activities within the classroom and in the information we offer to parents regarding opportunities beyond it. To enrich classroom learning, we try wherever possible to plan opportunities for visits and visitors. Class enrichment activities also include the involvement of every Year 5 child in The Shakespeare in Schools project each year; every child in Year 4 learning the recorder for the year; and the provision of a weekly chess lesson for every Year 2 and Year 3 child.</p>\n<br>\n<p>Specialist teachers and instructors support music, coding, physical education, French and chess. Theme weeks, whole school activities and opportunities within and outside school all enrich and develop the children\u2019s learning. After school clubs and events extend these opportunities further. The curriculum is both dynamic and adaptable, ensuring all children make progress from their various different starting points.</p>\n<br>\n<p>Children consistently achieve above national levels at the end of Key Stage 2. Excellent progress is made in reading, writing and mathematics. At New End we teach the computing curriculum in a unique way. This was recognised in our last OFSTED inspection and inspectors noted that our approach was worthy of being shared. Over ninety percent of the curriculum is covered through coding activities. As a result, children achieve beyond the expectations of the National Curriculum. There are also knock-on effects in other curriculum areas. For example, children are using negative numbers and angles earlier than expected. OFSTED stated that \"pupils' knowledge and expertise in computing are highly developed.\"</p><p><a href=\"https://www.newend.camden.sch.uk/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -10068,8 +10068,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 8.7,
-            "financialReserves": "70700",
-            "changeYearReserves": "-48100"
+            "financialReserves": "\u00a370,700",
+            "changeYearReserves": "-\u00a348,100"
         },
         "curriculum": {
             "curriculumAim": "<p>The aim of our curriculum is to produce happy, creative, confident and successful children who are ready for the next stage of their education. We want our children to leave us as lifelong learners with excellent maths and English skills and a broad knowledge of the arts, sciences, humanities and wider curriculum.</p>\n\n<p>We work hard to forge links with local museums and places of interest whilst also making sure that our pupils give back to the community.</p><p><a href=\"https://www.primrosehill.camden.sch.uk/school-information/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -10368,8 +10368,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 9.5,
-            "financialReserves": "1007000",
-            "changeYearReserves": "-457000"
+            "financialReserves": "\u00a31,007,000",
+            "changeYearReserves": "-\u00a3457,000"
         },
         "curriculum": {
             "curriculumAim": "<p>Our aim is to develop students who have limitless aspirations and are equipped to be successful in any path they choose. To that end, we offer a broad, balanced curriculum that ensures students master the relevant knowledge, concepts and skills of a wide range of disciplines, whilst fostering a life-long love of learning.</p>\n\n<p>Ours is a responsive and challenging curriculum with sufficient flexibility to meet the needs of all our students and ensure they are given the opportunity to fulfil their potential. Students can expect to receive feedback which enables them to grow, develop resilience and reach the highest standards. They can expect to be challenged and encouraged to be independent and take risks in their learning.</p>\n\n<p>Enrichment opportunities are built into our curriculum to allow our students to experience and participate in a broad range of cultural pursuits, engendering in them an appreciation of human creativity and achievement.</p>\n\n<p>Regent High School places great importance on working closely with the parents and carers of all our students. Our teachers have a responsibility to establish home-school links which we believe assist in each child\u2019s development at school. Families will have opportunities throughout the year to meet with school staff to discuss progress and welfare. The school has also produced family guides to support learning in each year group. These can be accessed here:</p>\n<br>\n<p><a href=\"https://www.regenthighschool.org.uk/Parents/How-Will-I-Know-How-My-Child-is-Getting-on/\" target=\"_blank\">Family guides to learning</a></p><p><a href=\"https://www.regenthighschool.org.uk/Our-curriculum-intent/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -11574,8 +11574,8 @@
             ],
             "qualifiedTeachersPercent": 95,
             "pupilAdultRatio": 11.2,
-            "financialReserves": "218500",
-            "changeYearReserves": "-113900"
+            "financialReserves": "\u00a3218,500",
+            "changeYearReserves": "-\u00a3113,900"
         },
         "curriculum": {
             "curriculumAim": "<p>At Rosary, our vision is for children to leave empowered with the knowledge and cultural capital needed to be resilient, successful, and responsible citizens. We offer a broad, balanced curriculum with clear frameworks outlining what children will know, understand, and be able to do by the end of their journey with us. Catholic Social Teaching is integrated throughout our topics, skilfully promoted by our Mini Vinnie Pupil Chaplaincy Team.</p>\n<br>\n\n<p>Our curriculum is designed around subject disciplines, assessing and building on prior learning with clear milestones at the end of each phase. For each subject, we map out key learning objectives, ensuring children acquire essential knowledge by the time they leave our school.</p>\n<br>\n\n<p>We believe that deeper learning occurs through enquiry, first-hand experiences, direct teaching, and enrichment opportunities. Children are encouraged to ask questions, make connections, and engage in cooperative learning through Kagan Structures, which promote collaboration and essential social skills.</p><p><a href=\"https://www.rosary.camden.sch.uk/our-curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -11821,8 +11821,8 @@
             ],
             "qualifiedTeachersPercent": null,
             "pupilAdultRatio": null,
-            "financialReserves": "220700",
-            "changeYearReserves": "124800"
+            "financialReserves": "\u00a3220,700",
+            "changeYearReserves": "\u00a3124,800"
         },
         "curriculum": {
             "curriculumAim": "<p>The first aim of the school's curriculum is to support students to successfully re-engage in learning which, in almost all cases, has suffered significant disruption.</p>\n<br>\n<p>We have a highly personalised approach to curriculum design, which ranges from interest-led strategies to a more formal timetable. Such an approach allows for greater flexibility, which places individual learning preferences at the heart of their school experience.</p>\n<br>\n<p>This increased ownership helps to create a long-term, sustainable plan for re-engagement, which maximises the likelihood of success, in both an academic and wellbeing sense.</p><p><a href=\"https://www.royalfree.camden.sch.uk/page/?title=Curriculum&pid=47\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -12111,8 +12111,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 5.4,
-            "financialReserves": "339000",
-            "changeYearReserves": "70400"
+            "financialReserves": "\u00a3339,000",
+            "changeYearReserves": "\u00a370,400"
         },
         "curriculum": {
             "curriculumAim": "<p>Our curriculum contains the knowledge that we have identified as essential in our school, taking cultural capital into account. These have been carefully crafted for each subject, identifying knowledge and skills and breaking them down to ensure sequential, layered knowledge acquisition.</p>\n\n<p>The curriculum is sequenced and progressive so that children can systematically accumulate knowledge which becomes embedded in their long-term memory and make meaningful connections in their learning.</p>\n\n<p>The promotion of strong oracy skills is a priority for our children. This focus runs throughout our curriculum, because children must be able to talk about what they have learned in a knowledgeable and articulate way, engaging in meaningful, collaborative discussions.</p>\n\n<p>Reading is the gateway to pupils\u2019 learning. To ensure all our pupils are able to access the full curriculum, we therefore place a strong focus on oracy, early reading and vocabulary development right from their points of entry.</p><p><a href=\"https://www.stalbanscamden.co.uk/topic/our-curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -13249,7 +13249,7 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 9.9,
-            "financialReserves": "240000",
+            "financialReserves": "\u00a3240,000",
             "changeYearReserves": null
         },
         "curriculum": {
@@ -13845,8 +13845,8 @@
             ],
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 12.3,
-            "financialReserves": "62900",
-            "changeYearReserves": "23700"
+            "financialReserves": "\u00a362,900",
+            "changeYearReserves": "\u00a323,700"
         },
         "curriculum": {
             "curriculumAim": "<p>Our well-sequenced curriculum equips our children with the knowledge, skills and cultural capital that they need to succeed in life.</p>\n<br>\n\n<p>In addition, each term we pause the usual curriculum for a week in order for everyone to take part in a Whole School Project Studies. In the recent past these have included Looking After Our World Studies, Equality Studies, Social Justice Studies and Keeping Safe Studies.</p>\n<br>\n\n<p>These special studies weeks enable pupils to develop a deeper understanding and awareness of current issues and topics encouraging them to think about citizenship and their own contribution to society.</p><p><a href=\"https://www.stmarykilburn.camden.sch.uk/page/?title=Curriculum&pid=9\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -15451,7 +15451,7 @@
             ],
             "qualifiedTeachersPercent": 97,
             "pupilAdultRatio": 11.7,
-            "financialReserves": "1346000",
+            "financialReserves": "\u00a31,346,000",
             "changeYearReserves": null
         },
         "curriculum": {
@@ -16115,8 +16115,8 @@
             ],
             "qualifiedTeachersPercent": 95,
             "pupilAdultRatio": 12.7,
-            "financialReserves": "432300",
-            "changeYearReserves": "11700"
+            "financialReserves": "\u00a3432,300",
+            "changeYearReserves": "\u00a311,700"
         },
         "curriculum": {
             "curriculumAim": "<p>At WHPS, we provide a broad and balanced curriculum that develops the individual child according to their age and ability. Our curriculum is designed to:</p>\n\n<ol>\n    <li>Ensure the children have a broad, balanced, and secure knowledge and understanding of the world.</li>\n    <li>Ensure high levels of competence in the core subjects of English and maths.</li>\n    <li>Teach our pupils to live well in a diverse world, as confident, responsible citizens.</li>\n    <li>Teach our pupils to learn well and to love learning.</li>\n    <li>Teach our pupils how to lead happy, healthy, and constructive lives, in which they can aspire and experience success.</li>\n</ol><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=OUR+CURRICULUM&pid=184\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
