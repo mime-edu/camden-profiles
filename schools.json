@@ -219,8 +219,8 @@
             "BMEPercent": 65.8,
             "disadvantagedPupilsPercent": 12.8,
             "englishAdditionalLangPercent": 36.1,
-            "absencePercent": 2.8,
-            "persistentAbsenteesPercent": 0.0,
+            "absencePercent": 3.9,
+            "persistentAbsenteesPercent": 6.2,
             "specificLanguages": [
                 "Hebrew",
                 "Russian",
@@ -523,8 +523,8 @@
             "BMEPercent": 49.3,
             "disadvantagedPupilsPercent": 38.8,
             "englishAdditionalLangPercent": 21.3,
-            "absencePercent": 6.1,
-            "persistentAbsenteesPercent": 31.0,
+            "absencePercent": 8.6,
+            "persistentAbsenteesPercent": 27.4,
             "specificLanguages": [
                 "English",
                 "Somali",
@@ -872,8 +872,8 @@
             "BMEPercent": 94.6,
             "disadvantagedPupilsPercent": 58.2,
             "englishAdditionalLangPercent": 83.8,
-            "absencePercent": 4.1,
-            "persistentAbsenteesPercent": 1.0,
+            "absencePercent": 5.5,
+            "persistentAbsenteesPercent": 17.0,
             "specificLanguages": [
                 ""
             ],
@@ -1168,8 +1168,8 @@
             "BMEPercent": 85.1,
             "disadvantagedPupilsPercent": 64.3,
             "englishAdditionalLangPercent": 56.3,
-            "absencePercent": 6.1,
-            "persistentAbsenteesPercent": 13.0,
+            "absencePercent": 7.8,
+            "persistentAbsenteesPercent": 25.8,
             "specificLanguages": [
                 "Arabic",
                 "Bengali",
@@ -1470,8 +1470,8 @@
             "BMEPercent": 53.8,
             "disadvantagedPupilsPercent": 29.1,
             "englishAdditionalLangPercent": 17.5,
-            "absencePercent": 5.2,
-            "persistentAbsenteesPercent": 2.0,
+            "absencePercent": 6.6,
+            "persistentAbsenteesPercent": 18.2,
             "specificLanguages": [
                 "English",
                 "Bengali",
@@ -2030,8 +2030,8 @@
             "BMEPercent": 69.1,
             "disadvantagedPupilsPercent": 5.3,
             "englishAdditionalLangPercent": 55.5,
-            "absencePercent": 3.1,
-            "persistentAbsenteesPercent": 0.0,
+            "absencePercent": 3.4,
+            "persistentAbsenteesPercent": 5.4,
             "specificLanguages": [
                 "Bengali",
                 "Danish",
@@ -2294,18 +2294,18 @@
             "schoolPriorities": [
                 {
                     "bgcolor": "#e50059",
-                    "title": "Curriculum Development",
-                    "description": "Embed our high-quality programme for vocabulary development and oracy across the school, starting with a rich programme of support for EYFS children."
+                    "title": "Teacher development",
+                    "description": "Embedding best practice & research-informed pedagogical strategies (clear modelling, scaffolding and raised expectations), through coaching and mentoring support for teachers."
                 },
                 {
                     "bgcolor": "#ed6c26",
-                    "title": "Trauma Informed Practice (TIPIC) training across the whole staff team ",
-                    "description": "All staff will have a clear understanding of trauma responses on behaviour and have clear strategies to manage these."
+                    "title": "SEND provision",
+                    "description": "Enhance teaching practices and resources creating adaptations, so that pupils with SEND can engage meaningfully in lessons."
                 },
                 {
                     "bgcolor": "#4764ff",
-                    "title": "Playground Provision",
-                    "description": "Further develop play provision for children to enhance the wide range of activities on offer, to promote and create a culture of healthy lifestyles for all. "
+                    "title": "Leadership",
+                    "description": "Empower leaders at all levels to drive improvement across the school, rooted in a secure understanding of research and best practice, to secure high impact."
                 }
             ]
         },
@@ -2317,8 +2317,8 @@
             "BMEPercent": 72.3,
             "disadvantagedPupilsPercent": 51.3,
             "englishAdditionalLangPercent": 55.5,
-            "absencePercent": 5.1,
-            "persistentAbsenteesPercent": 3.0,
+            "absencePercent": 6.3,
+            "persistentAbsenteesPercent": 18.2,
             "specificLanguages": [
                 "English",
                 "Bengali",
@@ -2356,8 +2356,8 @@
         },
         "support": {
             "childSafetyAndHappiness": "<p>We believe that effective learning takes place when children work in a purposeful and stimulating environment. The children at our school say that they, \u2018Are happy and kept safe in school\u2019. They describe Christ Church as, \u2018One big family because everyone knows each other.'</p>\n<br>\n<p>The school pedagogy follows Maslow\u2019s Hierarchy of Need for Learners. We aim to cater for each individual, taking particular account of any specific needs or abilities. We emphasise health and safety, enjoyment, and achievement, as well as the beginnings of responsibility for themselves and others.</p>\n<br>\n<p>We provide mental health support for all through our Place2Be counsellor, who is in school 2.5 days per week.</p><p><a href=\"https://www.cchurchnw1.camden.sch.uk/attachments/download.asp?file=465&type=pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
-            "bullyingProtection": "<p>We aim to promote good behaviour and make it clear that bullying, abuse or harassment of any kind will not be tolerated.</p>\n<br>\n<p>Our anti-bullying policy was produced by the whole school community and involved a series of meetings with the school council, teaching and support staff, parents and carers and governors. Our policy was informed by all of the relevant government guidance and, as such, it was evidence-based.</p>\n<br>\n<p>Incidents of bullying are rare here. When an issue does arise we aim to deal with it seriously and swiftly.</p><p><a href=https://www.cchurchnw1.camden.sch.uk/attachments/download.asp?file=263&type=pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
-            "attendanceManagement": "<p>Our children love coming to school because, as Ofsted stated, they \"feel safe and they feel listened to.\"</p>\n<br>\n<p>We value good attendance and punctuality, because our aim is to maximise the time that we have with the children and get the most out of the day.</p>\n<br>\n<p>The gates to the playground open at 8:50am and, once inside the classroom, they are all entitled to a buttered bagel as we are part of the Magic Breakfast scheme.</p>\n<br>\n<p>Where necessary, we support parents who need support with getting their child in to school and to understand the factors causing this.</p><p><a href=\"https://www.cchurchnw1.camden.sch.uk/attachments/download.asp?file=296&type=pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+            "bullyingProtection": "<p>We aim to promote good behaviour and make it clear that bullying, abuse or harassment of any kind will not be tolerated.</p>\n<br>\n<p>Our anti-bullying policy was produced by the whole school community and involved a series of meetings with the school council, teaching and support staff, parents and carers and governors. Our policy was informed by all of the relevant government guidance and, as such, it was evidence-based.</p>\n<br>\n<p>Incidents of bullying are rare here. When an issue does arise we aim to deal with it seriously and swiftly.</p><p><a href=https://www.cchurchnw1.camden.sch.uk/attachments/download.asp?file=537&type=pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>Our children love coming to school because, as Ofsted stated, they \"feel safe and they feel listened to.\"</p>\n<br>\n<p>We value good attendance and punctuality, because our aim is to maximise the time that we have with the children and get the most out of the day.</p>\n<br>\n<p>The gates to the playground open at 8:50am and, once inside the classroom, they are all entitled to a buttered bagel as we are part of the Magic Breakfast scheme.</p>\n<br>\n<p>Where necessary, we support parents who need support with getting their child in to school and to understand the factors causing this.</p><p><a href=\"https://www.cchurchnw1.camden.sch.uk/attachments/download.asp?file=509&type=pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
         },
         "achievement": {
             "academicChildSuccess": "<p>The school's approach is that children's basic needs must be met in order for them to be ready to learn. We are proud to offer 'Magic Breakfast' to all pupils.</p>\n<br>\n<p>We believe that effective learning takes place when children work in a purposeful and stimulating environment. We cater for each individual, taking particular account of any specific needs or abilities. We emphasise achievement and enjoyment, whilst developing children's understanding of responsibility for themselves and others.</p>\n<br>\n<p>Mutual respect between adults and children promotes excellent behaviour and well-developed social skills. Teachers give children opportunities to gain knowledge in small steps and then to recall and apply this so that the new learning 'sticks'. With this approach, we seek to achieve high academic standards.</p>",
@@ -2605,8 +2605,8 @@
             "BMEPercent": 82.6,
             "disadvantagedPupilsPercent": 41.4,
             "englishAdditionalLangPercent": 58.5,
-            "absencePercent": 4.6,
-            "persistentAbsenteesPercent": 1.0,
+            "absencePercent": 5.8,
+            "persistentAbsenteesPercent": 13.0,
             "specificLanguages": [
                 "English",
                 "Spanish",
@@ -2898,8 +2898,8 @@
             "BMEPercent": 95.6,
             "disadvantagedPupilsPercent": 54.2,
             "englishAdditionalLangPercent": 80.9,
-            "absencePercent": 5.7,
-            "persistentAbsenteesPercent": 3.0,
+            "absencePercent": 6.6,
+            "persistentAbsenteesPercent": 20.7,
             "specificLanguages": [
                 "English",
                 "Bengali",
@@ -3186,8 +3186,8 @@
             "BMEPercent": 61.6,
             "disadvantagedPupilsPercent": 18.6,
             "englishAdditionalLangPercent": 42.6,
-            "absencePercent": 3.0,
-            "persistentAbsenteesPercent": 1.0,
+            "absencePercent": 3.7,
+            "persistentAbsenteesPercent": 5.4,
             "specificLanguages": [
                 "Albanian/Shqip",
                 "Bengali",
@@ -3488,8 +3488,8 @@
             "BMEPercent": 72.7,
             "disadvantagedPupilsPercent": 9.8,
             "englishAdditionalLangPercent": 35.5,
-            "absencePercent": 3.7,
-            "persistentAbsenteesPercent": 2.0,
+            "absencePercent": 4.3,
+            "persistentAbsenteesPercent": 9.9,
             "specificLanguages": [
                 "Bulgarian",
                 "English",
@@ -3763,8 +3763,8 @@
             "BMEPercent": 75.2,
             "disadvantagedPupilsPercent": 12.5,
             "englishAdditionalLangPercent": 59.1,
-            "absencePercent": 4.1,
-            "persistentAbsenteesPercent": 1.0,
+            "absencePercent": 6.0,
+            "persistentAbsenteesPercent": 17.5,
             "specificLanguages": [
                 "English",
                 "Hebrew",
@@ -4056,8 +4056,8 @@
             "BMEPercent": 83.3,
             "disadvantagedPupilsPercent": 46.5,
             "englishAdditionalLangPercent": 45.6,
-            "absencePercent": 4.5,
-            "persistentAbsenteesPercent": 0.0,
+            "absencePercent": 5.1,
+            "persistentAbsenteesPercent": 13.9,
             "specificLanguages": [
                 "English",
                 "Bengali",
@@ -4099,8 +4099,8 @@
             "strengths": "temp"
         },
         "support": {
-            "childSafetyAndHappiness": "<p>Pupil safeguarding, wellbeing and happiness are top priorities. Our experienced staff know each child and family well, creating a welcoming environment rooted in mutual respect, kindness and following a trauma informed practice approach.</p>\n\n<p>We embrace diversity and integrate the United Nations Convention on the Rights of the Child into our lessons and assemblies, empowering children with a voice. Staff promptly address issues, ensuring parents feel engaged and valued as part of a team.</p>\n\n<p>For children and families needing extra support, we collaborate with health and wellbeing partners, including regular visits from Camden's Mental Health Support Team working with classes, groups and individuals.</p>\n\n<p>Our Family Support Worker, Learning Mentor, and School Health Services/Therapists are all available to support. Workshops are arranged every term to support parents, often in areas parents have requested.</p>\n\n<p>We look to ensure children are safe and happy not just in school but at home as well.</p><p><a href=\"https://www.fleet.camden.sch.uk/ckfinder/userfiles/files/Policies/12_2%20Behaviour%20for%20Learning%20Policy%20-%20April%2024.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
-            "bullyingProtection": "<p>We promote an ethos of inclusion that respects and celebrates difference and diversity. Bullying of any form is never accepted. We ensure that Fleet provides a learning environment where children feel safe and happy.</p>\n\n<p>We take time to help children to resolve difficulties where they arise and engage in restorative conversations with children to support them to understand the effects of their actions and allow relationships to be positive.</p>\n\n<p>Outside the day to day work with children, each term we survey the children in regards to their peer relationships and experiences so we can follow up and address anything that has arisen.</p>\n\n<p>Understanding respectful relationships is a key part of our curriculum. Staff take time to build strong relationships with pupils and their families, being regularly available for conversations. Any issues or worries that they may have can be discussed quickly and any action needed can be taken swiftly.</p><p><a href=https://www.fleet.camden.sch.uk/ckfinder/userfiles/files/Policies/12_2%20Behaviour%20for%20Learning%20Policy%20-%20April%2024.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "childSafetyAndHappiness": "<p>Pupil safeguarding, wellbeing and happiness are top priorities. Our experienced staff know each child and family well, creating a welcoming environment rooted in mutual respect, kindness and following a trauma informed practice approach.</p>\n\n<p>We embrace diversity and integrate the United Nations Convention on the Rights of the Child into our lessons and assemblies, empowering children with a voice. Staff promptly address issues, ensuring parents feel engaged and valued as part of a team.</p>\n\n<p>For children and families needing extra support, we collaborate with health and wellbeing partners, including regular visits from Camden's Mental Health Support Team working with classes, groups and individuals.</p>\n\n<p>Our Family Support Worker, Learning Mentor, and School Health Services/Therapists are all available to support. Workshops are arranged every term to support parents, often in areas parents have requested.</p>\n\n<p>We look to ensure children are safe and happy not just in school but at home as well.</p><p><a href=\"https://www.fleet.camden.sch.uk/ckfinder/userfiles/files/Policies/Safeguarding Policy - September 2025.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>We promote an ethos of inclusion that respects and celebrates difference and diversity. Bullying of any form is never accepted. We ensure that Fleet provides a learning environment where children feel safe and happy.</p>\n\n<p>We take time to help children to resolve difficulties where they arise and engage in restorative conversations with children to support them to understand the effects of their actions and allow relationships to be positive.</p>\n\n<p>Outside the day to day work with children, each term we survey the children in regards to their peer relationships and experiences so we can follow up and address anything that has arisen.</p>\n\n<p>Understanding respectful relationships is a key part of our curriculum. Staff take time to build strong relationships with pupils and their families, being regularly available for conversations. Any issues or worries that they may have can be discussed quickly and any action needed can be taken swiftly.</p><p><a href=https://www.fleet.camden.sch.uk/ckfinder/userfiles/files/Policies/Anti Bullying Policy - Jan 2025.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
             "attendanceManagement": "<p>Due to the engaging nature of our creative curriculum and the positive relationships we have with children and families, many express how unhappy their children are if they are too ill to come to school! This sense of belonging and desire to learn supports good attendance.</p>\n\n<p>We emphasise the importance of regular and consistent attendance from the youngest years in school and celebrate good attendance in our communications with parents. Where children or families are struggling, we aim to work with them in a supportive way.</p>\n\n<p>Our family support worker and other staff build trusting relationships so that together we can improve any situations where attendance is a concern. When children are not able to be in school, we ensure we have daily contact to offer support and advice as required.</p><p><a href=\"https://www.fleet.camden.sch.uk/ckfinder/userfiles/files/Policies/Attendance%20Policy%20-%20September%202024.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
         },
         "achievement": {
@@ -4134,8 +4134,8 @@
             "wherePupilsGoAfter": "<p>The nature of our creative curriculum teaches our children to be inquisitive confident learners with a positive growth mindset. We believe this gives them the tools they need to embrace challenge and thrive as they move on in their educational journey and beyond.</p>\n\n<p>By having high expectations in all areas, children recognise the link between achieving well and positive life outcomes. Work addressing inequality, gender stereotyping, and discrimination ensures they move on from us best placed to succeed and not be held back by lack of opportunity or limiting their ambition.</p>"
         },
         "SEND": {
-            "sendSupportInfo": "<p>At Fleet, we have extensive experience in supporting children with Special Educational Needs and Disabilities (SEND). Currently, 25% of our pupils have been identified as having SEND, with nearly 7% receiving the highest level of support, including dedicated adult assistance.</p>\n\n<br>\n\n<p>We are committed to ensuring that every child is fully included in all aspects of our curriculum, regardless of their individual needs. Our approach is adaptive, ensuring any necessary adjustments are made to facilitate each child's engagement and success. This commitment is backed by a robust Support for Learning team, expertly led by our SENDCo and Deputy Head, who continuously monitor and optimise the support provided.</p>\n\n<br>\n\n<p>To further enhance our provision, we've invested in specialised learning environments, such as our newly constructed sensory room. We also prioritise staff professional development, focusing on SEND-specific training, particularly around Autism, to ensure our team is well-equipped to meet the diverse needs of our students.</p><p><a href=\"https://www.fleet.camden.sch.uk/ckfinder/userfiles/files/Policies/13_10%20SEND%20policy%202023_24.pdf & https://www.fleet.camden.sch.uk/ckfinder/userfiles/files/Policies/13_11%20SEND%20Information%202023_24.pdf & https://www.fleet.camden.sch.uk/ckfinder/userfiles/files/Policies/13_12%20Provision%20Map%202023_24.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
-            "inclusivePracticeInfo": "<p>At Fleet we believe quality first teaching is the best support for any child regardless of need. That means class teachers take responsibility for all the learners in their classrooms and ensuring that all are able to be fully included. This is the fundamental principle of inclusion.</p>\n\n<p>Where a child's needs mean that accessing a particular lesson/experience may be difficult, staff do all they can to adapt and ensure the child can take part. This extends to out of school opportunities and residential trips. We do all we can to work with families and providers to ensure all children are included.</p>\n\n<p>A key part of our monitoring focuses on inclusive practice and ensuring that children with SEND are making progress and having their needs met at all times. Working closely with external professionals supports us to ensure we have the best possible advice to support all our learners.</p><p><a href=\"https://www.fleet.camden.sch.uk/about-us/inclusion-and-equality\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+            "sendSupportInfo": "<p>At Fleet, we have extensive experience in supporting children with Special Educational Needs and Disabilities (SEND). Currently, 25% of our pupils have been identified as having SEND, with nearly 7% receiving the highest level of support, including dedicated adult assistance.</p>\n\n<br>\n\n<p>We are committed to ensuring that every child is fully included in all aspects of our curriculum, regardless of their individual needs. Our approach is adaptive, ensuring any necessary adjustments are made to facilitate each child's engagement and success. This commitment is backed by a robust Support for Learning team, expertly led by our SENDCo and Deputy Head, who continuously monitor and optimise the support provided.</p>\n\n<br>\n\n<p>To further enhance our provision, we've invested in specialised learning environments, such as our newly constructed sensory room. We also prioritise staff professional development, focusing on SEND-specific training, particularly around Autism, to ensure our team is well-equipped to meet the diverse needs of our students.</p><p><a href=\"https://www.fleet.camden.sch.uk/ckfinder/userfiles/files/Policies/SEND policy 2025-26.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
+            "inclusivePracticeInfo": "<p>At Fleet we believe quality first teaching is the best support for any child regardless of need. That means class teachers take responsibility for all the learners in their classrooms and ensuring that all are able to be fully included. This is the fundamental principle of inclusion.</p>\n\n<p>Where a child's needs mean that accessing a particular lesson/experience may be difficult, staff do all they can to adapt and ensure the child can take part. This extends to out of school opportunities and residential trips. We do all we can to work with families and providers to ensure all children are included.</p>\n\n<p>A key part of our monitoring focuses on inclusive practice and ensuring that children with SEND are making progress and having their needs met at all times. Working closely with external professionals supports us to ensure we have the best possible advice to support all our learners.</p><p><a href=\"https://www.fleet.camden.sch.uk/about-us/inclusion-and-equality\" target=\"_blank\" class=\"about__link\">Link to inclusion and equality section of school website</a></p>"
         }
     },
     {
@@ -4299,8 +4299,8 @@
             "BMEPercent": 77.1,
             "disadvantagedPupilsPercent": 53.1,
             "englishAdditionalLangPercent": 100.0,
-            "absencePercent": 7.9,
-            "persistentAbsenteesPercent": 0.0,
+            "absencePercent": 8.6,
+            "persistentAbsenteesPercent": 35.7,
             "specificLanguages": [
                 "British Sign Language (BSL)",
                 "English"
@@ -4595,8 +4595,8 @@
             "BMEPercent": 62.5,
             "disadvantagedPupilsPercent": 36.1,
             "englishAdditionalLangPercent": 41.0,
-            "absencePercent": 5.9,
-            "persistentAbsenteesPercent": 5.0,
+            "absencePercent": 7.2,
+            "persistentAbsenteesPercent": 21.2,
             "specificLanguages": [
                 "Albanian/Shqip",
                 "Arabic",
@@ -4918,8 +4918,8 @@
             "BMEPercent": 63.8,
             "disadvantagedPupilsPercent": 8.9,
             "englishAdditionalLangPercent": 54.3,
-            "absencePercent": 3.0,
-            "persistentAbsenteesPercent": 0.0,
+            "absencePercent": 4.1,
+            "persistentAbsenteesPercent": 7.4,
             "specificLanguages": [
                 "English",
                 "Chinese",
@@ -5226,8 +5226,8 @@
             "BMEPercent": 81.5,
             "disadvantagedPupilsPercent": 50.2,
             "englishAdditionalLangPercent": 35.4,
-            "absencePercent": 6.0,
-            "persistentAbsenteesPercent": 33.0,
+            "absencePercent": 7.6,
+            "persistentAbsenteesPercent": 19.5,
             "specificLanguages": [
                 "English",
                 "Arabic",
@@ -5527,8 +5527,8 @@
             "BMEPercent": 53.8,
             "disadvantagedPupilsPercent": 80.6,
             "englishAdditionalLangPercent": 12.8,
-            "absencePercent": 16.9,
-            "persistentAbsenteesPercent": 12.0,
+            "absencePercent": 34.5,
+            "persistentAbsenteesPercent": 69.2,
             "specificLanguages": [
                 ""
             ],
@@ -5551,7 +5551,7 @@
             "qualifiedTeachersPercent": 91,
             "pupilAdultRatio": 1.3,
             "financialReserves": "\u00a35,900",
-            "changeYearReserves": "-\u00a3394,700"
+            "changeYearReserves": "-394700"
         },
         "curriculum": {
             "curriculumAim": "<p>At Harmood, we aim to help students become confident young adults by developing both their social and personal skills alongside their academic knowledge. Our goal is for each student to become a successful, active, well-balanced adult who can contribute to their community and secure employment.</p>\n<br>\n<p>Students have access to all national curriculum subjects, with a strong emphasis on Maths, English, Food, and Personal Development. We also provide opportunities for cooking and participating in community activities, including partnerships with Arsenal and Growing Green.</p>\n<br>\n<p>Given the SEMH needs of our students, our curriculum is designed to prioritise emotional and mental wellbeing, where we collaborate with speech and language therapists and educational psychologists to provide targeted support.</p><p><a href=\"https://www.harmood.h3federation.org.uk/279/our-curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -5832,8 +5832,8 @@
             "BMEPercent": 82.2,
             "disadvantagedPupilsPercent": 0.7,
             "englishAdditionalLangPercent": 50.6,
-            "absencePercent": 4.8,
-            "persistentAbsenteesPercent": 45.0,
+            "absencePercent": 12.3,
+            "persistentAbsenteesPercent": 40.7,
             "specificLanguages": [
                 "Arabic",
                 "Persian",
@@ -6097,8 +6097,8 @@
             "BMEPercent": 78.5,
             "disadvantagedPupilsPercent": 41.9,
             "englishAdditionalLangPercent": 64.0,
-            "absencePercent": 5.5,
-            "persistentAbsenteesPercent": 1.0,
+            "absencePercent": 7.1,
+            "persistentAbsenteesPercent": 23.2,
             "specificLanguages": [
                 "English",
                 "Bengali",
@@ -6675,8 +6675,8 @@
             "BMEPercent": 60.3,
             "disadvantagedPupilsPercent": 33.7,
             "englishAdditionalLangPercent": 28.9,
-            "absencePercent": 4.1,
-            "persistentAbsenteesPercent": 1.0,
+            "absencePercent": 4.4,
+            "persistentAbsenteesPercent": 13.0,
             "specificLanguages": [
                 "Bengali",
                 "Arabic"
@@ -6959,8 +6959,8 @@
             "BMEPercent": 83.6,
             "disadvantagedPupilsPercent": 57.7,
             "englishAdditionalLangPercent": 49.1,
-            "absencePercent": 4.3,
-            "persistentAbsenteesPercent": 4.0,
+            "absencePercent": 5.5,
+            "persistentAbsenteesPercent": 15.0,
             "specificLanguages": [
                 "English",
                 "Arabic",
@@ -7222,8 +7222,8 @@
             "BMEPercent": 57.1,
             "disadvantagedPupilsPercent": 39.9,
             "englishAdditionalLangPercent": 42.0,
-            "absencePercent": 5.4,
-            "persistentAbsenteesPercent": 0.0,
+            "absencePercent": 6.6,
+            "persistentAbsenteesPercent": 18.3,
             "specificLanguages": [
                 "English",
                 "Bengali",
@@ -7529,8 +7529,8 @@
             "BMEPercent": 67.3,
             "disadvantagedPupilsPercent": 44.1,
             "englishAdditionalLangPercent": 35.1,
-            "absencePercent": 4.9,
-            "persistentAbsenteesPercent": 11.0,
+            "absencePercent": 7.0,
+            "persistentAbsenteesPercent": 20.4,
             "specificLanguages": [
                 "English",
                 "Portuguese",
@@ -7842,8 +7842,8 @@
             "BMEPercent": 91.9,
             "disadvantagedPupilsPercent": 49.5,
             "englishAdditionalLangPercent": 69.0,
-            "absencePercent": 2.3,
-            "persistentAbsenteesPercent": 3.0,
+            "absencePercent": 5.2,
+            "persistentAbsenteesPercent": 16.9,
             "specificLanguages": [
                 "English",
                 "Spanish",
@@ -8164,8 +8164,8 @@
             "BMEPercent": 74.7,
             "disadvantagedPupilsPercent": 43.4,
             "englishAdditionalLangPercent": 46.8,
-            "absencePercent": 5.2,
-            "persistentAbsenteesPercent": 10.0,
+            "absencePercent": 6.9,
+            "persistentAbsenteesPercent": 24.0,
             "specificLanguages": [
                 "Akan/Twi-Fante",
                 "Albanian/Shqip",
@@ -8529,8 +8529,8 @@
             "BMEPercent": 82.6,
             "disadvantagedPupilsPercent": 56.9,
             "englishAdditionalLangPercent": 46.4,
-            "absencePercent": 4.3,
-            "persistentAbsenteesPercent": 39.0,
+            "absencePercent": 7.6,
+            "persistentAbsenteesPercent": 19.5,
             "specificLanguages": [
                 "Akan (Twi/Asante)",
                 "Albanian/Shqip",
@@ -8811,8 +8811,8 @@
             "BMEPercent": 86.6,
             "disadvantagedPupilsPercent": 65.2,
             "englishAdditionalLangPercent": 61.9,
-            "absencePercent": 5.4,
-            "persistentAbsenteesPercent": 7.0,
+            "absencePercent": 7.2,
+            "persistentAbsenteesPercent": 22.8,
             "specificLanguages": [
                 "Albanian",
                 "Arabic",
@@ -8839,7 +8839,7 @@
             "qualifiedTeachersPercent": 96,
             "pupilAdultRatio": 7.3,
             "financialReserves": "\u00a31,008,900",
-            "changeYearReserves": "\u00a346,000"
+            "changeYearReserves": "46000"
         },
         "curriculum": {
             "curriculumAim": "<p>We do not simply say that our curriculum is broad and balanced. It truly is. Most importantly, it is designed to inspire a love of learning, meeting the diverse needs of our pupils and providing rich opportunities for personal growth.</p>\n<br>\n\n<p>Longstanding partnerships with organisations such as The Francis Crick Institute, The Royal Academy of Music and the London School of Contemporary Dance broaden the horizons for our children. Our annual events; The Exhibition, Poetry Recital; Talent Show and Careers Fortnight give all children the opportunity to develop their talents to the full.</p><p><a href=\"https://www.netley.camden.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -9118,8 +9118,8 @@
             "BMEPercent": 84.7,
             "disadvantagedPupilsPercent": 20.7,
             "englishAdditionalLangPercent": 70.9,
-            "absencePercent": 4.3,
-            "persistentAbsenteesPercent": 3.0,
+            "absencePercent": 4.7,
+            "persistentAbsenteesPercent": 9.6,
             "specificLanguages": [
                 "English",
                 "Hebrew",
@@ -9427,8 +9427,8 @@
             "BMEPercent": 68.9,
             "disadvantagedPupilsPercent": 67.4,
             "englishAdditionalLangPercent": 34.2,
-            "absencePercent": 5.0,
-            "persistentAbsenteesPercent": 3.0,
+            "absencePercent": 7.5,
+            "persistentAbsenteesPercent": 23.1,
             "specificLanguages": [
                 "English",
                 "Bengali",
@@ -9732,8 +9732,8 @@
             "BMEPercent": 57.9,
             "disadvantagedPupilsPercent": 36.7,
             "englishAdditionalLangPercent": 31.1,
-            "absencePercent": 5.5,
-            "persistentAbsenteesPercent": 24.0,
+            "absencePercent": 7.2,
+            "persistentAbsenteesPercent": 20.4,
             "specificLanguages": [
                 ""
             ],
@@ -10025,8 +10025,8 @@
             "BMEPercent": 82.3,
             "disadvantagedPupilsPercent": 36.5,
             "englishAdditionalLangPercent": 52.9,
-            "absencePercent": 4.9,
-            "persistentAbsenteesPercent": 3.0,
+            "absencePercent": 6.0,
+            "persistentAbsenteesPercent": 17.6,
             "specificLanguages": [
                 "English",
                 "Somali",
@@ -10350,8 +10350,8 @@
             "BMEPercent": 94.1,
             "disadvantagedPupilsPercent": 66.0,
             "englishAdditionalLangPercent": 48.3,
-            "absencePercent": 7.0,
-            "persistentAbsenteesPercent": 34.0,
+            "absencePercent": 12.0,
+            "persistentAbsenteesPercent": 41.5,
             "specificLanguages": [
                 ""
             ],
@@ -10557,9 +10557,9 @@
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "#ed6c26",
+                    "bgcolor": "#e50059",
                     "text": "Parental activities have enhanced my own learning as well as building a network of friends \u2013 I love this school!",
-                    "author": "Child"
+                    "author": "Parent"
                 },
                 {
                     "type": "quote",
@@ -10668,10 +10668,13 @@
             "BMEPercent": 88.3,
             "disadvantagedPupilsPercent": 53.7,
             "englishAdditionalLangPercent": 75.0,
-            "absencePercent": 5.5,
-            "persistentAbsenteesPercent": 3.0,
+            "absencePercent": 7.5,
+            "persistentAbsenteesPercent": 25.2,
             "specificLanguages": [
-                ""
+                "English",
+                "Bengali",
+                "Somali",
+                "Arabic"
             ],
             "specificEthnicities": [
                 "Afghan",
@@ -10704,9 +10707,9 @@
             "strengths": "temp"
         },
         "support": {
-            "childSafetyAndHappiness": "<p>The heart of our school ethos is that every child is happy and safe at school and our highly skilled and experienced staff make sure that we create a culture of kindness, respect and consideration for everyone in our school. All children have the right to be listened to and we take time to resolve any worries or issues that arise promptly and always keep parents and carers informed.</p>\n\n<p>Learning mentors, Family Support workers and school therapists are available to support children when needed and we provide support for families to access wider services promptly when necessary. Safeguarding is key to all that we do and procedures are robust and securely in place to keep children safe.</p><p><a href=\"https://www.rhylprim.camden.sch.uk/wp-content/uploads/2024/02/Schools-CP-and-safeguarding-policy-Sept-2023-updated-02.24.pdf \" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
-            "bullyingProtection": "<p>Children have a right to feel safe in the school environment, physically and emotionally. Bullying and prejudice is never acceptable and is not tolerated.</p>\n\n<p>We understand the serious and devastating impact of bullying incidents and take action quickly to address this if it happens. Preventing and tackling bullying is part of the school\u2019s approach to promoting good behaviour and is supported by our commitment to providing a caring, friendly, respectful and safe learning environment for all of our pupils.</p>\n\n<p>We promote an inclusive ethos that focuses on respecting one another and celebrating difference and diversity, where bullying is never acceptable.</p><p><a href=https://www.rhylprim.camden.sch.uk/wp-content/uploads/2023/09/Anti-Bullying-Policy-Sept-23.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
-            "attendanceManagement": "<p>We know that attending school every day will give them the best possible start in life and helps them to develop friendships and social skills. We encourage families to have good attendance through positive rewards and recognition and provide support when needed to help children attend school regularly.</p>\n\n<p>We have 2 attendance officers and a family support worker who work with parents and children when needed. We do not authorise holidays in term time and make calls home on the first day of absence to offer advice and help to families.</p><p><a href=\"https://www.rhylprim.camden.sch.uk/wp-content/uploads/2023/09/Attendance-Policy-Sept-23.pdf \" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+            "childSafetyAndHappiness": "<p>The heart of our school ethos is that every child is happy and safe at school and our highly skilled and experienced staff make sure that we create a culture of kindness, respect and consideration for everyone in our school. All children have the right to be listened to and we take time to resolve any worries or issues that arise promptly and always keep parents and carers informed.</p>\n\n<p>Learning mentors, Family Support workers and school therapists are available to support children when needed and we provide support for families to access wider services promptly when necessary. Safeguarding is key to all that we do and procedures are robust and securely in place to keep children safe.</p><p><a href=\"https://www.rhylprim.camden.sch.uk/wp-content/uploads/2025/09/Schools-CP-and-safeguarding-policy-September-2025.pdf\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "bullyingProtection": "<p>Children have a right to feel safe in the school environment, physically and emotionally. Bullying and prejudice is never acceptable and is not tolerated.</p>\n\n<p>We understand the serious and devastating impact of bullying incidents and take action quickly to address this if it happens. Preventing and tackling bullying is part of the school\u2019s approach to promoting good behaviour and is supported by our commitment to providing a caring, friendly, respectful and safe learning environment for all of our pupils.</p>\n\n<p>We promote an inclusive ethos that focuses on respecting one another and celebrating difference and diversity, where bullying is never acceptable.</p><p><a href=https://www.rhylprim.camden.sch.uk/wp-content/uploads/2025/01/Anti-Bullying-Policy-Jan-25.pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
+            "attendanceManagement": "<p>We know that attending school every day will give them the best possible start in life and helps them to develop friendships and social skills. We encourage families to have good attendance through positive rewards and recognition and provide support when needed to help children attend school regularly.</p>\n\n<p>We have 2 attendance officers and a family support worker who work with parents and children when needed. We do not authorise holidays in term time and make calls home on the first day of absence to offer advice and help to families.</p><p><a href=\"https://www.rhylprim.camden.sch.uk/wp-content/uploads/2025/09/Attendance-Policy-Sept-25.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
         },
         "achievement": {
             "academicChildSuccess": "<p>We believe that all aspects of children\u2019s development are equally important and are interconnected. We recognise that children learn best through active learning and when they are interested and involved as participants in the learning experiences presented to them. Children need time and space to develop positive attitudes, acquire concepts and knowledge and to practice skills.</p>\n\n<p>We want children to feel confident in themselves and their abilities. They should have opportunities to experience success and achievement as well as learning through their mistakes in a secure, happy and caring environment. Building <b>Learning Power</b> is integral to our teaching how to be a great learner.</p><p><a href=\"https://www.rhylprim.camden.sch.uk/curriculum/building-learning-power/ \" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
@@ -10954,8 +10957,8 @@
             "BMEPercent": 97.6,
             "disadvantagedPupilsPercent": 56.5,
             "englishAdditionalLangPercent": 90.2,
-            "absencePercent": 4.8,
-            "persistentAbsenteesPercent": 1.0,
+            "absencePercent": 5.9,
+            "persistentAbsenteesPercent": 16.3,
             "specificLanguages": [
                 "Bengali",
                 "Somali",
@@ -11543,8 +11546,8 @@
             "BMEPercent": 69.4,
             "disadvantagedPupilsPercent": 40.8,
             "englishAdditionalLangPercent": 52.8,
-            "absencePercent": 5.0,
-            "persistentAbsenteesPercent": 1.0,
+            "absencePercent": 5.9,
+            "persistentAbsenteesPercent": 14.3,
             "specificLanguages": [
                 "English",
                 "Tagalog",
@@ -12092,8 +12095,8 @@
             "BMEPercent": 79.3,
             "disadvantagedPupilsPercent": 65.2,
             "englishAdditionalLangPercent": 43.5,
-            "absencePercent": 5.5,
-            "persistentAbsenteesPercent": 1.0,
+            "absencePercent": 8.1,
+            "persistentAbsenteesPercent": 24.7,
             "specificLanguages": [
                 "English",
                 "Bengali"
@@ -12392,8 +12395,8 @@
             "BMEPercent": 71.6,
             "disadvantagedPupilsPercent": 42.9,
             "englishAdditionalLangPercent": 53.4,
-            "absencePercent": 3.9,
-            "persistentAbsenteesPercent": 1.0,
+            "absencePercent": 5.3,
+            "persistentAbsenteesPercent": 16.5,
             "specificLanguages": [
                 "Albanian",
                 "Amharic",
@@ -12696,8 +12699,8 @@
             "BMEPercent": 84.8,
             "disadvantagedPupilsPercent": 36.8,
             "englishAdditionalLangPercent": 47.7,
-            "absencePercent": 5.8,
-            "persistentAbsenteesPercent": 2.0,
+            "absencePercent": 6.5,
+            "persistentAbsenteesPercent": 23.7,
             "specificLanguages": [
                 "English",
                 "Bengali",
@@ -12976,8 +12979,8 @@
             "BMEPercent": 61.5,
             "disadvantagedPupilsPercent": 44.6,
             "englishAdditionalLangPercent": 41.2,
-            "absencePercent": 6.0,
-            "persistentAbsenteesPercent": 0.0,
+            "absencePercent": 7.3,
+            "persistentAbsenteesPercent": 26.4,
             "specificLanguages": [
                 "English",
                 "Tigrinya",
@@ -13221,8 +13224,8 @@
             "BMEPercent": 71.1,
             "disadvantagedPupilsPercent": 28.0,
             "englishAdditionalLangPercent": 25.6,
-            "absencePercent": 3.8,
-            "persistentAbsenteesPercent": 2.0,
+            "absencePercent": 4.6,
+            "persistentAbsenteesPercent": 12.8,
             "specificLanguages": [
                 "English",
                 "Arabic",
@@ -13520,8 +13523,8 @@
             "BMEPercent": 70.0,
             "disadvantagedPupilsPercent": 68.0,
             "englishAdditionalLangPercent": 30.0,
-            "absencePercent": 3.8,
-            "persistentAbsenteesPercent": 0.0,
+            "absencePercent": 5.2,
+            "persistentAbsenteesPercent": 12.3,
             "specificLanguages": [
                 "English",
                 "Bengali",
@@ -13821,8 +13824,8 @@
             "BMEPercent": 81.7,
             "disadvantagedPupilsPercent": 54.3,
             "englishAdditionalLangPercent": 63.3,
-            "absencePercent": 5.6,
-            "persistentAbsenteesPercent": 3.0,
+            "absencePercent": 6.4,
+            "persistentAbsenteesPercent": 16.0,
             "specificLanguages": [
                 "English",
                 "Bengali",
@@ -14118,8 +14121,8 @@
             "BMEPercent": 74.4,
             "disadvantagedPupilsPercent": 57.8,
             "englishAdditionalLangPercent": 47.9,
-            "absencePercent": 3.5,
-            "persistentAbsenteesPercent": 1.0,
+            "absencePercent": 7.2,
+            "persistentAbsenteesPercent": 24.1,
             "specificLanguages": [
                 "English",
                 "Spanish",
@@ -14419,8 +14422,8 @@
             "BMEPercent": 63.1,
             "disadvantagedPupilsPercent": 36.1,
             "englishAdditionalLangPercent": 31.6,
-            "absencePercent": 4.4,
-            "persistentAbsenteesPercent": 0.0,
+            "absencePercent": 5.6,
+            "persistentAbsenteesPercent": 15.3,
             "specificLanguages": [
                 "English",
                 "Japanese",
@@ -14725,8 +14728,8 @@
             "BMEPercent": 84.4,
             "disadvantagedPupilsPercent": 50.4,
             "englishAdditionalLangPercent": 44.6,
-            "absencePercent": 10.4,
-            "persistentAbsenteesPercent": 11.0,
+            "absencePercent": 13.9,
+            "persistentAbsenteesPercent": 39.5,
             "specificLanguages": [
                 "Arabic ",
                 "Bengali",
@@ -14820,7 +14823,7 @@
         "websiteLink": "https://www.camdengirls.camden.sch.uk/",
         "type": "Secondary",
         "gender": "Girls",
-        "entryForms": "4",
+        "entryForms": "1",
         "ageRange": [
             "11",
             "18"
@@ -14828,7 +14831,7 @@
         "address": "Sandall Road",
         "lat": 51.545988,
         "long": -0.134693,
-        "formsEntry": "4",
+        "formsEntry": "1",
         "prevYearCatchmentRadius": null,
         "postCode": "NW5 2DB",
         "facilities": [
@@ -15033,8 +15036,8 @@
             "BMEPercent": 60.8,
             "disadvantagedPupilsPercent": 30.1,
             "englishAdditionalLangPercent": 19.5,
-            "absencePercent": 5.3,
-            "persistentAbsenteesPercent": 5.0,
+            "absencePercent": 5.4,
+            "persistentAbsenteesPercent": 13.5,
             "specificLanguages": [
                 "Albanian/Shqip",
                 "Arabic",
@@ -15399,8 +15402,8 @@
             "BMEPercent": 84.9,
             "disadvantagedPupilsPercent": 49.3,
             "englishAdditionalLangPercent": 45.9,
-            "absencePercent": 7.8,
-            "persistentAbsenteesPercent": 33.0,
+            "absencePercent": 10.1,
+            "persistentAbsenteesPercent": 30.4,
             "specificLanguages": [
                 "Albanian",
                 "Amharic",
@@ -15753,8 +15756,8 @@
             "BMEPercent": 67.9,
             "disadvantagedPupilsPercent": 42.8,
             "englishAdditionalLangPercent": 44.7,
-            "absencePercent": 4.5,
-            "persistentAbsenteesPercent": 5.0,
+            "absencePercent": 5.4,
+            "persistentAbsenteesPercent": 12.0,
             "specificLanguages": [
                 "English",
                 "Albanian /Shqip",
@@ -16079,8 +16082,8 @@
             "BMEPercent": 73.1,
             "disadvantagedPupilsPercent": 45.6,
             "englishAdditionalLangPercent": 46.0,
-            "absencePercent": 4.2,
-            "persistentAbsenteesPercent": 0.0,
+            "absencePercent": 5.0,
+            "persistentAbsenteesPercent": 11.5,
             "specificLanguages": [
                 "English",
                 "Arabic",
@@ -16389,8 +16392,8 @@
             "BMEPercent": 69.6,
             "disadvantagedPupilsPercent": 47.0,
             "englishAdditionalLangPercent": 34.3,
-            "absencePercent": 5.8,
-            "persistentAbsenteesPercent": 20.0,
+            "absencePercent": 11.2,
+            "persistentAbsenteesPercent": 34.2,
             "specificLanguages": [
                 "Albanian/Shqip",
                 "Arabic",
