@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 		schoolId = 0;
 		location.href = `${location.origin}`;
 	}
-	let showComparisonsInfo = ref(false);
+	let showComparisonsInfo = ref(true);
 
 	createApp({
 		setup() {

@@ -87,13 +87,13 @@
 			<section class="about">
 				<div class="about__container">
 					<div class="about__content">
-						<div class="toggle-switch__block about__toggler-block" v-if="school.isPrimary">
+						<!-- <div class="toggle-switch__block about__toggler-block" v-if="school.isPrimary">
 							<div class="toggle-switch">
 								<input type="checkbox" id="switch1" />
 								<label for="switch1" class="toggle-switch__slider"></label>
 							</div>
 							<p>Show Camden, London & England Averages</p>
-						</div>
+						</div> -->
 						<div v-if="school.type !== 'Specialist'" class="about-sector" id="performance-sector">
 							<h2 class="about__title">How well do pupils perform at our school?</h2>
 							<div class="about__chart" v-for="chart in school.achievement.chartsPerform">
