@@ -2984,7 +2984,7 @@
         "isPrimary": true,
         "shortSlogan": "A happy, ambitious school where all pupils belong, love learning and achieve excellence. ",
         "descriptionTitle": "A happy, ambitious school where all pupils belong, love learning and achieve excellence. ",
-        "description": "<p>At Eleanor Palmer Primary, we are dedicated to our pupils developing a strong sense of belonging, a love of learning and achieving excellence. Our curriculum is designed so that pupils link thinking across subjects and build deep knowledge through enriching experiences that are carefully designed.</p>\n\n<p>We develop pupils' creativity and engagement with the world, challenging them across the curriculum - in the arts, PE, science, and humanities subjects. EP's teaching team prioritises positive relationships, respect, and kindness.</p>\n\n<p>We empower pupils to leave EP with treasured primary memories, as critical thinkers and changemakers.</p>",
+        "description": "<p>At Eleanor Palmer Primary, we are dedicated to our pupils developing a strong sense of belonging, a love of learning and achieving excellence. Our curriculum is designed so that pupils link thinking across subjects and build deep knowledge through enriching experiences that are carefully designed.</p>\n<br>\n\n<p>We develop pupils' creativity and engagement with the world, challenging them across the curriculum - in the arts, PE, science, and humanities subjects. EP's teaching team prioritises positive relationships, respect, and kindness.</p>\n<br>\n\n<p>We empower pupils to leave EP with treasured primary memories, as critical thinkers and changemakers.</p>",
         "schoolLogo": "../assets/imgs/school/2022841_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100027",
         "churchLink": "",
@@ -3121,11 +3121,7 @@
                 "../assets/imgs/school/2022841_3.jpg",
                 "../assets/imgs/school/2022841_4.jpg",
                 "../assets/imgs/school/2022841_5.jpg",
-                "../assets/imgs/school/2022841_6.jpg",
-                "../assets/imgs/school/2022841_7.jpg",
-                "../assets/imgs/school/2022841_8.jpg",
-                "../assets/imgs/school/2022841_9.jpg",
-                "../assets/imgs/school/2022841_10.jpg"
+                "../assets/imgs/school/2022841_6.jpg"
             ],
             "schoolHighlights": [
                 {
@@ -14829,7 +14825,7 @@
         "websiteLink": "https://www.camdengirls.camden.sch.uk/",
         "type": "Secondary",
         "gender": "Girls",
-        "entryForms": "1",
+        "entryForms": "4",
         "ageRange": [
             "11",
             "18"
@@ -14837,7 +14833,7 @@
         "address": "Sandall Road",
         "lat": 51.545988,
         "long": -0.134693,
-        "formsEntry": "1",
+        "formsEntry": "4",
         "prevYearCatchmentRadius": null,
         "postCode": "NW5 2DB",
         "facilities": [
@@ -16125,7 +16121,7 @@
             "qualifiedTeachersPercent": 95,
             "pupilAdultRatio": 12.7,
             "financialReserves": "\u00a3432,300",
-            "changeYearReserves": "\u00a311,700"
+            "changeYearReserves": "11700"
         },
         "curriculum": {
             "curriculumAim": "<p>At WHPS, we provide a broad and balanced curriculum that develops the individual child according to their age and ability. Our curriculum is designed to:</p>\n\n<ol>\n    <li>Ensure the children have a broad, balanced, and secure knowledge and understanding of the world.</li>\n    <li>Ensure high levels of competence in the core subjects of English and maths.</li>\n    <li>Teach our pupils to live well in a diverse world, as confident, responsible citizens.</li>\n    <li>Teach our pupils to learn well and to love learning.</li>\n    <li>Teach our pupils how to lead happy, healthy, and constructive lives, in which they can aspire and experience success.</li>\n</ol><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=OUR+CURRICULUM&pid=184\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
