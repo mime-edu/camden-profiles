@@ -275,7 +275,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2022001_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2022001_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -922,7 +922,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2022019_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2022019_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -1236,7 +1236,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2022065_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2022065_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -1535,7 +1535,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2022078_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2022078_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -2372,7 +2372,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2023327_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2023327_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -3545,7 +3545,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2023340_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2023340_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -4112,7 +4112,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2022219_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2022219_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -4381,7 +4381,7 @@
         "isPrimary": true,
         "shortSlogan": "This is a fun, happy, hardworking and successful school. We are proud of the breadth of educational and extra-curricular opportunities we offer.\n",
         "descriptionTitle": "This is a fun, happy, hardworking and successful school. We are proud of the breadth of educational and extra-curricular opportunities we offer.\n",
-        "description": "<p>Gospel Oak is a two-form entry primary school with a nursery in the London Borough of Camden. It has enjoyed a long spell of stability. There is low staff turnover, particularly in the context of inner London.</p>\n<br>\n<p>Overall attainment is broadly above national averages. Our families represent a very wide cultural and socio-economic range. Just under half of the children qualify for free school meals and just over half have a first language other than English.</p>\n<br>\n<p>The school was judged to be Outstanding by Ofsted in 2016 and 2021.</p>\n",
+        "description": "<p>Gospel Oak is a large two-form entry primary school with a nursery located in Camden. We enjoy remarkable stability with low staff turnover, and pupil achievement rises steadily. Highly popular within the local community, our families represent a broad cultural and socio-economic demographic. Just under half of our pupils qualify for free school meals, and over half speak English as an additional language.</p/>\n<br>\n<p>Judged Outstanding by Ofsted in both 2016 and 2021, the school maintained this high quality under the new inspection framework in 2026, where we were rated at a strong standard across six out of seven key areas.</p>",
         "schoolLogo": "../assets/imgs/school/2022775_logo.png",
         "ofstedLink": "http://www.ofsted.gov.uk/oxedu_providers/full/(urn)/100025",
         "churchLink": "",
@@ -4420,7 +4420,6 @@
             "Choir",
             "Chess",
             "Bangla Club",
-            "Spanish Club",
             "Homework Club"
         ],
         "admissionProcess": "<p>We follow the London Borough of Camden's school admissions policy:</p>\n<p><a href=\"https://docs.google.com/document/d/1IquDkI7J2fVI_KbMtN6HH6MeOBUjYXo_zSzmL7DBGj8/edit\" target=\"_blank\">Camden School Admissions Policy</a></p>",
@@ -4975,7 +4974,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2023352_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2023352_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -5358,7 +5357,7 @@
         },
         "SEND": {
             "sendSupportInfo": "At Hampstead School, we are committed to fostering an inclusive learning environment where every child, including those with additional needs, has access to the support they need to thrive. Our priority is to ensure that all students make progress, achieve their full potential, and feel safe, supported, and valued.\n\nWe place great emphasis on building strong, collaborative relationships with parents/carers, students, and staff. This partnership ensures that we can provide the tailored support each child requires to succeed.\n\nOur dedicated Achievement Support Faculty is well-equipped to support students, including the Assistant Head for Inclusion and SEND, the Deputy SENDCo, SEND teachers, Higher-Level Teaching Assistants, and Teaching Assistants. In addition, we have an on-site school counsellor and collaborate closely with a visiting Mental Health Support Team, Educational Psychologist, and Speech and Language Therapist. Together, we ensure that all students receive the comprehensive support they need to succeed in a nurturing and inclusive environment.<p><a href=\"https://www.hampsteadschool.org.uk/_site/data/files/policies/60E28A6EB27F402AB3EE29326C692989.pdf\" target=\"_blank\" class=\"about__link\">Link to SEND policy</a></p>",
-            "inclusivePracticeInfo": "How Hampstead School ensures inclusion is at the very centre of our work with students:\n\u2022\tA whole-School Approach: We adopt a school-wide strategy to support students with SEND, engaging all staff in fostering an inclusive learning environment. \n\u2022\tAn inclusive approach to teaching: We invest in ongoing professional development, empowering teachers with the skills to adapt lessons and ensure every student can succeed and make progress.\n\u2022\tPartnership with Parents: We actively involve parents and carers.\n\u2022\tExpert Support: We provide targeted resources and specialist support for students with SEND, involving specialist services where necessary.\n\u2022\tMental Health and Wellbeing: We place a strong emphasis on the mental health and wellbeing of all students, creating a safe and nurturing environment for learning.\n\u2022\tRestorative Practices: Our staff are trained in restorative practices to respond effectively to the emotional needs of students,\n<p><a href=\"https://www.hampsteadschool.org.uk/_site/data/files/policies/032A07E06C2A824D4D0CCDE99FCBB89A.pdf\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
+            "inclusivePracticeInfo": "How Hampstead School ensures inclusion is at the very centre of our work with students:\n\u2022 A whole-School Approach: We adopt a school-wide strategy to support students with SEND, engaging all staff in fostering an inclusive learning environment. \n\u2022 An inclusive approach to teaching: We invest in ongoing professional development, empowering teachers with the skills to adapt lessons and ensure every student can succeed and make progress.\n\u2022 Partnership with Parents: We actively involve parents and carers.\n\u2022 Expert Support: We provide targeted resources and specialist support for students with SEND, involving specialist services where necessary.\n\u2022 Mental Health and Wellbeing: We place a strong emphasis on the mental health and wellbeing of all students, creating a safe and nurturing environment for learning.\n\u2022 Restorative Practices: Our staff are trained in restorative practices to respond effectively to the emotional needs of students,\n<p><a href=\"https://www.hampsteadschool.org.uk/_site/data/files/policies/032A07E06C2A824D4D0CCDE99FCBB89A.pdf\" target=\"_blank\" class=\"about__link\">Link to inclusive practice policy</a></p>"
         }
     },
     {
@@ -5547,7 +5546,7 @@
             "qualifiedTeachersPercent": 91,
             "pupilAdultRatio": 1.3,
             "financialReserves": "\u00a35,900",
-            "changeYearReserves": "-394700"
+            "changeYearReserves": "-\u00a3394,700"
         },
         "curriculum": {
             "curriculumAim": "<p>At Harmood, we aim to help students become confident young adults by developing both their social and personal skills alongside their academic knowledge. Our goal is for each student to become a successful, active, well-balanced adult who can contribute to their community and secure employment.</p>\n<br>\n<p>Students have access to all national curriculum subjects, with a strong emphasis on Maths, English, Food, and Personal Development. We also provide opportunities for cooking and participating in community activities, including partnerships with Arsenal and Growing Green.</p>\n<br>\n<p>Given the SEMH needs of our students, our curriculum is designed to prioritise emotional and mental wellbeing, where we collaborate with speech and language therapists and educational psychologists to provide targeted support.</p><p><a href=\"https://www.harmood.h3federation.org.uk/279/our-curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -6156,7 +6155,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2022290_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2022290_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -6525,19 +6524,19 @@
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "Parents and carers speak highly of the sporting and cultural opportunities which enrich the school\u2019s planned curriculum, providing many opportunities for their children to grow in confidence. ",
+                    "text": "Relationships across the school are nurturing and respectful. Pupils describe a warm atmosphere where the school values of care, courage and cooperation guide how they behave and treat others.",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "Across the school, pupils\u2019 attitudes in lessons are positive, they cooperate well and are keen learners. They engage well with the curriculum on offer and teaching proceeds uninterrupted. ",
+                    "text": "Pupils enjoy coming to a school where everyone is valued, supported and encouraged to thrive.",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "Leaders are ambitious for every pupil to develop a love of reading. ",
+                    "text": "By the time they leave, pupils are confident learners who are well prepared for the next stage of their education... Early reading is a notable strength. Phonics is taught consistently well and with confidence. Mathematics teaching is also well established... The curriculum is sequenced so that pupils build knowledge over time and can confidently recall key ideas.",
                     "author": "Ofsted"
                 },
                 {
@@ -6584,9 +6583,9 @@
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "#4764ff",
-                    "text": "In my aspiration to model care, courage and co-operation, I find new meaning and more value within these words every day. ",
-                    "author": "Teacher"
+                    "bgcolor": "#64007e",
+                    "text": "The ambitious curriculum reflects the vision and sets high expectations for pupils. Opportunities such as the Shakespeare project enrich their experience and develop a love of learning.",
+                    "author": "SIAMs"
                 },
                 {
                     "type": "quote",
@@ -6641,25 +6640,25 @@
                 {
                     "bgcolor": "#4764ff",
                     "title": "Curriculum, teaching & learning",
-                    "description": "Our curriculum is considered/well designed, inspiring and inclusive. All teaching and learning intends to ensure that all our children have a wide range of opportunities to explore, question and deepen their thinking over time. ",
+                    "description": "Our curriculum is well-designed, inspiring and inclusive. Through a wide range of opportunities, teaching and learning at HTSS encourages children to explore, question and deepen their thinking over time.",
                     "link": "/curriculum/index.html?schoolId=2023361"
                 }
             ],
             "schoolPriorities": [
                 {
                     "bgcolor": "#e50059",
-                    "title": "Closing the disadvantage gap",
-                    "description": "To continue to focus on closing the disadvantage gap in writing and maths."
+                    "title": "Continuing to close the disadvantage gap",
+                    "description": "To continue to focus on closing the disadvantage gap in reading, writing and maths."
                 },
                 {
                     "bgcolor": "#ed6c26",
                     "title": "Outdoor play and learning",
-                    "description": "To further adapt the school environment and practices to meet the developmental needs of all our children."
+                    "description": "To continue to develop our outdoor environment and practices, to meet the developmental needs of all our children."
                 },
                 {
                     "bgcolor": "#4764ff",
-                    "title": "Writing",
-                    "description": "To strengthen practices across the school, driving progress and fostering an enjoyment of writing."
+                    "title": "Fluency in writing",
+                    "description": "Continuing to embed fluency in writing across the wider curriculum, so children can express their knowledge and understanding in a range of ways."
                 }
             ]
         },
@@ -6688,7 +6687,7 @@
             "qualifiedTeachersPercent": 92,
             "pupilAdultRatio": 10.9,
             "financialReserves": "\u00a3136,900",
-            "changeYearReserves": "39200"
+            "changeYearReserves": "\u00a339,200"
         },
         "curriculum": {
             "curriculumAim": "<p>It is our intention to provide a broad, inspiring and inclusive curriculum that ensures all children have a wide range of opportunities to explore, question and deepen their thinking over time. Subjects are taught as distinct disciplines that are knowledge-rich and sequenced meaningfully so that, as children move up through the school, they consolidate and develop their subject-specific knowledge over time.</p>\n<br>\n\n<p>Learning is brought to life by making it memorable and engaging, both in the classroom and beyond. We believe that working with drama, art, music and sporting specialists through whole-school projects, performances and competitions enhances our curriculum. These creative, cultural and sporting activities symbolise the holistic and inclusive view of education that runs through our school, with the development of the whole child driving all that we do.</p>\n<br>\n\n<p>Our curriculum supports our children in becoming: caring citizens who show care to each other, the local community and wider world and who know how their actions can help others; courageous communicators who ask questions, speak knowledgeably, extend their vocabulary, take risks, learn from their mistakes and challenge themselves through new experiences; co-operative learners who work well together, negotiate and compromise, share ideas, listen to and support one another.</p><p><a href=\"https://www.holytrinitynw1.camden.sch.uk/parents/day-to-day/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -7283,7 +7282,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2023370_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2023370_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -7600,7 +7599,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2022002_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2022002_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -7881,7 +7880,7 @@
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 10.1,
             "financialReserves": "\u00a31,304,000",
-            "changeYearReserves": "492200"
+            "changeYearReserves": "\u00a3492,200"
         },
         "curriculum": {
             "curriculumAim": "<p>Our curriculum has been carefully crafted to deliver the essential knowledge that children need. It offers a wide range of rich experiences that will help children to develop into well\u2010rounded individuals who have much to contribute to society. We focus on helping our children to grow and develop confidence, resilience and respect for others.</p>\n\n<p>We have incorporated opportunities for building character into our curriculum: through sport, creativity, performing, and coaching and leadership sessions that teach children good communication, problem solving and responsibility. Underpinning all of this is a relentless commitment to academic excellence for all children.</p>\n\n<p>Ofsted noted that 'The curriculum is highly ambitious. Pupils take part in learning with energy and enthusiasm.'</p><p><a href=\"https://www.kingsgateprimaryschool.org.uk/_schoolInformationCurriculumDocuments.php\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -8842,7 +8841,7 @@
             "qualifiedTeachersPercent": 96,
             "pupilAdultRatio": 7.3,
             "financialReserves": "\u00a31,008,900",
-            "changeYearReserves": "46000"
+            "changeYearReserves": "\u00a346,000"
         },
         "curriculum": {
             "curriculumAim": "<p>We do not simply say that our curriculum is broad and balanced. It truly is. Most importantly, it is designed to inspire a love of learning, meeting the diverse needs of our pupils and providing rich opportunities for personal growth.</p>\n<br>\n\n<p>Longstanding partnerships with organisations such as The Francis Crick Institute, The Royal Academy of Music and the London School of Contemporary Dance broaden the horizons for our children. Our annual events; The Exhibition, Poetry Recital; Talent Show and Careers Fortnight give all children the opportunity to develop their talents to the full.</p><p><a href=\"https://www.netley.camden.sch.uk/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -9153,7 +9152,7 @@
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 11.3,
             "financialReserves": "\u00a3148,500",
-            "changeYearReserves": "293600"
+            "changeYearReserves": "\u00a3293,600"
         },
         "curriculum": {
             "curriculumAim": "<p>The aim of our curriculum is for pupils to have the requisite skills to be successful, independent, and motivated learners in readiness for their next stage of education. It is important that the curriculum considers the development of the whole child and not only concentrates on academic success. The curriculum at New End is designed to provide a broad and balanced education that meets the needs of all pupils and gives them the skills, knowledge, and understanding to prepare them for their next steps.</p>\n<br>\n<p>It ensures that academic success, creativity and problem solving, reliability, responsibility and resilience, as well as physical development, well-being, and mental health are key elements that support the development of the whole child and promote a positive attitude to learning. The curriculum celebrates the diversity of our community and utilises its skills, knowledge and cultural wealth while supporting the pupils\u2019 spiritual, moral, social and cultural development under the umbrella of British Values.</p>\n<br>\n<p>At New End we seek to offer wider enrichment opportunities for all children. We seek to be inclusive in our provision of enrichment activities within the classroom and in the information we offer to parents regarding opportunities beyond it. To enrich classroom learning, we try wherever possible to plan opportunities for visits and visitors. Class enrichment activities also include the involvement of every Year 5 child in The Shakespeare in Schools project each year; every child in Year 4 learning the recorder for the year; and the provision of a weekly chess lesson for every Year 2 and Year 3 child.</p>\n<br>\n<p>Specialist teachers and instructors support music, coding, physical education, French and chess. Theme weeks, whole school activities and opportunities within and outside school all enrich and develop the children\u2019s learning. After school clubs and events extend these opportunities further. The curriculum is both dynamic and adaptable, ensuring all children make progress from their various different starting points.</p>\n<br>\n<p>Children consistently achieve above national levels at the end of Key Stage 2. Excellent progress is made in reading, writing and mathematics. At New End we teach the computing curriculum in a unique way. This was recognised in our last OFSTED inspection and inspectors noted that our approach was worthy of being shared. Over ninety percent of the curriculum is covered through coding activities. As a result, children achieve beyond the expectations of the National Curriculum. There are also knock-on effects in other curriculum areas. For example, children are using negative numbers and angles earlier than expected. OFSTED stated that \"pupils' knowledge and expertise in computing are highly developed.\"</p><p><a href=\"https://www.newend.camden.sch.uk/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -9186,7 +9185,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2022438_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2022438_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -9488,7 +9487,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2023655_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2023655_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -9655,7 +9654,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "Pupils meet leaders high expectations and enjoy being challenged.",
+                    "text": "Pupils meet leaders' high expectations and enjoy being challenged.",
                     "author": "Ofsted"
                 },
                 {
@@ -10072,7 +10071,7 @@
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 8.7,
             "financialReserves": "\u00a370,700",
-            "changeYearReserves": "-48100"
+            "changeYearReserves": "-\u00a348,100"
         },
         "curriculum": {
             "curriculumAim": "<p>The aim of our curriculum is to produce happy, creative, confident and successful children who are ready for the next stage of their education. We want our children to leave us as lifelong learners with excellent maths and English skills and a broad knowledge of the arts, sciences, humanities and wider curriculum.</p>\n\n<p>We work hard to forge links with local museums and places of interest whilst also making sure that our pupils give back to the community.</p><p><a href=\"https://www.primrosehill.camden.sch.uk/school-information/curriculum/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -10105,7 +10104,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2022475_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2022475_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -10372,7 +10371,7 @@
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 9.5,
             "financialReserves": "\u00a31,007,000",
-            "changeYearReserves": "-457000"
+            "changeYearReserves": "-\u00a3457,000"
         },
         "curriculum": {
             "curriculumAim": "<p>Our aim is to develop students who have limitless aspirations and are equipped to be successful in any path they choose. To that end, we offer a broad, balanced curriculum that ensures students master the relevant knowledge, concepts and skills of a wide range of disciplines, whilst fostering a life-long love of learning.</p>\n\n<p>Ours is a responsive and challenging curriculum with sufficient flexibility to meet the needs of all our students and ensure they are given the opportunity to fulfil their potential. Students can expect to receive feedback which enables them to grow, develop resilience and reach the highest standards. They can expect to be challenged and encouraged to be independent and take risks in their learning.</p>\n\n<p>Enrichment opportunities are built into our curriculum to allow our students to experience and participate in a broad range of cultural pursuits, engendering in them an appreciation of human creativity and achievement.</p>\n\n<p>Regent High School places great importance on working closely with the parents and carers of all our students. Our teachers have a responsibility to establish home-school links which we believe assist in each child\u2019s development at school. Families will have opportunities throughout the year to meet with school staff to discuss progress and welfare. The school has also produced family guides to support learning in each year group. These can be accessed here:</p>\n<br>\n<p><a href=\"https://www.regenthighschool.org.uk/Parents/How-Will-I-Know-How-My-Child-is-Getting-on/\" target=\"_blank\">Family guides to learning</a></p><p><a href=\"https://www.regenthighschool.org.uk/Our-curriculum-intent/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -10648,18 +10647,18 @@
             "schoolPriorities": [
                 {
                     "bgcolor": "#e50059",
-                    "title": "Excellent inclusive provision",
-                    "description": "To further develop excellence in inclusive provision in all areas of learning so that all pupils achieve their individual goals, in particular new arrivals, higher achievers and pupils with SEND."
+                    "title": "Belonging - Inclusion and Celebrating Diversity",
+                    "description": "To further develop our inclusive provision so that every child feels a strong sense of belonging, is valued for who they are and is able to thrive. We celebrate the diversity of our school community and ensure that individual needs, backgrounds and differences are recognised, understood and supported."
                 },
                 {
                     "bgcolor": "#ed6c26",
-                    "title": "Develop pupils\u2019 oracy skills",
-                    "description": "To develop pupil\u2019s oracy skills to enable them to confidently use effective grammar and high level vocabulary in talk and written work."
+                    "title": "Achievement - High Standards for Every Child",
+                    "description": "To maintain high expectations for teaching, learning and behaviour so that every child makes strong progress and achieves the best possible outcomes. We are committed to removing barriers to learning and ensuring that disadvantage or additional need does not limit achievement."
                 },
                 {
                     "bgcolor": "#4764ff",
-                    "title": "Reading & writing outcomes",
-                    "description": "To improve reading and writing progress and outcomes, in particular for disadvantaged pupils, pupils working at higher levels and boys\u2019 writing"
+                    "title": "Aspiration - Raising Aspirations and Broadening Horizons",
+                    "description": "To raise aspirations by providing children with rich experiences, opportunities and role models that broaden their horizons and help them recognise their potential. We want every child to develop the confidence, knowledge and skills to be ambitious for themselves and their future."
                 }
             ]
         },
@@ -10715,7 +10714,7 @@
             "attendanceManagement": "<p>We know that attending school every day will give them the best possible start in life and helps them to develop friendships and social skills. We encourage families to have good attendance through positive rewards and recognition and provide support when needed to help children attend school regularly.</p>\n\n<p>We have 2 attendance officers and a family support worker who work with parents and children when needed. We do not authorise holidays in term time and make calls home on the first day of absence to offer advice and help to families.</p><p><a href=\"https://www.rhylprim.camden.sch.uk/wp-content/uploads/2025/09/Attendance-Policy-Sept-25.pdf\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
         },
         "achievement": {
-            "academicChildSuccess": "<p>We believe that all aspects of children\u2019s development are equally important and are interconnected. We recognise that children learn best through active learning and when they are interested and involved as participants in the learning experiences presented to them. Children need time and space to develop positive attitudes, acquire concepts and knowledge and to practice skills.</p>\n\n<p>We want children to feel confident in themselves and their abilities. They should have opportunities to experience success and achievement as well as learning through their mistakes in a secure, happy and caring environment. Building <b>Learning Power</b> is integral to our teaching how to be a great learner.</p><p><a href=\"https://www.rhylprim.camden.sch.uk/curriculum/building-learning-power/ \" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
+            "academicChildSuccess": "<p>We believe that all aspects of children\u2019s development are equally important and are interconnected. We recognise that children learn best through active learning and when they are interested and involved as participants in the learning experiences presented to them. Children need time and space to develop positive attitudes, acquire concepts and knowledge and to practice skills.</p>\n\n<p>We want children to feel confident in themselves and their abilities. They should have opportunities to experience success and achievement as well as learning through their mistakes in a secure, happy and caring environment. Building <b>Learning Power</b> is integral to our teaching how to be a great learner.</p><p><a href=\"https://www.rhylprim.camden.sch.uk/wp-content/uploads/2023/09/Learning-and-Teaching-Policy-Jul-2022.pdf\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
             "chartsPerform": [
                 {
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (2025/26 provisional):",
@@ -10727,7 +10726,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2022502_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2022502_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -11023,7 +11022,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2022507_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2022507_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -11580,7 +11579,7 @@
             "qualifiedTeachersPercent": 95,
             "pupilAdultRatio": 11.2,
             "financialReserves": "\u00a3218,500",
-            "changeYearReserves": "-113900"
+            "changeYearReserves": "-\u00a3113,900"
         },
         "curriculum": {
             "curriculumAim": "<p>At Rosary, our vision is for children to leave empowered with the knowledge and cultural capital needed to be resilient, successful, and responsible citizens. We offer a broad, balanced curriculum with clear frameworks outlining what children will know, understand, and be able to do by the end of their journey with us. Catholic Social Teaching is integrated throughout our topics, skilfully promoted by our Mini Vinnie Pupil Chaplaincy Team.</p>\n<br>\n\n<p>Our curriculum is designed around subject disciplines, assessing and building on prior learning with clear milestones at the end of each phase. For each subject, we map out key learning objectives, ensuring children acquire essential knowledge by the time they leave our school.</p>\n<br>\n\n<p>We believe that deeper learning occurs through enquiry, first-hand experiences, direct teaching, and enrichment opportunities. Children are encouraged to ask questions, make connections, and engage in cooperative learning through Kagan Structures, which promote collaboration and essential social skills.</p><p><a href=\"https://www.rosary.camden.sch.uk/Learning/Curriculum-Subjects/\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -12117,7 +12116,7 @@
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 5.4,
             "financialReserves": "\u00a3339,000",
-            "changeYearReserves": "70400"
+            "changeYearReserves": "\u00a370,400"
         },
         "curriculum": {
             "curriculumAim": "<p>Our curriculum contains the knowledge that we have identified as essential in our school, taking cultural capital into account. These have been carefully crafted for each subject, identifying knowledge and skills and breaking them down to ensure sequential, layered knowledge acquisition.</p>\n\n<p>The curriculum is sequenced and progressive so that children can systematically accumulate knowledge which becomes embedded in their long-term memory and make meaningful connections in their learning.</p>\n\n<p>The promotion of strong oracy skills is a priority for our children. This focus runs throughout our curriculum, because children must be able to talk about what they have learned in a knowledgeable and articulate way, engaging in meaningful, collaborative discussions.</p>\n\n<p>Reading is the gateway to pupils\u2019 learning. To ensure all our pupils are able to access the full curriculum, we therefore place a strong focus on oracy, early reading and vocabulary development right from their points of entry.</p><p><a href=\"https://www.stalbanscamden.co.uk/topic/our-curriculum\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -12150,7 +12149,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2023398_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2023398_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -12762,7 +12761,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2023441_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2023441_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -13049,7 +13048,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2023482_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2023482_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -13288,7 +13287,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2022000_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2022000_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -13582,7 +13581,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2023521_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2023521_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -13851,7 +13850,7 @@
             "qualifiedTeachersPercent": 100,
             "pupilAdultRatio": 12.3,
             "financialReserves": "\u00a362,900",
-            "changeYearReserves": "23700"
+            "changeYearReserves": "\u00a323,700"
         },
         "curriculum": {
             "curriculumAim": "<p>Our well-sequenced curriculum equips our children with the knowledge, skills and cultural capital that they need to succeed in life.</p>\n<br>\n\n<p>In addition, each term we pause the usual curriculum for a week in order for everyone to take part in a Whole School Project Studies. In the recent past these have included Looking After Our World Studies, Equality Studies, Social Justice Studies and Keeping Safe Studies.</p>\n<br>\n\n<p>These special studies weeks enable pupils to develop a deeper understanding and awareness of current issues and topics encouraging them to think about citizenship and their own contribution to society.</p><p><a href=\"https://www.stmarykilburn.camden.sch.uk/page/?title=Curriculum&pid=9\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -13884,7 +13883,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2023517_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2023517_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -14184,7 +14183,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2023560_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2023560_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -14266,7 +14265,7 @@
                 {
                     "type": "quote",
                     "bgcolor": "#ed6c26",
-                    "text": "St Paul's is like a tornado of friendship, love and kind children",
+                    "text": "St Paul's is like a tornado of friendship, love and kind children.",
                     "author": "Child"
                 },
                 {
@@ -14326,19 +14325,19 @@
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "As one pupil put it, we laugh with each other and not at each other.",
+                    "text": "This is a warm, nurturing and community-centred school where pupils' wellbeing is of utmost importance.",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "This school community is warm, vibrant and welcoming. Underpinned by its faith ethos, staff promote values such as being kind and respectful to all people.",
+                    "text": "Learning across all areas is deliberately and carefully planned. Phonics teaching helps children steadily build the skills they need to become confident early readers. Staff foster a love of reading throughout the day, from books being available at the school gate through to afternoon story time.",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "Pupils feel safe and secure. They enjoy coming to school, learning and taking part in enrichment activities.",
+                    "text": "Leaders have established a culture where positive behaviour is both the expectation and the norm. Classrooms are calm and pupils learn without disruption.",
                     "author": "Ofsted"
                 },
                 {
@@ -14401,18 +14400,18 @@
             "schoolPriorities": [
                 {
                     "bgcolor": "#e50059",
-                    "title": "Implementing a new leadership structure",
-                    "description": "After the retirement of our Deputy Headteacher after 36 years service to the school, we have changed the leadership structure and team in the school.  Our aim is to make that transition as smooth and effective as that can be- continuing the good and strong work of the school and enabling access to leadership for more of our school staff."
+                    "title": "Consistency in inclusion practices & strategies",
+                    "description": "With increasing numbers of children presenting with complex SEND needs across the school it is critical that we are confident and consistent in the strategies we employ to manage and understand pupil behaviour and learning. This includes understanding the effect of trauma and early childhood experiences."
                 },
                 {
                     "bgcolor": "#ed6c26",
-                    "title": "Promoting a love of reading",
-                    "description": "Review reading resources, reading time and reading opportunities in every year group to ensure access to high quality texts help support a love of reading and good writing outcomes."
+                    "title": "Review of class behaviour strategies",
+                    "description": "Review of class behaviour strategies and charts, rewards and sanctions across the school for inclusion and effectiveness. Staffing change over the years has diluted our application and understanding of the strategies and practices we use to manage and reward pupil behaviour.  It is timely that we review the strategies we have been using to ensure their application to inclusion and effectiveness as a tool for encouraging good behaviour for learning and positive relationships with each other."
                 },
                 {
                     "bgcolor": "#4764ff",
-                    "title": "Rights Respecting Schools.",
-                    "description": "Implement the United Nations Rights of the Child- 'Rights Respecting Schools' programme supported by the Mayor of London and Camden."
+                    "title": "Review the delivery of History & Geography lessons",
+                    "description": "To improve interest and to develop children\u2019s thinking and problem solving in History and Geography in order to help the children learn more and to remember more, to be more actively engaged in the subjects and to think like a Historian or Geographer."
                 }
             ]
         },
@@ -14481,7 +14480,7 @@
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (over time):",
                     "chartImg": "../assets/imgs/charts/2023568_chart_ks2_rwm.png",
                     "chartComparationImg": "../assets/imgs/charts/2023568_chart_ks2_rwm_school_only.png",
-                    "chartDescription": "Data for 2022 is not publicly available."
+                    "chartDescription": ""
                 }
             ],
             "chartsProm": [
@@ -15246,91 +15245,91 @@
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "\"The school has high aspirations for pupils\u2019 academic achievement, including pupils for with special educational needs \"",
+                    "text": "The school has high aspirations for pupils\u2019 academic achievement, including pupils for with special educational needs.",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#64007e",
-                    "text": "\"Supporting wellbeing and mental health is a key part of the Academy's approach. Students are positive about the support offered by the academy to support their wellbeing\"",
+                    "text": "Supporting wellbeing and mental health is a key part of the Academy's approach. Students are positive about the support offered by the academy to support their wellbeing.",
                     "author": "NSPCC"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "\"Personal development opportunities, especially the spiritual, moral, social and cultural are expertly woven into curriculum modules\"",
+                    "text": "Personal development opportunities, especially the spiritual, moral, social and cultural are expertly woven into curriculum modules.",
                     "author": "Challenge Partners"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "\"This is an inclusive and welcoming school.\"",
+                    "text": "This is an inclusive and welcoming school.",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#e50059",
-                    "text": "\"I am very thankful to the staff team at UCL Academy for all the support and patience that you have given us.\"",
+                    "text": "I am very thankful to the staff team at UCL Academy for all the support and patience that you have given us.",
                     "author": "Parent"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "\"Leaders have established a rich and relevant curriculum\"",
+                    "text": "Leaders have established a rich and relevant curriculum.",
                     "author": "Ofsted"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "",
-                    "text": "\"Thank you so much for the invitation, I enjoyed it a lot myself. Your school is lovely, and the students were very well prepared and engaged, any speaker's dream.\"",
+                    "text": "Thank you so much for the invitation, I enjoyed it a lot myself. Your school is lovely, and the students were very well prepared and engaged, any speaker's dream.",
                     "author": "University Guest Lecture"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#ed6c26",
-                    "text": "\"Students and staff in the UCL academy are very welcoming and accepting of all people.\"",
+                    "text": "Students and staff in the UCL academy are very welcoming and accepting of all people.",
                     "author": "Child"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#ed6c26",
-                    "text": "\"A lot of people worry about secondary school. Trust me, it's not a problem because you get lots of help when you arrive and everyone is kind.\"",
+                    "text": "A lot of people worry about secondary school. Trust me, it's not a problem because you get lots of help when you arrive and everyone is kind.",
                     "author": "Child"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#ed6c26",
-                    "text": "\"The achievement point system is really good. I've got lots of rewards!\"",
+                    "text": "The achievement point system is really good. I've got lots of rewards!",
                     "author": "Child"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "\"Leaders have a strong and productive relationship with their sponsor, University College London (UCL), who strive to positively shape the school community\u2019s outlook.\"",
+                    "text": "Leaders have a strong and productive relationship with their sponsor, University College London (UCL), who strive to positively shape the school community\u2019s outlook.",
                     "author": "Challenge Partners"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "\"Sixth form students acquire meaningful learning  experiences, because opportunities to deepen understanding from encounters  with employers and universities are not missed.\"  \n",
+                    "text": "Sixth form students acquire meaningful learning  experiences, because opportunities to deepen understanding from encounters  with employers and universities are not missed.",
                     "author": "Challenge Partners"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "\"Pastoral staff work very hard to improve students\u2019 attendance. They focus on  building a sustainable relationship between home and school.\"",
+                    "text": "Pastoral staff work very hard to improve students\u2019 attendance. They focus on  building a sustainable relationship between home and school.",
                     "author": "Challenge Partners"
                 },
                 {
                     "type": "quote",
-                    "bgcolor": "",
-                    "text": "\"Working with The UCL Academy community has been a privilege. Supporting students through mentoring and contributing to the Academy\u2019s ambitious and inspiring provision has been deeply rewarding on so many levels.\u2019\u2019 (Elizabeth Critchley - Critchley Scholars Programme)",
-                    "author": ""
+                    "bgcolor": "#64007e",
+                    "text": "Working with The UCL Academy community has been a privilege. Supporting students through mentoring and contributing to the Academy\u2019s ambitious and inspiring provision has been deeply rewarding on so many levels.",
+                    "author": "Elizabeth Critchley - Critchley Scholars Programme"
                 },
                 {
                     "type": "quote",
                     "bgcolor": "#93c467",
-                    "text": "\"Pupils feel safe at school.\"",
+                    "text": "Pupils feel safe at school.",
                     "author": "Ofsted"
                 }
             ],
@@ -16121,7 +16120,7 @@
             "qualifiedTeachersPercent": 95,
             "pupilAdultRatio": 12.7,
             "financialReserves": "\u00a3432,300",
-            "changeYearReserves": "11700"
+            "changeYearReserves": "\u00a311,700"
         },
         "curriculum": {
             "curriculumAim": "<p>At WHPS, we provide a broad and balanced curriculum that develops the individual child according to their age and ability. Our curriculum is designed to:</p>\n\n<ol>\n    <li>Ensure the children have a broad, balanced, and secure knowledge and understanding of the world.</li>\n    <li>Ensure high levels of competence in the core subjects of English and maths.</li>\n    <li>Teach our pupils to live well in a diverse world, as confident, responsible citizens.</li>\n    <li>Teach our pupils to learn well and to love learning.</li>\n    <li>Teach our pupils how to lead happy, healthy, and constructive lives, in which they can aspire and experience success.</li>\n</ol><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=OUR+CURRICULUM&pid=184\" target=\"_blank\" class=\"about__link\">Link to curriculum details</a></p>",
@@ -16137,12 +16136,12 @@
             "strengths": "temp"
         },
         "support": {
-            "childSafetyAndHappiness": "<p>At WHPS we are committed to providing a safe learning environment for the children that promotes their welfare and helps them to develop socially and emotionally so that they can make the most of their life chances. We do this by:</p>\n\n<ul>\n    <li>Providing pupils with opportunities to discuss issues and report problems affecting their safety and welfare</li>\n    <li>Following safe recruitment practices</li>\n    <li>Ensuring robust procedures for recognition and referral where there are welfare or child protection concerns</li>\n    <li>Monitoring and supporting pupils who are supported by child protection plans and contributing to the implementation of their plan</li>\n    <li>Raising awareness amongst staff of child protection issues and ensuring staff are equipped to deal with concerns</li>\n    <li>Teaching children to keep themselves safe and ensuring they know who to approach for help</li>\n    <li>Promoting partnership working with parents and professionals</li>\n</ul><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=SAFEGUARDING&pid=146\t\" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
+            "childSafetyAndHappiness": "<p>At WHPS we are committed to providing a safe learning environment for the children that promotes their welfare and helps them to develop socially and emotionally so that they can make the most of their life chances. We do this by:</p>\n\n<ul>\n    <li>Providing pupils with opportunities to discuss issues and report problems affecting their safety and welfare</li>\n    <li>Following safe recruitment practices</li>\n    <li>Ensuring robust procedures for recognition and referral where there are welfare or child protection concerns</li>\n    <li>Monitoring and supporting pupils who are supported by child protection plans and contributing to the implementation of their plan</li>\n    <li>Raising awareness amongst staff of child protection issues and ensuring staff are equipped to deal with concerns</li>\n    <li>Teaching children to keep themselves safe and ensuring they know who to approach for help</li>\n    <li>Promoting partnership working with parents and professionals</li>\n</ul><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=SAFEGUARDING&pid=146 \" target=\"_blank\" class=\"about__link\">Link to safeguarding policy</a></p>",
             "bullyingProtection": "<p>The WHPS community recognises that bullying, especially if left unaddressed, can have a devastating effect on individuals; it can create a barrier to learning and have serious consequences for mental well-being. By effectively preventing and tackling bullying, our school provides a safe, disciplined environment where pupils are able to learn and fulfil their potential.</p>\n\n<p>At WHPS, we use the Jenny Mosley model of Golden Rules and Circle Time as a whole-school approach to enhance self-esteem, positive behaviour, and relationships within the school and beyond. All the children and adults are involved, and we hope that families, too, adopt the same approach.</p><p><a href=https://www.westhampstead.camden.sch.uk/attachments/download.asp?file=1234&type=pdf target=\"_blank\" class=\"about__link\">Link to anti-bullying policy</a></p>",
-            "attendanceManagement": "<p>We want to ensure that all pupils receive a full-time education to maximise opportunities for them to realise their potential. We foster an environment that enables and encourages all members of the school community to strive for excellence and enjoyment in education. For our children to gain the greatest benefit from their education, it is vital that they attend regularly and punctually.</p>\n\n<p>At WHPS, our objectives are to develop an ethos that demonstrates to children, parents/carers, and the wider community the importance of good attendance and punctuality. Regular and punctual attendance is essential for effective learning, and children should be at school, on time, every day that the school is open, unless the reason for the absence is unavoidable.</p>\n\n<p>We have a dedicated 'School Home Liaison Officer' who works closely with our families to offer support and connect them with wider services in the borough.</p><p><a href=\"https://www.westhampstead.camden.sch.uk/attachments/download.asp?file=597\t\" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
+            "attendanceManagement": "<p>We want to ensure that all pupils receive a full-time education to maximise opportunities for them to realise their potential. We foster an environment that enables and encourages all members of the school community to strive for excellence and enjoyment in education. For our children to gain the greatest benefit from their education, it is vital that they attend regularly and punctually.</p>\n\n<p>At WHPS, our objectives are to develop an ethos that demonstrates to children, parents/carers, and the wider community the importance of good attendance and punctuality. Regular and punctual attendance is essential for effective learning, and children should be at school, on time, every day that the school is open, unless the reason for the absence is unavoidable.</p>\n\n<p>We have a dedicated 'School Home Liaison Officer' who works closely with our families to offer support and connect them with wider services in the borough.</p><p><a href=\"https://www.westhampstead.camden.sch.uk/attachments/download.asp?file=597 \" target=\"_blank\" class=\"about__link\">Link to attendance policy</a></p>"
         },
         "achievement": {
-            "academicChildSuccess": "<p>We are very proud of all our children\u2019s achievements, and in particular, the good progress they make while at West Hampstead Primary School. This is achieved through prioritising the continuous professional development of all our staff, no matter their level of experience or expertise. We have well-established, rigorous systems that ensure that all of our children achieve their maximum potential.</p>\n\n<p>Our children excel in the core subjects; however, as a school, we also make sure that we celebrate achievements in all areas. This may include great progress in PE, an exceptional piece of artwork, developing a real talent for music, or learning to care for others.</p><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=OUR+CURRICULUM&pid=184\t\" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
+            "academicChildSuccess": "<p>We are very proud of all our children\u2019s achievements, and in particular, the good progress they make while at West Hampstead Primary School. This is achieved through prioritising the continuous professional development of all our staff, no matter their level of experience or expertise. We have well-established, rigorous systems that ensure that all of our children achieve their maximum potential.</p>\n\n<p>Our children excel in the core subjects; however, as a school, we also make sure that we celebrate achievements in all areas. This may include great progress in PE, an exceptional piece of artwork, developing a real talent for music, or learning to care for others.</p><p><a href=\"https://www.westhampstead.camden.sch.uk/page/?title=OUR+CURRICULUM&pid=184 \" target=\"_blank\" class=\"about__link\">Link to teaching and learning policy</a></p>",
             "chartsPerform": [
                 {
                     "chartTitle": "% Reaching expected standard in reading, writing & maths at end of primary (2025/26 provisional):",
